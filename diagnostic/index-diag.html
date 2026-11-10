@@ -258,7 +258,7 @@
       </div>
       <div class="skill-box">
         <div class="skill-name" style="color: #D97706;"><i class="fa-solid fa-microphone"></i> Speaking Part 1</div>
-        <div class="skill-detail">2 câu hỏi phản xạ trực tiếp 45 giây (Speech-to-Text).</div>
+        <div class="skill-detail">4 câu hỏi phản xạ trực tiếp 45 giây (Speech-to-Text).</div>
       </div>
     </div>
 
@@ -268,12 +268,18 @@
     </div>
 
     <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
-      <div style="font-size: 13px; font-weight: 800; color: #64748B;">
-        ⏱️ Thời gian thi: <b>Đúng 45 phút</b> • Đo lường phản xạ nền tảng
+      <div style="display:flex; align-items:center; gap:8px;">
+        <span style="font-size: 13px; font-weight: 800; color: #475569;">Chọn Đề thi:</span>
+        <select id="selectTest1Set" style="padding:8px 12px; border:2px solid #86EFAC; border-radius:12px; font-weight:800; font-family:inherit; outline:none; background:#FFFFFF; color:#166534;">
+          <option value="1">Set 1 (Đề chuẩn)</option>
+          <option value="2">Set 2 (Đề luân phiên 2)</option>
+          <option value="3">Set 3 (Đề luân phiên 3)</option>
+        </select>
       </div>
-      <a href="runner-diag.html?testId=test_01" class="btn-3d btn-3d-red">
+
+      <button type="button" onclick="startAdaptiveTest('test_01', 'selectTest1Set')" class="btn-3d btn-3d-red">
         🚀 BẮT ĐẦU TEST 1 (45 PHÚT) &rarr;
-      </a>
+      </button>
     </div>
   </div>
 
@@ -324,12 +330,18 @@
     </div>
 
     <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
-      <div style="font-size: 13px; font-weight: 800; color: #64748B;">
-        ⏱️ Thời gian thi: <b>1 tiếng 40 phút</b> • Đề thi phân nhánh chuyên sâu
+      <div style="display:flex; align-items:center; gap:8px;">
+        <span style="font-size: 13px; font-weight: 800; color: #475569;">Chọn Đề thi:</span>
+        <select id="selectTest2Set" style="padding:8px 12px; border:2px solid #BAE6FD; border-radius:12px; font-weight:800; font-family:inherit; outline:none; background:#FFFFFF; color:#0369A1;">
+          <option value="1">Set 1 (Đề chuẩn)</option>
+          <option value="2">Set 2 (Đề luân phiên 2)</option>
+          <option value="3">Set 3 (Đề luân phiên 3)</option>
+        </select>
       </div>
-      <a href="runner-diag.html?testId=test_02" id="btnActionTest2" class="btn-3d btn-3d-blue">
+
+      <button type="button" onclick="startAdaptiveTest('test_02', 'selectTest2Set')" id="btnActionTest2" class="btn-3d btn-3d-blue">
         🚀 BẮT ĐẦU TEST 2 (100 PHÚT) &rarr;
-      </a>
+      </button>
     </div>
   </div>
 
@@ -380,12 +392,18 @@
     </div>
 
     <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
-      <div style="font-size: 13px; font-weight: 800; color: #64748B;">
-        ⏱️ Thời gian thi: <b>1 tiếng 45 phút</b> • Áp lực phòng thi thật
+      <div style="display:flex; align-items:center; gap:8px;">
+        <span style="font-size: 13px; font-weight: 800; color: #475569;">Chọn Đề thi:</span>
+        <select id="selectTest3Set" style="padding:8px 12px; border:2px solid #FCD34D; border-radius:12px; font-weight:800; font-family:inherit; outline:none; background:#FFFFFF; color:#92400E;">
+          <option value="1">Set 1 (Đề chuẩn)</option>
+          <option value="2">Set 2 (Đề luân phiên 2)</option>
+          <option value="3">Set 3 (Đề luân phiên 3)</option>
+        </select>
       </div>
-      <a href="runner-diag.html?testId=test_03" id="btnActionTest3" class="btn-3d btn-3d-gold">
+
+      <button type="button" onclick="startAdaptiveTest('test_03', 'selectTest3Set')" id="btnActionTest3" class="btn-3d btn-3d-gold">
         🚀 BẮT ĐẦU TEST 3 (105 PHÚT) &rarr;
-      </a>
+      </button>
     </div>
   </div>
 
@@ -395,10 +413,18 @@
   import { CONFIG } from '../js/config.js';
   import { stateManager } from '../js/state.js';
 
+  // Điều hướng Full Mock Test
   window.startFullMockTest = function() {
     const sel = document.getElementById('selectFullTestSet');
     const setVal = sel ? sel.value : '1';
     window.location.href = `runner-fulltest.html?set=${setVal}`;
+  };
+
+  // 🔴 ĐIỀU HƯỚNG LINH HOẠT THEO TỪNG SET CHO TEST 1, TEST 2, TEST 3
+  window.startAdaptiveTest = function(testId, selectId) {
+    const sel = document.getElementById(selectId);
+    const setVal = sel ? sel.value : '1';
+    window.location.href = `runner-diag.html?testId=${testId}&set=${setVal}`;
   };
 
   function initDiagnosticPortal() {
@@ -439,6 +465,7 @@
     const card2 = document.getElementById('cardTest2');
     const badge2 = document.getElementById('badgeLockTest2');
     const btn2 = document.getElementById('btnActionTest2');
+    const select2 = document.getElementById('selectTest2Set');
     const isTest2Unlocked = isAdmin || !!test1Record || localStorage.getItem('diag_unlocked_test2') === 'true';
 
     if (isTest2Unlocked) {
@@ -448,10 +475,12 @@
       badge2.style.color = '#166534';
       badge2.style.borderColor = '#86EFAC';
       btn2.className = 'btn-3d btn-3d-blue';
-      btn2.onclick = null;
+      btn2.onclick = () => window.startAdaptiveTest('test_02', 'selectTest2Set');
+      if (select2) select2.disabled = false;
     } else {
       card2.classList.add('is-locked');
       btn2.className = 'btn-3d btn-3d-disabled';
+      if (select2) select2.disabled = true;
       btn2.onclick = (e) => {
         e.preventDefault();
         alert("⚠️ Em cần hoàn thành bài Test 1 (45 phút) trước để hệ thống đo phản xạ và mở khóa Test 2 nhé!");
@@ -463,7 +492,21 @@
     const card3 = document.getElementById('cardTest3');
     const badge3 = document.getElementById('badgeLockTest3');
     const btn3 = document.getElementById('btnActionTest3');
+    const select3 = document.getElementById('selectTest3Set');
     const isTest3Unlocked = isAdmin || !!test2Record || localStorage.getItem('diag_unlocked_test3') === 'true';
+
+    // 5. Kiểm tra lịch sử Test 3
+    const test3Record = localHist.find(a => (a.testTitle && a.testTitle.includes('Test 3')) && a.moduleType === 'diagnostic');
+    if (test3Record) {
+      const pBox3 = document.getElementById('pastResultTest3');
+      const pText3 = document.getElementById('pastResultTest3Text');
+      const pLink3 = document.getElementById('pastResultTest3Link');
+      if (pBox3) {
+        pBox3.style.display = 'flex';
+        pText3.innerHTML = `✓ Em đã làm Test 3 lúc <b>${test3Record.timestamp}</b> • Điểm: <b>${test3Record.score}</b>`;
+        pLink3.href = `runner-diag.html?attemptId=${test3Record.id}`;
+      }
+    }
 
     if (isTest3Unlocked) {
       card3.classList.remove('is-locked');
@@ -472,10 +515,12 @@
       badge3.style.color = '#92400E';
       badge3.style.borderColor = '#FCD34D';
       btn3.className = 'btn-3d btn-3d-gold';
-      btn3.onclick = null;
+      btn3.onclick = () => window.startAdaptiveTest('test_03', 'selectTest3Set');
+      if (select3) select3.disabled = false;
     } else {
       card3.classList.add('is-locked');
       btn3.className = 'btn-3d btn-3d-disabled';
+      if (select3) select3.disabled = true;
       btn3.onclick = (e) => {
         e.preventDefault();
         alert("⚠️ Em cần hoàn thành bài Test 2 đạt yêu cầu để mở khóa bài Test 3 đỉnh cao nhé!");
