@@ -1,6 +1,7 @@
 /**
  * js/app.js - Điểm khởi động tập trung cho mọi bài Test
  * BẢN HOÀN THIỆN ĐẦY ĐỦ: TÍCH HỢP MODAL BÁO CÁO PHỤ HUYNH QUA ZALO (BÀI LẺ & CẢ NGÀY)
+ * ĐÃ TÍCH HỢP: TỰ ĐỘNG KÍCH HOẠT WIDGET BÁO CÁO LỖI HỌC SINH (MIC + DÁN ẢNH CTRL+V)
  */
 import { CONFIG } from './config.js';
 import { stateManager } from './state.js';
@@ -10,6 +11,9 @@ import { initResizer } from './resizer.js';
 import { initAudioTranscriptSync } from './audio-sync.js';
 import { askGemini } from './ai-assistant.js';
 import { TestEvaluator } from './evaluator.js';
+
+// NẠP TỰ ĐỘNG WIDGET BÁO CÁO LỖI HỌC SINH
+import './bug-system/bug-reporter-widget.js';
 
 // 1. Font Size & Theme
 let currentFontSize = parseInt(localStorage.getItem('ielts_font_size')) || 15;
@@ -209,7 +213,7 @@ function restoreReviewMode(attempt, timer, evaluator, isParentMode = false) {
     `;
   } else {
     // Banner Vàng cho Học sinh xem lại
-    banner.style.cssText = "background: #fef3c7; color: #92400e; border: 1.5px solid #f59e0b; padding: 10px 16px; font-weight: 700; font-size: 14px; text-align: center; border-radius: 8px; margin-bottom: 12px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;";
+    banner.style.cssText = "background: #fef3c7; color: #92400E; border: 1.5px solid #f59e0b; padding: 10px 16px; font-weight: 700; font-size: 14px; text-align: center; border-radius: 8px; margin-bottom: 12px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;";
     banner.innerHTML = `
       <span>📜 ĐANG XEM LẠI BÀI (${attempt.timestamp}) — Điểm số: <b>${attempt.score}</b> (Học viên: ${attempt.studentName})</span>
       <div style="display:flex; gap:8px;">
