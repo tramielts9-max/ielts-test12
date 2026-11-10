@@ -1,0 +1,523 @@
+/**
+ * js/bug-system/bug-system.css
+ * HỆ THỐNG GIAO DIỆN BÁO CÁO LỖI HỌC VIÊN & BẢNG ĐIỀU KHIỂN KANBAN ADMIN
+ * BẢN FULL HOÀN CHỈNH 100% - KHÔNG CẮT BỚT, TƯƠNG THÍCH MỌI THIẾT BỊ
+ */
+
+/* ==========================================================================
+   1. BONG BÓNG BÁO LỖI NỔI CỦA HỌC SINH (FLOATING BUG BUBBLE)
+   ========================================================================== */
+#bugReporterBubble {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 999990;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #8B1518;
+  color: #FFFFFF;
+  padding: 10px 16px;
+  border-radius: 999px;
+  box-shadow: 0 8px 24px rgba(139, 21, 24, 0.35), 0 3px 0 #5E0C0E;
+  cursor: pointer;
+  user-select: none;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  font-weight: 800;
+  font-size: 13px;
+  transition: all 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
+  border: 2px solid #FCD34D;
+}
+
+#bugReporterBubble:hover {
+  transform: translateY(-3px) scale(1.04);
+  box-shadow: 0 12px 28px rgba(139, 21, 24, 0.45), 0 4px 0 #5E0C0E;
+  background: #9F1239;
+}
+
+#bugReporterBubble:active {
+  transform: translateY(1px) scale(0.98);
+  box-shadow: 0 4px 12px rgba(139, 21, 24, 0.3);
+}
+
+#bugReporterBubble .bug-bubble-icon {
+  font-size: 18px;
+  animation: bugWiggle 3s infinite ease-in-out;
+}
+
+@keyframes bugWiggle {
+  0%, 100% { transform: rotate(0deg); }
+  10%, 30% { transform: rotate(-12deg); }
+  20%, 40% { transform: rotate(12deg); }
+  50% { transform: rotate(0deg); }
+}
+
+/* ==========================================================================
+   2. MODAL FORM BÁO LỖI DÀNH CHO HỌC SINH (STUDENT REPORT MODAL)
+   ========================================================================== */
+#bugReportModal {
+  position: fixed;
+  inset: 0;
+  z-index: 999999;
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+.bug-modal-card {
+  background: #FFFFFF;
+  border: 3px solid #E8E2D8;
+  border-bottom: 7px solid #D3CBC0;
+  border-radius: 24px;
+  max-width: 520px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+  padding: 24px 22px;
+  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.35);
+  position: relative;
+  box-sizing: border-box;
+  animation: bugModalPop 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes bugModalPop {
+  0% { opacity: 0; transform: scale(0.92) translateY(20px); }
+  100% { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+.bug-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 2px dashed #E2E8F0;
+}
+
+.bug-modal-title {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 900;
+  color: #8B1518;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.bug-modal-close-btn {
+  background: #F1F5F9;
+  border: none;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  font-weight: 900;
+  color: #64748B;
+  cursor: pointer;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+
+.bug-modal-close-btn:hover {
+  background: #E2E8F0;
+  color: #0F172A;
+}
+
+/* Các trường nhập liệu */
+.bug-form-group {
+  margin-bottom: 14px;
+}
+
+.bug-form-label {
+  display: block;
+  font-size: 12.5px;
+  font-weight: 800;
+  color: #334155;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+.bug-select,
+.bug-textarea,
+.bug-input {
+  width: 100%;
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 2px solid #CBD5E1;
+  font-family: inherit;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: #1E293B;
+  box-sizing: border-box;
+  background: #F8FAFC;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.bug-select:focus,
+.bug-textarea:focus,
+.bug-input:focus {
+  border-color: #8B1518;
+  box-shadow: 0 0 0 3px rgba(139, 21, 24, 0.12);
+  background: #FFFFFF;
+}
+
+.bug-textarea {
+  height: 95px;
+  resize: vertical;
+  line-height: 1.5;
+}
+
+/* Khung dán ảnh Ctrl+V hoặc Upload */
+.bug-paste-zone {
+  border: 2.5px dashed #94A3B8;
+  border-radius: 14px;
+  padding: 14px;
+  text-align: center;
+  background: #F1F5F9;
+  cursor: pointer;
+  transition: all 0.2s;
+  position: relative;
+}
+
+.bug-paste-zone:hover,
+.bug-paste-zone.drag-over {
+  border-color: #8B1518;
+  background: #FFF1F2;
+}
+
+.bug-paste-zone-text {
+  font-size: 12.5px;
+  font-weight: 700;
+  color: #475569;
+}
+
+.bug-preview-img-box {
+  position: relative;
+  margin-top: 10px;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.bug-preview-img {
+  max-width: 100%;
+  max-height: 160px;
+  border-radius: 10px;
+  border: 2px solid #CBD5E1;
+  object-fit: cover;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.bug-remove-img-btn {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background: #DC2626;
+  color: #FFFFFF;
+  border: 2px solid #FFFFFF;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  cursor: pointer;
+  font-weight: 900;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Nút ghi âm Mic động */
+.bug-audio-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+
+.bug-btn-record {
+  background: #FEF2F2;
+  color: #DC2626;
+  border: 2px solid #FECACA;
+  border-bottom: 4px solid #F87171;
+  padding: 8px 14px;
+  border-radius: 12px;
+  font-weight: 800;
+  font-size: 13px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.2s;
+}
+
+.bug-btn-record.recording {
+  background: #DC2626;
+  color: #FFFFFF;
+  border-color: #991B1B;
+  border-bottom-color: #7F1D1D;
+  animation: bugAudioPulse 1.2s infinite;
+}
+
+@keyframes bugAudioPulse {
+  0% { box-shadow: 0 0 0 0 rgba(220, 38, 38, 0.6); }
+  70% { box-shadow: 0 0 0 10px rgba(220, 38, 38, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(220, 38, 38, 0); }
+}
+
+.bug-audio-player-mini {
+  max-height: 36px;
+  outline: none;
+}
+
+/* Nút gửi hoàn tất */
+.bug-btn-submit {
+  width: 100%;
+  background: #8B1518;
+  color: #FFFFFF;
+  border: none;
+  border-bottom: 4px solid #5E0C0E;
+  padding: 12px;
+  border-radius: 14px;
+  font-weight: 900;
+  font-size: 14.5px;
+  cursor: pointer;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: all 0.2s;
+}
+
+.bug-btn-submit:hover {
+  background: #9F1239;
+  transform: translateY(-1px);
+}
+
+.bug-btn-submit:active {
+  transform: translateY(2px);
+  border-bottom-width: 1px;
+}
+
+.bug-btn-submit:disabled {
+  background: #94A3B8;
+  border-bottom-color: #64748B;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* ==========================================================================
+   3. BẢNG ĐIỀU KHIỂN QUẢN TRỊ ADMIN (ADMIN BUG KANBAN BOARD)
+   ========================================================================== */
+.bug-admin-container {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  color: #0F172A;
+  margin-top: 16px;
+}
+
+.bug-admin-top-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.bug-stat-card {
+  background: #FFFFFF;
+  border: 2px solid #E2E8F0;
+  border-radius: 16px;
+  padding: 14px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.03);
+}
+
+.bug-stat-num {
+  font-size: 26px;
+  font-weight: 900;
+}
+
+.bug-stat-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: #64748B;
+}
+
+/* Thanh công cụ lọc Admin */
+.bug-admin-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+
+.bug-kanban-board {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .bug-kanban-board {
+    grid-template-columns: 1fr;
+  }
+}
+
+.bug-kanban-column {
+  background: #F8FAFC;
+  border: 2px solid #E2E8F0;
+  border-radius: 18px;
+  padding: 14px;
+  min-height: 480px;
+  display: flex;
+  flex-direction: column;
+}
+
+.bug-column-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 10px;
+  margin-bottom: 12px;
+  border-bottom: 2px solid #E2E8F0;
+  font-weight: 900;
+  font-size: 14px;
+}
+
+.bug-column-badge {
+  background: #E2E8F0;
+  color: #334155;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.bug-card-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex: 1;
+}
+
+/* Thẻ lỗi đơn lẻ */
+.bug-card {
+  background: #FFFFFF;
+  border: 2px solid #E2E8F0;
+  border-radius: 14px;
+  padding: 12px 14px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.04);
+  cursor: grab;
+  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+  position: relative;
+}
+
+.bug-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  border-color: #CBD5E1;
+}
+
+.bug-card.is-dragging {
+  opacity: 0.5;
+  transform: scale(0.98);
+}
+
+.bug-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+
+.bug-tag-pill {
+  font-size: 11px;
+  font-weight: 800;
+  padding: 2px 7px;
+  border-radius: 6px;
+  text-transform: uppercase;
+}
+
+.bug-card-title {
+  font-size: 13.5px;
+  font-weight: 800;
+  color: #0F172A;
+  margin: 4px 0 6px 0;
+  line-height: 1.4;
+}
+
+.bug-card-desc {
+  font-size: 12.5px;
+  color: #475569;
+  line-height: 1.45;
+  margin-bottom: 8px;
+  word-break: break-word;
+}
+
+.bug-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 8px;
+  border-top: 1px dashed #E2E8F0;
+  font-size: 11.5px;
+  font-weight: 700;
+  color: #64748B;
+}
+
+.bug-card-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.bug-btn-action-icon {
+  background: #F1F5F9;
+  border: 1px solid #CBD5E1;
+  border-radius: 6px;
+  padding: 4px 6px;
+  cursor: pointer;
+  font-size: 12px;
+  transition: background 0.15s;
+}
+
+.bug-btn-action-icon:hover {
+  background: #E2E8F0;
+}
+
+/* ==========================================================================
+   4. LIGHTBOX XEM ẢNH CHỤP MÀN HÌNH FULL SIZE
+   ========================================================================== */
+#bugImageLightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 1000000;
+  background: rgba(0, 0, 0, 0.88);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  cursor: zoom-out;
+}
+
+#bugImageLightbox img {
+  max-width: 95vw;
+  max-height: 95vh;
+  border-radius: 12px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
+  border: 3px solid #FFFFFF;
+  object-fit: contain;
+}
