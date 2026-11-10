@@ -6,9 +6,12 @@
  * - Cơ chế đóng vai học sinh (Impersonation) xem sạch dữ liệu thực tế
  * - Kiểm tra quyền truy cập học tập (chặn học sinh lười BTVN)
  * - Tạm khóa cảnh cáo / Mở khóa 1-click đồng bộ tức thì lên Google Drive Cloud
+ * - ĐÃ TÍCH HỢP TAB 5: BÁO CÁO LỖI HỌC VIÊN + KANBAN BOARD + BADGE THÔNG BÁO SỐ ĐỎ
  */
 
 import { CONFIG } from '../../js/config.js';
+import { bugStorageEngine } from '../../js/bug-system/bug-storage.js';
+import { bugAdminKanban } from '../../js/bug-system/bug-admin-kanban.js';
 
 const CLOUD_SCRIPT_URL = CONFIG?.DRIVE_STORAGE_URL || "https://script.google.com/macros/s/AKfycbyNErQQFdciAQM0k9KUrACtpX7rxKkopjChYAC2Ubwj5MGzFOeekDEGs8C1n7P9cNR6vg/exec";
 
@@ -23,6 +26,10 @@ export class UIAdminGateManager {
     // contextUI là tham chiếu tới Gateway chính để gọi hàm render lại khi cần
     this.context = contextUI;
     this.studentLockCache = {};
+    this.unreadBugsCount = 0;
+    
+    // Tự động kiểm tra số lượng lỗi mới khi khởi động
+    this.refreshUnreadBugsCount();
   }
 
   // =========================================================================
@@ -229,13 +236,69 @@ export class UIAdminGateManager {
   }
 
   // =========================================================================
-  // 4. RENDER THANH ĐIỀU PHỐI ADMIN & THANH THÔNG BÁO NỔI IMPERSONATION
+  // 4. QUẢN LÝ BÁO CÁO LỖI HỌC VIÊN (TAB 5 & KANBAN MODAL)
+  // =========================================================================
+  async refreshUnreadBugsCount() {
+    try {
+      if (bugStorageEngine) {
+        this.unreadBugsCount = await bugStorageEngine.getUnresolvedCount();
+        const badgeEl = document.getElementById('adminBugBadgeCount');
+        if (badgeEl) {
+          badgeEl.innerText = this.unreadBugsCount;
+          badgeEl.style.display = this.unreadBugsCount > 0 ? 'inline-block' : 'none';
+        }
+      }
+    } catch (e) {}
+  }
+
+  openBugManagerModal() {
+    let modal = document.getElementById('adminBugManagerFullModal');
+    if (!modal) {
+      modal = document.createElement('div');
+      modal.id = 'adminBugManagerFullModal';
+      modal.style.cssText = "position:fixed; inset:0; z-index:9999998; background:rgba(15,23,42,0.85); backdrop-filter:blur(8px); display:flex; align-items:center; justify-content:center; padding:16px; font-family:'Plus Jakarta Sans', system-ui, sans-serif;";
+      
+      modal.innerHTML = `
+        <div style="background:#FFFFFF; border-radius:24px; max-width:1250px; width:100%; height:92vh; display:flex; flex-direction:column; box-shadow:0 25px 50px rgba(0,0,0,0.4); border:2px solid #E2E8F0; overflow:hidden;">
+          
+          <!-- MODAL HEADER -->
+          <div style="padding:16px 22px; background:#8B1518; color:#FFFFFF; display:flex; justify-content:space-between; align-items:center; border-bottom:3px solid #5E0C0E;">
+            <div style="display:flex; align-items:center; gap:10px;">
+              <span style="font-size:24px;">🐞</span>
+              <div>
+                <h3 style="margin:0; font-size:17px; font-weight:900;">BẢNG ĐIỀU KHIỂN BÁO CÁO LỖI & PHẢN HỒI TỪ HỌC VIÊN</h3>
+                <div style="font-size:12px; opacity:0.9;">Kéo thả thẻ lỗi &bull; Bấm nghe ghi âm &bull; Bấm ảnh xem bằng chứng &bull; Đánh dấu hoàn thành</div>
+              </div>
+            </div>
+
+            <button type="button" onclick="document.getElementById('adminBugManagerFullModal').style.display='none'" style="background:rgba(255,255,255,0.2); border:none; color:white; width:34px; height:34px; border-radius:50%; font-size:16px; font-weight:900; cursor:pointer;">✕</button>
+          </div>
+
+          <!-- MOUNT POINT CHO BẢNG KANBAN -->
+          <div id="adminBugDashboardMountPoint" style="flex:1; overflow-y:auto; padding:20px; background:#F8FAFC;"></div>
+
+        </div>
+      `;
+      document.body.appendChild(modal);
+    }
+
+    modal.style.display = 'flex';
+    if (bugAdminKanban) {
+      bugAdminKanban.renderAdminBugDashboard('adminBugDashboardMountPoint');
+    }
+  }
+
+  // =========================================================================
+  // 5. RENDER THANH ĐIỀU PHỐI ADMIN & THANH THÔNG BÁO NỔI IMPERSONATION
   // =========================================================================
   renderAdminControlBar() {
     if (!this.checkIsAdmin() && !this.isImpersonating()) return '';
 
     const currentTarget = this.context?.targetStudentEmail || 'Chính mình (Mặc định)';
     const isTargetLocked = this.context?.targetStudentEmail ? (this.studentLockCache[this.context.targetStudentEmail] === false) : false;
+
+    // Kích hoạt cập nhật số lượng lỗi mới ngầm
+    setTimeout(() => this.refreshUnreadBugsCount(), 200);
 
     return `
       <div style="background:#8B1518; color:white; border-radius:14px; padding:12px 18px; margin-bottom:18px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; box-shadow:0 3px 0 #5E0C0E;">
@@ -251,6 +314,13 @@ export class UIAdminGateManager {
         </div>
         
         <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+          
+          <!-- TAB 5: BÁO CÁO LỖI KÈM BADGE SỐ ĐỎ -->
+          <button type="button" onclick="window.curriculumUI.adminGateMgr.openBugManagerModal()" style="background:#FFFFFF; color:#8B1518; border:2px solid #FCD34D; padding:7px 14px; border-radius:8px; font-weight:900; font-size:12.5px; cursor:pointer; display:inline-flex; align-items:center; gap:6px; box-shadow:0 2px 6px rgba(0,0,0,0.2);" title="Mở bảng Kanban quản lý tất cả các lỗi học sinh vừa gửi">
+            <span>🐞 Báo Cáo Lỗi</span>
+            <span id="adminBugBadgeCount" style="background:#DC2626; color:white; padding:1px 7px; border-radius:999px; font-size:11px; font-weight:900; display:${this.unreadBugsCount > 0 ? 'inline-block' : 'none'};">${this.unreadBugsCount}</span>
+          </button>
+
           <input type="email" id="adminTargetEmailInput" placeholder="Nhập email học sinh..." value="${this.context?.targetStudentEmail || ''}" style="padding:7px 12px; border-radius:8px; border:none; font-size:13px; font-weight:700; width:210px; color:#1e293b;">
           
           <button type="button" onclick="window.curriculumUI.setTargetStudentEmail(document.getElementById('adminTargetEmailInput').value)" style="background:#FCD34D; color:#8B1518; border:none; padding:7px 12px; border-radius:8px; font-weight:900; font-size:12px; cursor:pointer;">
