@@ -1,7 +1,7 @@
 /**
  * js/theory-video-engine.js - HẠ TẦNG QUẢN LÝ VIDEO LÝ THUYẾT & CHIẾN THUẬT IELTS MASTER
- * Tích hợp 20 bài giảng Reading Cambridge thực tế của Thầy Phúc
- * Hỗ trợ Bộ lọc Dạng bài con (Sub-Category), Quản lý Category 2 chiều, Chuyển dạng bài đơn & hàng loạt
+ * TÍCH HỢP CHUYỂN ĐỔI THÀNH ĐỐT SỐNG LỘ TRÌNH (CURRICULUM NODES) KÈM CHỈ TIÊU 5 BÀI TẬP
+ * BẢN FULL ĐẦY ĐỦ 100% - BẢO TOÀN NGUYÊN VẸN MỌI TÍNH NĂNG CŨ VÀ TƯƠNG THÍCH HOÀN TOÀN
  */
 
 import { CONFIG } from './config.js';
@@ -27,12 +27,16 @@ const SKILL_PRIORITY = {
   'vocab': 12
 };
 
-// 20 BÀI GIẢNG READING CAMBRIDGE GỐC CỦA THẦY PHÚC
+// 19 BÀI GIẢNG READING CAMBRIDGE GỐC CỦA THẦY PHÚC (ĐÃ ĐƯỢC GÁN SẴN MÃ ĐỐT LỘ TRÌNH & CHỈ TIÊU 5 BÀI)
 const REAL_DEFAULT_VIDEOS = [
   {
     "id": "vid_1793938556045",
+    "roadmapNodeId": "S3_TH_READ_01",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "TRUE/FALSE/NOT GIVEN",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 1,
     "title": "GIẢI QUYẾT DẠNG TRUE/ FALSE/ NOT GIVEN 🟢✔️🔴✖️🟡❓ - Record chữa số 1 - Cam 20 Test 1 + 2",
     "youtubeUrl": "https://youtu.be/EqJJGQRQzlM?si=7ub6FMwVD-HhOdNN",
@@ -44,8 +48,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793944663879",
+    "roadmapNodeId": "S3_TH_READ_02",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "TRUE/FALSE/NOT GIVEN",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 2,
     "title": "GIẢI QUYẾT DẠNG TRUE/FALSE/NOT GIVEN 🟢✔️🔴✖️🟡❓ - Record chữa số 2 - Cam 20 Test 3 Part 1",
     "youtubeUrl": "https://youtu.be/ciiJ9Zl8e8A?si=lhJzZGTlGItNzaHo",
@@ -57,8 +65,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793945245900",
+    "roadmapNodeId": "S3_TH_READ_03",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "TRUE/FALSE/NOT GIVEN",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 3,
     "title": "GIẢI QUYẾT DẠNG TRUE/FALSE/NOT GIVEN 🟢✔️🔴✖️🟡❓ - Record chữa số 3 - Cam 20 Test 4 Part 1",
     "youtubeUrl": "https://youtu.be/KomJsbkfBTg?si=cQO7c5-cKnRRfZkm",
@@ -70,8 +82,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793954925618",
+    "roadmapNodeId": "S3_TH_READ_04",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "TRUE/FALSE/NOT GIVEN",
+    "targetExerciseTag": "READ_CAM19",
+    "targetExerciseCount": 5,
     "order": 4,
     "title": "GIẢI QUYẾT DẠNG TRUE/FALSE/NOT GIVEN 🟢✔️🔴✖️🟡❓ - Record chữa số 4 - Cam 19 Test 1 Part 1",
     "youtubeUrl": "https://youtu.be/nx4mTf7BfBE?si=kAEFXdAqhe_TyL8e",
@@ -83,8 +99,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793954982173",
+    "roadmapNodeId": "S3_TH_READ_05",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "TRUE/FALSE/NOT GIVEN",
+    "targetExerciseTag": "READ_CAM19",
+    "targetExerciseCount": 5,
     "order": 5,
     "title": "GIẢI QUYẾT DẠNG TRUE/FALSE/NOT GIVEN 🟢✔️🔴✖️🟡❓ - Record chữa số 5 - Cam 19 Test 2 Part 1",
     "youtubeUrl": "https://youtu.be/uGBo29zh9Nk?si=hC4yMp9tgg8O6X2r",
@@ -96,8 +116,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793955393465",
+    "roadmapNodeId": "S3_TH_READ_06",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "GAP FILL",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 6,
     "title": "GIẢI QUYẾT DẠNG GAP FILL ▢▢▢✏️ - Record chữa Part 1 Cam 20 Test 1 + 2",
     "youtubeUrl": "https://youtu.be/6_TnwvW9r8Y?si=C28_ssiVKemx0yTW",
@@ -109,8 +133,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793955492405",
+    "roadmapNodeId": "S3_TH_READ_07",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "GAP FILL",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 7,
     "title": "GIẢI QUYẾT DẠNG GAP FILL ▢▢▢✏️ Record chữa số 2 Part 1 Cam 20 Test 3",
     "youtubeUrl": "https://youtu.be/_0hAIuiU1uI?si=QQH6452qCSobcTpP",
@@ -122,8 +150,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793955555973",
+    "roadmapNodeId": "S3_TH_READ_08",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "GAP FILL",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 8,
     "title": "GIẢI QUYẾT DẠNG GAP FILL ▢▢▢✏️ - Record chữa số 3 - Part 1 Cam 20 Test 4",
     "youtubeUrl": "https://youtu.be/eylyuYVQ1Ys?si=ZJZag-psCPR5GEzP",
@@ -135,8 +167,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793955933167",
+    "roadmapNodeId": "S3_TH_READ_09",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "GAP FILL",
+    "targetExerciseTag": "READ_CAM19",
+    "targetExerciseCount": 5,
     "order": 9,
     "title": "GIẢI QUYẾT DẠNG GAP FILL ▢▢▢✏️ - Record chữa số 4 - Part 1 Test 1 Cam 19",
     "youtubeUrl": "https://youtu.be/Nc4F4V0BzNo?si=k3c7rDUkvsV_xbZK",
@@ -148,8 +184,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793959572483",
+    "roadmapNodeId": "S3_TH_READ_10",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "MATCHING INFORMATION",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 10,
     "title": "GIẢI QUYẾT DẠNG MATCHING INFORMATION🩸🩸🩸 - Record chữa Part 2 Cam 20 Test 1",
     "youtubeUrl": "https://youtu.be/9Xniwwk6BFM?si=syHvzbeDBkQSmlpk",
@@ -161,8 +201,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793959680915",
+    "roadmapNodeId": "S3_TH_READ_11",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "MATCHING INFORMATION",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 11,
     "title": "GIẢI QUYẾT DẠNG MATCHING INFORMATION 🕵️🕵️‍♂️🕵️‍♀️ - Record số 2 chữa Cam 20 Test 2 + 3 part 2",
     "youtubeUrl": "https://youtu.be/6q4JFIsxIcU?si=zufwZTf7yHG5K04-",
@@ -174,8 +218,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793959932537",
+    "roadmapNodeId": "S3_TH_READ_12",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "MULTIPLE CHOICES 1 ANSWER",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 12,
     "title": "GIẢI QUYẾT DẠNG MULTIPLE CHOICES 1 ANSWER 🟥💊 vs 🟦💊 - Record chữa cam 20 test 1 part 3",
     "youtubeUrl": "https://youtu.be/h-SH64hPfAg?si=Vl3iU06e1kknVCRq",
@@ -187,8 +235,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793960005730",
+    "roadmapNodeId": "S3_TH_READ_13",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "MULTIPLE CHOICES 1 ANSWER",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 13,
     "title": "GIẢI QUYẾT DẠNG MULTIPLE CHOICES 1 ANSWER Ⓐ Ⓑ Ⓒ Ⓓ - Record chữa cam 20 test 2 part 3",
     "youtubeUrl": "https://youtu.be/SHVcagazics?si=-bPHvAN6Vaxuynix",
@@ -200,8 +252,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793963228573",
+    "roadmapNodeId": "S3_TH_READ_14",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "MULTIPLE CHOICES 1 ANSWER",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 14,
     "title": "GIẢI QUYẾT DẠNG MULTIPLE CHOICES 1 ANSWER Ⓐ Ⓑ Ⓒ Ⓓ - Record chữa cam 20 test 3 part 3",
     "youtubeUrl": "https://youtu.be/Gzwa4HO5_Ys?si=VQZbwqO-gN4Bc5RV",
@@ -213,8 +269,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793963297866",
+    "roadmapNodeId": "S3_TH_READ_15",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "MULTIPLE CHOICES 1 ANSWER",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 15,
     "title": "GIẢI QUYẾT DẠNG MULTIPLE CHOICES 1 ANSWER 🟥💊 vs 🟦💊 - Record chữa cam 20 test 1 part 3",
     "youtubeUrl": "https://youtu.be/h-SH64hPfAg?si=Ld-9Yw3kaOeXN3UB",
@@ -226,8 +286,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793963400996",
+    "roadmapNodeId": "S3_TH_READ_16",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "MULTIPLE CHOICES 2 ANSWERS",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 16,
     "title": "GIẢI QUYẾT DẠNG MULTIPLE CHOICES 2 ANSWERS ⓵➋➌⓸⓹- Record số 1 chữa Cam 20 Test 2 Part 2",
     "youtubeUrl": "https://youtu.be/IjVxij7imJ4?si=945yuTYVk358m2aU",
@@ -239,8 +303,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793963520525",
+    "roadmapNodeId": "S3_TH_READ_17",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "MATCHING NAMES",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 17,
     "title": "GIẢI QUYẾT DẠNG MATCHING NAMES 🧠🧠🧠 - Record chữa Cam 20 Test 3 Part 3",
     "youtubeUrl": "https://youtu.be/gReP8iN26FU?si=uzF9y232ve18sB4i",
@@ -252,8 +320,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793963587858",
+    "roadmapNodeId": "S3_TH_READ_18",
+    "stage": "S3",
     "skillKey": "reading",
     "category": "MATCHING NAMES",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 18,
     "title": "GIẢI QUYẾT DẠNG MATCHING NAMES 🧠🧠🧠 - Record chữa Cam 20 Test 1 Part 2",
     "youtubeUrl": "https://youtu.be/goilQ23az2g?si=J3TPKCfJ29NtrqdK",
@@ -265,8 +337,12 @@ const REAL_DEFAULT_VIDEOS = [
   },
   {
     "id": "vid_1793964222799",
+    "roadmapNodeId": "S4_TH_READ_19",
+    "stage": "S4",
     "skillKey": "reading",
     "category": "YES/NO/NOT GIVEN",
+    "targetExerciseTag": "READ_CAM20",
+    "targetExerciseCount": 5,
     "order": 19,
     "title": "GIẢI QUYẾT DẠNG YES/NO/NOT GIVEN 🟩🟥🟨 ( KHÓ, PHÂN LOẠI) - Record chữa Part 3 Test 1 Cam 20",
     "youtubeUrl": "https://youtu.be/_QKopM5Mfxk?si=liawvLmnz3FtYvwQ",
@@ -315,6 +391,10 @@ class TheoryVideoEngine {
         if (Array.isArray(parsed) && parsed.length > 0) {
           return parsed.map(v => ({
             ...v,
+            roadmapNodeId: v.roadmapNodeId || this.generateDefaultNodeId(v),
+            stage: v.stage || this.inferDefaultStage(v.skillKey),
+            targetExerciseCount: v.targetExerciseCount || 5,
+            targetExerciseTag: v.targetExerciseTag || v.category || '',
             category: this.normalizeCategory(v.category),
             isPublished: v.isPublished !== false
           }));
@@ -334,6 +414,21 @@ class TheoryVideoEngine {
     } catch (e) {
       console.error("❌ [TheoryEngine] Lỗi ghi LocalStorage:", e);
     }
+  }
+
+  // Tự sinh mã Đốt Lộ trình nếu người dùng không gõ mã
+  generateDefaultNodeId(v) {
+    const stage = v.stage || this.inferDefaultStage(v.skillKey);
+    const skill = (v.skillKey || 'theory').substring(0, 4).toUpperCase();
+    const orderStr = String(v.order || 1).padStart(2, '0');
+    return `${stage}_TH_${skill}_${orderStr}`;
+  }
+
+  inferDefaultStage(skillKey = '') {
+    const k = (skillKey || '').toLowerCase();
+    if (k === 'grammar' || k.includes('pre_')) return 'S1';
+    if (k === 'reading' || k === 'listening') return 'S3';
+    return 'S4';
   }
 
   extractYoutubeId(url) {
@@ -532,19 +627,27 @@ class TheoryVideoEngine {
     return v.isPublished;
   }
 
+  // LƯU BÀI GIẢNG MỚI HOẶC CẬP NHẬT (HỖ TRỢ MÃ ĐỐT VÀ GÁN 5 BÀI TẬP)
   async saveVideo(videoData) {
     const youtubeId = this.extractYoutubeId(videoData.youtubeUrl);
     if (!youtubeId) throw new Error("Đường dẫn YouTube không hợp lệ!");
 
+    const stage = videoData.stage || this.inferDefaultStage(videoData.skillKey);
+    const autoNodeId = this.generateDefaultNodeId({ ...videoData, stage });
+
     const payload = {
       id: videoData.id || `vid_${Date.now()}`,
+      roadmapNodeId: (videoData.roadmapNodeId || autoNodeId).trim().toUpperCase(),
+      stage: stage,
       skillKey: videoData.skillKey || 'reading',
       category: this.normalizeCategory(videoData.category || 'CHUNG'),
+      targetExerciseTag: (videoData.targetExerciseTag || videoData.category || '').trim(),
+      targetExerciseCount: parseInt(videoData.targetExerciseCount) || 5,
       order: parseInt(videoData.order) || (this.videos.length + 1),
       title: (videoData.title || 'Bài giảng lý thuyết').trim(),
       youtubeUrl: videoData.youtubeUrl.trim(),
       youtubeId: youtubeId,
-      duration: (videoData.duration || 'N/A').trim(),
+      duration: (videoData.duration || '15:00').trim(),
       description: (videoData.description || '').trim(),
       isPublished: videoData.isPublished !== false,
       updatedAt: new Date().toISOString()
@@ -677,8 +780,55 @@ class TheoryVideoEngine {
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
   }
+
+  // =========================================================================
+  // CẦU NỐI VÀNG: BIẾN TOÀN BỘ VIDEO THÀNH ĐỐT SỐNG LỘ TRÌNH (CURRICULUM NODES)
+  // TỰ ĐỘNG CHUI VÀO BẢNG TỔNG 858 BÀI TẬP VÀ GIAO ĐỦ 5 BÀI TẬP KÈM THEO
+  // =========================================================================
+  getCurriculumTheoryNodes() {
+    const publishedVideos = this.videos.filter(v => v.isPublished !== false);
+    return publishedVideos.map(v => {
+      // Phân tích thời lượng ra số phút (mặc định 15 phút nếu lỗi)
+      let parsedMins = 15;
+      if (v.duration && v.duration.includes(':')) {
+        const parts = v.duration.split(':');
+        const m = parseInt(parts[0], 10) || 15;
+        parsedMins = Math.max(5, m);
+      }
+
+      const domain = (v.skillKey || 'reading').toUpperCase();
+      const nodeId = (v.roadmapNodeId || this.generateDefaultNodeId(v)).trim().toUpperCase();
+
+      return {
+        id: nodeId,
+        stage: v.stage || this.inferDefaultStage(v.skillKey),
+        domain: domain,
+        type: "THEORY",
+        title: `🎬 [LÝ THUYẾT] ${v.title}`,
+        url: `theory-studio.html?id=${v.id}`,
+        duration: {
+          fast: Math.round(parsedMins * 0.8),
+          normal: parsedMins,
+          slow: Math.round(parsedMins * 1.3)
+        },
+        coachHours: 0,
+        tags: [
+          v.category,
+          v.targetExerciseTag || v.category,
+          `SKILL_${domain}`,
+          "THEORY_VIDEO_NODE"
+        ],
+        benefit: v.description || `Nắm vững toàn bộ chiến thuật, bản chất và bẫy đề thi dạng bài ${v.category} từ Thầy Phúc.`,
+        isTheoryVideo: true,
+        videoId: v.id,
+        youtubeId: v.youtubeId,
+        youtubeUrl: v.youtubeUrl,
+        targetExerciseCount: v.targetExerciseCount || 5,
+        targetExerciseTag: v.targetExerciseTag || v.category
+      };
+    });
+  }
 }
 
 export const theoryVideoEngine = new TheoryVideoEngine();
 window.theoryVideoEngine = theoryVideoEngine;
- 
