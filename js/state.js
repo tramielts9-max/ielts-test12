@@ -10,26 +10,40 @@ export class StateManager {
   }
 
   initTestKey() {
-    const params = new URLSearchParams(window.location.search);
-    const testId = params.get('test');
-    if (testId) {
-      this.testKey = 'ielts_state_' + testId.replace(/\.json$/i, '');
-    } else {
-      const pageName = window.location.pathname.split('/').pop() || 'default_test';
-      this.testKey = 'ielts_state_' + pageName;
+    try {
+      const params = new URLSearchParams(window.location.search);
+      const testId = params.get('test');
+      const skill = (params.get('skill') || '').trim().toUpperCase();
+      const skillSuffix = skill ? `_skill_${skill}` : '';
+      if (testId) {
+        this.testKey = 'ielts_state_' + testId.replace(/\.json$/i, '') + skillSuffix;
+      } else {
+        const pageName = window.location.pathname.split('/').pop() || 'default_test';
+        this.testKey = 'ielts_state_' + pageName + skillSuffix;
+      }
+    } catch (e) {
+      this.testKey = 'ielts_state_default_test';
     }
   }
 
   getUser() {
-    return {
-      name: localStorage.getItem(CONFIG.STORAGE_KEYS.STUDENT_NAME) || '',
-      email: (localStorage.getItem(CONFIG.STORAGE_KEYS.STUDENT_EMAIL) || '').trim().toLowerCase()
-    };
+    try {
+      return {
+        name: localStorage.getItem(CONFIG.STORAGE_KEYS.STUDENT_NAME) || '',
+        email: (localStorage.getItem(CONFIG.STORAGE_KEYS.STUDENT_EMAIL) || '').trim().toLowerCase()
+      };
+    } catch (e) {
+      return { name: '', email: '' };
+    }
   }
 
   saveUser(name, email) {
-    if (name) localStorage.setItem(CONFIG.STORAGE_KEYS.STUDENT_NAME, name.trim());
-    if (email) localStorage.setItem(CONFIG.STORAGE_KEYS.STUDENT_EMAIL, email.trim().toLowerCase());
+    try {
+      if (name) localStorage.setItem(CONFIG.STORAGE_KEYS.STUDENT_NAME, name.trim());
+      if (email) localStorage.setItem(CONFIG.STORAGE_KEYS.STUDENT_EMAIL, email.trim().toLowerCase());
+    } catch (e) {
+      console.warn("Không thể lưu thông tin học viên:", e);
+    }
   }
 
   saveTestProgress(data) {
@@ -51,7 +65,9 @@ export class StateManager {
   }
 
   clearProgress() {
-    localStorage.removeItem(this.testKey);
+    try {
+      localStorage.removeItem(this.testKey);
+    } catch (e) {}
   }
 
   // =========================================================================
@@ -182,8 +198,10 @@ export class StateManager {
   }
 
   deleteErrorNote(noteId) {
-    const list = this.getErrorNotes().filter(n => n.id !== noteId);
-    localStorage.setItem(CONFIG.STORAGE_KEYS.ERROR_NOTEBOOK, JSON.stringify(list));
+    try {
+      const list = this.getErrorNotes().filter(n => n.id !== noteId);
+      localStorage.setItem(CONFIG.STORAGE_KEYS.ERROR_NOTEBOOK, JSON.stringify(list));
+    } catch (e) {}
   }
 }
 
