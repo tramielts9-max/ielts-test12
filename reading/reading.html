@@ -225,7 +225,7 @@
 <div class="container-rd">
   <div class="reading-hero">
     <h1>PHÒNG LUYỆN THI IELTS READING</h1>
-    <p>Trọn bộ Cambridge 17-21 & IELTS Recent Actual Tests (Vol 8 đến Vol 1) • Chấm điểm & phân tích tức thì</p>
+    <p>Trọn bộ Cambridge 17-21, Đề Vol 1-8, Kho Bài Sưu Tầm (101–320) & Luyện Theo Kỹ Năng P1/P2/P3 • Chấm điểm & phân tích tức thì</p>
   </div>
 
   <div class="top-nav-bar">
@@ -235,207 +235,39 @@
     <span id="userStatusTag" style="font-size: 13.5px; color: var(--text-muted); font-weight: 800;"></span>
   </div>
 
-  <div class="series-tabs-container">
-    <div class="tabs-bar">
-      <span class="tab-label" style="color: #8B1518;">Cambridge IELTS:</span>
-      <button type="button" class="tab-btn active-cam" data-series="cam" data-val="21" onclick="switchSeries('cam', 21)">Cam 21</button>
-      <button type="button" class="tab-btn" data-series="cam" data-val="20" onclick="switchSeries('cam', 20)">Cam 20</button>
-      <button type="button" class="tab-btn" data-series="cam" data-val="19" onclick="switchSeries('cam', 19)">Cam 19</button>
-      <button type="button" class="tab-btn" data-series="cam" data-val="18" onclick="switchSeries('cam', 18)">Cam 18</button>
-      <button type="button" class="tab-btn" data-series="cam" data-val="17" onclick="switchSeries('cam', 17)">Cam 17</button>
-    </div>
-
-    <div class="tabs-bar">
-      <span class="tab-label" style="color: #4338CA;">Đề Vol (1 - 8):</span>
-      <button type="button" class="tab-btn" data-series="vol" data-val="8" onclick="switchSeries('vol', 8)">Vol 8</button>
-      <button type="button" class="tab-btn" data-series="vol" data-val="7" onclick="switchSeries('vol', 7)">Vol 7</button>
-      <button type="button" class="tab-btn" data-series="vol" data-val="6" onclick="switchSeries('vol', 6)">Vol 6</button>
-      <button type="button" class="tab-btn" data-series="vol" data-val="5" onclick="switchSeries('vol', 5)">Vol 5</button>
-      <button type="button" class="tab-btn" data-series="vol" data-val="4" onclick="switchSeries('vol', 4)">Vol 4</button>
-      <button type="button" class="tab-btn" data-series="vol" data-val="3" onclick="switchSeries('vol', 3)">Vol 3</button>
-      <button type="button" class="tab-btn" data-series="vol" data-val="2" onclick="switchSeries('vol', 2)">Vol 2</button>
-      <button type="button" class="tab-btn" data-series="vol" data-val="1" onclick="switchSeries('vol', 1)">Vol 1</button>
-    </div>
-  </div>
+  <div class="series-tabs-container" id="seriesTabsContainer"></div>
 
   <div id="readingCatalogContainer"></div>
 </div>
 
 <script type="module">
   import { stateManager } from '../js/state.js';
-  import { renderTagsHtml } from '../js/taxonomy-registry.js';
-
-  const CAM_DATA = [
-    {
-      cam: 21,
-      tests: [
-        { testNum: 1, passages: [{ p: 1, title: "The Davies Sisters", desc: "Notes Completion, True/False/Not Given" }, { p: 2, title: "Why we need silence", desc: "Matching Information, Summary Completion" }, { p: 3, title: "The World of Sugar", desc: "Multiple Choice, Yes/No/Not Given" }] },
-        { testNum: 2, passages: [{ p: 1, title: "Do animals dream?", desc: "True/False/Not Given, Flow-chart" }, { p: 2, title: "Mapungubwe", desc: "Matching Headings, Sentence Completion" }, { p: 3, title: "Artificial Intelligence", desc: "Multiple Choice, Summary Completion" }] },
-        { testNum: 3, passages: [{ p: 1, title: "Saving the saiga", desc: "Notes Completion, True/False/Not Given" }, { p: 2, title: "Getting around Dar es Salaam", desc: "True/False/Not Given, Notes Completion" }, { p: 3, title: "Rethinking the Past", desc: "Multiple Choice, Sentence Endings, Yes/No/Not Given" }] },
-        { testNum: 4, passages: [{ p: 1, title: "Water Hyacinth in Kenya", desc: "True/False/Not Given, Flow-chart, Notes" }, { p: 2, title: "Multilingualism in India", desc: "Summary Completion, Yes/No/Not Given, Multiple Choice" }, { p: 3, title: "The Globemakers", desc: "Summary Completion, Yes/No/Not Given, Multiple Choice" }] }
-      ]
-    },
-    {
-      cam: 20,
-      tests: [
-        { testNum: 1, passages: [{ p: 1, title: "The kākāpō", desc: "Notes Completion, True/False/Not Given" }, { p: 2, title: "Bringing elms to Britain", desc: "Matching Information, Summary Completion" }, { p: 3, title: "How stress affects our judgement", desc: "Multiple Choice, Yes/No/Not Given" }] },
-        { testNum: 2, passages: [{ p: 1, title: "Manatees", desc: "True/False/Not Given, Diagram Labelling" }, { p: 2, title: "Procrastination", desc: "Matching Headings, Sentence Completion" }, { p: 3, title: "Invasion of the Robot Umpires", desc: "Multiple Choice, Summary Completion" }] },
-        { testNum: 3, passages: [{ p: 1, title: "Frozen Food", desc: "Notes Completion, True/False/Not Given" }, { p: 2, title: "Can the planet's coral reefs be saved?", desc: "Summary Completion, Multiple Choice" }, { p: 3, title: "Robots and us", desc: "Matching Features, Yes/No/Not Given" }] },
-        { testNum: 4, passages: [{ p: 1, title: "Georgia O'Keeffe", desc: "True/False/Not Given, Flow-chart, Notes" }, { p: 2, title: "Adapting to the effects of climate change", desc: "Matching Information, Notes Completion" }, { p: 3, title: "A new role for livestock guard dogs", desc: "Multiple Choice, Summary Completion" }] }
-      ]
-    },
-    {
-      cam: 19,
-      tests: [
-        { testNum: 1, passages: [{ p: 1, title: "How tennis rackets have changed", desc: "Notes Completion, True/False/Not Given" }, { p: 2, title: "The pirates of the ancient Mediterranean", desc: "Summary Completion, Matching Features" }, { p: 3, title: "The persistence and peril of misinformation", desc: "Multiple Choice, Yes/No/Not Given" }] },
-        { testNum: 2, passages: [{ p: 1, title: "The Industrial Revolution in Britain", desc: "True/False/Not Given, Table Completion" }, { p: 2, title: "Athletes and stress", desc: "Matching Headings, Summary Completion" }, { p: 3, title: "The 19th-century railway mania", desc: "Multiple Choice, Yes/No/Not Given" }] },
-        { testNum: 3, passages: [{ p: 1, title: "Archaeologists discover evidence of prehistoric island settlers", desc: "Notes Completion, True/False/Not Given" }, { p: 2, title: "The global importance of wetlands", desc: "Matching Information, Sentence Completion" }, { p: 3, title: "Is the era of artificial speech translation upon us?", desc: "Multiple Choice, Yes/No/Not Given" }] },
-        { testNum: 4, passages: [{ p: 1, title: "The impact of climate change on butterflies in Britain", desc: "True/False/Not Given, Flow-chart" }, { p: 2, title: "Deep-sea mining", desc: "Summary Completion, Multiple Choice" }, { p: 3, title: "How playing games shapes human thinking", desc: "Matching Features, Yes/No/Not Given" }] }
-      ]
-    },
-    {
-      cam: 18,
-      tests: [
-        { testNum: 1, passages: [{ p: 1, title: "Urban farming", desc: "Notes Completion, True/False/Not Given" }, { p: 2, title: "Forest management in Pennsylvania, USA", desc: "Matching Information, Summary Completion" }, { p: 3, title: "Conquering Earth's space junk problem", desc: "Multiple Choice, Yes/No/Not Given" }] },
-        { testNum: 2, passages: [{ p: 1, title: "Stonehenge", desc: "True/False/Not Given, Table Completion" }, { p: 2, title: "Living with artificial intelligence", desc: "Matching Headings, Sentence Completion" }, { p: 3, title: "An ideal city", desc: "Multiple Choice, Summary Completion" }] },
-        { testNum: 3, passages: [{ p: 1, title: "Materials to take us beyond concrete", desc: "Notes Completion, True/False/Not Given" }, { p: 2, title: "The thylacine", desc: "Summary Completion, Multiple Choice" }, { p: 3, title: "Plant 'know-how'", desc: "Matching Features, Yes/No/Not Given" }] },
-        { testNum: 4, passages: [{ p: 1, title: "Green roofs", desc: "True/False/Not Given, Diagram Labelling" }, { p: 2, title: "The spread of human populations", desc: "Matching Information, Notes Completion" }, { p: 3, title: "The value of handwriting", desc: "Multiple Choice, Summary Completion" }] }
-      ]
-    },
-    {
-      cam: 17,
-      tests: [
-        { testNum: 1, passages: [{ p: 1, title: "The development of the London Underground railway", desc: "Notes Completion, True/False/Not Given" }, { p: 2, title: "Stadiums: past, present and future", desc: "Matching Information, Summary Completion" }, { p: 3, title: "To catch a king", desc: "Multiple Choice, Yes/No/Not Given" }] },
-        { testNum: 2, passages: [{ p: 1, title: "The Dead Sea Scrolls", desc: "True/False/Not Given, Table Completion" }, { p: 2, title: "A second attempt at domesticating the tomato", desc: "Matching Headings, Sentence Completion" }, { p: 3, title: "The case for the minimum wage", desc: "Multiple Choice, Summary Completion" }] },
-        { testNum: 3, passages: [{ p: 1, title: "The thylacine", desc: "Notes Completion, True/False/Not Given" }, { p: 2, title: "Palm oil", desc: "Summary Completion, Multiple Choice" }, { p: 3, title: "Building the Skyline: Manhattan's Skyscrapers", desc: "Matching Features, Yes/No/Not Given" }] },
-        { testNum: 4, passages: [{ p: 1, title: "Bats to the rescue", desc: "True/False/Not Given, Flow-chart, Notes" }, { p: 2, title: "Does education fuel economic growth?", desc: "Matching Information, Notes Completion" }, { p: 3, title: "Timur Gareyev – blindfold chess champion", desc: "Multiple Choice, Summary Completion" }] }
-      ]
-    }
-  ];
-
-  let currentSeries = 'cam';
-  let currentVal = 21;
+  import { initReadingCatalogEvents, renderReadingCatalog } from './js-r/catalog-renderer.js';
+  import { initSubsystemAdminEditor } from './js-r/subsystem-admin-editor.js';
 
   try {
     const user = stateManager.getUser();
-    if (user && user.email) {
-      document.getElementById('userStatusTag').innerText = `Học viên: ${user.name || user.email}`;
+    const tagEl = document.getElementById('userStatusTag');
+    if (tagEl && user && user.email) {
+      tagEl.innerText = `Học viên: ${user.name || user.email}`;
     }
-  } catch(e) {}
+  } catch (e) {}
 
-  function getCompletedRecord(keyString, titleString) {
+  async function bootReadingCatalog() {
     try {
-      const list = JSON.parse(localStorage.getItem('ielts_local_history') || '[]');
-      return list.find(item => {
-        const matchUrl = item.pageUrl && keyString && item.pageUrl.includes(keyString);
-        const matchTitle = item.testTitle && titleString && item.testTitle.toLowerCase().includes(titleString.toLowerCase());
-        return matchUrl || matchTitle;
-      });
-    } catch(e) {
-      return null;
+      initReadingCatalogEvents();
+      await renderReadingCatalog();
+      initSubsystemAdminEditor();
+    } catch (err) {
+      console.error('Lỗi khởi động danh mục Reading:', err);
+      const box = document.getElementById('readingCatalogContainer');
+      if (box) {
+        box.innerHTML = '<div class="tabs-bar" style="color:#DC2626;">⚠️ Không thể tải danh mục bài đọc. Vui lòng tải lại trang (F5).</div>';
+      }
     }
   }
 
-  window.switchSeries = (series, val) => {
-    currentSeries = series;
-    currentVal = val;
-
-    document.querySelectorAll('.tab-btn').forEach(btn => {
-      btn.classList.remove('active-cam', 'active-vol');
-      if (btn.dataset.series === series && parseInt(btn.dataset.val) === val) {
-        btn.classList.add(series === 'cam' ? 'active-cam' : 'active-vol');
-      }
-    });
-
-    renderUI();
-  };
-
-  function renderUI() {
-    const container = document.getElementById('readingCatalogContainer');
-    let html = '';
-
-    if (currentSeries === 'cam') {
-      const camItem = CAM_DATA.find(item => item.cam === currentVal);
-      if (!camItem) return;
-
-      camItem.tests.forEach(test => {
-        html += `
-          <div class="test-heading">
-            Cambridge IELTS ${camItem.cam} - Academic Reading Test ${test.testNum}
-          </div>
-          <div class="test-grid">
-        `;
-        test.passages.forEach(psg => {
-          const standardId = `READ_CAM${camItem.cam}_T${test.testNum}_P${psg.p}`;
-          const tagsHtml = renderTagsHtml(standardId);
-          const fileKey = `cam${camItem.cam}-test${test.testNum}-p${psg.p}`;
-          const testUrl = `runner-reading.html?test=data-r/cam${camItem.cam}-test${test.testNum}/${fileKey}.json`;
-
-          const rec = getCompletedRecord(fileKey, psg.title);
-          const isDone = !!rec;
-
-          html += `
-            <div class="test-card ${isDone ? 'is-completed' : ''}">
-              <div>
-                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
-                  <span class="badge-reading">Passage ${psg.p}</span>
-                  ${isDone ? `<span class="badge-done">✓ Đã nộp (${rec.score})</span>` : ''}
-                </div>
-                <h4 class="card-title">${psg.title}</h4>
-                ${tagsHtml}
-                <div class="card-desc">${psg.desc}</div>
-              </div>
-              <a href="${testUrl}" class="btn-play ${isDone ? 'btn-done' : ''}">
-                ${isDone ? '✓ Xem Lại / Làm Lại' : 'Làm Bài Đọc →'}
-              </a>
-            </div>
-          `;
-        });
-        html += `</div>`;
-      });
-    } else if (currentSeries === 'vol') {
-      const volNum = currentVal;
-      for (let t = 1; t <= 10; t++) {
-        html += `
-          <div class="test-heading vol-heading">
-            Vol ${volNum} Test ${t} - Reading
-          </div>
-          <div class="test-grid">
-        `;
-        for (let p = 1; p <= 3; p++) {
-          const standardId = `READ_VOL${volNum}_T${t}_P${p}`;
-          const tagsHtml = renderTagsHtml(standardId);
-          const fileKey = `vol${volNum}-test${t}-p${p}`;
-          const testUrl = `runner-reading.html?test=${fileKey}`;
-
-          const rec = getCompletedRecord(fileKey, `Vol ${volNum} Test ${t} - Passage ${p}`);
-          const isDone = !!rec;
-
-          html += `
-            <div class="test-card ${isDone ? 'is-completed' : ''}">
-              <div>
-                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
-                  <span class="badge-reading badge-vol">Passage ${p}</span>
-                  ${isDone ? `<span class="badge-done">✓ Đã nộp (${rec.score})</span>` : ''}
-                </div>
-                <h4 class="card-title vol-title">Vol ${volNum} Test ${t} - Passage ${p}</h4>
-                ${tagsHtml}
-                <div class="card-desc">IELTS Reading Practice Passage ${p}</div>
-              </div>
-              <a href="${testUrl}" class="btn-play ${isDone ? 'btn-done' : 'btn-vol'}">
-                ${isDone ? '✓ Xem Lại / Làm Lại' : `Vào Làm Passage ${p} →`}
-              </a>
-            </div>
-          `;
-        }
-        html += `</div>`;
-      }
-    }
-
-    container.innerHTML = html;
-  }
-
-  renderUI();
+  bootReadingCatalog();
 </script>
 </body>
 </html>
