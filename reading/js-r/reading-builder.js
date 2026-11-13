@@ -1,6 +1,6 @@
 /**
  * reading/js-r/reading-builder.js - Module dựng cấu trúc giao diện câu hỏi Reading
- * (BẢN FULL ĐẦY ĐỦ 100% - ĐÃ FIX TRIỆT ĐỂ LỖI THIẾU CỘT G TRONG MATCHING INFORMATION)
+ * (BẢN FULL ĐẦY ĐỦ 100% - ĐÃ FIX CHOOSE TWO, HỖ TRỢ MATCHING ENDINGS & LẬP TRÌNH PHÒNG THỦ)
  */
 
 // 1. CÁC HÀM SOCRATIC GỐC (GIỮ NGUYÊN 100% KHÔNG CẮT BỚT)
@@ -113,7 +113,7 @@ window.toggleChooseTwoOption = function(groupKey, optKey, maxAllowed = 2) {
   if (!container) return;
 
   const checkedBoxes = Array.from(container.querySelectorAll('input[type="checkbox"]:checked'));
-  
+
   if (checkedBoxes.length > maxAllowed) {
     const currentBox = container.querySelector(`input[value="${optKey}"]`);
     if (currentBox) currentBox.checked = false;
@@ -128,12 +128,32 @@ window.toggleChooseTwoOption = function(groupKey, optKey, maxAllowed = 2) {
   });
 
   const qIds = container.dataset.qids ? container.dataset.qids.split(',') : [];
-  const selectedValues = Array.from(container.querySelectorAll('input[type="checkbox"]:checked')).map(cb => cb.value);
+  const selectedValues = Array.from(container.querySelectorAll('input[type="checkbox"]:checked'))
+    .map(cb => cb.value.trim().toUpperCase())
+    .sort();
 
   qIds.forEach((qId, idx) => {
     const val = selectedValues[idx] || '';
     window.syncUserAnswer(qId, val);
   });
+};
+
+window.restoreAllChooseTwoVisuals = function() {
+  try {
+    document.querySelectorAll('.choose-two-container').forEach(container => {
+      const qIds = container.dataset.qids ? container.dataset.qids.split(',') : [];
+      const vals = qIds
+        .map(id => document.getElementById(`${id}_input`)?.value?.trim().toUpperCase())
+        .filter(Boolean);
+      container.querySelectorAll('.choose-two-item').forEach(item => {
+        const cb = item.querySelector('input[type="checkbox"]');
+        if (!cb) return;
+        const checked = vals.includes(cb.value.trim().toUpperCase());
+        cb.checked = checked;
+        item.classList.toggle('is-checked', checked);
+      });
+    });
+  } catch (e) {}
 };
 
 function parseOptionsList(rawOptions) {
@@ -153,36 +173,36 @@ function parseOptionsList(rawOptions) {
 }
 
 export function buildReadingHtml(data) {
-  if (!data.groups || !data.questions) return data.questionHtml || "";
+  if (!data || !data.groups || !data.questions) return data?.questionHtml || "";
   let paperHtml = '';
   const allQIds = [];
+  let hasChooseTwo = false;
 
   data.groups.forEach((group, gIdx) => {
-    paperHtml += `<div class="section-title">${group.title}</div>`;
+    paperHtml += `<div class="section-title">${group.title || ''}</div>`;
     if (group.instructions) {
       paperHtml += `<p style="color:var(--text-muted); font-size:13.5px; margin-bottom:12px; line-height:1.5;">${group.instructions}</p>`;
     }
 
     const gType = (group.type || '').toLowerCase();
-    const gMeta = (group.title + ' ' + (group.instructions || '')).toLowerCase();
+    const gMeta = ((group.title || '') + ' ' + (group.instructions || '')).toLowerCase();
     const isTFNG = gType.includes('tfng') || gMeta.includes('true/false/not given');
     const isYNNG = gType.includes('ynng') || gMeta.includes('yes/no/not given');
 
     const isMatchingParagraphs = gType.includes('matching_info') || gType.includes('matching_paragraphs') || gMeta.includes('which paragraph') || gMeta.includes('contains the following information') || gMeta.includes('which section');
-    const isChooseTwo = gMeta.includes('choose two') || gMeta.includes('choose 2') || (group.questionIds && group.questionIds.length === 2 && Array.isArray(group.options) && group.options.length >= 4);
+    const isMatchingEndings = gType.includes('matching_endings') || gMeta.includes('complete each sentence with the correct ending');
+    const isChooseTwo = gType.includes('mcq_two') || gType.includes('choose_two') || gMeta.includes('choose two') || gMeta.includes('choose 2') || (group.questionIds && group.questionIds.length === 2 && Array.isArray(group.options) && group.options.length >= 4 && !isMatchingEndings);
 
     if (isMatchingParagraphs) {
       // TỰ ĐỘNG XÁC ĐỊNH CHÍNH XÁC DANH SÁCH ĐOẠN (A ĐẾN G HOẶC H)
       let paras = null;
 
-      // 1. Kiểm tra nếu group có khai báo trực tiếp
       if (Array.isArray(group.paragraphs) && group.paragraphs.length > 0) {
         paras = group.paragraphs;
       } else if (Array.isArray(group.options) && group.options.length > 0) {
         paras = group.options.map(o => typeof o === 'string' ? o.charAt(0).toUpperCase() : (o.key || o));
       }
 
-      // 2. Nếu group không có, lấy trực tiếp từ options của câu hỏi con đầu tiên (như q14: ["A", "B", ... "G"])
       if (!paras && group.questionIds && group.questionIds.length > 0) {
         const firstQ = data.questions[group.questionIds[0]];
         if (firstQ && Array.isArray(firstQ.options) && firstQ.options.length > 0) {
@@ -190,7 +210,6 @@ export function buildReadingHtml(data) {
         }
       }
 
-      // 3. Nếu vẫn chưa có, quét regex từ hướng dẫn đề bài (ví dụ "A-G", "A–G", "A-H")
       if (!paras || paras.length === 0) {
         const instrMatch = (group.instructions || '').match(/\b([A-C])\s*[-–—]\s*([E-J])\b/i);
         if (instrMatch) {
@@ -203,12 +222,10 @@ export function buildReadingHtml(data) {
         }
       }
 
-      // 4. Fallback an toàn (mặc định đầy đủ từ A tới G)
       if (!paras || paras.length === 0) {
         paras = ['A', 'B', 'C', 'D', 'E', 'F', 'G'];
       }
 
-      // BẢNG MA TRẬN RADIO GRID CHUẨN THI CHÍNH THỨC
       paperHtml += `
         <div class="rd-matrix-table-wrap">
           <table class="rd-matrix-table">
@@ -219,7 +236,7 @@ export function buildReadingHtml(data) {
               </tr>
             </thead>
             <tbody>
-              ${group.questionIds.map(qId => {
+              ${(group.questionIds || []).map(qId => {
                 allQIds.push(qId);
                 const q = data.questions[qId];
                 return `
@@ -241,31 +258,92 @@ export function buildReadingHtml(data) {
         </div>
       `;
 
+    } else if (isMatchingEndings && (Array.isArray(group.endings) || Array.isArray(group.options))) {
+      const rawList = Array.isArray(group.endings) ? group.endings : group.options;
+      const parsedEndings = parseOptionsList(rawList);
+      const keys = parsedEndings.map(o => o.key);
+
+      paperHtml += `
+        <div class="unified-notes-card" style="border-color:#6D28D9; background:#FAF5FF;">
+          <h3 style="color:#6D28D9; margin-bottom:8px;">📌 Danh sách vế câu (Sentence Endings)</h3>
+          <div style="display:flex; flex-direction:column; gap:6px; font-size:13.5px;">
+            ${parsedEndings.map(o => `<div><b style="color:#6D28D9;">${o.key}.</b> ${o.text}</div>`).join('')}
+          </div>
+        </div>
+        <div class="rd-matrix-table-wrap">
+          <table class="rd-matrix-table">
+            <thead>
+              <tr>
+                <th style="text-align:left; min-width:180px;">Vế đầu câu</th>
+                ${keys.map(k => `<th>${k}</th>`).join('')}
+              </tr>
+            </thead>
+            <tbody>
+              ${(group.questionIds || []).map(qId => {
+                allQIds.push(qId);
+                const q = data.questions[qId];
+                return `
+                  <tr id="${qId}_row">
+                    <td>
+                      <b>${q?.num || qId}.</b> ${q?.text || ''}
+                      <button type="button" class="btn-comment-anchor" onclick="window.activateReadingBubble('${qId}')">Ghi chú & AI</button>
+                      <div id="${qId}" style="margin-top:4px;">
+                        <div class="result" id="${qId}_result"></div>
+                        ${renderExplanationHtml(qId, q || {})}
+                      </div>
+                    </td>
+                    ${keys.map(k => `
+                      <td style="text-align:center;">
+                        <input type="radio" name="${qId}" value="${k}" onchange="window.syncUserAnswer('${qId}', '${k}')">
+                      </td>
+                    `).join('')}
+                  </tr>
+                `;
+              }).join('')}
+            </tbody>
+          </table>
+        </div>
+      `;
+
     } else if (isChooseTwo && group.options) {
-      // DẠNG CHOOSE TWO OUT OF FIVE
+      hasChooseTwo = true;
       const groupKey = `g_${gIdx}`;
-      group.questionIds.forEach(id => allQIds.push(id));
+      const qIdsList = Array.isArray(group.questionIds) ? group.questionIds : [];
+      qIdsList.forEach(id => allQIds.push(id));
       const parsedOpts = parseOptionsList(group.options);
 
       paperHtml += `
-        <div class="choose-two-container" id="choose_two_${groupKey}" data-qids="${group.questionIds.join(',')}">
+        <div class="choose-two-container" id="choose_two_${groupKey}" data-qids="${qIdsList.join(',')}">
           <div style="font-size:13.5px; font-weight:800; color:#8B1518; margin-bottom:4px;">
-            📌 Đang trả lời cho Câu: <b>${group.questionIds.map(id => data.questions[id]?.num || id).join(', ')}</b> (Chọn đúng 2 lựa chọn):
+            📌 Đang trả lời cho Câu: <b>${qIdsList.map(id => data.questions[id]?.num || id).join(', ')}</b> (Chọn đúng 2 lựa chọn):
           </div>
           ${parsedOpts.map(opt => `
-            <label class="choose-two-item" onclick="window.toggleChooseTwoOption('${groupKey}', '${opt.key}', 2)">
-              <input type="checkbox" value="${opt.key}">
+            <label class="choose-two-item">
+              <input type="checkbox" value="${opt.key}" onchange="window.toggleChooseTwoOption('${groupKey}', '${opt.key}', 2)">
               <span style="font-weight:900; color:#8B1518; background:#FDEDEE; padding:2px 8px; border-radius:6px;">${opt.key}</span>
               <span style="flex:1;">${opt.text}</span>
             </label>
           `).join('')}
+          ${qIdsList.map(qId => {
+            const q = data.questions[qId] || {};
+            return `
+              <div class="question" id="${qId}" style="background:#FAF7F2; border:1.5px solid var(--border-color); border-radius:10px; padding:8px 12px; margin-top:4px;" onclick="window.activateReadingBubble('${qId}')">
+                <div style="display:flex; justify-content:space-between; align-items:center;">
+                  <b style="font-size:13px; color:#1E293B;">Câu ${q.num || qId}</b>
+                  <button type="button" class="btn-comment-anchor" onclick="window.activateReadingBubble('${qId}')">Ghi chú & AI</button>
+                </div>
+                <input type="hidden" class="fill-input" id="${qId}_input" style="display:none !important;">
+                <div class="result" id="${qId}_result"></div>
+                ${renderExplanationHtml(qId, q)}
+              </div>
+            `;
+          }).join('')}
         </div>
       `;
 
     } else if (group.template) {
-      // SUMMARY / TABLE COMPLETION
       let content = group.template;
-      group.questionIds.forEach(qId => {
+      (group.questionIds || []).forEach(qId => {
         allQIds.push(qId);
         const q = data.questions[qId];
         const width = q?.inputWidth || "130px";
@@ -287,8 +365,7 @@ export function buildReadingHtml(data) {
       `;
 
     } else {
-      // MCQ & TRUE / FALSE / NOT GIVEN
-      group.questionIds.forEach(qId => {
+      (group.questionIds || []).forEach(qId => {
         allQIds.push(qId);
         const q = data.questions[qId];
         if (!q) return;
@@ -297,7 +374,7 @@ export function buildReadingHtml(data) {
           <div class="question" id="${qId}" style="background:#FAF7F2; border:2px solid var(--border-color); border-radius:14px; padding:14px 16px; margin-bottom:14px;" onclick="window.activateReadingBubble('${qId}')">
             <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
               <span style="font-size:14.5px; font-weight:800; color:#1E293B;">
-                <b>${q.num}.</b> ${q.text}
+                <b>${q.num}.</b> ${q.text || ''}
               </span>
               <button type="button" class="btn-comment-anchor" onclick="window.activateReadingBubble('${qId}')">Ghi chú & AI</button>
             </div>
@@ -330,7 +407,10 @@ export function buildReadingHtml(data) {
 
   paperHtml += `<button type="button" class="btn-submit" onclick="window.checkAnswers()" style="margin-top:20px; width:100%; padding:14px; font-size:15px; background:var(--duo-green); color:white; border:none; border-bottom:4.5px solid var(--duo-green-shadow); border-radius:14px; font-weight:900; cursor:pointer;">CHẤM BÀI VÀ XEM KẾT QUẢ &rarr;</button>`;
 
-  // RENDER TOÀN BỘ SIDEBAR BÊN PHẢI (CHỨA ĐẦY ĐỦ SOCRATIC GỐC, MẠCH SUY NGHĨ, VÀ HỎI AI GEMINI)
+  if (hasChooseTwo) {
+    setTimeout(() => window.restoreAllChooseTwoVisuals && window.restoreAllChooseTwoVisuals(), 180);
+  }
+
   const commentsListHtml = allQIds.map(qId => {
     const q = data.questions[qId];
     const num = q?.num || qId;
@@ -455,10 +535,10 @@ function renderChoicePillsHtml(qId, choices) {
 }
 
 function renderExplanationHtml(qId, q) {
-  let expSteps = (q.explanation && q.explanation.steps) 
-    ? q.explanation.steps.map(s => `<p style="margin:3px 0;">${s}</p>`).join('') 
+  let expSteps = (q?.explanation && q.explanation.steps)
+    ? q.explanation.steps.map(s => `<p style="margin:3px 0;">${s}</p>`).join('')
     : '';
-  let hlBtn = q.highlightId ? `<button type="button" style="background:#0284c7; color:white; border:none; padding:4px 10px; border-radius:6px; font-size:12px; font-weight:800; cursor:pointer; margin-top:6px;" onclick="window.highlightText('${q.highlightId}')">📍 Xem dẫn chứng bài đọc</button>` : '';
+  let hlBtn = q?.highlightId ? `<button type="button" style="background:#0284c7; color:white; border:none; padding:4px 10px; border-radius:6px; font-size:12px; font-weight:800; cursor:pointer; margin-top:6px;" onclick="window.highlightText('${q.highlightId}')">📍 Xem dẫn chứng bài đọc</button>` : '';
 
   return `
     <div class="explanation" style="display:none; margin-top: 8px;">
