@@ -1,0 +1,219 @@
+{
+  "title": "Bài sưu tầm 120 - Passage 1: The Viking Longship: Maritime Masters of the North",
+  "answers": {
+    "q1": "rivets",
+    "q2": "wool",
+    "q3": "roots",
+    "q4": "draft",
+    "q5": "direction",
+    "q6": "tallow",
+    "q7": "clay",
+    "q8": "TRUE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN",
+    "q11": "NOT GIVEN",
+    "q12": "TRUE",
+    "q13": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 120</h2><h3>The Viking Longship: Maritime Masters of the North</h3><p><strong>Paragraph 1.</strong> Between the late eighth and eleventh centuries CE, Scandinavian seafaring warriors known as the Vikings projected military power across Europe, establishing trade routes extending from the Caspian Sea to the coastlines of North America. The cornerstone of this geopolitical expansion was an extraordinary vessel: the Viking longship. Combining exceptional speed, ocean-crossing durability, and revolutionary agility, the longship was a masterwork of medieval naval architecture. It enabled Scandinavian mariners to cross treacherous open oceans like the North Atlantic, while possessing the unique capacity to navigate shallow coastal estuaries and inland continental river networks.</p><p><strong>Paragraph 2.</strong> The architectural genius of the longship lay in its clinker, or lapstrake, construction method. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Unlike the Mediterranean shipbuilding tradition of the era, which involved nailing exterior planks edge-to-edge onto a rigid pre-existing internal skeleton</span>, Norse shipwrights built their vessels from the outside in. First, a single, immense timber of seasoned oak was shaped to form the central keel, serving as the vessel's primary backbone. Next, craftsmen shaped thin, radially split wooden planks, overlapping each board’s lower edge over the upper edge of the plank beneath it. These overlapping seams were <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">mechanically fastened together using hand-forged iron <span class=\"kw\">rivets</span></span>, with the tiny gaps between planks <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">caulked with tarred animal <span class=\"kw\">wool</span> or moss to ensure complete water tightness</span>. Only after the hull was assembled did shipwrights insert internal timber ribs. Crucially, these ribs were not nailed rigidly to the hull; instead, they were <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">bound securely using pliable spruce <span class=\"kw\">roots</span>, allowing the hull to flex and twist organically with rolling ocean waves</span> rather than fracturing against heavy seas.</p><p><strong>Paragraph 3.</strong> Beyond structural flexibility, the longship was <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">characterized by a symmetrical, double-ended hull design and an astonishingly shallow <span class=\"kw\">draft</span></span>. Fully loaded with thirty to sixty warriors and military provisions, a longship drew less than one metre of water. This minuscule draft <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">allowed Viking raiders to navigate shallow river mouths, bypass fortifications along major waterways like the Seine and the Rhine, and execute surprise landings directly onto sandy beaches without requiring artificial harbors or deep-water anchorages</span>. The identical design of the bow and stern <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">allowed the vessel to reverse its navigation <span class=\"kw\">direction</span> instantly</span>—a vital tactical advantage when maneuvering inside tight, rocky fjords or escaping coastal ambushes.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Propulsion relied upon a sophisticated dual system of oars and sail power.</span> Along the upper gunwales, precisely carved oar ports allowed dozens of rowers to maintain high speeds in calm water or during tactical landings. For open-ocean voyages, crews hoisted a massive square sail, woven from dense coarse wool and strengthened with diagonal strips of leather. To prevent the heavy fabric from becoming waterlogged by ocean spray, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">sails were coated with natural sheep <span class=\"kw\">tallow</span> or lard</span>, preserving their wind-capturing efficiency. Under favourable winds, a longship could sustain cruising speeds exceeding ten knots, completing ocean crossings in a fraction of the time required by contemporary merchant cogs.</p><p><strong>Paragraph 5.</strong> Much of our current understanding of longship construction stems from exceptional maritime archaeology. In 1904, Norwegian archaeologists unearthed the celebrated Oseberg ship from a royal burial mound near Tønsberg. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Sealed inside water-retaining blue <span class=\"kw\">clay</span> for over a millennium</span></span>, the ninth-century oak ship had survived virtually intact, showcasing delicate, masterfully carved animal motifs along its prow. Later, in 1962, the recovery of the Skuldelev ships—five distinct vessels deliberately scuttled in Denmark's Roskilde Fjord to block a naval invasion channel—<span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">demonstrated that Viking builders did not rely on a single uniform vessel. Instead, they manufactured specialised designs</span>: <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">long, narrow raiding warships (drakkars) optimized for military velocity, and wide, deep-bellied cargo merchant vessels (knarrs) capable of transporting livestock and bulky trade goods across the North Atlantic</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The Construction and Features of Viking Longships",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Building techniques</b></p><ul><li style=\"margin-bottom: 10px;\">Longship planks were joined together using hand-made <b>1.</b> {{q1}} made of iron.</li><li style=\"margin-bottom: 10px;\">Builders inserted tarred <b>2.</b> {{q2}} between timber seams to stop water entering the vessel.</li><li style=\"margin-bottom: 10px;\">Internal ribs were tied to planks with flexible <b>3.</b> {{q3}} to absorb the impact of waves.</li></ul><p><b>Navigation and propulsion</b></p><ul><li style=\"margin-bottom: 10px;\">A shallow <b>4.</b> {{q4}} enabled the ships to travel along rivers and land directly on beaches.</li><li style=\"margin-bottom: 10px;\">Because the bow and stern were identical, the vessel could reverse its <b>5.</b> {{q5}} immediately.</li><li style=\"margin-bottom: 10px;\">Heavy woolen sails were sealed with animal <b>6.</b> {{q6}} to prevent them absorbing water.</li></ul><p><b>Archaeological discovery</b></p><ul><li style=\"margin-bottom: 10px;\">The Oseberg ship remained in remarkable condition because it was buried in moist <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 120?<br>In boxes 8–13 on your answer sheet, write:<br><b>TRUE</b> – if the statement agrees with the information<br><b>FALSE</b> – if the statement contradicts the information<br><b>NOT GIVEN</b> – if there is no information on this</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "rivets",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...mechanically fastened together using hand-forged iron rivets...\"</i>",
+          "<b>Distractors:</b> nails, frames.",
+          "<b>Đáp án:</b> <b>rivets</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "wool",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...caulked with tarred animal wool or moss to ensure complete water tightness.\"</i>",
+          "<b>Distractors:</b> moss, hair.",
+          "<b>Đáp án:</b> <b>wool</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "roots",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...bound securely using pliable spruce roots, allowing the hull to flex...\"</i>",
+          "<b>Distractors:</b> ribs, nails.",
+          "<b>Đáp án:</b> <b>roots</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "draft",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...characterized by a symmetrical, double-ended hull design and an astonishingly shallow draft.\"</i>",
+          "<b>Distractors:</b> design, water.",
+          "<b>Đáp án:</b> <b>draft</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "direction",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...allowed the vessel to reverse its navigation direction instantly...\"</i>",
+          "<b>Distractors:</b> vessel, advantage.",
+          "<b>Đáp án:</b> <b>direction</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "tallow",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...sails were coated with natural sheep tallow or lard...\"</i>",
+          "<b>Distractors:</b> lard, wool.",
+          "<b>Đáp án:</b> <b>tallow</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "clay",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Sealed inside water-retaining blue clay for over a millennium...\"</i>",
+          "<b>Distractors:</b> mound, peat.",
+          "<b>Đáp án:</b> <b>clay</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The Mediterranean method of shipbuilding relied on fastening planks onto an existing internal frame.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Unlike the Mediterranean shipbuilding tradition of the era, which involved nailing exterior planks edge-to-edge onto a rigid pre-existing internal skeleton...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Viking longships required deep-water docks to disembark soldiers safely.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...allowed Viking raiders to... execute surprise landings directly onto sandy beaches without requiring artificial harbors or deep-water anchorages.\"</i> → Mâu thuẫn trực tiếp với <i>required deep-water docks</i>.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Viking sailors used solar compasses to navigate across open ocean routes.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Đề cập việc tàu vượt đại dương bằng buồm và mái chèo, nhưng không hề đề cập thủy thủ Viking có dùng la bàn mặt trời để định vị hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "The Oseberg ship was buried alongside large quantities of gold coins.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Nhắc đến con tàu Oseberg trong gò chôn cất hoàng gia và các hình chạm khắc gỗ tinh xảo, nhưng không nói có chôn cùng tiền vàng hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Excavations at Roskilde Fjord revealed that the Vikings produced different types of ships for different purposes.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...demonstrated that Viking builders did not rely on a single uniform vessel. Instead, they manufactured specialised designs...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Cargo vessels known as knarrs were built to travel at higher speeds than war vessels.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chiến thuyền <i>drakkar</i> được tối ưu hóa cho tốc độ quân sự (<i>warships optimized for military velocity</i>), còn tàu chở hàng <i>knarr</i> thân rộng dùng để chở gia súc và hàng cồng kềnh.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 110 - Passage 1: The Kakapo: New Zealand's Night Parrot",
+  "answers": {
+    "q1": "camouflage",
+    "q2": "bowl",
+    "q3": "fruit",
+    "q4": "odour",
+    "q5": "islands",
+    "q6": "transmitter",
+    "q7": "insemination",
+    "q8": "FALSE",
+    "q9": "NOT GIVEN",
+    "q10": "TRUE",
+    "q11": "NOT GIVEN",
+    "q12": "TRUE",
+    "q13": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 110</h2><h3>The Kakapo: New Zealand's Night Parrot</h3><p><strong>Paragraph 1.</strong> Endemic to the dense native forests of New Zealand, the kakapo (<em>Strigops habroptilus</em>) is arguably one of the most eccentric avian species on the planet. As the world’s only flightless parrot, it is also the heaviest, with mature males weighing up to four kilograms. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Because the evolutionary isolation of New Zealand left it completely devoid of native terrestrial mammals for tens of millions of years, the kakapo evolved to fill an ecological niche akin to a ground-dwelling herbivore</span>. Exhibiting nocturnal habits, this solitary bird spends its nights foraging across forest floors, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">relying on its moss-green and yellow-brown plumage for <span class=\"kw\">camouflage</span> among ferns</span>. When startled by potential danger, the kakapo does not flee; instead, it executes a rigid freeze reflex, remaining perfectly motionless in the expectation that its cryptic coloration will conceal it from aerial predators like eagles and harriers.</p><p><strong>Paragraph 2.</strong> The reproductive biology of the kakapo is unique among parrots, operating on a lek breeding system commonly seen in grouse or birds of paradise. During breeding cycles, males abandon their normal home ranges and assemble on elevated ridges, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">where each bird excavates a shallow display <span class=\"kw\">bowl</span> in the earth</span>. Using deep thoracic air sacs, the males emit a resonant, low-frequency 'booming' call that reverberates through the valleys for kilometres, interspersed with high-pitched clicking noises to guide females to their location. However, this exhausting courtship occurs only sporadically. Kakapos breed only every two to four years, synchronised precisely with the cyclical mast fruiting of native trees, particularly the rimu (<em>Dacrydium cupressinum</em>). <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\"><span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">The female feeds her chicks with calcium-rich rimu <span class=\"kw\">fruit</span></span></span>, meaning successful rearing is impossible during intervening non-fruiting years.</p><p><strong>Paragraph 3.</strong> While the kakapo’s survival strategies proved highly effective against extinct visual raptors, they were catastrophically obsolete against scent-hunting mammalian predators introduced by Polynesian and European settlers. The arrival of dogs, feral cats, stoats, and rats decimated kakapo populations. Tragically, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">the bird emits a potent, musky-sweet body <span class=\"kw\">odour</span></span>—often compared by naturalists to honey or herbal beeswax—which allowed introduced mammals to track nesting females and fledglings with lethal precision. Furthermore, the bird’s instinctual reaction to freeze made it utterly defenseless against invasive carnivores. By the mid-twentieth century, vast habitat clearances combined with predator pressure had driven the kakapo to near extinction, and by 1970 the species was feared to be extinct in the wild.</p><p><strong>Paragraph 4.</strong> A turning point arrived in 1977 when wildlife rangers discovered a tiny remnant population of approximately two hundred birds surviving on remote Stewart Island, off the southern tip of the South Island. However, the joy of discovery was short-lived; <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">feral cats were rapidly slaughtering the remaining population at a rate that would have caused total extinction within a decade</span>. In a desperate, high-stakes intervention between 1980 and 1992, conservation officers captured every single surviving kakapo on Stewart Island and <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">evacuated them to three small offshore <span class=\"kw\">islands</span></span>: Codfish Island (Whenua Hou), Anchor Island, and Little Barrier Island.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">These island sanctuaries had been entirely cleared of mammalian predators, establishing safe havens for the species</span>. To rescue the kakapo from the catastrophic effects of inbreeding depression, the New Zealand Department of Conservation established the intensive Kakapo Recovery Programme. Field biologists <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">fitted every bird with a miniaturized radio <span class=\"kw\">transmitter</span> attached to its back</span>, allowing round-the-clock telemetry monitoring of movements and nesting attempts. Furthermore, researchers established artificial incubation stations to rescue fragile eggs and <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">developed customized dietary supplements to trigger breeding readiness during poor rimu fruiting seasons</span>. Geneticists have mapped the complete genome of every living kakapo, using algorithmic pairing models to <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">direct artificial <span class=\"kw\">insemination</span> efforts between the most genetically distant individuals</span>. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">From an all-time low of only fifty-one birds in 1995</span>, the global kakapo census has climbed steadily past two hundred and fifty individuals, demonstrating how aggressive science and spatial conservation can resurrect a species from the very brink of the void.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The Kakapo of New Zealand",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Physical adaptations and mating</b></p><ul><li style=\"margin-bottom:10px;\">The kakapo relies on its patterned feathers for <b>1.</b> {{q1}} when threatened by aerial predators.</li><li style=\"margin-bottom:10px;\">During courtship, male kakapos dig a circular <b>2.</b> {{q2}} on hilltops to attract females.</li><li style=\"margin-bottom:10px;\">The birds only reproduce when the local rimu trees produce an abundance of <b>3.</b> {{q3}} .</li></ul><p><b>Decline and rescue efforts</b></p><ul><li style=\"margin-bottom:10px;\">Introduced mammals could easily track kakapos because the birds had a strong body <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">In a rescue campaign, the remaining wild population was transported to predator-free <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:10px;\">Each individual kakapo is monitored continuously using a small <b>6.</b> {{q6}} fastened to its back.</li><li style=\"margin-bottom:10px;\">Genetic data is utilized to guide artificial <b>7.</b> {{q7}} between birds to preserve genetic diversity.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 110?<br>In boxes 8–13 on your answer sheet, write:<br><b>TRUE</b> – if the statement agrees with the information<br><b>FALSE</b> – if the statement contradicts the information<br><b>NOT GIVEN</b> – if there is no information on this</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "camouflage",
+      "inputWidth": "125px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...relying on its moss-green and yellow-brown plumage for camouflage among ferns.\"</i> | Distractors: reflex, coloration.",
+          "<b>Từ cần điền:</b> <b>camouflage</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "bowl",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...where each bird excavates a shallow display bowl in the earth.\"</i> | Distractors: ridge, valley.",
+          "<b>Từ cần điền:</b> <b>bowl</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "fruit",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...The female feeds her chicks with calcium-rich rimu fruit...\"</i> | Distractors: chicks, trees.",
+          "<b>Từ cần điền:</b> <b>fruit</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "odour",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...the bird emits a potent, musky-sweet body odour... which allowed introduced mammals to track...\"</i> | Distractors: scent, honey.",
+          "<b>Từ cần điền:</b> <b>odour</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "islands",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...evacuated them to three small offshore islands...\"</i> | Distractors: sanctuaries, havens.",
+          "<b>Từ cần điền:</b> <b>islands</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "transmitter",
+      "inputWidth": "130px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...fitted every bird with a miniaturized radio transmitter attached to its back...\"</i> | Distractors: backpack, monitor.",
+          "<b>Từ cần điền:</b> <b>transmitter</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "insemination",
+      "inputWidth": "135px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...direct artificial insemination efforts between the most genetically distant individuals.\"</i> | Distractors: incubation, pairing.",
+          "<b>Từ cần điền:</b> <b>insemination</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The kakapo evolved its flightless habit in response to the presence of ground-dwelling mammals.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...New Zealand left it completely devoid of native terrestrial mammals... the kakapo evolved to fill an ecological niche akin to a ground-dwelling herbivore.\"</i> → Mất khả năng bay do không có động vật có vú trên cạn, câu hỏi nói do có → Mâu thuẫn trực tiếp.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Male kakapos play an active role in feeding young chicks after mating.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chỉ nói con cái mớm quả rimu cho con (<i>The female feeds her chicks</i>), không đề cập con đực có tham gia hay hoàn toàn bỏ mặc.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "The remnant kakapo population on Stewart Island was threatened with extinction by feral cats.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...feral cats were rapidly slaughtering the remaining population at a rate that would have caused total extinction within a decade.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Tourism is completely banned on the offshore island sanctuaries where kakapos live.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4 & 5:</b> Mô tả các đảo bảo tồn không có thú săn mồi, nhưng không nói du lịch có bị cấm hoàn toàn trên các đảo này hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Supplemental feeding is provided to encourage kakapos to breed when native trees fail to produce fruit.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...developed customized dietary supplements to trigger breeding readiness during poor rimu fruiting seasons.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "The total wild population of kakapos dropped to its lowest recorded point in the year 1995.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"From an all-time low of only fifty-one birds in 1995...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

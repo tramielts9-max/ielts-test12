@@ -1,0 +1,224 @@
+{
+  "title": "Bài sưu tầm 113 - Passage 1: The Vanilla Orchid: From Mesoamerica to Global Spice",
+  "answers": {
+    "q1": "cacao",
+    "q2": "infertile",
+    "q3": "bees",
+    "q4": "rostellum",
+    "q5": "bamboo",
+    "q6": "wilt",
+    "q7": [
+      "petrochemicals",
+      "petrochemical"
+    ],
+    "q8": "FALSE",
+    "q9": "NOT GIVEN",
+    "q10": "NOT GIVEN",
+    "q11": "NOT GIVEN",
+    "q12": "TRUE",
+    "q13": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 113</h2><h3>The Vanilla Orchid: From Mesoamerica to Global Spice</h3><p><strong>Paragraph 1.</strong> Trailing through the dense tropical rainforests of Mesoamerica, the vanilla orchid (<em>Vanilla planifolia</em>) is the sole member of the Orchidaceae family cultivated for agricultural food consumption. Renowned globally for its sweet, intoxicating scent, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">vanilla is the second most expensive spice in the world, surpassed only by saffron</span>. The commercial commodity—the cured, fragrant, wrinkled dark-brown bean—originates from <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">long, green, unscented seed capsules that require a complex, highly specialized series of post-harvest biochemical transformations to develop the prized phenolic aldehyde known as vanillin</span>.</p><p><strong>Paragraph 2.</strong> For centuries, the cultivation and processing of vanilla was an exclusive secret possessed by the Totonac people of the Mazatlan coast in eastern Mexico. According to indigenous mythology, the climbing vine was born from the blood shed by a young goddess executed for defying her father's religious decree. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Following their military subjugation by the Aztec Empire in the fifteenth century, the Totonacs were forced to surrender their precious crop as annual imperial tribute</span>. The Aztecs called the spice <em>tlilxochitl</em>, meaning 'black flower', and utilized it as an essential aromatic flavouring in <em>xocolatl</em>, a frothy, sacred beverage reserved for royalty and priests, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">compounded from crushed <span class=\"kw\">cacao</span> beans, maize, and wild honey</span>.</p><p><strong>Paragraph 3.</strong> Following the Spanish conquest of the Aztec Empire in 1519, European explorers carried vanilla pods back to the Old World, where the fragrance captivated aristocratic salons. However, cultivating the plant outside its native habitat proved an utter failure. For more than three centuries, botanists in Britain, France, and Belgium successfully grew the vigorous climbing vines inside heated greenhouses, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">producing lush foliage and pale-yellow flowers, but the plants remained stubbornly <span class=\"kw\">infertile</span>, never producing a single seed pod</span>. The underlying cause was an intricate anatomical barrier: inside the vanilla blossom, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">a delicate, petal-like physical membrane termed the <span class=\"kw\">rostellum</span> completely separates the pollen-bearing anther from the receptive female stigma</span>. In Mexico, natural pollination was performed by specialized native pollinators—<span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">primarily solitary stingless <span class=\"kw\">bees</span> of the genus <em>Melipona</em></span>, assisted occasionally by emerald hummingbirds—possessing the exact physical size and instinctual behavior to bypass the rostellum. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Transported to foreign climates, the vanilla vine was severed from its ecological partners</span>.</p><p><strong>Paragraph 4.</strong> The global expansion of vanilla cultivation was finally unlocked in 1841 on the remote French island colony of Bourbon (modern-day Réunion) in the Indian Ocean. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">A twelve-year-old enslaved boy named Edmond Albius made an ingenious discovery</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Using a sharpened splinter of <span class=\"kw\">bamboo</span> and his thumb</span>, Albius demonstrated that one could manually lift the protective rostellum and press the sticky pollen mass directly onto the stigma. This rapid, reliable technique took only seconds per blossom. Albius's discovery transformed global agriculture overnight: Réunion became an international export powerhouse, and the method was swiftly exported to <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">the neighboring island of Madagascar, which rapidly established an agricultural dominance that persists to this day, generating over eighty percent of global production</span>.</p><p><strong>Paragraph 5.</strong> Despite technological progress, modern natural vanilla farming remains an exhausting artisanal endeavour. Because <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">each individual flower opens at sunrise and <span class=\"kw\">wilt</span>s permanently by midday</span>, agricultural laborers must inspect fields daily, pollinating each blossom individually by hand. Once fertilized, the pod requires nine months to reach physical maturity. After harvest, the green pods must undergo months of sweating, sun-drying, and conditioning in wooden crates to trigger the enzymatic release of natural vanillin. This extraordinary manual requirement explains why over ninety-nine percent of modern consumer goods labeled as vanilla flavouring contain no botanical vanilla at all, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">relying instead on synthetic vanillin synthesized from <span class=\"kw\">petrochemical</span> precursors</span> or wood pulp byproducts.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The Cultivation and Spread of Vanilla",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>History and Early Botany</b></p><ul><li style=\"margin-bottom:10px;\">Aztec nobility consumed vanilla in a sacred drink prepared using honey, corn, and ground <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:10px;\">European gardeners successfully grew the vine, but the flowers remained completely <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:10px;\">In the wild, the plant was pollinated by hummingbirds and native stingless <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:10px;\">The flower cannot pollinate itself because a physical flap called the <b>4.</b> {{q4}} blocks the pollen.</li></ul><p><b>Commercial Development and Labour</b></p><ul><li style=\"margin-bottom:10px;\">Edmond Albius invented a manual pollination technique using a sliver of <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:10px;\">Farm workers must complete pollination in the early morning before the flower starts to <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:10px;\">The vast majority of mass-market vanilla products contain artificial compounds produced from <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 113?<br>In boxes 8–13 on your answer sheet, write:<br><b>TRUE</b> – if the statement agrees with the information<br><b>FALSE</b> – if the statement contradicts the information<br><b>NOT GIVEN</b> – if there is no information on this</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "cacao",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...compounded from crushed cacao beans, maize, and wild honey.\"</i>",
+          "<b>Distractors:</b> maize, pods.",
+          "<b>Từ cần điền:</b> <b>cacao</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "infertile",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...producing lush foliage and pale-yellow flowers, but the plants remained stubbornly infertile...\"</i>",
+          "<b>Distractors:</b> lush, vigorous.",
+          "<b>Từ cần điền:</b> <b>infertile</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "bees",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...primarily solitary stingless bees of the genus Melipona, assisted occasionally by emerald hummingbirds...\"</i>",
+          "<b>Distractor:</b> pollinators.",
+          "<b>Từ cần điền:</b> <b>bees</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "rostellum",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 & 4:</b> <i>\"...a delicate, petal-like physical membrane termed the rostellum completely separates the pollen-bearing anther...\"</i>",
+          "<b>Distractors:</b> stigma, anther.",
+          "<b>Từ cần điền:</b> <b>rostellum</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "bamboo",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Using a sharpened splinter of bamboo and his thumb...\"</i>",
+          "<b>Distractors:</b> wood, needle.",
+          "<b>Từ cần điền:</b> <b>bamboo</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "wilt",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...each individual flower opens at sunrise and wilt[s] permanently by midday...\"</i> → sau \"starts to\" dùng động từ nguyên thể.",
+          "<b>Từ cần điền:</b> <b>wilt</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": [
+        "petrochemicals",
+        "petrochemical"
+      ],
+      "inputWidth": "140px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...relying instead on synthetic vanillin synthesized from petrochemical precursors...\"</i>",
+          "<b>Distractors:</b> pulp, beans.",
+          "<b>Từ cần điền:</b> <b>petrochemicals</b> (hoặc <b>petrochemical</b>)."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Vanilla is the most expensive culinary spice on the modern international market.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...vanilla is the second most expensive spice in the world, surpassed only by saffron.\"</i> → Đứng thứ 2, mâu thuẫn trực tiếp với <i>the most expensive</i>.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "The Totonac people originally used vanilla beans as a currency to trade with the Aztecs.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chỉ nói người Totonac bị bắt nộp cống nạp (<i>imperial tribute</i>), không đề cập họ có dùng hạt vani làm tiền tệ trao đổi hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Natural pollinators of the vanilla orchid are unable to survive in European climates.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Giải thích loài ong này không có mặt ở châu Âu, nhưng không đề cập chúng có sống sót nổi trong khí hậu châu Âu nếu mang sang hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Edmond Albius was granted personal freedom immediately after discovering hand-pollination.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Nhắc đến phát minh của cậu bé nô lệ Edmond Albius, nhưng không có thông tin về việc cậu có được trả tự do ngay sau đó hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Madagascar produces the majority of the world's natural vanilla supply today.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...the neighboring island of Madagascar, which rapidly established an agricultural dominance that persists to this day, generating over eighty percent of global production.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Green vanilla pods release their strong aroma as soon as they are cut from the vine.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1 & 5:</b> <i>\"...unscented seed capsules... green pods must undergo months of sweating, sun-drying, and conditioning... to trigger the enzymatic release of natural vanillin.\"</i> → Khi mới hái chưa hề có mùi thơm.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

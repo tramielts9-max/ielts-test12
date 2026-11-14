@@ -1,0 +1,225 @@
+{
+  "title": "Bài sưu tầm 112 - Passage 1: The Terracotta Army of Xi'an",
+  "answers": {
+    "q1": "well",
+    "q2": [
+      "eastward",
+      "east"
+    ],
+    "q3": "legs",
+    "q4": "features",
+    "q5": "name",
+    "q6": "lacquer",
+    "q7": "alkaline",
+    "q8": "FALSE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN",
+    "q11": "TRUE",
+    "q12": "FALSE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 112</h2><h3>The Terracotta Army of Xi'an</h3><p><strong>Paragraph 1.</strong> In March 1974, during a period of severe drought, a group of local farmers in Shaanxi province, northern China, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">set out to sink an agricultural water <span class=\"kw\">well</span> approximately 1.5 kilometres east of Mount Li</span>. Digging through layers of red sandy earth, their shovels struck a subterranean layer of fired clay, followed by life-sized terracotta heads, bronze spear points, and severed earthenware limbs. Unwittingly, the peasants had breached the outer perimeter of the mortuary complex of Qin Shi Huang, the first emperor of unified China, who died in 210 BCE after conquering the Warring States and establishing the Qin Dynasty.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Subsequent archaeological excavations unveiled an underground necropolis of staggering proportions</span>. The subterranean installation covers roughly 56 square kilometres, with the military contingent distributed across four main pits. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Pit 1, the largest chamber, houses an estimated 6,000 terracotta soldiers alongside forty wooden chariots</span>, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">positioned in precise battle formation facing <span class=\"kw\">eastward</span></span>—the direction from which the conquered rival states might launch a spiritual counterattack. The figures are rigorously divided by military specialisation: frontline vanguard archers kneeling with crossbows, heavily armoured infantrymen, charioteers holding bronze reins, and commanding generals distinguished by their ornate headdresses and layered chest plates.</p><p><strong>Paragraph 3.</strong> The industrial organisation behind the army’s construction represents a marvel of ancient mass production. Master craftsmen utilized local loess clay, firing the assembled sculptures in large subterranean kilns at temperatures exceeding 900 degrees Celsius. To balance stability and weight, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">artisans fabricated the <span class=\"kw\">legs</span> as solid clay cylinders</span>, whereas the upper torsos and heads were constructed hollow using successive coils of clay. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Rather than employing a single master mould for facial features, workshops developed a modular assembly system. Basic facial outlines were pressed from several generic templates, after which individual sculptors hand-carved distinct ears, mustaches, coiffures, and facial expressions. As a result of this individualised craftsmanship, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">no two soldiers among the thousands uncovered share identical <span class=\"kw\">features</span></span></span>. To ensure imperial standards, inspectors enforced a strict code of accountability: <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">the individual <span class=\"kw\">name</span> of each foreman or artisan was stamped directly into the wet clay of each statue before firing</span>, allowing flawed artistry to be swiftly traced and punished.</p><p><strong>Paragraph 4.</strong> When modern archaeologists first broke into the sealed chambers, the army looked radically different from the monotone grey figures displayed in museums today. Every warrior had been adorned in dazzling, polychromatic lacquer: brilliant hues of vermilion red, malachite green, lapis lazuli blue, and <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">an engineered synthetic purple pigment known as Han purple</span>. Tragically, this preservation was fleeting. The figures had remained sealed beneath waterlogged silt for two millennia. Upon unearthing, sudden contact with the modern dry air <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">caused the moisture-swollen underlying <span class=\"kw\">lacquer</span> to dehydrate in seconds</span>, <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">flaking off and destroying the pigments within four minutes of exposure. Consequently, major excavation ceased until specialized moisture-retention technologies could be formulated</span>.</p><p><strong>Paragraph 5.</strong> The soldiers were fully armed with real, functional weapons, including thousands of bronze arrowheads, halberds, and double-edged swords. Early metallurgical testing revealed that many bronze blades were sharp and gleaming, free from significant corrosion after two thousand years underground. This observation sparked a popular hypothesis that Qin metallurgists had invented a sophisticated anti-rust coating using chromium plating. However, <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">rigorous modern scanning electron microscopy refuted this romantic theory: the microscopic chromium traces originated simply from tree lacquer used on adjacent scabbards and handles</span>. Instead, the real secret behind the weapons' extraordinary state of preservation was the surrounding soil, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">whose <span class=\"kw\">alkaline</span> chemistry and dense, compacted clay had effectively shielded the bronze artifacts from air and moisture</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The Construction of the Terracotta Army",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Discovery and composition</b></p><ul><li style=\"margin-bottom:10px;\">Farmers discovered the first artifacts while attempting to dig a <b>1.</b> {{q1}} during dry conditions.</li><li style=\"margin-bottom:10px;\">The statues were placed facing <b>2.</b> {{q2}} to guard against potential attacks by former enemies.</li></ul><p><b>Manufacturing techniques</b></p><ul><li style=\"margin-bottom:10px;\">Sculptors created solid clay <b>3.</b> {{q3}} to ensure the figures remained stable and balanced.</li><li style=\"margin-bottom:10px;\">Facial details were added by hand so that every soldier had unique physical <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">Each worker had to stamp their <b>5.</b> {{q5}} on statues so officials could identify who made them.</li></ul><p><b>Decay and preservation</b></p><ul><li style=\"margin-bottom:10px;\">The vibrant original pigments vanished rapidly when the underlying <b>6.</b> {{q6}} lost its moisture.</li><li style=\"margin-bottom:10px;\">Bronze weapons stayed preserved over centuries due to the <b>7.</b> {{q7}} nature of the surrounding soil.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 112?<br>In boxes 8–13 on your answer sheet, write:<br><b>TRUE</b> – if the statement agrees with the information<br><b>FALSE</b> – if the statement contradicts the information<br><b>NOT GIVEN</b> – if there is no information on this</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "well",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...set out to sink an agricultural water well approximately 1.5 kilometres east...\"</i>",
+          "<b>Distractors:</b> complex, layer.",
+          "<b>Từ cần điền:</b> <b>well</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": [
+        "eastward",
+        "east"
+      ],
+      "inputWidth": "120px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...positioned in precise battle formation facing eastward...\"</i>",
+          "<b>Distractor:</b> mount.",
+          "<b>Từ cần điền:</b> <b>eastward</b> (hoặc <b>east</b>)."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "legs",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...artisans fabricated the legs as solid clay cylinders...\"</i>",
+          "<b>Distractors:</b> torsos, heads.",
+          "<b>Từ cần điền:</b> <b>legs</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "features",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...no two soldiers among the thousands uncovered share identical features.\"</i>",
+          "<b>Distractors:</b> outlines, expressions.",
+          "<b>Từ cần điền:</b> <b>features</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "name",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...the individual name of each foreman or artisan was stamped directly into the wet clay...\"</i>",
+          "<b>Distractors:</b> standards, code.",
+          "<b>Từ cần điền:</b> <b>name</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "lacquer",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...caused the moisture-swollen underlying lacquer to dehydrate in seconds...\"</i>",
+          "<b>Distractors:</b> silt, air.",
+          "<b>Từ cần điền:</b> <b>lacquer</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "alkaline",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...whose alkaline chemistry and dense, compacted clay had effectively shielded the bronze...\"</i>",
+          "<b>Distractors:</b> sandy, red.",
+          "<b>Từ cần điền:</b> <b>alkaline</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Pit 1 contains more terracotta horses than human infantry figures.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Pit 1 chứa 6,000 binh lính và 40 chiến xa, không phải chứa nhiều ngựa hơn người.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Artisans used a single mould to mass-produce the faces of all soldiers.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Rather than employing a single master mould for facial features... individual sculptors hand-carved distinct ears, mustaches... no two soldiers... share identical features.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "The Han purple pigment was synthesized through a chemical process developed by Qin craftspeople.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Có nhắc đến chất nhuộm tổng hợp Han purple, nhưng không hề nói liệu quy trình này có phải do chính thợ thủ công nhà Tần phát minh hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Archaeological excavations were temporarily stopped because painted surfaces dried out too quickly.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...destroying the pigments within four minutes of exposure. Consequently, major excavation ceased until specialized moisture-retention technologies could be formulated.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Modern microscopy confirmed that Qin craftsmen coated swords with chromium to stop corrosion.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...modern scanning electron microscopy refuted this romantic theory: the microscopic chromium traces originated simply from tree lacquer...\"</i> → Bác bỏ giả thuyết cổ nhân chủ động mạ crom.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "The central burial tomb of Qin Shi Huang has remained unexcavated due to safety concerns.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Toàn bài:</b> Bài đọc mô tả khu vực quân đoàn đất nung ngoài lăng mộ, không đề cập tình trạng hay lý do lăng mộ trung tâm chưa được khai quật.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}
