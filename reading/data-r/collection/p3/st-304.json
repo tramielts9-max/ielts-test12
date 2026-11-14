@@ -1,0 +1,268 @@
+{
+  "title": "Bài sưu tầm 304 - Passage 3: The Mechanical Muse: Artificial Intelligence and Aesthetic Value",
+  "answers": {
+    "q27": "B",
+    "q28": "C",
+    "q29": "A",
+    "q30": "B",
+    "q31": "E",
+    "q32": "C",
+    "q33": "A",
+    "q34": "D",
+    "q35": "G",
+    "q36": "YES",
+    "q37": "NO",
+    "q38": "NO",
+    "q39": "YES",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 304</h2><h3>The Mechanical Muse: Artificial Intelligence and Aesthetic Value</h3><p><strong>Paragraph 1.</strong> In May 2018, an unremarkable painting of a gentleman in historic French attire sold at Christie’s auction house in New York for an astonishing $432,500—more than forty times its pre-sale estimate. What electrified the international art market was not the portrait's technical mastery, but its signature: an algebraic formula. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">The canvas, entitled <em>Portrait of Edmond de Belamy</em>, was generated entirely by a Generative Adversarial Network (GAN)</span>, an artificial intelligence algorithm trained on a dataset of fifteen thousand historic portraits spanning six centuries. For techno-enthusiasts, the sale signaled a historic revolution: machine intelligence had breached the final citadel of human exclusivity—artistic creativity.</p><p><strong>Paragraph 2.</strong> In <em>The Algorithmic Canvas</em>, aesthetician and philosopher Dr. Julian Barnes offers a much-needed philosophical deconstruction of this hype. Barnes begins by clarifying how GANs function mathematically. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">A generative adversarial network operates via two competing algorithms: a 'generator' that synthesizes novel digital images from random noise, and a 'discriminator' that <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">evaluates those images against a database of genuine human art</span>, rejecting any image that fails to mimic human style.</span> Through millions of algorithmic iterations, the generator learns to produce outputs so statistically convincing that the discriminator can no longer distinguish them from human artifacts. Barnes insists that while this process represents a tour-de-force of computational pattern-recognition, categorizing it as 'creative' <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">conflates mathematical mimicry with aesthetic intentionality</span>.</p><p><strong>Paragraph 3.</strong> To understand why machine output lacks genuine aesthetic substance, Barnes revives the philosophical concept of artistic agency. Human art is never merely a combination of visual frequencies or linguistic syntax; it is an act of <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">communicative intentionality born from subjective, embodied consciousness</span>. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">When Vincent van Gogh painted <em>The Starry Night</em>, his swirling brushstrokes were not an algorithmic interpolation of 19th-century color frequencies, but a desperate, visceral attempt to translate psychological agony, cosmic awe, and spiritual longing onto canvas.</span> <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">An algorithm, by contrast, feels nothing, desires nothing, and perceives nothing. It possesses neither mortality nor embodiment; it has no interior psychological life to articulate.</span> It rearranges statistical pixels without understanding that a pixel represents grief, light, or love.</p><p><strong>Paragraph 4.</strong> Furthermore, Barnes warns of the profound economic and cultural distortions threatened by mass-generated synthetic art. If commercial enterprises can generate infinite variations of musical scores, literary prose, and visual designs at zero marginal cost, <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\"><span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">the economic ecosystem sustaining human creative professionals will inevitably collapse</span></span>. More perniciously, algorithmic art threatens to trap culture in an endless feedback loop of derivative nostalgia. Because generative algorithms are trained exclusively on existing cultural archives, their outputs are inherently backward-looking, <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">homogenizing aesthetic diversity into a bland, optimized average of past tastes</span>. While algorithms can recombine the past with astounding speed, <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\"><span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\"><span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\"><span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">the creation of genuinely avant-garde art requires breaking established rules—a radical act of human rebellion that mathematics alone can never conceive</span></span></span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–29",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–29 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 30–35",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 30–35 on your answer sheet.</i><br><br><b>A.</b> uniformity &nbsp;&nbsp; <b>B.</b> intent &nbsp;&nbsp; <b>C.</b> financial<br><b>D.</b> rebellion &nbsp;&nbsp; <b>E.</b> consciousness &nbsp;&nbsp; <b>F.</b> accidental<br><b>G.</b> human &nbsp;&nbsp; <b>H.</b> complex &nbsp;&nbsp; <b>I.</b> mechanical",
+      "summaryTitle": "The Limits and Dangers of Algorithmic Creativity",
+      "questionIds": [
+        "q30",
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35"
+      ],
+      "template": "<p>Dr. Barnes argues that calling AI art 'creative' is incorrect because it confuses pattern replication with true aesthetic <b>30.</b> {{q30}} . Real art depends on an artist's personal <b>31.</b> {{q31}} and emotional perspective, which computer models completely lack. In addition to philosophical concerns, Barnes identifies severe <b>32.</b> {{q32}} risks for living artists whose careers may be undermined by the effortless generation of synthetic content. Furthermore, because machine learning systems rely entirely on historical data, their artistic products risk promoting cultural <b>33.</b> {{q33}} rather than innovation. True progression in art requires an artist to engage in <b>34.</b> {{q34}} against accepted conventions, an ability that remains an exclusively <b>35.</b> {{q35}} capability.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 36–39",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 304? In boxes 36–39 on your answer sheet, write: <b>YES</b> / <b>NO</b> / <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q36",
+        "q37",
+        "q38",
+        "q39"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Question 40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in box 40 on your answer sheet.</i>",
+      "questionIds": [
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What made the sale of the <em>Portrait of Edmond de Belamy</em> significant?",
+      "options": [
+        "A. It set an all-time record price for a French historical portrait.",
+        "B. It was created through a computer algorithm rather than a human painter.",
+        "C. It had been lost in a private international collection for centuries.",
+        "D. It demonstrated that antique art collectors prefer algebraic signatures."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"canvas was generated entirely by a Generative Adversarial Network... machine intelligence breached human creativity.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "According to the second paragraph, how does a generative adversarial network operate?",
+      "options": [
+        "A. by requiring continuous manual programming from human computer scientists",
+        "B. by training an algorithm to reject all forms of historical artistic imagery",
+        "C. by pitting two internal programs against each other to replicate visual styles",
+        "D. by translating written poetic descriptions into physical paint textures"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"operates via two competing algorithms: a 'generator' that synthesizes... and a 'discriminator' that evaluates...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "In the third paragraph, the author discusses Van Gogh’s <em>The Starry Night</em> to demonstrate that",
+      "options": [
+        "A. human art serves as a vehicle for communicating lived emotional experience.",
+        "B. modern computers can now duplicate complex oil-painting techniques.",
+        "C. 19th-century post-impressionist artists were mathematically precise.",
+        "D. psychological illness is a prerequisite for authentic artistic creativity."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"communicative intentionality born from subjective, embodied consciousness... translate psychological agony, cosmic awe...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>aesthetic intentionality ↔ aesthetic intent</i>",
+          "<b>Kết luận:</b> Chọn <b>B (intent)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>subjective, embodied consciousness ↔ personal consciousness</i>",
+          "<b>Kết luận:</b> Chọn <b>E (consciousness)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>economic ecosystem sustaining human creative professionals will collapse ↔ financial risks</i>",
+          "<b>Kết luận:</b> Chọn <b>C (financial)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>homogenizing aesthetic diversity into a bland average ↔ cultural uniformity</i>",
+          "<b>Kết luận:</b> Chọn <b>A (uniformity)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>radical act of human rebellion that mathematics alone can never conceive ↔ rebellion</i>",
+          "<b>Kết luận:</b> Chọn <b>D (rebellion)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>radical act of human rebellion ↔ human capability</i>",
+          "<b>Kết luận:</b> Chọn <b>G (human)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "The discriminator algorithm in a GAN evaluates images by comparing them to real human artworks.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"evaluates those images against a database of genuine human art\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Computer algorithms will soon experience basic forms of biological desire.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Khẳng định máy móc không bao giờ có dục vọng sinh học: <i>\"An algorithm feels nothing, desires nothing... possesses neither mortality nor embodiment\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Synthetic art generation will lead to significant job security for commercial human illustrators.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Nguy cơ làm sụp đổ việc làm: <i>\"ecosystem sustaining creative professionals will inevitably collapse\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Genuine artistic progression often involves violating traditional stylistic boundaries.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"creation of genuinely avant-garde art requires breaking established rules\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Which subtitle would be most suitable for Reading Passage 304?",
+      "options": [
+        "A. Why computer intelligence will permanently replace human artists",
+        "B. The financial mechanisms behind international art auctions",
+        "C. Why algorithmic mimicry cannot replace authentic human art",
+        "D. The history of European portraiture from the Renaissance to the present"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "Chủ đề tổng quát: Phản biện sự ảo tưởng của nghệ thuật thuật toán so với chiều sâu nhân bản.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

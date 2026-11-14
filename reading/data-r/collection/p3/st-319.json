@@ -1,0 +1,262 @@
+{
+  "title": "Bài sưu tầm 319 - Passage 3: The Metaphorical Machine: Embodied Cognition and Language",
+  "answers": {
+    "q27": "A",
+    "q28": "B",
+    "q29": "B",
+    "q30": "B",
+    "q31": "F",
+    "q32": "E",
+    "q33": "C",
+    "q34": "D",
+    "q35": "A",
+    "q36": "YES",
+    "q37": "NO",
+    "q38": "YES",
+    "q39": "NO",
+    "q40": "A"
+  },
+  "passageHtml": "<h2>READING PASSAGE 319</h2><h3>The Metaphorical Machine: Embodied Cognition and Language</h3><p><strong>Paragraph 1.</strong> For decades, the dominant model in cognitive science treated the human mind as a biological computer. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Popularized by early artificial intelligence researchers and formal linguists</span>, this computational paradigm held that cognition consists of the <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">disembodied manipulation of abstract, arbitrary symbols according to formal mathematical syntax</span>. In this view, sensory experiences and physical bodies are merely <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">peripheral input-output hardware</span>; the central processing unit of thought functions independently of flesh, muscle, and spatial movement. However, in <em>The Flesh of Thought</em>, cognitive linguists Dr. Arthur Pence and Dr. Miriam Cho mount a comprehensive demolition of this computational orthodoxy.</p><p><strong>Paragraph 2.</strong> Pence and Cho argue for the theory of 'embodied cognition,' asserting that abstract thought is fundamentally <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">rooted in physical bodily interactions with the physical world</span>. The primary conceptual bridge between bodily experience and abstract reasoning is metaphor. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Far from being a decorative flourish reserved for poets, metaphor is the <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">foundational operating system of everyday thought</span>.</span> <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">We conceptualize time through the physical domain of spatial motion: the future is 'in front of us,' the past is 'behind us,' and deadlines 'approach.' We conceptualize affection in terms of physical temperature (a 'warm' welcome versus a 'cold' stare), and social status in terms of vertical orientation (climbing the 'corporate ladder,' or feeling 'down').</span></p><p><strong>Paragraph 3.</strong> The authors demonstrate that these conceptual metaphors are not arbitrary linguistic habits; they are directly grounded in our sensorimotor neurobiology. Functional magnetic resonance imaging (fMRI) studies reveal that <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">when human subjects read metaphorical phrases such as 'she had a rough day' or 'he grasped the idea,' <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">the brain regions that light up are not abstract linguistic centers, but the primary somatosensory cortex (processing physical texture) and the <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">motor cortex (governing physical hand grasping)</span></span>.</span> The brain literally comprehends abstract ideas by reactivating neural circuits originally evolved for physical manipulation and tactile perception. Thought cannot be divorced from the biological body because the body provides the sensory vocabulary for thought.</p><p><strong>Paragraph 4.</strong> In their final analysis, Pence and Cho explore the sobering limitations this imposes on artificial intelligence. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">Silicon-based algorithms, devoid of biological flesh, tactile sensation, and mortality</span>, can manipulate syntactic symbols with staggering velocity, <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">but they cannot truly 'understand' what those symbols signify</span>. An algorithm has never experienced the physical warmth of an embrace, the visceral heaviness of exhaustion, or the spatial sensation of balance. Until machine intelligence possesses an embodied physical interface that interacts with the material world, <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">true semantic comprehension will remain an exclusively biological preserve</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–29",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–29 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 30–35",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 30–35 on your answer sheet.</i><br><br><b>A.</b> understanding &nbsp;|&nbsp; <b>B.</b> hardware &nbsp;|&nbsp; <b>C.</b> movement<br><b>D.</b> embodiment &nbsp;|&nbsp; <b>E.</b> framework &nbsp;|&nbsp; <b>F.</b> interaction<br><b>G.</b> temporary &nbsp;|&nbsp; <b>H.</b> financial &nbsp;|&nbsp; <b>I.</b> dangerous",
+      "summaryTitle": "The Embodied Foundations of Thought",
+      "questionIds": [
+        "q30",
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35"
+      ],
+      "template": "<p>Early cognitive scientists believed that human intelligence functioned like software, dismissing the physical body as mere <b>30.</b> {{q30}} equipment. However, proponents of embodied cognition argue that all intellectual reasoning is formed through direct physical <b>31.</b> {{q31}} with our surroundings. Researchers show that everyday metaphors are not decorative, but serve as an essential cognitive <b>32.</b> {{q32}} for comprehending abstract realities. Brain imaging proves that reading physical metaphors stimulates areas responsible for bodily <b>33.</b> {{q33}} and touch. This biological reality presents a profound barrier for current artificial intelligence. Because computers lack biological <b>34.</b> {{q34}} and physical sensation, they are capable of computational speed, but remain entirely devoid of genuine <b>35.</b> {{q35}} .</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 36–39",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 319? In boxes 36–39 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q36",
+        "q37",
+        "q38",
+        "q39"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Question 40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in box 40 on your answer sheet.</i>",
+      "questionIds": [
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "According to the first paragraph, the traditional computational model viewed human thought as",
+      "options": [
+        "A. the disembodied processing of abstract symbols.",
+        "B. an entirely emotional reaction governed by heart rate.",
+        "C. a biological capability unique to modern poets.",
+        "D. an unstable process that cannot be recorded mathematically."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"disembodied manipulation of abstract, arbitrary symbols according to formal mathematical syntax.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "In the second paragraph, the authors discuss metaphors of space and temperature to show that",
+      "options": [
+        "A. ancient languages had smaller vocabularies than modern tongues.",
+        "B. abstract concepts are understood through concrete physical experiences.",
+        "C. people across different climates develop incompatible cognitive models.",
+        "D. poetry is more difficult for the brain to process than scientific data."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Trừu tượng hóa thời gian/cảm xúc thông qua không gian/nhiệt độ vật lý (<i>conceptualize time through spatial motion... affection in terms of physical temperature</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Neuroimaging experiments mentioned in the third paragraph demonstrate that metaphorical language",
+      "options": [
+        "A. disables the brain’s motor circuits completely.",
+        "B. activates sensory areas originally evolved for physical interaction.",
+        "C. is processed solely within the right cerebral hemisphere.",
+        "D. requires significantly more glucose than literal speech."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Kích hoạt vùng cảm giác vận động: <i>activates the somatosensory cortex and motor cortex... circuits originally evolved for physical manipulation</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>peripheral input-output hardware</i> ↔ <b>hardware (B)</b> equipment."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>rooted in physical bodily interactions with the physical world</i> ↔ physical <b>interaction (F)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>foundational operating system of everyday thought</i> ↔ cognitive <b>framework (E)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>motor cortex (governing physical hand grasping)</i> ↔ bodily <b>movement (C)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>devoid of biological flesh... and mortality</i> ↔ biological <b>embodiment (D)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>true semantic comprehension will remain...</i> ↔ genuine <b>understanding (A)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "The computational paradigm in cognitive science was initially influenced by artificial intelligence research.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Popularized by early artificial intelligence researchers and formal linguists...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Metaphors are used primarily by professional writers rather than ordinary speakers.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Phủ định trực tiếp: <i>\"Far from being a decorative flourish reserved for poets, metaphor is the foundational operating system of everyday thought.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Reading phrases about grasping objects activates motor circuits in the human brain.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"when human subjects read metaphorical phrases such as... 'he grasped the idea,' the brain regions that light up are... the motor cortex\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Current AI systems fully comprehend the human emotional meaning behind words.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Máy móc không hề hiểu: <i>\"they cannot truly 'understand' what those symbols signify...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Which subtitle would be most suitable for Reading Passage 319?",
+      "options": [
+        "A. How physical bodily experience forms the foundation of human thought",
+        "B. Why computer algorithms will soon outpace human emotional intelligence",
+        "C. The historical origins of grammatical rules in ancient languages",
+        "D. The medical treatments available for somatosensory cortex trauma"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "Chủ đề tổng quát: Trải nghiệm thể xác vật lý tạo nên nền tảng của tư duy trừu tượng.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    }
+  }
+}

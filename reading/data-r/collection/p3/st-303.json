@@ -1,0 +1,259 @@
+{
+  "title": "Bài sưu tầm 303 - Passage 3: Sunken Archives: The Ethics of Deep-Sea Archaeology",
+  "answers": {
+    "q27": "C",
+    "q28": "B",
+    "q29": "A",
+    "q30": "E",
+    "q31": "J",
+    "q32": "D",
+    "q33": "NOT GIVEN",
+    "q34": "YES",
+    "q35": "NO",
+    "q36": "YES",
+    "q37": "B",
+    "q38": "C",
+    "q39": "A",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 303</h2><h3>Sunken Archives: The Ethics of Deep-Sea Archaeology</h3><p><strong>Paragraph 1.</strong> Throughout the nineteenth and twentieth centuries, the bottom of the world's oceans remained an impenetrable vault, preserving millennia of human maritime history beneath miles of crushing water. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">However, the rapid advancement of acoustic sonar, autonomous underwater vehicles (AUVs), and deep-submergence robotics over the past two decades has unlocked the abyssal plain.</span> Shipwrecks that sank centuries ago in international waters are now within reach of human intervention. In <em>Treasures of the Abyss</em>, <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">maritime archaeologist Dr. Elena Gomez delivers an incisive critique of the turbulent collision between commercial salvage operations and scientific underwater archaeology</span>.</p><p><strong>Paragraph 2.</strong> Gomez begins by exposing the fundamental divide between commercial salvage operators and academic researchers. To deep-sea exploration corporations financed by private venture capital, historic shipwrecks are treated essentially as mineral claims or sunken bank vaults. Companies invest millions deploying cutting-edge robotic submersibles to retrieve bullion, silver coins, and valuable porcelain from colonial-era galleons, often selling artifacts at auction to private collectors to <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">generate shareholder dividends</span></span>. Gomez contends that this commercial model fundamentally destroys historical knowledge. In classical archaeology, <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">an artifact's physical context—its precise spatial coordinates relative to the ship’s hull, cargo ballast, and surrounding structural debris—provides roughly ninety percent of its historical meaning</span>. When robotic claws indiscriminately scoop coins from the seabed to maximize recovery rates, <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">that non-renewable archaeological context is obliterated forever</span>.</p><p><strong>Paragraph 3.</strong> Conversely, the commercial sector argues that without corporate capital, the vast majority of deep-sea sites would remain forever inaccessible. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\"><span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">State cultural institutions and university departments, chronically constrained by tight public budgets, simply lack the tens of millions of dollars required to charter advanced research vessels and deep-water robotics for multiple seasons.</span></span> Commercial pioneers contend that <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">private-public partnerships, in which commercial firms <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">recoup operational expenses by selling duplicate commercial artifacts</span> while donating unique items to museums</span>, represent the only pragmatic compromise. Gomez, however, dismisses this defense as disingenuous, pointing out that in the art and antiquities market, <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">designating items as 'duplicates' is an arbitrary commercial label designed to legitimize looting</span>.</p><p><strong>Paragraph 4.</strong> The debate is further complicated by <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">jurisdictional vacuums. In international waters beyond exclusive economic zones (EEZs), national heritage legislation carries no legal force.</span> The 2001 UNESCO Convention on the Protection of the Underwater Cultural Heritage established that underwater artifacts should not be commercially exploited. However, <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">key maritime nations—most notably the United States and the United Kingdom—have declined to ratify the treaty</span>, citing maritime salvage traditions and admiralty law. Gomez concludes with a somber appraisal: unless international legal accords can establish <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">binding global stewardship</span> over deep-ocean cultural heritage, our collective maritime archive will be systematically plundered under the banner of commercial discovery.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 27–32",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below. Write the correct letter, <b>A–J</b>, in boxes 27–32 on your answer sheet.</i><br><br><b>A.</b> financial &nbsp;&nbsp; <b>B.</b> destruction &nbsp;&nbsp; <b>C.</b> profits &nbsp;&nbsp; <b>D.</b> enforceable &nbsp;&nbsp; <b>E.</b> cooperative<br><b>F.</b> territorial &nbsp;&nbsp; <b>G.</b> temporary &nbsp;&nbsp; <b>H.</b> obscure &nbsp;&nbsp; <b>I.</b> legal &nbsp;&nbsp; <b>J.</b> unregulated",
+      "summaryTitle": "The Conflict Over Deep-Sea Shipwrecks",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31",
+        "q32"
+      ],
+      "template": "<p>Recent technological innovations have made historically significant shipwrecks accessible to human exploration. Commercial exploration companies view these sites as opportunities to generate substantial <b>27.</b> {{q27}} by retrieving and selling valuable artifacts. However, academic archaeologists argue that removing objects without recording their spatial position causes the complete <b>28.</b> {{q28}} of crucial historical data. In defense of their activities, commercial salvagers argue that public institutions have serious <b>29.</b> {{q29}} limitations that prevent them from funding expensive deep-sea technology. They advocate for <b>30.</b> {{q30}} models that combine private funding with public preservation. Nonetheless, Dr. Gomez rejects these proposals, insisting that treating cultural artifacts as commercial assets undermines archaeological integrity. This problem is aggravated by the <b>31.</b> {{q31}} status of high-seas territories, where the absence of <b>32.</b> {{q32}} international rules leaves ancient sites vulnerable to exploitation.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 33–36",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 303? In boxes 33–36 on your answer sheet, write: <b>YES</b> / <b>NO</b> / <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>generate shareholder dividends ↔ generate substantial profits</i>",
+          "<b>Kết luận:</b> Chọn <b>C (profits)</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>archaeological context is obliterated forever ↔ destruction of crucial historical data</i>",
+          "<b>Kết luận:</b> Chọn <b>B (destruction)</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>chronically constrained by tight public budgets ↔ financial limitations</i>",
+          "<b>Kết luận:</b> Chọn <b>A (financial)</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>private-public partnerships ↔ cooperative models</i>",
+          "<b>Kết luận:</b> Chọn <b>E (cooperative)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "J",
+      "inputWidth": "80px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>jurisdictional vacuums / no legal force ↔ unregulated status</i>",
+          "<b>Kết luận:</b> Chọn <b>J (unregulated)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>binding global stewardship ↔ enforceable international rules</i>",
+          "<b>Kết luận:</b> Chọn <b>D (enforceable)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Advanced robotic technology has significantly lowered the cost of deep-sea exploration vessels.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "Bài chỉ nói công nghệ phát triển giúp tiếp cận đáy biển, không hề nói chi phí tàu thuyền đã giảm.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "An artifact’s exact underwater location is critical to understanding its archaeological importance.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"an artifact's physical context—its precise spatial coordinates... provides roughly ninety percent of its historical meaning.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "State cultural institutions currently possess adequate funding to explore deep-water shipwrecks.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"State cultural institutions... chronically constrained by tight public budgets, simply lack the tens of millions of dollars...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "The classification of artifacts as duplicates is often used to justify selling cultural objects.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...designating items as 'duplicates' is an arbitrary commercial label designed to legitimize looting.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What is the primary objection academic archaeologists raise against commercial salvage firms?",
+      "options": [
+        "A. They use substandard robotic equipment that damages delicate ship timbers.",
+        "B. They prioritize financial extraction over the preservation of contextual data.",
+        "C. They intentionally misidentify the historical origins of ancient vessels.",
+        "D. They prevent university researchers from boarding deep-sea exploration ships."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bán đấu giá để chia cổ tức, phá hủy bối cảnh khảo cổ → Ưu tiên tiền bạc hơn bối cảnh.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "How do commercial salvage firms justify selling parts of their maritime recoveries?",
+      "options": [
+        "A. by arguing that public museums do not have enough storage space",
+        "B. by asserting that private collectors take better care of fragile relics",
+        "C. by pointing out that sale proceeds are needed to offset colossal operational costs",
+        "D. by claiming that all valuable gold and silver items are donated to universities"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bù đắp chi phí thuê tàu đắt đỏ: <i>recoup operational expenses</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "What problem regarding the 2001 UNESCO Convention is mentioned in the final paragraph?",
+      "options": [
+        "A. It failed to receive the formal endorsement of several prominent maritime powers.",
+        "B. Its guidelines on artifact storage were rejected by academic researchers.",
+        "C. It applies solely to shallow coastal territorial waters rather than shipwrecks.",
+        "D. It was enacted before autonomous underwater vehicles had been invented."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Nhiều nước hàng hải lớn như Mỹ, Anh từ chối phê chuẩn: <i>declined to ratify the treaty</i>.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Which title best reflects the overarching theme of Reading Passage 303?",
+      "options": [
+        "A. Technological Breakthroughs in Modern Robotic Navigation",
+        "B. The High Seas: A Legal Triumph for Global Cultural Conservation",
+        "C. Plunder or Preservation: The Crisis Facing Sunken Human History",
+        "D. The Economic Superiority of Private Exploration Companies"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "Đánh giá xung đột cốt lõi: Bảo tồn hay Cướp bóc dưới đáy biển.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

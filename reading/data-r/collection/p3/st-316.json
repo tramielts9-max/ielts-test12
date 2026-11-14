@@ -1,0 +1,265 @@
+{
+  "title": "Bài sưu tầm 316 - Passage 3: The Laughter Circuit: Evolutionary Roots of Social Mirth",
+  "answers": {
+    "q27": "B",
+    "q28": "B",
+    "q29": "B",
+    "q30": "B",
+    "q31": "D",
+    "q32": "B",
+    "q33": "E",
+    "q34": "A",
+    "q35": "NO",
+    "q36": "NO",
+    "q37": "YES",
+    "q38": "NOT GIVEN",
+    "q39": "YES",
+    "q40": "NO"
+  },
+  "passageHtml": "<h2>READING PASSAGE 316</h2><h3>The Laughter Circuit: Evolutionary Roots of Social Mirth</h3><p><strong>Paragraph 1.</strong> Laughter is among the most universal yet physiologically bizarre of human behaviors. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Unlike articulate speech, which requires conscious cortical planning, spontaneous laughter is a convulsive, involuntary vocalization governed by primitive subcortical brain structures.</span> Across every human culture, people laugh long before they learn to speak; infants produce recognizable social giggles by the fourth month of life. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">Yet, for millennia, philosophical discourse dismissed laughter as a trivial cultural affectation or, as Plato and Thomas Hobbes famously contended, <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">an aggressive expression of malicious superiority over others' misfortunes</span>. In <em>The Comic Primate</em>, evolutionary neuroscientist Dr. Robin Dunbar dismantles this cynical heritage, demonstrating that laughter is an ancient biological mechanism that predates modern humans by millions of years.</span></p><p><strong>Paragraph 2.</strong> Dunbar anchors his inquiry in comparative primatology. Great apes—specifically chimpanzees, bonobos, and orangutans—emit rhythmic, breathy panting sounds during juvenile play and tickling matches. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Acoustically distinct from human laughter</span>, <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">this simian vocalization nonetheless shares identical neurobiological triggers and evolutionary functions: it serves as an acoustic flag signaling that physical wrestling is benign play rather than genuine aggression.</span> Dunbar argues that as ancestral hominin groups expanded beyond the typical foraging troop size of fifty individuals, <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">traditional physical grooming—the primary mechanism primates use to cement reciprocal alliances—became mathematically unsustainable. A primate cannot physically groom more than two companions simultaneously without neglecting vital foraging.</span> Laughter evolved as an efficient form of 'vocal grooming,' <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">allowing a single hominin to broadcast social warmth and establish emotional bonds with multiple individuals simultaneously.</span></p><p><strong>Paragraph 3.</strong> The physiological dividends of laughter provide compelling support for this bonding hypothesis. Neuroimaging and endocrinological assays reveal that the sustained, rhythmic spasms of the diaphragm during genuine laughter exert intense physical exertion on the thoracic muscles. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\"><span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">This mechanical fatigue triggers the release of endorphins—the brain’s endogenous opioid peptides—into the central nervous system.</span></span> <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Endorphins not only alleviate physical pain, but also induce a neurochemical state of calmness, trust, and heightened interpersonal bonding.</span> Laughter literally alters the chemistry of the collective mind, creating a shared neurological space in which social cohesion flourishes.</p><p><strong>Paragraph 4.</strong> In later chapters, Dunbar turns to the darker, stratifying dimensions of humor. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Laughter is not an entirely benign adhesive; it also operates as an acoustic barrier.</span> In-group conversational laughter frequently relies on specialized cultural codes, <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">ironic cues, and exclusionary satire designed to signal tribal affiliation and ostracize outsiders.</span> Furthermore, human conversational dynamics reveal subtle hierarchies: <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\"><span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">subordinates laugh far more frequently at the utterances of dominant figures than vice versa, using laughter as a low-risk diplomatic appeasement strategy.</span></span> Laughter, Dunbar demonstrates, is a double-edged sword: the very evolutionary tool that built cooperative human tribes remains an instrument of subtle social dominance.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 31–34",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below. Write the correct letter, <b>A–F</b>, in boxes 31–34 on your answer sheet.</i>",
+      "endings": [
+        "A. a diplomatic method used to appease high-status individuals.",
+        "B. it permitted individuals to bond with several peers at once.",
+        "C. it permanently eradicated physical competition in primates.",
+        "D. an aggressive demonstration of social superiority.",
+        "E. the release of natural chemicals that promote group trust.",
+        "F. a sign of severe cognitive distress during public speaking."
+      ],
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 35–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 316? In boxes 35–40 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q35",
+        "q36",
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What is the author doing in the first paragraph?",
+      "options": [
+        "A. challenging the historical belief that infants learn to laugh from adults",
+        "B. contrasting historical philosophical views of laughter with modern scientific findings",
+        "C. detailing the physiological differences between speech and involuntary crying",
+        "D. arguing that modern humans laugh significantly less than their ancient ancestors"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Đối chiếu góc nhìn triết học cổ điển (Plato, Hobbes coi là khinh miệt) với khoa học hiện đại (Dunbar chứng minh là cơ chế tiến hóa cổ xưa).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Dunbar mentions primate play-panting in the second paragraph in order to",
+      "options": [
+        "A. prove that chimpanzees possess identical vocal tract anatomy to humans.",
+        "B. show that vocal play signals existed long before the evolution of humans.",
+        "C. argue that physical grooming is more effective than acoustic vocalization.",
+        "D. illustrate why great apes are unable to live in large social groups."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Tiếng thở hổn hển của vượn cho thấy tín hiệu âm thanh khi chơi đùa đã tồn tại từ trước loài người (<i>serves as an acoustic flag... shares identical evolutionary functions</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "According to Dunbar, why did physical grooming become inadequate for early hominins?",
+      "options": [
+        "A. Aggression between rival troops made physical contact too dangerous.",
+        "B. Growing community sizes made manual grooming too time-consuming.",
+        "C. Hominins lost their body hair, making grooming biologically unnecessary.",
+        "D. Climate changes forced hominins to forage during the night."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bộ lạc mở rộng vượt quá 50 cá thể khiến chải lông thủ công quá tốn thời gian (<i>grooming became mathematically unsustainable... cannot groom more than two companions without neglecting foraging</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "In the fourth paragraph, what point does Dunbar emphasize regarding laughter?",
+      "options": [
+        "A. It is rarely practiced by individuals in subordinate positions.",
+        "B. It can function both as an inclusive social bond and an exclusionary weapon.",
+        "C. It has completely replaced physical conflict in modern political diplomacy.",
+        "D. It prevents conversational participants from understanding ironic statements."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Vũ khí hai lưỡi: vừa gắn kết bộ lạc vừa là công cụ thống trị và loại trừ người ngoài (<i>double-edged sword... acoustic barrier... ostracize outsiders</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Early philosophical thinkers like Plato regarded laughter as",
+      "finalAnswer": "D",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...an aggressive expression of malicious superiority over others' misfortunes.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "Vocal grooming was an evolutionary advantage because",
+      "finalAnswer": "B",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...allowing a single hominin to broadcast social warmth and establish emotional bonds with multiple individuals simultaneously.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "The physical fatigue caused by vigorous laughing stimulates",
+      "finalAnswer": "E",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...triggers the release of endorphins... induce a neurochemical state of calmness, trust, and heightened interpersonal bonding.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Conversational laughter among lower-ranking group members is often",
+      "finalAnswer": "A",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...subordinates laugh far more frequently... using laughter as a low-risk diplomatic appeasement strategy.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Spontaneous human laughter requires complex, deliberate mental planning.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Unlike articulate speech, which requires conscious cortical planning, spontaneous laughter is a convulsive, involuntary vocalization...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "The vocalizations made by chimpanzees during play are identical in sound to human laughter.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Phủ định trực tiếp âm thanh: <i>\"Acoustically distinct from human laughter...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Endorphins released during laughter help to increase pain tolerance in humans.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Endorphins not only alleviate physical pain, but also induce a neurochemical state of calmness...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Dunbar conducted laboratory tests measuring endorphin levels in wild primates.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "Bài viết không đề cập việc Dunbar có trực tiếp đo endorphin trên vượn hoang dã hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Conversational humor is sometimes used to exclude individuals from social groups.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"ironic cues, and exclusionary satire designed to signal tribal affiliation and ostracize outsiders.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Dominant social figures laugh more frequently than their subordinates during conversations.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Ngược nghĩa hoàn toàn: <i>\"subordinates laugh far more frequently at the utterances of dominant figures than vice versa\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

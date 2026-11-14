@@ -1,0 +1,252 @@
+{
+  "title": "Bài sưu tầm 315 - Passage 3: The Loom of Reason: Weaving, Mathematics, and Early Computing",
+  "answers": {
+    "q27": "YES",
+    "q28": "NOT GIVEN",
+    "q29": "YES",
+    "q30": "NO",
+    "q31": "YES",
+    "q32": "E",
+    "q33": "A",
+    "q34": "G",
+    "q35": "B",
+    "q36": "F",
+    "q37": "B",
+    "q38": "B",
+    "q39": "A",
+    "q40": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 315</h2><h3>The Loom of Reason: Weaving, Mathematics, and Early Computing</h3><p><strong>Paragraph 1.</strong> In conventional histories of computer science, <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\"><span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">the dawn of digital computation is typically anchored in the mid-twentieth century, celebrated through the wartime cryptography and electromechanical breakthroughs of Alan Turing and John von Neumann</span></span>. However, in <em>The Algorithmic Thread</em>, historian of technology Dr. Miranda Croft demonstrates that <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">the intellectual genealogy of software originated not in military labs or theoretical physics departments, but in the textile mills of the early nineteenth century</span>. The true progenitor of modern computing was not an engineer manipulating electronic switches, but a <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">silk weaver manipulating threads: Joseph Marie Jacquard</span>.</p><p><strong>Paragraph 2.</strong> Patented in 1804, the Jacquard loom resolved a centuries-old bottleneck in silk weaving. Producing intricate damasks and brocades had previously <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">required a 'draw-boy' to manually hoist hundreds of individual warp threads</span> according to a complex sequence of verbal commands—a <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">slow, physically punishing, and error-prone process</span>. Jacquard mechanized this operation by inventing a system of linked, interchangeable punched cards. Rows of holes punched into stiff pasteboard instructed the loom’s mechanical hooks whether to raise or lower specific threads. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">A hole allowed a rod to pass through, lifting the thread; the absence of a hole blocked the rod</span>. By stringing chains of punched cards together, a weaver could automate the production of breathtakingly complex imagery. Crucially, <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">Jacquard had invented the separation of hardware from software: the physical loom was a generalized machine whose operations were dictated entirely by an external, readable program</span>.</p><p><strong>Paragraph 3.</strong> The profound mathematical significance of Jacquard’s cards was recognized by English polymath Charles Babbage. In the 1830s, Babbage abandoned his mechanical calculator, the Difference Engine, to design the Analytical Engine—a conceptual design universally recognized as the first general-purpose computer. Babbage directly adopted Jacquard's punch-card architecture, <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">realizing that cards could encode not merely artistic patterns for silk, but abstract mathematical variables and algebraic instructions</span>. Working alongside Babbage, mathematician Ada Lovelace formulated an insight that anticipated computer science by a century: she observed that the Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves.</p><p><strong>Paragraph 4.</strong> Lovelace went further, conceptualizing what theorists now designate as algorithmic thinking. She <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\"><span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">realized that if numbers could represent symbolic entities—such as musical pitches, letters, or logic operators—the machine could manipulate any system governed by rules, transcending mere mathematical calculation</span></span>. Yet, Croft avoids modern hagiography, noting that <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\"><span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">neither Babbage nor Lovelace ever completed a functional Analytical Engine due to Victorian limits in mechanical precision engineering</span></span>. Croft concludes that <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">recognizing computing’s textile origins performs a vital historical corrective: it bridges the false divide between feminine artisan craft and masculine industrial mathematics</span>, proving that our digital world was woven into existence.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 27–31",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 315? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 32–36",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–G</b>, below. Write the correct letter, <b>A–G</b>, in boxes 32–36 on your answer sheet.</i>",
+      "endings": [
+        "A. it disconnected the mechanical hardware from the external programmed instructions.",
+        "B. Victorian manufacturing lacked the mechanical precision to build its parts.",
+        "C. Babbage lost interest in theoretical mathematics after meeting Ada Lovelace.",
+        "D. it proved that women were the primary inventors of mechanical looms.",
+        "E. assistants were forced to manually lift threads during every stage.",
+        "F. challenge the artificial distinction between artisan craft and computing science.",
+        "G. they allowed the storage of both numerical variables and operations."
+      ],
+      "questionIds": [
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "Standard histories of computing locate its origins in mid-twentieth-century military innovations.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"anchored in the mid-twentieth century, celebrated through the wartime cryptography...\"</i> → Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Joseph Marie Jacquard acquired his technical knowledge by studying academic mathematics.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "Bài chỉ nói Jacquard là thợ dệt lụa (<i>silk weaver</i>), không nói ông có học toán học thuật hay không → Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Before Jacquard's invention, silk weaving was prone to errors because of manual operations.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"slow, physically punishing, and error-prone process\"</i> → Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "Charles Babbage successfully built a fully functioning Analytical Engine during his lifetime.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Phủ định trực tiếp: <i>\"neither Babbage nor Lovelace ever completed a functional Analytical Engine...\"</i> → Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Ada Lovelace realized that computing machinery could manipulate abstract symbols other than numbers.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"realized that if numbers could represent symbolic entities—such as musical pitches, letters, or logic operators...\"</i> → Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "Traditional silk weaving required intense physical effort because",
+      "finalAnswer": "E",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...required a 'draw-boy' to manually hoist hundreds of individual warp threads\"</i> → Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Jacquard’s punched card mechanism was revolutionary because",
+      "finalAnswer": "A",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...invented the separation of hardware from software...\"</i> → Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Charles Babbage integrated Jacquard’s punch cards into his computer because",
+      "finalAnswer": "G",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...abstract mathematical variables and algebraic instructions.\"</i> → Chọn <b>G</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "The Analytical Engine remained an unrealized theoretical machine because",
+      "finalAnswer": "B",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...due to Victorian limits in mechanical precision engineering.\"</i> → Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Identifying the textile roots of computer programming helps to",
+      "finalAnswer": "F",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...bridges the false divide between feminine artisan craft and masculine industrial mathematics\"</i> → Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "In the second paragraph, how did Jacquard’s punched cards operate physically?",
+      "options": [
+        "A. Electrical circuits were completed whenever paper came into contact with water.",
+        "B. Openings in the card permitted mechanical rods to pass and lift specific threads.",
+        "C. Magnets positioned beneath the cards turned mechanical gears automatically.",
+        "D. Hand-carved wooden blocks stamped images directly onto plain white fabric."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"A hole allowed a rod to pass through, lifting the thread; the absence of a hole blocked the rod.\"</i>"
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "What was Ada Lovelace’s crucial contribution to the philosophy of computing?",
+      "options": [
+        "A. She invented a new metal alloy that allowed Babbage’s engines to function smoothly.",
+        "B. She recognized that computers could process any information that obeys logical rules.",
+        "C. She proved that military cryptography could be solved using hand-loom cards.",
+        "D. She argued that mechanical computers should be restricted solely to financial calculations."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"manipulate any system governed by rules, transcending mere mathematical calculation\"</i>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Why does the author mention Alan Turing and John von Neumann in the first paragraph?",
+      "options": [
+        "A. to highlight figures who are traditionally considered the founders of computer science",
+        "B. to argue that modern computing has achieved little since the mid-twentieth century",
+        "C. to prove that British wartime cryptography was largely ineffective",
+        "D. to demonstrate that theoretical physics is superior to mechanical engineering"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Đưa ra để minh họa những nhân vật thường được lịch sử chính thống coi là cha đẻ ngành máy tính."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What is Dr. Miranda Croft’s overarching thesis in The Algorithmic Thread?",
+      "options": [
+        "A. The textile industry declined because it refused to adopt automated computers.",
+        "B. The intellectual concepts underlying modern software originated in early textile weaving.",
+        "C. Modern digital computers are less reliable than nineteenth-century mechanical engines.",
+        "D. Charles Babbage has received too much credit for inventions created by silk weavers."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"intellectual genealogy of software originated in textile mills\"</i>."
+        ]
+      }
+    }
+  }
+}

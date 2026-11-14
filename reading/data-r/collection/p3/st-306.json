@@ -1,0 +1,245 @@
+{
+  "title": "Bài sưu tầm 306 - Passage 3: The Invention of the Alphabet: Script, Statecraft, and Literacy",
+  "answers": {
+    "q27": "A",
+    "q28": "D",
+    "q29": "E",
+    "q30": "G",
+    "q31": "C",
+    "q32": "B",
+    "q33": "NO",
+    "q34": "NOT GIVEN",
+    "q35": "YES",
+    "q36": "YES",
+    "q37": "C",
+    "q38": "B",
+    "q39": "A",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 306</h2><h3>The Invention of the Alphabet: Script, Statecraft, and Literacy</h3><p><strong>Paragraph 1.</strong> For millennia, the written word was an elite instrument of imperial control. In ancient Mesopotamia and Pharaonic Egypt, scripts such as cuneiform and hieroglyphics comprised hundreds, sometimes thousands, of intricate pictographic and ideographic symbols. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Mastery of these systems required decades of rigorous scribal training, effectively confining literacy to a <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">hereditary caste of administrative bureaucrats</span>, priests, and royal accountants.</span> Because these writing systems represented entire concepts, syllables, or specific royal words, writing operated as a formidable barrier to the democratization of knowledge, <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">cementing social hierarchy</span> by ensuring that ordinary labourers remained permanently dependent upon scribal intermediaries to interpret state decrees, commercial contracts, and sacred religious liturgies.</p><p><strong>Paragraph 2.</strong> In <em>The Alphabet: A Revolution in Human Thought</em>, epigrapher and cultural historian Dr. Aaron Vance explores the seismic socio-political disruption triggered by the genesis of the phonetic alphabet. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">The earliest traces of this radical technology were unearthed not in grand imperial palaces, but in the remote turquoise mines of Serabit el-Khadim on the Sinai Peninsula.</span> Dated to approximately 1800 BCE, inscriptions carved into the desert sandstone reveal a crude script now known as Proto-Sinaitic. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">These texts were produced by <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">Semitic-speaking migrant workers</span> who, lacking access to elite Egyptian schooling, <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">adapted roughly two dozen Egyptian hieroglyphic symbols to represent individual consonant sounds</span> of their own spoken language, rather than entire concepts.</span></p><p><strong>Paragraph 3.</strong> By collapsing thousands of visual ideograms into a concise repertoire of approximately thirty abstract acoustic signs, this proto-alphabetic system achieved an extraordinary economy of cognitive effort. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Literacy was decoupled from lifetime scribal apprenticeships; anyone capable of speech could, within weeks, learn to map their spoken sounds onto paper, stone, or papyrus.</span> As Vance persuasively argues, the phonetic alphabet was an intrinsically egalitarian technology. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">While imperial states initially dismissed the script as crude graffiti fit only for foreign slaves and itinerant traders</span>, <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\"><span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">merchant seafaring networks—specifically the Phoenicians—quickly recognized its revolutionary commercial efficiency</span></span>. Transported across maritime trading routes, the Phoenician phonetic alphabet gave birth to Greek, Aramaic, Latin, and ultimately the vast majority of modern world scripts.</p><p><strong>Paragraph 4.</strong> However, Vance avoids romanticizing the alphabet as an unproblematic triumph of egalitarian liberation. In his final chapters, he investigates the profound psychological and epistemic transformations that accompanied alphabetic literacy, reviving the classical anxieties articulated by Socrates in Plato’s <em>Phaedrus</em>. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Socrates warned that the externalization of memory into phonetic text would atrophy human cognitive faculties</span>, cultivating an illusion of wisdom rather than true understanding. Vance demonstrates that while ideographic writing retained an intuitive, perceptual connection to the physical world, <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">the phonetic alphabet severed that link, habituating human consciousness to radical abstraction</span>, linear causality, and ideological rigidity. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">The alphabet democratized access to the state apparatus, but it also reconstructed the human architecture of thought.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 27–32",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below.<br>Write the correct letter, <b>A–J</b>, in boxes 27–32 on your answer sheet.</i><br><br><b>A.</b> class &nbsp;|&nbsp; <b>B.</b> abstraction &nbsp;|&nbsp; <b>C.</b> traders &nbsp;|&nbsp; <b>D.</b> hierarchy &nbsp;|&nbsp; <b>E.</b> labourers<br><b>F.</b> enthusiasm &nbsp;|&nbsp; <b>G.</b> disdain &nbsp;|&nbsp; <b>H.</b> temporary &nbsp;|&nbsp; <b>I.</b> uniform &nbsp;|&nbsp; <b>J.</b> religious",
+      "summaryTitle": "The Societal Shift from Hieroglyphs to the Alphabet",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31",
+        "q32"
+      ],
+      "template": "<p>In ancient empires, early written languages consisted of thousands of complex symbols, which meant that literacy was restricted to a specialized <b>27.</b> {{q27}} of scribes. Ordinary people were unable to access written texts, which allowed royal rulers to preserve a rigid <b>28.</b> {{q28}} . The initial breakthrough toward phonetic writing occurred when uneducated <b>29.</b> {{q29}} in mining areas utilized a reduced set of visual markers to correspond to specific spoken sounds. This technological leap was initially viewed with <b>30.</b> {{q30}} by ruling classes. However, maritime <b>31.</b> {{q31}} adopted the script due to its practical value in business. Despite its democratic advantages, modern researchers argue that alphabetic literacy fostered an excessive level of <b>32.</b> {{q32}} in human thought.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 33–36",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 306?<br>In boxes 33–36 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the views of the writer<br><b>NO</b> – if the statement contradicts the views of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>hereditary caste of administrative bureaucrats</i> ↔ specialized class of scribes → <b>A (class)</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>cementing social hierarchy</i> ↔ preserve a rigid hierarchy → <b>D (hierarchy)</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>Semitic-speaking migrant workers</i> ↔ uneducated labourers → <b>E (labourers)</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>imperial states initially dismissed the script as crude graffiti</i> ↔ viewed with disdain → <b>G (disdain)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>merchant seafaring networks—specifically the Phoenicians</i> ↔ maritime traders → <b>C (traders)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>habituating human consciousness to radical abstraction</i> ↔ excessive level of abstraction → <b>B (abstraction)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "The earliest known alphabetic inscriptions were discovered inside prestigious Egyptian administrative buildings.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Khẳng định chữ không tìm thấy ở cung điện hoàng gia mà ở mỏ ngọc xa xôi (<i>unearthed not in grand imperial palaces, but in the remote turquoise mines</i>) → <b>NO</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "The Phoenicians were motivated by religious convictions to disseminate the alphabet throughout the Mediterranean.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Người Phoenicia phổ biến chữ vì hiệu quả thương mại (<i>commercial efficiency</i>), không hề nhắc đến động cơ tôn giáo → <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Proto-Sinaitic miners altered the function of Egyptian hieroglyphs to record individual phonetic sounds.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>adapted roughly two dozen Egyptian hieroglyphic symbols to represent individual consonant sounds</i> → <b>YES</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Socrates believed that reading written texts could degrade natural human memory.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>Socrates warned that the externalization of memory into phonetic text would atrophy human cognitive faculties</i> → <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What was the primary effect of ancient ideographic writing systems on society?",
+      "options": [
+        "A. They allowed rapid communication across neighboring empires.",
+        "B. They compelled monarchs to establish free schools for commoners.",
+        "C. They prevented the broad dispersal of literacy among the general public.",
+        "D. They encouraged religious groups to revolt against government tax collectors."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Đòi hỏi học hàng chục năm, ngăn cản phổ biến tri thức → prevented broad dispersal of literacy → <b>C</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "In the second paragraph, what does Dr. Vance emphasize regarding Proto-Sinaitic writing?",
+      "options": [
+        "A. It was invented by high-ranking Egyptian scholars.",
+        "B. It originated among marginalized foreign workers in remote areas.",
+        "C. It was rejected by miners because it was too difficult to carve.",
+        "D. It relied on complex grammar rules borrowed from Mesopotamia."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Phát minh bởi công nhân nhập cư nghèo ở vùng hẻo lánh → originated among marginalized foreign workers in remote areas → <b>B</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "According to the third paragraph, why was the alphabet an egalitarian technology?",
+      "options": [
+        "A. It eliminated the requirement for lengthy, formal scribal schooling.",
+        "B. It guaranteed that all citizens received identical political rights.",
+        "C. It made the production of stone monuments inexpensive.",
+        "D. It forced ruling dynasties to share their wealth with seafaring traders."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Thoát khỏi việc học nghề cả đời, chỉ vài tuần là biết đọc → eliminated the requirement for lengthy, formal scribal schooling → <b>A</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What is the author's primary conclusion regarding the impact of the phonetic alphabet?",
+      "options": [
+        "A. It caused irreversible cultural declines in all civilizations that adopted it.",
+        "B. It successfully eliminated all forms of social and economic inequality.",
+        "C. It expanded social access to literacy while fundamentally altering how people conceptualize reality.",
+        "D. It was technologically inferior to ancient Egyptian pictographic systems."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Vừa dân chủ hóa quyền lực nhà nước, vừa tái cấu trúc tư duy → expanded social access while fundamentally altering thought → <b>C</b>."
+        ]
+      }
+    }
+  }
+}

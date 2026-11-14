@@ -1,0 +1,254 @@
+{
+  "title": "Bài sưu tầm 308 - Passage 3: The Deep Reader: Cognitive Architecture in the Digital Age",
+  "answers": {
+    "q27": "B",
+    "q28": "B",
+    "q29": "C",
+    "q30": "B",
+    "q31": "E",
+    "q32": "A",
+    "q33": "C",
+    "q34": "D",
+    "q35": "G",
+    "q36": "NO",
+    "q37": "YES",
+    "q38": "NOT GIVEN",
+    "q39": "YES",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 308</h2><h3>The Deep Reader: Cognitive Architecture in the Digital Age</h3><p><strong>Paragraph 1.</strong> The shift from the printed codex to the illuminated digital screen represents the most profound cognitive transition since Gutenberg’s movable-type press. Today, the average adult reads thousands of words daily—scrolling through online news, absorbing social media updates, and skimming hypertext articles. Yet, in <em>Reader, Come Home</em>, cognitive neuroscientist Dr. Maryanne Wolf argues that we are confusing the consumption of digital text with the act of reading. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Reading is not a natural biological capability hardwired into our genome; unlike vision or spoken language, the human brain possesses no dedicated 'reading center'.</span> <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">Instead, reading requires the brain to forge novel neural connections, co-opting visual, auditory, and motor circuits into an intricate reading circuit.</span></p><p><strong>Paragraph 2.</strong> Wolf demonstrates that this circuit is profoundly plastic, <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">continually adapting its structure to the characteristics of the reading medium</span>. Print literacy nurtured what Wolf terms 'deep reading'—a cognitive state characterized by sustained contemplation, inferential reasoning, critical analysis, and empathetic immersion. The physical topography of a printed book—its fixed spatial layout, sequential pages, and tactile presence—serves as cognitive scaffolding. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">Because the text does not move or fluctuate, the reader’s cognitive energy is dedicated entirely to internal reflection, questioning the author’s premises and constructing nuanced mental models.</span></p><p><strong>Paragraph 3.</strong> By contrast, the digital medium fosters what researchers describe as an 'information triage' circuit. Screen reading encourages rapid skimming, scanning for keywords, and continuous jumping across hyperlinks. In a digital environment <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">saturated with hyperlinks, interactive notifications, and competing pop-ups</span>, <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">the brain’s attentional resources are placed in a perpetual state of cognitive fragmentation</span>. Eye-tracking investigations reveal that <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">readers confronted with digital screens rarely read horizontally line-by-line; instead, their gaze moves in a rapid 'F-shaped' pattern, absorbing the opening sentences before skipping down the left-hand margin to <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">harvest isolated bits of data</span></span>.</p><p><strong>Paragraph 4.</strong> The consequences of this cognitive restructuring are profound. When our reading circuit is habituated to speed and superficial foraging, the brain <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">loses the cognitive patience required to parse dense, syntactically complex prose</span>. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Wolf cautions that university students increasingly struggle to engage with challenging classical literature or extended academic philosophy</span>, expressing irritation with works that require <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">slow, recursive reading</span>. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">More alarmingly, this cognitive atrophy threatens democratic discourse. Democratic citizenship requires the <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">capacity to evaluate competing complex arguments, identify rhetorical deception</span>, and empathize with opposing viewpoints</span>—intellectual capacities forged exclusively within the contemplative architecture of deep reading. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">If society abandons deep reading for the relentless superficiality of the digital stream, we risk surrendering our capacity for independent critical thought.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–29",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 27–29 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 30–35",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below.<br>Write the correct letter, <b>A–I</b>, in boxes 30–35 on your answer sheet.</i><br><br><b>A.</b> interruptions &nbsp;|&nbsp; <b>B.</b> medium &nbsp;|&nbsp; <b>C.</b> patience &nbsp;|&nbsp; <b>D.</b> democratic &nbsp;|&nbsp; <b>E.</b> extraction<br><b>F.</b> language &nbsp;|&nbsp; <b>G.</b> arguments &nbsp;|&nbsp; <b>H.</b> speed &nbsp;|&nbsp; <b>I.</b> memory",
+      "summaryTitle": "The Cognitive Dangers of Screen Reading",
+      "questionIds": [
+        "q30",
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35"
+      ],
+      "template": "<p>Neuroscientific research shows that the human reading brain alters its physical structure depending on the <b>30.</b> {{q30}} being utilized. While printed materials encourage deep thought and analytical reasoning, digital screens promote rapid <b>31.</b> {{q31}} of surface data. Because digital platforms feature endless <b>32.</b> {{q32}} like notifications and hyperlinks, users suffer from constant attentional division. Over time, individuals experience a decline in the mental <b>33.</b> {{q33}} necessary to decipher intricate sentences. Dr. Wolf contends that this shift has alarming implications for <b>34.</b> {{q34}} health, as citizens become less capable of detecting misleading <b>35.</b> {{q35}} in political life.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 36–39",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 308?<br>In boxes 36–39 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the views of the writer<br><b>NO</b> – if the statement contradicts the views of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q36",
+        "q37",
+        "q38",
+        "q39"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Question 40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in box 40 on your answer sheet.</i>",
+      "questionIds": [
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "In the first paragraph, what point does Dr. Maryanne Wolf make about reading?",
+      "options": [
+        "A. Human beings are born with an innate biological capacity to decode written text.",
+        "B. Reading requires the brain to repurpose neural areas designed for other functions.",
+        "C. Adults today consume significantly fewer written words than in previous generations.",
+        "D. The printing press caused irreversible damage to human speech development."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"brain possesses no dedicated 'reading center'... requires the brain to forge novel neural connections, co-opting visual, auditory, and motor circuits...\"</i> → <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "The physical layout of a printed book is described as beneficial because it",
+      "options": [
+        "A. enables the reader to memorize the exact location of vocabulary.",
+        "B. allows cognitive effort to be focused on critical thought and reflection.",
+        "C. encourages rapid transition between different thematic sections.",
+        "D. reduces eye strain compared to natural outdoor reading environments."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Because the text does not move... cognitive energy is dedicated entirely to internal reflection, questioning premises...\"</i> → <b>B</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "According to the third paragraph, what do eye-tracking studies reveal about screen reading?",
+      "options": [
+        "A. People read text with greater grammatical precision online than in print.",
+        "B. Readers examine every line of digital text with equal attention.",
+        "C. Visual movements follow a fragmented pattern focused on finding selective data.",
+        "D. Screen readers frequently re-read entire paragraphs to verify difficult facts."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"rarely read horizontally line-by-line... rapid 'F-shaped' pattern... to harvest isolated bits of data.\"</i> → <b>C</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>continually adapting its structure to the characteristics of the reading medium</i> ↔ medium → <b>B (medium)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>harvest isolated bits of data / skimming</i> ↔ extraction → <b>E (extraction)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>hyperlinks, interactive notifications, and competing pop-ups</i> ↔ interruptions → <b>A (interruptions)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>loses the cognitive patience required to parse dense, syntactically complex prose</i> ↔ patience → <b>C (patience)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>alarmingly, this cognitive atrophy threatens democratic discourse</i> ↔ democratic health → <b>D (democratic)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>capacity to evaluate competing complex arguments, identify rhetorical deception</i> ↔ misleading arguments → <b>G (arguments)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Spoken language and reading are processed in the human brain via identical genetic mechanisms.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Phủ định trực tiếp: <i>\"unlike vision or spoken language, the human brain possesses no dedicated 'reading center'\"</i> → <b>NO</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Reading from screens causes the brain's attentional capacity to become fractured.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"attentional resources are placed in a perpetual state of cognitive fragmentation.\"</i> → <b>YES</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Universities have successfully updated their curricula to accommodate students' new digital reading habits.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chỉ nói sinh viên gặp khó khăn với văn học cổ điển, không nói trường đại học có cập nhật giáo trình thành công hay không → <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Complex literary texts require slower, non-linear reading strategies to be understood fully.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"slow, recursive reading\"</i> → <b>YES</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Which subtitle would be most suitable for Reading Passage 308?",
+      "options": [
+        "A. Why modern children no longer purchase printed literature",
+        "B. The technological history of digital e-readers",
+        "C. How digital reading habits threaten deep human thought",
+        "D. The economic collapse of commercial publishing houses"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Chủ đề xuyên suốt:</b> Mối đe dọa của việc đọc lướt kỹ thuật số lên tư duy phân tích sâu → <b>C</b>."
+        ]
+      }
+    }
+  }
+}

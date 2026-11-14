@@ -1,0 +1,265 @@
+{
+  "title": "Bài sưu tầm 301 - Passage 3: The Architecture of Ennui: A History of Boredom",
+  "answers": {
+    "q27": "B",
+    "q28": "B",
+    "q29": "B",
+    "q30": "A",
+    "q31": "B",
+    "q32": "A",
+    "q33": "E",
+    "q34": "D",
+    "q35": "NO",
+    "q36": "NO",
+    "q37": "NO",
+    "q38": "YES",
+    "q39": "NOT GIVEN",
+    "q40": "YES"
+  },
+  "passageHtml": "<h2>READING PASSAGE 301</h2><h3>The Architecture of Ennui: A History of Boredom</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">In an era saturated with perpetual digital stimulation, boredom is routinely diagnosed as a psychological pathology to be eradicated. Every idle pause—waiting for a train, sitting in a doctor’s reception, standing in a supermarket queue—is promptly filled by the glowing refuge of the smartphone screen. Yet, in <em>Out of Mind: A Cultural History of Boredom</em>, cultural historian Peter Toohey argues that our contemporary terror of boredom blinds us to its evolutionary and existential functions.</span> Rather than representing an empty void, boredom is an ancient cognitive alarm system.</p><p><strong>Paragraph 2.</strong> Toohey begins by demystifying the semantic origins of the phenomenon. While early Christian monastics recognized <em>acedia</em>—a spiritual lethargy that plagued desert monks <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">unable to concentrate on divine contemplation</span>—<span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\"><span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">the term 'boredom' itself did not enter the English lexicon until the mid-nineteenth century, notably popularized by Charles Dickens in his 1853 novel <em>Bleak House</em>. Dickens employed it to describe Lady Dedlock’s chronic aristocratic apathy, a malaise born of extreme social privilege and material excess.</span></span> Toohey insists, however, that distinguishing between this chronic, existential ennui and simple, situational boredom is crucial. Situational boredom is a functional adaptive mechanism shared across mammalian species; when an animal is trapped in an environment offering neither nutritional reward nor cognitive stimulation, <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">boredom induces restlessness, compelling the creature to alter its location and explore alternative resources</span>.</p><p><strong>Paragraph 3.</strong> The industrialization of Europe irrevocably altered the landscape of boredom. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">The mechanization of craft labour and the imposition of synchronized factory shifts created a form of work in which bodily repetition was decoupled from intellectual involvement. Unlike the agrarian peasant whose tasks shifted with weather patterns and seasonal demands, <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">the factory hand was confined to monotonous routines dictated by mechanical engines</span>.</span> It was during this epoch that boredom ceased to be an aristocratic indulgence and was democratized across the industrial proletariat. The burgeoning mass-entertainment industries of the late Victorian era—music halls, pulp fiction periodicals, and seaside resorts—emerged not merely as leisure venues, but as <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">commercialized antidotes designed to commodify the psychological vacuum manufactured by factory floors</span>.</p><p><strong>Paragraph 4.</strong> In later chapters, Toohey takes issue with contemporary psychological discourse that pathologizes boredom, specifically the diagnosis of 'boredom proneness' as a precursor to addictive disorders and depression. While acknowledging that <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">chronic boredom can indeed correlate with destructive impulsive behaviours</span>, <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Toohey cautions against medicalizing what is fundamentally an evolutionary distress flare. Neuroscientific brain scans reveal that during states of mild boredom, the brain’s default mode network (DMN) activates. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">Far from shutting down, the subconscious begins recombining disparate memories, <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">processing unresolved emotional tensions</span>, and generating creative insights.</span></span></p><p><strong>Paragraph 5.</strong> Ultimately, Toohey’s work provides a needed corrective to our panic over idle minds. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\"><span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">By treating every unprogrammed moment as a cognitive emergency requiring technological anaesthetic, modern society risks suffocating the very soil in which artistic originality and autonomous introspection germinate.</span></span> Boredom, Toohey concludes, is not an absence of meaning, but an urgent invitation to construct it.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 31–34",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below. Write the correct letter, <b>A–F</b>, in boxes 31–34 on your answer sheet.</i>",
+      "endings": [
+        "A. it drives them to seek out novel environmental opportunities.",
+        "B. they struggled with long periods of spiritual focus.",
+        "C. it provided workers with higher disposable wages.",
+        "D. the brain remains mentally active even when idle.",
+        "E. industrial labor had created an emotional void in workers.",
+        "F. it prevents the development of chronic depression."
+      ],
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 35–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 301? In boxes 35–40 on your answer sheet, write: <b>YES</b> / <b>NO</b> / <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q35",
+        "q36",
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What is the writer’s main purpose in the first paragraph?",
+      "options": [
+        "A. to highlight the negative impact of digital technology on attention spans",
+        "B. to contrast current perceptions of boredom with Toohey’s central thesis",
+        "C. to explain why modern medical practitioners view boredom as dangerous",
+        "D. to argue that ancient societies experienced less boredom than contemporary ones"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"While boredom is routinely diagnosed as a pathology... Toohey argues contemporary terror blinds us to its functions.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "The writer mentions Lady Dedlock in <em>Bleak House</em> to illustrate",
+      "options": [
+        "A. how early literature reflected the spiritual struggles of the working classes.",
+        "B. the linguistic origin of the word 'boredom' as associated with elite classes.",
+        "C. the profound impact of industrial machinery on mid-Victorian literature.",
+        "D. why chronic ennui was considered a fatal psychological condition."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"term 'boredom' itself did not enter... until mid-19th century, notably popularized by Charles Dickens... to describe Lady Dedlock's aristocratic apathy.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "According to the third paragraph, what distinguishes industrial workers from agrarian peasants?",
+      "options": [
+        "A. the physical danger inherent in their daily operations",
+        "B. the separation of physical actions from mental engagement",
+        "C. the degree of social isolation experienced in their communities",
+        "D. their inability to afford commercial forms of entertainment"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"bodily repetition was decoupled from intellectual involvement. Unlike the agrarian peasant... factory hand was confined to monotonous routines...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "In the fourth paragraph, what is Toohey’s attitude toward modern psychological views of boredom?",
+      "options": [
+        "A. He believes they overlook the neurological and creative utility of the state.",
+        "B. He agrees that boredom is the leading cause of substance abuse in adults.",
+        "C. He criticizes psychologists for relying excessively on brain imaging technology.",
+        "D. He fears that psychological therapies make boredom increasingly permanent."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"cautions against medicalizing what is fundamentally an evolutionary distress flare... default mode network activates... generating creative insights.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Early Christian monastics experienced acedia because",
+      "finalAnswer": "B",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...unable to concentrate on divine contemplation\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "Situational boredom in animals is adaptive because",
+      "finalAnswer": "A",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...compelling the creature to alter its location and explore alternative resources.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Late Victorian entertainment sectors developed because",
+      "finalAnswer": "E",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...commercialized antidotes designed to commodify the psychological vacuum manufactured by factory floors.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "The activation of the default mode network suggests that",
+      "finalAnswer": "D",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...Far from shutting down, the subconscious begins recombining disparate memories...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "The word 'boredom' was frequently recorded in written English during the medieval era.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"term did not enter the English lexicon until the mid-nineteenth century\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Factory routines forced employees to adapt their tasks according to the seasons.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nông dân mới theo mùa, còn công nhân bị trói vào máy móc: <i>\"routines dictated by mechanical engines\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Chronic boredom and impulsive behaviors show no documented connection.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"chronic boredom can indeed correlate with destructive impulsive behaviours\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Mild boredom allows the subconscious brain to process emotional experiences.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"processing unresolved emotional tensions\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Smartphones have successfully helped artists produce more original creative work.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "Không có thông tin việc smartphone giúp nghệ sĩ sáng tạo hơn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Eliminating all periods of inactivity may endanger human creative capacities.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"treating every unprogrammed moment as cognitive emergency... risks suffocating the very soil in which artistic originality... germinate.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

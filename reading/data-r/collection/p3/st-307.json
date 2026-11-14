@@ -1,0 +1,251 @@
+{
+  "title": "Bài sưu tầm 307 - Passage 3: The Evolution of Altruism: Beyond the Selfish Gene",
+  "answers": {
+    "q27": "B",
+    "q28": "B",
+    "q29": "A",
+    "q30": "B",
+    "q31": "D",
+    "q32": "B",
+    "q33": "E",
+    "q34": "A",
+    "q35": "YES",
+    "q36": "NO",
+    "q37": "NO",
+    "q38": "NOT GIVEN",
+    "q39": "YES",
+    "q40": "NO"
+  },
+  "passageHtml": "<h2>READING PASSAGE 307</h2><h3>The Evolution of Altruism: Beyond the Selfish Gene</h3><p><strong>Paragraph 1.</strong> For nearly half a century, evolutionary biology was dominated by a stark, reductionist narrative: living organisms are biological vehicles engineered to propagate their genetic material at all costs. Popularized by Richard Dawkins in his 1976 landmark text <em>The Selfish Gene</em>, <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">this framework held that apparent instances of cooperation in nature are ultimately selfish calculations</span>. Altruistic behavior was explained away either through <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">kin selection—the mathematical drive to protect organisms sharing one's genes</span>—or reciprocal altruism, summarized by the colloquial maxim 'I will scratch your back if you scratch mine.' <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">Any act of authentic, non-reciprocal sacrifice toward unrelated individuals was viewed by orthodox sociobiology as an evolutionary impossibility.</span></p><p><strong>Paragraph 2.</strong> In <em>Mutual Aid: The Science of Cooperation</em>, evolutionary theorist Dr. Marcus Sterling mounts a formidable empirical assault against this cynical paradigm. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Sterling does not dispute that genetic self-interest operates at micro-levels</span>, but argues that evolutionary biology has fundamentally overlooked the role of higher-level group selection. Across thousands of animal species, from subterranean naked mole-rats to marine cetaceans, cooperative group cohesion systematically outcompetes atomized individual selfishness. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">A band of hominins composed of selfless individuals <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">willing to share foraging yields and risk bodily injury to defend the collective</span> will inevitably prevail over a fractured group of self-interested egoists.</span></p><p><strong>Paragraph 3.</strong> Sterling substantiates his thesis by exploring evolutionary game theory, notably the Iterated Prisoner's Dilemma. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Computer simulations conducted by political scientist Robert Axelrod</span> famously revealed that in multi-round strategic interactions, <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">pure competitive strategies—ruthlessly exploiting cooperative partners—invariably suffer catastrophic long-term collapse</span></span>. Conversely, collaborative strategies such as 'tit-for-tat' (starting with cooperation and subsequently mirroring a partner’s previous choice) generate sustained social stability. Sterling takes this mathematical insight a step further, demonstrating that human neurology has evolved specialized hormonal reward circuits specifically engineered to reinforce collective benevolence. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\"><span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">The release of oxytocin and dopamine during acts of communal sharing provides physiological proof that humans are neurochemically primed for solidarity, not unrelenting competition.</span></span></p><p><strong>Paragraph 4.</strong> The cultural implications of Sterling’s research are profound. In his closing chapters, <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">he criticizes modern neoliberal economic systems for constructing institutions around the false presumption that humans are purely rational, utility-maximizing individualists (<em>Homo economicus</em>)</span>. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">By designing educational curricula, corporate incentive structures, and civic welfare around cut-throat individual metrics, modern societies inadvertently suppress our innate capacity for mutual aid.</span> While human history undeniably contains tribalism and horrific violence, Sterling demonstrates that <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">human survival was secured not by the merciless triumph of the strongest individual, but by our unprecedented capacity to trust, cooperate, and care for the vulnerable</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 31–34",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below.<br>Write the correct letter, <b>A–F</b>, in boxes 31–34 on your answer sheet.</i>",
+      "endings": [
+        "A. they actively stifle our biological disposition toward cooperation.",
+        "B. they were prepared to expose themselves to danger for the tribe.",
+        "C. economic competition is essential for democratic survival.",
+        "D. an impossible outcome under natural selection.",
+        "E. humans are biologically hardwired for collective support.",
+        "F. game theory simulations were originally conducted on animals."
+      ],
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 35–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 307?<br>In boxes 35–40 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the views of the writer<br><b>NO</b> – if the statement contradicts the views of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q35",
+        "q36",
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What is the writer doing in the first paragraph?",
+      "options": [
+        "A. criticizing Richard Dawkins for publishing inaccurate mathematical data",
+        "B. explaining the traditional biological framework that viewed cooperation as selfish",
+        "C. arguing that altruistic behaviors do not exist in natural environments",
+        "D. tracing the historical development of genetic engineering in primates"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Giải thích khung lý thuyết truyền thống của Dawkins: <i>\"orthodox framework held that apparent instances of cooperation... are ultimately selfish calculations.\"</i> → <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Dr. Marcus Sterling suggests that group selection theory explains why",
+      "options": [
+        "A. larger animal species invariably dominate smaller ones.",
+        "B. selfless collectives achieve superior survival outcomes compared to selfish groups.",
+        "C. kin selection theory is completely invalid in all mammalian species.",
+        "D. individual competition accelerates biological adaptation in marine mammals."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"A band of hominins composed of selfless individuals... will inevitably prevail over a fractured group of self-interested egoists.\"</i> → <b>B</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "In the third paragraph, what does the author use the Iterated Prisoner’s Dilemma to demonstrate?",
+      "options": [
+        "A. Aggressive, uncooperative behaviors lead to eventual strategic breakdown.",
+        "B. Computer models fail to capture the complexities of animal biology.",
+        "C. Mathematical calculations cannot predict social interactions between humans.",
+        "D. Individual survival requires deceiving competitors early in an interaction."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"pure competitive strategies—ruthlessly exploiting cooperative partners—invariably suffer catastrophic long-term collapse.\"</i> → <b>A</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "What criticism does Sterling level against contemporary economic structures in the fourth paragraph?",
+      "options": [
+        "A. They rely too heavily on biological models of animal behavior.",
+        "B. They are designed around the mistaken belief that humans are exclusively self-interested.",
+        "C. They fail to reward workers with adequate monetary compensation.",
+        "D. They focus excessively on mutual aid at the expense of industrial efficiency."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Phê phán các thiết chế kinh tế xây dựng trên giả định sai lầm con người chỉ tối đa hóa lợi ích cá nhân (<i>presumption that humans are purely rational, utility-maximizing individualists</i>) → <b>B</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Conventional sociobiology claimed that sacrifice for unrelated individuals was",
+      "finalAnswer": "D",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...orthodox sociobiology as an evolutionary impossibility\"</i> → <b>D</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "Hominin groups containing altruistic members were more resilient because",
+      "finalAnswer": "B",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...willing to share foraging yields and risk bodily injury to defend the collective\"</i> → <b>B</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "The neurological release of hormones during acts of charity shows that",
+      "finalAnswer": "E",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...proof that humans are neurochemically primed for solidarity\"</i> → <b>E</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Contemporary institutional evaluation metrics are problematic because",
+      "finalAnswer": "A",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...inadvertently suppress our innate capacity for mutual aid\"</i> → <b>A</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Kin selection theory proposes that organisms protect relatives to preserve shared genes.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"kin selection—the mathematical drive to protect organisms sharing one's genes\"</i> → <b>YES</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Dr. Sterling denies that genetic self-interest plays any role in biological systems.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Sterling does not dispute that genetic self-interest operates at micro-levels...\"</i> → <b>NO</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "In the Iterated Prisoner's Dilemma, purely competitive strategies maintain long-term success.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"pure competitive strategies... suffer catastrophic long-term collapse\"</i> → <b>NO</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Robert Axelrod received formal awards for his work on strategic game theory.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Không hề nhắc việc Axelrod có nhận giải thưởng hay không → <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Human bodies produce neurochemical rewards when engaging in communal acts.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"release of oxytocin and dopamine during acts of communal sharing provides physiological proof\"</i> → <b>YES</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Human evolutionary survival depended primarily on physical dominance over other species.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"survival was secured not by the merciless triumph of the strongest individual, but by our unprecedented capacity to trust, cooperate...\"</i> → <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

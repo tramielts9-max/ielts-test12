@@ -1,0 +1,245 @@
+{
+  "title": "Bài sưu tầm 311 - Passage 3: The Architecture of Ignorance: Rethinking Scientific Progress",
+  "answers": {
+    "q27": "B",
+    "q28": "C",
+    "q29": "A",
+    "q30": "B",
+    "q31": "B",
+    "q32": "E",
+    "q33": "D",
+    "q34": "F",
+    "q35": "C",
+    "q36": "A",
+    "q37": "NO",
+    "q38": "YES",
+    "q39": "NO",
+    "q40": "YES"
+  },
+  "passageHtml": "<h2>READING PASSAGE 311</h2><h3>The Architecture of Ignorance: Rethinking Scientific Progress</h3><p><strong>Paragraph 1.</strong> In standard textbook narratives, scientific progress is presented as a linear, cumulative ascent toward objective truth. Each generation of researchers is presumed to build upon the empirical foundations laid by predecessors, gradually illuminating nature’s mysteries through rigorous hypothesis-testing and reproducible experimentation. However, in <em>The Ignorance Ledger</em>, philosopher of science Dr. Aris Thorne argues that this triumphant narrative fundamentally misrepresents the epistemological engine of discovery. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">True scientific breakthroughs, Thorne contends, do not merely expand what humanity knows; their primary function is to generate unprecedented categories of ignorance</span>.</p><p><strong>Paragraph 2.</strong> Thorne distinguishes between passive ignorance—the mere absence of knowledge—and active or 'strategic' ignorance. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">Passive ignorance is the condition of an uneducated mind; it is static, unreflective, and unproblematic</span>. Strategic ignorance, by contrast, is an engineered, sophisticated cognitive state produced exclusively by high-level scientific breakthroughs. When physicists discovered quantum mechanics in the early twentieth century, they did not simply resolve classical questions regarding atomic structure; <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">they shattered the deterministic framework of Newtonian physics, suddenly exposing vast landscapes of profound uncertainty</span> regarding wave-particle duality and non-locality</span>. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">The discovery of DNA did not conclude biological inquiry; instead, it revealed the staggering complexities of epigenetics and non-coding genetic material, demonstrating that geneticists were substantially more ignorant about cellular regulation than they had assumed</span> during the heyday of Mendelian genetics.</p><p><strong>Paragraph 3.</strong> A central target of Thorne’s critique is the modern institutional obsession with quantifying scientific productivity. <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">Research councils, university ranking systems, and corporate grant committees evaluate researchers almost entirely through crude bibliometric indicators</span>: the volume of papers published, citation counts, and <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">immediate technological utility</span>. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Thorne argues that this culture of numerical measurement disincentivizes genuine scientific breakthroughs. When scientists are evaluated on predictable results, they are commercially incentivized to pursue 'low-risk, low-yield' research</span>—refining existing paradigms and publishing marginal variations of safe hypotheses. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\"><span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">The audacious, paradigm-shattering inquiries that expose foundational ignorance are systematically starved of institutional funding</span></span> because their outcomes cannot be guaranteed on quarterly performance spreadsheets.</p><p><strong>Paragraph 4.</strong> In his concluding chapters, Thorne calls for a <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">radical overhaul of scientific pedagogy</span> and funding structures. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Rather than rewarding researchers who claim to possess definitive answers, academic institutions should valorize those who formulate superior questions</span>. By treating ignorance not as a disgraceful deficiency to be concealed, but as <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">the supreme currency of intellectual vitality</span>, the scientific enterprise can liberate itself from corporate conservatism. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Science, Thorne insists, does not conquer the darkness; it expands the perimeter of the unknown</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 31–36",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 31–36 on your answer sheet.</i><br><br><b>A.</b> boundaries &nbsp; <b>B.</b> statistical &nbsp; <b>C.</b> vitality &nbsp; <b>D.</b> flaws &nbsp; <b>E.</b> benefits &nbsp; <b>F.</b> approaches &nbsp; <b>G.</b> permanent &nbsp; <b>H.</b> emotional &nbsp; <b>I.</b> accidental",
+      "summaryTitle": "The Commercialization of Academic Research",
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ],
+      "template": "<p>Dr. Thorne argues that contemporary science has been damaged by an over-reliance on <b>31.</b> {{q31}} standards of assessment. Because funding organizations prioritize tangible, short-term <b>32.</b> {{q32}}, scientists are pressured to conduct work that is safe and predictable. This environment suppresses revolutionary theories that might expose fundamental <b>33.</b> {{q33}} in existing models. To correct this problem, Thorne proposes that educational institutions alter their pedagogical <b>34.</b> {{q34}}. Instead of celebrating absolute certainty, society should treat unanswered inquiries as a sign of intellectual <b>35.</b> {{q35}}. Science must recognize that expanding discovery inevitably broadens the <b>36.</b> {{q36}} of human understanding.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 37–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 311? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What is Dr. Thorne’s primary argument in the first paragraph?",
+      "options": [
+        "A. Traditional textbooks intentionally falsify historical data.",
+        "B. True breakthroughs produce new realms of unknown phenomena.",
+        "C. Modern experimentation has become less reproducible over time.",
+        "D. The public has lost confidence in the authority of empirical science."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"True scientific breakthroughs... primary function is to generate unprecedented categories of ignorance.\"</i>"
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "How does Thorne define 'passive ignorance' in the second paragraph?",
+      "options": [
+        "A. as an advanced state of philosophical curiosity",
+        "B. as an intentional refusal to accept scientific discoveries",
+        "C. as a simple lack of information characteristic of an untrained mind",
+        "D. as a temporary barrier that is swiftly eradicated by experimentation"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Passive ignorance is the condition of an uneducated mind; it is static, unreflective...\"</i>"
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "The writer references quantum mechanics and DNA to demonstrate that",
+      "options": [
+        "A. major breakthroughs expose the limitations of established scientific frameworks.",
+        "B. biological systems are mathematically simpler than subatomic physics.",
+        "C. Newtonian physics remains the most reliable explanation of nature.",
+        "D. modern scientists rarely collaborate across distinct academic fields."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"shattered the deterministic framework of Newtonian physics... exposed vast landscapes of profound uncertainty\"</i>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "According to the third paragraph, what is the consequence of relying on bibliometric metrics?",
+      "options": [
+        "A. Academic dishonesty has declined substantially in prestigious journals.",
+        "B. Researchers are discouraged from pursuing risky, paradigm-changing topics.",
+        "C. Younger scientists receive greater funding than established researchers.",
+        "D. Universities have become completely free from corporate influence."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"disincentivizes genuine scientific breakthroughs... commercially incentivized to pursue 'low-risk, low-yield' research\"</i>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> crude bibliometric indicators / numerical measurement ↔ <b>B (statistical)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> immediate technological utility ↔ <b>E (benefits)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 & 3:</b> foundational ignorance / shatter frameworks ↔ <b>D (flaws)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> radical overhaul of scientific pedagogy ↔ <b>F (approaches)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> supreme currency of intellectual vitality ↔ <b>C (vitality)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> expands the perimeter of the unknown ↔ <b>A (boundaries)</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Quantum mechanics reinforced the deterministic principles of Newtonian physics.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"shattered the deterministic framework of Newtonian physics\"</i> → Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Discoveries in genetics demonstrated that cellular functions were far more complex than previously assumed.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"revealed the staggering complexities of epigenetics... substantially more ignorant about cellular regulation than they had assumed\"</i> → Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Research councils currently allocate most of their capital to unproven, highly speculative hypotheses.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Các nghiên cứu táo bạo bị bỏ đói tài chính (<i>\"audacious, paradigm-shattering inquiries... systematically starved of institutional funding\"</i>) → Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Scientific institutions should place greater value on researchers who pose profound questions.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"academic institutions should valorize those who formulate superior questions\"</i> → Chọn <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

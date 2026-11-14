@@ -1,0 +1,245 @@
+{
+  "title": "Bài sưu tầm 313 - Passage 3: Rewilding the Mind: Ecology, Control, and Natural Process",
+  "answers": {
+    "q27": "C",
+    "q28": "A",
+    "q29": "G",
+    "q30": "D",
+    "q31": "E",
+    "q32": "B",
+    "q33": "YES",
+    "q34": "NO",
+    "q35": "NOT GIVEN",
+    "q36": "YES",
+    "q37": "B",
+    "q38": "A",
+    "q39": "B",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 313</h2><h3>Rewilding the Mind: Ecology, Control, and Natural Process</h3><p><strong>Paragraph 1.</strong> For much of the twentieth century, conventional environmental conservation was governed by an ethos of managerial curation. Conservationists operated under a <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">static preservationist paradigm: ecosystems were treated as historical museum exhibits that had to be frozen</span> at a particular chronological baseline—typically the pre-industrial agrarian landscape of the nineteenth century. In national parks across Europe and North America, <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\"><span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">rangers culled predators, cleared fallen timber, and drained wetlands to maintain picturesque scenery suitable for tourist recreation</span></span>. Yet, in <em>Feral: Rewilding the Land, Sea and Human Life</em>, environmental thinker George Monbiot argues that <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">this interventionist management has degraded the biosphere, producing ecologically impoverished landscapes masquerading as pristine nature</span>.</p><p><strong>Paragraph 2.</strong> Monbiot champions the philosophy of 'rewilding'—an ecological strategy that rejects human micro-management in favour of <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">restoring autonomous, self-sustaining natural processes</span>. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">Rewilding does not aim to recreate a specific historical epoch or achieve an arbitrary aesthetic ideal</span>; rather, it entails stepping back, removing human barriers, and allowing natural succession and trophic dynamics to dictate outcomes. Central to this vision is the <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">reinstatement of apex predators and keystone species</span>—such as wolves, lynx, and beavers—whose ecological absence has triggered catastrophic trophic cascades. When apex predators are eliminated, herbivore populations (such as deer) explode, overgrazing young tree saplings, preventing forest regeneration, and stripping landscapes of biological complexity.</p><p><strong>Paragraph 3.</strong> The most famous demonstration of this principle occurred in Yellowstone National Park following the reintroduction of gray wolves in 1995. The return of wolves did not merely reduce overgrown elk herds; it fundamentally transformed their grazing behavior. Wary of predation, elk avoided open valleys and riverbanks, allowing decimated willows, aspens, and cottonwoods to recover within years. <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">The return of waterside trees stabilized eroding banks</span>, provided shade that lowered water temperatures for trout, and <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">supplied timber for beavers, whose newly constructed dams created wetlands</span> that attracted amphibians, songbirds, and waterfowl. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">By altering the behavior of herbivores, the presence of an apex predator literally changed the physical geography of rivers</span>.</p><p><strong>Paragraph 4.</strong> Despite these dramatic successes, rewilding faces fierce sociopolitical resistance. Monbiot explores the <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">entrenched opposition from rural agricultural lobbies and sheep-farming associations, who view rewilding as an <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">existential threat to traditional agrarian livelihoods and rural culture</span></span>. Furthermore, <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">urban environmental agencies often fear the unpredictable nature of rewilded landscapes, which do not conform to tidy, bureaucratic management plans</span>. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Monbiot concludes that rewilding is ultimately as much about human psychology as it is about ecology: it challenges our deep-seated civilizational impulse to dominate, control, and sanitize the natural world, offering instead a humble invitation to coexist with genuine ecological autonomy</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 27–32",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below. Write the correct letter, <b>A–J</b>, in boxes 27–32 on your answer sheet.</i><br><br><b>A.</b> recreational &nbsp; <b>B.</b> survival &nbsp; <b>C.</b> static &nbsp; <b>D.</b> keystone &nbsp; <b>E.</b> recovery &nbsp; <b>F.</b> commercial &nbsp; <b>G.</b> processes &nbsp; <b>H.</b> political &nbsp; <b>I.</b> aggressive &nbsp; <b>J.</b> temporary",
+      "summaryTitle": "The Principles and Politics of Rewilding",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31",
+        "q32"
+      ],
+      "template": "<p>Traditional conservation models functioned by maintaining landscapes in an artificial, <b>27.</b> {{q27}} state. Under this historical approach, human authorities removed natural deadwood and eliminated predatory species to serve <b>28.</b> {{q28}} purposes. In contrast, rewilding seeks to restore biological autonomy by allowing natural <b>29.</b> {{q29}} to operate without human interference. This strategy emphasizes the vital contribution of <b>30.</b> {{q30}} species in stabilizing food webs. The successful reintroduction of wolves to Yellowstone illustrated how changing herbivore movements can lead to the <b>31.</b> {{q31}} of riverbanks. Nonetheless, the widespread adoption of rewilding is opposed by farming groups who perceive it as a danger to their economic <b>32.</b> {{q32}}.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 33–36",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 313? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> static preservationist paradigm / frozen ↔ <b>C (static)</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> picturesque scenery suitable for tourist recreation ↔ <b>A (recreational)</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> restoring autonomous, self-sustaining natural processes ↔ <b>G (processes)</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> reinstatement of apex predators and keystone species ↔ <b>D (keystone)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> trees stabilized eroding banks / recover within years ↔ <b>E (recovery)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> existential threat to traditional agrarian livelihoods ↔ <b>B (survival)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Twentieth-century national parks frequently eliminated apex predators to preserve historical scenery.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"rangers culled predators, cleared fallen timber... to maintain picturesque scenery\"</i> → Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Rewilding seeks to restore ecosystems to a precise pre-industrial year.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Phủ định trực tiếp: <i>\"Rewilding does not aim to recreate a specific historical epoch...\"</i> → Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Beaver populations in Yellowstone grew faster than biologists originally predicted.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Có nhắc hải ly làm đập nước, nhưng không nói tốc độ phát triển có vượt dự đoán hay không → Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Bureaucratic agencies often feel uncomfortable with the lack of predictability in rewilded environments.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"agencies often fear the unpredictable nature of rewilded landscapes...\"</i> → Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What does Monbiot identify as a major flaw in traditional conservation?",
+      "options": [
+        "A. It failed to charge tourists sufficient entrance fees.",
+        "B. It actively created ecologically damaged environments while claiming to protect nature.",
+        "C. It refused to use modern scientific tracking devices on herbivores.",
+        "D. It allowed forests to become dangerously overgrown with brushwood."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Tạo ra cảnh quan nghèo nàn sinh thái núp bóng thiên nhiên nguyên sơ (<i>\"producing ecologically impoverished landscapes masquerading as pristine nature\"</i>)."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "In the third paragraph, the reintroduction of wolves to Yellowstone showed that",
+      "options": [
+        "A. predators can directly alter the physical characteristics of river ecosystems.",
+        "B. elk numbers must be manually controlled by park rangers using weapons.",
+        "C. trout populations decline when waterside trees provide too much shade.",
+        "D. beaver dams are ineffective at preventing catastrophic valley floods."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"literally changed the physical geography of rivers\"</i>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Why do agricultural organizations oppose rewilding projects?",
+      "options": [
+        "A. They fear that wolves will introduce genetic diseases to cattle.",
+        "B. They believe rewilding threatens their traditional customs and economic livelihoods.",
+        "C. They argue that rewilded land attracts too many urban tourists.",
+        "D. They want national parks to be converted into industrial manufacturing plants."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"existential threat to traditional agrarian livelihoods and rural culture\"</i>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Which phrase best summarizes the broader philosophical message of Reading Passage 313?",
+      "options": [
+        "A. The economic necessity of expanding commercial timber harvesting",
+        "B. The technical methods for domesticating wild mammalian predators",
+        "C. Relinquishing human domination in exchange for authentic ecological self-regulation",
+        "D. Why bureaucratic environmental agencies should oversee all private farmland"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Từ bỏ kiểm soát để đón nhận sự tự vận hành của tự nhiên."
+        ]
+      }
+    }
+  }
+}

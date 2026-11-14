@@ -1,0 +1,253 @@
+{
+  "title": "Bài sưu tầm 318 - Passage 3: The Cartography of Silence: Maps, Erasure, and Colonial Power",
+  "answers": {
+    "q27": "C",
+    "q28": "F",
+    "q29": "E",
+    "q30": "D",
+    "q31": "B",
+    "q32": "A",
+    "q33": "NO",
+    "q34": "NO",
+    "q35": "YES",
+    "q36": "YES",
+    "q37": "B",
+    "q38": "C",
+    "q39": "B",
+    "q40": "A"
+  },
+  "passageHtml": "<h2>READING PASSAGE 318</h2><h3>The Cartography of Silence: Maps, Erasure, and Colonial Power</h3><p><strong>Paragraph 1.</strong> In popular perception, a map is an <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">objective, miniature representation</span> of geographical reality. We consult street atlases and digital navigational applications with unquestioning confidence, trusting that cartographic lines correspond faithfully to physical mountains, coastlines, and national boundaries. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">Yet, in <em>Paper Territories: Cartography and the Imposition of Empire</em>, historical geographer Dr. Julian Harley argues that cartography has never been an innocent science. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">A map is not a passive mirror of territory; it is an <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">active instrument of geopolitical power</span> that creates the very reality it claims merely to record.</span></span></p><p><strong>Paragraph 2.</strong> Harley focuses his archival analysis on the imperial expansion of European empires from the sixteenth through the nineteenth centuries. During this era, mapmaking functioned as the primary ideological vanguard of colonial conquest. Before troops annexed territory or settlers cultivated crops, military surveyors mapped the terrain. Crucially, imperial cartography operated through what Harley terms 'systematic silences.' <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">When European surveyors drew maps of the Americas, Africa, and Australia, they <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">omitted indigenous settlements, sacred migratory routes, and ancient local place-names</span>.</span> <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">By depicting occupied landscapes as empty space—<em>terra nullius</em>—imperial cartographers visually legitimized colonial occupation.</span> <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Blank spaces on an imperial map did not signify a lack of geographical knowledge; rather, they represented a calculated, ideological erasure that erased indigenous existence before physical colonization even began.</span></p><p><strong>Paragraph 3.</strong> Furthermore, cartography imposed alien conceptual structures onto colonized lands. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Traditional indigenous geographies were fluid, relational, and grounded in ecological landmarks and oral memory.</span> Imperial cartographers replaced these relational topographies with the rigid geometry of the Euclidean grid. Using trigonometric surveying and astronomical observation, <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">colonial surveyors carved dynamic ecosystems into neat, rectangular parcels of private property that could be registered in land registries, taxed by colonial administrations</span>, and traded on European commodity exchanges. The map was not drawn to reflect how local peoples lived; it was engineered to <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">convert ancestral territory into liquid financial capital</span>.</p><p><strong>Paragraph 4.</strong> In his concluding chapters, Harley traces the persistent legacy of colonial cartography in the modern world. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">The borders of contemporary Africa and the Middle East, drawn by European diplomats in nineteenth-century treaty rooms using straight lines and rulers, remain <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">enduring sources of geopolitical instability</span>.</span> <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">By slicing directly through ethnic territories and linguistic groupings, colonial borders institutionalized chronic ethnic fractures that persist today.</span> Harley reminds us that every map is an argument: what a cartographer chooses to exclude is often vastly more consequential than what is drawn.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 27–32",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below. Write the correct letter, <b>A–J</b>, in boxes 27–32 on your answer sheet.</i><br><br><b>A.</b> conflict &nbsp;|&nbsp; <b>B.</b> conversion &nbsp;|&nbsp; <b>C.</b> objective &nbsp;|&nbsp; <b>D.</b> justification<br><b>E.</b> omission &nbsp;|&nbsp; <b>F.</b> weapon &nbsp;|&nbsp; <b>G.</b> artistic &nbsp;|&nbsp; <b>H.</b> temporary<br><b>I.</b> biological &nbsp;|&nbsp; <b>J.</b> commercial",
+      "summaryTitle": "The Political Function of Historical Cartography",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31",
+        "q32"
+      ],
+      "template": "<p>Conventional views treat maps as accurate, <b>27.</b> {{q27}} tools designed to navigate real landscapes. However, Dr. Harley reveals that throughout modern history, cartography served as a critical <b>28.</b> {{q28}} for territorial expansion. European colonial surveyors actively practiced the intentional <b>29.</b> {{q29}} of indigenous human presence on their charts. By depicting newly explored regions as vacant wilderness, imperial powers established the legal <b>30.</b> {{q30}} of their land claims. Additionally, surveyors applied geometric grids to ancestral lands, allowing authorities to achieve the rapid <b>31.</b> {{q31}} of land into commercial assets. Today, the arbitrary, linear boundaries created by historic cartographers continue to provoke severe <b>32.</b> {{q32}} across post-colonial regions.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 33–36",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 318? In boxes 33–36 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>objective, miniature representation</i> ↔ <b>objective (C)</b> tools."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1 & 2:</b> <i>instrument of geopolitical power / ideological vanguard</i> ↔ critical <b>weapon (F)</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>omitted indigenous settlements / calculated erasure</i> ↔ intentional <b>omission (E)</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>visually legitimized colonial occupation</i> ↔ legal <b>justification (D)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>convert ancestral territory into liquid financial capital</i> ↔ <b>conversion (B)</b> of land."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>geopolitical instability / chronic ethnic fractures</i> ↔ severe <b>conflict (A)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Modern digital mapping applications provide a completely neutral reflection of terrain.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Phủ định trực tiếp: <i>\"cartography has never been an innocent science. A map is not a passive mirror...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "European surveyors routinely recorded indigenous place-names on early colonial maps.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Ngược nghĩa hoàn toàn: họ cố tình bỏ qua tên địa phương: <i>\"omitted indigenous settlements... and ancient local place-names\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Traditional indigenous ways of understanding geography were linked to ecological memory.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"grounded in ecological landmarks and oral memory.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Modern borders in Africa and the Middle East frequently cut across historical ethnic territories.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"slicing directly through ethnic territories and linguistic groupings\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What is Dr. Harley’s central argument in the first paragraph?",
+      "options": [
+        "A. Maps are objective instruments that prevent international border wars.",
+        "B. Cartography actively shapes geopolitical realities rather than just depicting them.",
+        "C. Ancient mapmakers possessed more accurate instruments than modern geographers.",
+        "D. Physical coastlines change too rapidly for printed maps to be useful."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Bản đồ không thụ động mà là công cụ quyền lực tạo ra hiện thực: <i>creates the very reality it claims merely to record</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Why were blank spaces included on early colonial maps of Africa and the Americas?",
+      "options": [
+        "A. Surveyors were prevented from entering dangerous interior forests.",
+        "B. Paper manufacturing limits prevented the printing of fine details.",
+        "C. Cartographers intentionally erased indigenous presence to legitimize conquest.",
+        "D. European monarchs refused to pay for complete geological surveys."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Xóa bỏ sự hiện diện bản địa để hợp thức hóa việc chiếm đóng: <i>calculated, ideological erasure that erased indigenous existence</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "According to the third paragraph, the introduction of the Euclidean grid allowed colonial states to",
+      "options": [
+        "A. calculate the exact population numbers of native tribes.",
+        "B. transform traditional communal territory into taxable private property.",
+        "C. design public road systems that preserved fragile ecosystems.",
+        "D. resolve long-standing theological debates regarding navigation."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Biến đất đai thành tài sản tư nhân chịu thuế: <i>carved dynamic ecosystems into neat, rectangular parcels of private property... taxed by colonial administrations</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What does the final paragraph conclude about modern geopolitical instability?",
+      "options": [
+        "A. It stems partly from arbitrary borders drawn by colonial mapmakers.",
+        "B. It can be entirely solved by adopting modern satellite GPS systems.",
+        "C. It is caused primarily by religious disputes predating European contact.",
+        "D. It proves that cartography has lost its influence in international diplomacy."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bắt nguồn từ các đường biên giới thẳng tắp do nhà ngoại giao thuộc địa vẽ: <i>borders... drawn by European diplomats... remain enduring sources of geopolitical instability</i>.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    }
+  }
+}

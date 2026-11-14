@@ -1,0 +1,254 @@
+{
+  "title": "Bài sưu tầm 314 - Passage 3: Space and Mind: The Cognitive Ergonomics of Architecture",
+  "answers": {
+    "q27": "C",
+    "q28": "B",
+    "q29": "B",
+    "q30": "C",
+    "q31": "E",
+    "q32": "B",
+    "q33": "F",
+    "q34": "A",
+    "q35": "D",
+    "q36": "YES",
+    "q37": "NO",
+    "q38": "NOT GIVEN",
+    "q39": "YES",
+    "q40": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 314</h2><h3>Space and Mind: The Cognitive Ergonomics of Architecture</h3><p><strong>Paragraph 1.</strong> For over a century, architectural theory operated under the modernist canon codified by Louis Sullivan: 'form follows function.' Buildings were conceived primarily as physical containers designed to satisfy structural, mechanical, and economic parameters. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">If an office building accommodated a designated number of desks, provided adequate heating, and complied with municipal fire codes, its design was deemed successful</span>. However, in <em>Mind in Architecture</em>, cognitive neuroscientist Dr. Colin Ellard reveals that this utilitarian model ignores a critical reality: <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\"><span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">the built environment acts as an external nervous system that continuously alters human neurological function, hormone production, and psychological health</span></span>.</p><p><strong>Paragraph 2.</strong> Ellard explores the emerging discipline of neuro-architecture, which combines mobile biometric sensors, virtual reality simulations, and functional neuroimaging to measure how spatial geometry influences cerebral activity. One foundational insight centers on the <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">psychological impact of ceiling height</span>, a phenomenon known in environmental psychology as the 'Cathedral Effect.' In rigorous laboratory experiments, <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">participants placed in rooms with elevated ceilings (three metres or higher) demonstrated superior performance on abstract, creative conceptual tasks requiring broad associative thinking</span>. Conversely, <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">when tested in rooms with low, compressed ceilings, participants’ cognition pivoted towards focused, detail-oriented, and analytical processing</span>. High vertical volumes unconsciously prime mental expansiveness, whereas confined spaces induce mental containment.</p><p><strong>Paragraph 3.</strong> Equally decisive is the cognitive response to architectural facades. In urban walking studies conducted across major cities including New York, Berlin, and London, Ellard fitted pedestrians with electrodermal skin sensors and eye-tracking spectacles to measure physiological arousal. The results revealed striking contrasts: when pedestrians navigated streets flanked by continuous, unbroken glass-and-steel facades or monotonous blank concrete walls, <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">their heart rates decelerated and skin-conductance levels plummeted into <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">patterns indicative of severe boredom and depressive passivity</span>. More alarmingly, this spatial monotony provoked visceral psychological distress, manifesting in heightened cortisol secretion</span>. Conversely, <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">streets characterized by architectural granularity—intricate historic facades, diverse material textures, and frequent doorways—consistently stimulated the ventral striatum, a brain region governing curiosity, pleasure, and emotional resilience</span>.</p><p><strong>Paragraph 4.</strong> The societal implications for urban planning are urgent. For decades, <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\"><span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">commercial developers have prioritized cost-efficient, monolithic architecture</span>, <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">blanketing urban centers in antiseptic, standardized glass corridors</span></span>. Ellard warns that by designing urban spaces that starve the human sensory apparatus, municipal planners are inadvertently <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">manufacturing chronic public alienation, elevated stress levels, and fragmented civic communities</span>. Buildings are never neutral background scenery; <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">they are cognitive determinants that shape the collective mind</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–29",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–29 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 30–35",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 30–35 on your answer sheet.</i><br><br><b>A.</b> alienation &nbsp; <b>B.</b> diversity &nbsp; <b>C.</b> dimension &nbsp; <b>D.</b> driver &nbsp; <b>E.</b> apathy &nbsp; <b>F.</b> cheapness &nbsp; <b>G.</b> temporary &nbsp; <b>H.</b> theoretical &nbsp; <b>I.</b> uniform",
+      "summaryTitle": "Neuro-Architecture and Cognitive Health",
+      "questionIds": [
+        "q30",
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35"
+      ],
+      "template": "<p>Modern researchers are utilizing advanced biometric instruments to discover how structural layouts impact the brain. Studies confirm that vertical room <b>30.</b> {{q30}} significantly influences the type of mental focus an individual displays. At street level, the external appearance of buildings exerts an equally powerful psychological effect. Walking past uniform, repetitive facades triggers feelings of profound <b>31.</b> {{q31}} and elevates stress hormones. In contrast, streets featuring rich visual <b>32.</b> {{q32}} activate neurological circuits associated with enjoyment. Dr. Ellard argues that current urban developments that prioritize <b>33.</b> {{q33}} over human neurological needs risk creating chronic <b>34.</b> {{q34}} across municipal populations. Architecture should therefore be recognized as a key <b>35.</b> {{q35}} of public wellbeing.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 36–39",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 314? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q36",
+        "q37",
+        "q38",
+        "q39"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Question 40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in box 40 on your answer sheet.</i>",
+      "questionIds": [
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What was the primary assumption of early modernist architectural theory?",
+      "options": [
+        "A. Buildings should be designed primarily to stimulate psychological health.",
+        "B. Visual beauty is the only criteria required for successful architecture.",
+        "C. Architecture succeeds if it meets basic functional and practical requirements.",
+        "D. Office workers require identical desk spaces to maximize productivity."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"form follows function... If an office building accommodated a designated number of desks... complied with municipal fire codes, its design was deemed successful.\"</i>"
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Research into the 'Cathedral Effect' indicates that low ceilings tend to promote",
+      "options": [
+        "A. creative and speculative conceptual reasoning.",
+        "B. meticulous and detail-focused mental processing.",
+        "C. severe physical fatigue and immediate disorientation.",
+        "D. an involuntary urge to explore distant environments."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"when tested in rooms with low, compressed ceilings, participants’ cognition pivoted towards focused, detail-oriented, and analytical processing.\"</i>"
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "In urban walking trials, pedestrians walking past blank, monolithic walls displayed",
+      "options": [
+        "A. heightened levels of curiosity and physical energy.",
+        "B. physiological markers associated with boredom and stress.",
+        "C. a marked increase in cooperative social interactions.",
+        "D. an ability to memorize historical architectural details."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"patterns indicative of severe boredom and depressive passivity... heightened cortisol secretion.\"</i>"
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> ceiling height / vertical volumes ↔ <b>C (dimension)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> severe boredom and depressive passivity ↔ <b>E (apathy)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> architectural granularity—intricate historic facades, diverse material textures ↔ <b>B (diversity)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> prioritized cost-efficient, monolithic architecture ↔ <b>F (cheapness)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> manufacturing chronic public alienation ↔ <b>A (alienation)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> cognitive determinants that shape the collective mind ↔ <b>D (driver)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "The built environment has a direct influence on human hormonal secretion.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"continuously alters human neurological function, hormone production, and psychological health.\"</i> → Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Rooms with high ceilings improve performance on narrow, detail-oriented arithmetic problems.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Trần cao giúp tư duy bao quát sáng tạo (<i>broad associative thinking</i>), còn trần thấp mới phục vụ việc chi tiết → Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Commercial developers regularly consult neuroscientists before designing modern office towers.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chỉ trích các nhà phát triển ưu tiên giá rẻ, không nhắc việc họ có tham vấn nhà thần kinh học hay không → Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Standardized glass-and-steel urban facades can contribute to public mental health challenges.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"blanketing urban centers in antiseptic, standardized glass corridors... manufacturing chronic public alienation, elevated stress levels\"</i> → Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Which subtitle would be most suitable for Reading Passage 314?",
+      "options": [
+        "A. The economic collapse of commercial construction firms",
+        "B. How physical buildings directly alter human neurology and emotion",
+        "C. The historical origins of high-ceiling gothic cathedrals",
+        "D. Why urban office buildings will be replaced by virtual reality"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Chủ đề tổng quát:</b> Tác động trực tiếp của hình học không gian lên sinh học thần kinh và cảm xúc con người → Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

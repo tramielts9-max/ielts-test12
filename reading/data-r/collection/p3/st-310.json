@@ -1,0 +1,252 @@
+{
+  "title": "Bài sưu tầm 310 - Passage 3: Giants and Dwarfs: Rethinking the Island Rule",
+  "answers": {
+    "q27": "NO",
+    "q28": "YES",
+    "q29": "NO",
+    "q30": "YES",
+    "q31": "NO",
+    "q32": "B",
+    "q33": "D",
+    "q34": "A",
+    "q35": "E",
+    "q36": "G",
+    "q37": "B",
+    "q38": "A",
+    "q39": "B",
+    "q40": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 310</h2><h3>Giants and Dwarfs: Rethinking the Island Rule</h3><p><strong>Paragraph 1.</strong> When evolutionary biologist J. Bristol Foster published his survey of insular mammals in 1964, he observed a curious biogeographical pattern that captured the scientific imagination. On isolated oceanic islands, small mainland species (such as rodents) frequently evolved into lumbering giants, while large mainland species (such as elephants and hippopotamuses) shrank into miniature dwarfs. Known formally as the island rule, or Foster’s Rule, <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">this evolutionary tendency was <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">long treated as an elegant, universal law of insular biology</span></span>. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">Fossil deposits in the Mediterranean, Southeast Asia, and the Channel Islands revealed dwarf mammoths barely the height of a pony</span> and giant rats the size of domestic dogs, suggesting that isolation and island physics inevitably warp mammalian anatomy.</p><p><strong>Paragraph 2.</strong> In <em>Islands of Time</em>, paleo-biologist Dr. Claire Moreau provides a rigorous contemporary reassessment of Foster's classic paradigm. Moreau emphasizes that while the island rule has produced spectacular evolutionary oddities, <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">early twentieth-century biology was <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">too quick to reduce complex ecological dynamics to a simplistic, universal formula</span></span>. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">The fundamental drivers of insular body size shifts are not geographic isolation alone, but the specific balance between ecological release and resource limitation.</span></p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">Small mammals on the mainland are held in evolutionary check by heavy predation from carnivores and raptors.</span> When an ancestral rodent species colonizes a remote island devoid of mammalian carnivores, it experiences ecological release: freed from the necessity to hide in burrows, <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">natural selection favors larger body sizes, which confer metabolic efficiency and competitive dominance over food</span>. Conversely, <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">large herbivores on mainland continents maintain colossal mass primarily as an evolutionary defense against apex predators like wolves and big cats</span>. When transported to an oceanic island, <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">those apex predators are almost invariably absent due to their inability to survive on restricted island prey populations</span>. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Without the predatory pressure requiring massive size, and facing severe nutritional bottlenecks within confined island boundaries, natural selection ruthlessly downsized large mammals.</span></p><p><strong>Paragraph 4.</strong> However, Moreau’s most radical contribution is dismantling the deterministic universality of the rule. Analyzing a global database of over 2,000 extant and extinct insular populations using modern phylogenetics, <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Moreau demonstrates that Foster's rule operates inconsistently. While insular gigantism and dwarfism hold true for specific lineages—notably proboscideans (elephants) and certain rodents—many other mammalian families, such as carnivores and bats, show no statistically significant trend.</span> Furthermore, <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">local climatic variability, topographic complexity, and island geological age play far more influential roles in shaping body size than mere surface land area</span>. Moreau’s findings serve as a healthy scientific reminder: <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">nature consistently defies our human desire to impose neat, universal rules upon the chaotic diversity of life</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 27–31",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 310?<br>In boxes 27–31 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the views of the writer<br><b>NO</b> – if the statement contradicts the views of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 32–36",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–G</b>, below.<br>Write the correct letter, <b>A–G</b>, in boxes 32–36 on your answer sheet.</i>",
+      "endings": [
+        "A. huge size provided biological security against fierce mainland predators.",
+        "B. they are constantly hunted by predatory birds and carnivores.",
+        "C. they faced intense competition from non-mammalian reptiles.",
+        "D. physical expansion offers nutritional and competitive advantages.",
+        "E. limited resources and the absence of hunters favored smaller physical mass.",
+        "F. island gigantism applies equally to all living mammal families.",
+        "G. the island rule does not apply systematically across all mammalian groups."
+      ],
+      "questionIds": [
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "J. Bristol Foster’s original 1964 paper argued that island size alterations were caused primarily by human hunting.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Foster nghiên cứu quy luật tự nhiên của đảo (<i>island physics, insular biology</i>), không hề nhắc đến săn bắn của con người → <b>NO</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Fossil discoveries confirm that miniature mammoths once existed on certain islands.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Fossil deposits... revealed dwarf mammoths barely the height of a pony...\"</i> → <b>YES</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Large mammalian carnivores are commonly found thriving on small oceanic islands.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Khẳng định thú săn mồi lớn hầu như vắng mặt trên đảo vì không đủ con mồi: <i>\"apex predators are almost invariably absent due to their inability to survive on restricted island prey...\"</i> → <b>NO</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "A species' body size can be shaped by whether local predators are absent from the island.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 & 3:</b> Sự vắng mặt của thú săn mồi (<i>ecological release</i>) là động lực chính thay đổi kích thước → <b>YES</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Dr. Moreau believes that scientific rules in biology should never be revised once established.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 & 4:</b> Toàn bộ công trình của Moreau là kiểm tra lại và sửa đổi các quy luật cũ, chứng minh quy luật tự nhiên không bất biến → <b>NO</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "On continents, small mammalian species maintain limited body sizes because",
+      "finalAnswer": "B",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...held in evolutionary check by heavy predation from carnivores and raptors.\"</i> → <b>B</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Small rodents on predator-free islands evolve larger mass because",
+      "finalAnswer": "D",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...favors larger body sizes, which confer metabolic efficiency and competitive dominance over food.\"</i> → <b>D</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Mainland herbivores initially developed massive body structures because",
+      "finalAnswer": "A",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...maintain colossal mass primarily as an evolutionary defense against apex predators...\"</i> → <b>A</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Large herbivores on islands evolved miniature forms because",
+      "finalAnswer": "E",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...Without the predatory pressure... and facing severe nutritional bottlenecks within confined island boundaries...\"</i> → <b>E</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Modern statistical analysis of global animal populations demonstrates that",
+      "finalAnswer": "G",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...Foster's rule operates inconsistently... many other mammalian families, such as carnivores and bats, show no statistically significant trend.\"</i> → <b>G</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What was the common scientific view of the island rule prior to modern re-evaluations?",
+      "options": [
+        "A. It was rejected as an unproven biological myth.",
+        "B. It was considered an absolute, universal law governing island evolution.",
+        "C. It was thought to apply solely to Mediterranean bird species.",
+        "D. It was viewed as an outcome of selective breeding by early human settlers."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Từng được coi là quy luật phổ quát tao nhã (<i>long treated as an elegant, universal law of insular biology</i>) → <b>B</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "What does Dr. Moreau identify as a key flaw in earlier interpretations of the island rule?",
+      "options": [
+        "A. They oversimplified complex environmental and ecological dynamics.",
+        "B. They ignored fossil evidence found in Southeast Asia.",
+        "C. They relied entirely on marine species rather than land mammals.",
+        "D. They assumed that islands experienced identical weather conditions."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Quá vội vàng quy chụp động lực phức tạp về công thức đơn giản (<i>too quick to reduce complex ecological dynamics to a simplistic, universal formula</i>) → <b>A</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "According to Moreau’s research, what factors often influence body size more than island land area?",
+      "options": [
+        "A. the introduction of artificial human agriculture",
+        "B. local weather fluctuations and the physical terrain of the island",
+        "C. the total distance between the island and the nearest continent",
+        "D. the speed at which ocean tides submerge the coastline"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Biến đổi khí hậu địa phương và địa hình phức tạp có sức ảnh hưởng lớn hơn diện tích đảo (<i>local climatic variability, topographic complexity... play far more influential roles</i>) → <b>B</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What is the primary philosophical lesson Moreau draws from her research in the final sentence?",
+      "options": [
+        "A. Natural ecosystems are too unstable to be preserved through modern conservation.",
+        "B. Biological diversity resists simple, universal scientific generalizations.",
+        "C. Insular mammals will eventually all evolve identical physiological dimensions.",
+        "D. Mathematics is an inadequate tool for recording evolutionary data."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thiên nhiên luôn thách thức mong muốn gò ép các quy tắc giản đơn của con người (<i>nature consistently defies our human desire to impose neat, universal rules upon the chaotic diversity of life</i>) → <b>B</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "title": "Bài sưu tầm 309 - Passage 3: The Pyrocene: Fire, Humans, and the Shaping of Earth",
+  "answers": {
+    "q27": "B",
+    "q28": "B",
+    "q29": "C",
+    "q30": "B",
+    "q31": "F",
+    "q32": "B",
+    "q33": "C",
+    "q34": "A",
+    "q35": "E",
+    "q36": "D",
+    "q37": "NO",
+    "q38": "NO",
+    "q39": "YES",
+    "q40": "YES"
+  },
+  "passageHtml": "<h2>READING PASSAGE 309</h2><h3>The Pyrocene: Fire, Humans, and the Shaping of Earth</h3><p><strong>Paragraph 1.</strong> For more than a century, environmental history treated fire as an unnatural invader—an ecological catastrophe to be suppressed at all costs. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">Industrial forestry policy in Western nations was built around the military doctrine of total fire exclusion</span>, famously personified by the American campaign of Smokey Bear. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Wildfires were viewed as destructive anomalies that disrupted forest succession, destroyed commercial timber, and ruined pristine wilderness.</span> Yet, in <em>Fire: A Brief History</em>, environmental historian Stephen J. Pyne demonstrates that this ideology of total suppression was a monumental ecological error. Fire is not an external disruption of nature; it is a primary architect of terrestrial ecosystems, and its management has been the defining technology of the human species.</p><p><strong>Paragraph 2.</strong> Pyne begins by tracing our deep evolutionary symbiosis with combustion. Long before the evolution of <em>Homo sapiens</em>, hominins acquired the ability to capture, manipulate, and transport fire. This mastery of combustion fundamentally altered <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">human biological evolution</span>. Cooking food softened tough tubers and meat, dramatically <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">reducing the metabolic energy required for chewing and digestion. This caloric surplus fueled the rapid encephalization—the evolutionary expansion—of the human brain, while causing human digestive tracts and jaws to shrink.</span> In essence, humanity offloaded digestion onto external fire.</p><p><strong>Paragraph 3.</strong> More crucially, fire became <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">humanity’s first ecological tool</span>. Indigenous populations across Australia, North America, and southern Africa practiced sophisticated regimes of 'fire-stick farming' or cultural burning. Rather than allowing dead plant biomass to accumulate indefinitely, native peoples deliberately ignited controlled, low-intensity mosaic fires across grasslands and savannahs. These recurrent, mild burns performed vital systemic functions: <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">they <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">cleared impenetrable undergrowth</span>, <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">stimulated the germination of pyrophyte plant species</span>, maintained open habitats for grazing herbivores, and reduced combustible dry fuel loads. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Consequently, catastrophic, high-intensity mega-fires were virtually unknown under indigenous stewardship.</span></span> <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">The landscapes European colonizers celebrated as 'untouched, pristine wilderness' were in reality deeply anthropogenic gardens shaped by thousands of years of calculated burning.</span></p><p><strong>Paragraph 4.</strong> When European colonizers and industrial foresters banned indigenous burning in the nineteenth and twentieth centuries, the ecological consequences were disastrous. The policy of absolute suppression created an ecological deficit that Pyne terms the 'pyric paradox'. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">By systematically extinguishing every minor blaze, forest agencies <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">allowed immense quantities of dead wood and dry debris to accumulate</span> across forest floors. Today, combined with human-induced global warming, these unnaturally overgrown forests provide fuel for <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">uncontrollable firestorms of unprecedented heat and speed</span>—<span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">fires so ferocious that they incinerate the very soil, destroy ancient seedbanks, and permanently alter ecosystems</span>.</span></p><p>Having suppressed small, living fires for a century, industrial civilization now confronts a terrifying epoch: the Pyrocene, an era where unmanageable fire threatens our climate stability.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 31–36",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below.<br>Write the correct letter, <b>A–I</b>, in boxes 31–36 on your answer sheet.</i><br><br><b>A.</b> growth &nbsp;|&nbsp; <b>B.</b> tool &nbsp;|&nbsp; <b>C.</b> removal &nbsp;|&nbsp; <b>D.</b> intensity &nbsp;|&nbsp; <b>E.</b> accumulation<br><b>F.</b> development &nbsp;|&nbsp; <b>G.</b> moisture &nbsp;|&nbsp; <b>H.</b> accidental &nbsp;|&nbsp; <b>I.</b> identical",
+      "summaryTitle": "The Ecological Role of Fire",
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ],
+      "template": "<p>For decades, forest managers operated under the mistaken belief that natural landscapes should be kept completely free of fire. However, research reveals that fire played an essential role in human biological <b>31.</b> {{q31}} by making food digestion more efficient. Furthermore, historical evidence demonstrates that indigenous communities used controlled fire as an effective land management <b>32.</b> {{q32}} . By conducting deliberate, mild burns, they achieved the continuous <b>33.</b> {{q33}} of excess vegetation. This stewardship maintained healthy wildlife habitats and stimulated the <b>34.</b> {{q34}} of specialized plant life. When modern governments imposed bans on this practice, it produced an unnatural <b>35.</b> {{q35}} of dry fuels on the forest floor, culminating in recent fires of catastrophic <b>36.</b> {{q36}} .</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 37–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 309?<br>In boxes 37–40 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the views of the writer<br><b>NO</b> – if the statement contradicts the views of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "According to the first paragraph, what was the guiding principle of early Western industrial forestry?",
+      "options": [
+        "A. to study the commercial value of burnt timber",
+        "B. to actively eliminate all fire from forest environments",
+        "C. to restore ancient ecosystems using controlled fires",
+        "D. to encourage timber companies to plant faster-growing trees"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Industrial forestry policy... was built around the military doctrine of total fire exclusion... Wildfires were viewed as destructive anomalies...\"</i> → <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "The author points out that early cooking with fire resulted in",
+      "options": [
+        "A. the extinction of many wild tubers and animal species.",
+        "B. biological adaptations including smaller jaws and larger brains.",
+        "C. human communities suffering from chronic nutritional shortages.",
+        "D. a complete loss of physical strength among early hunters."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"reducing metabolic energy... fueled rapid encephalization (brain expansion)... while causing human digestive tracts and jaws to shrink.\"</i> → <b>B</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "How did indigenous 'fire-stick farming' help protect ancient ecosystems?",
+      "options": [
+        "A. by preventing native animals from grazing in open savannahs",
+        "B. by increasing the humidity levels of surrounding air masses",
+        "C. by burning accumulated fuels and preventing massive, destructive blazes",
+        "D. by converting dense woodlands into industrial agricultural farms"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"cleared impenetrable undergrowth... reduced combustible dry fuel loads. Consequently, catastrophic, high-intensity mega-fires were virtually unknown...\"</i> → <b>C</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "The term 'pyric paradox' refers to the situation where",
+      "options": [
+        "A. trees evolve to become naturally immune to high temperatures.",
+        "B. extinguishing small fires causes massive fuel build-ups that produce super-fires.",
+        "C. indigenous fire practices caused more environmental harm than industrial policies.",
+        "D. global warming decreases the incidence of lightning-induced wildfires."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"systematically extinguishing every minor blaze... allowed immense quantities of dead wood to accumulate... providing fuel for uncontrollable firestorms of unprecedented heat...\"</i> → <b>B</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>biological evolution / encephalization</i> ↔ biological development → <b>F (development)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>humanity's first ecological tool</i> ↔ management tool → <b>B (tool)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>cleared impenetrable undergrowth / reduced dry fuel loads</i> ↔ removal → <b>C (removal)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>stimulated the germination of pyrophyte plant species</i> ↔ growth → <b>A (growth)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>allowed immense quantities of dead wood... to accumulate</i> ↔ accumulation → <b>E (accumulation)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>firestorms of unprecedented heat and speed... ferocious</i> ↔ catastrophic intensity → <b>D (intensity)</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Early European colonists recognized immediately that native landscapes had been shaped by human fires.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Thực dân tưởng nhầm là thiên nhiên hoang dã chưa ai chạm tới: <i>\"landscapes European colonizers celebrated as 'untouched, pristine wilderness' were in reality deeply anthropogenic gardens\"</i> → <b>NO</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "High-intensity mega-fires occurred frequently prior to European colonization of Australia.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Dưới thời bản địa cháy lớn gần như không xảy ra: <i>\"Consequently, catastrophic, high-intensity mega-fires were virtually unknown under indigenous stewardship.\"</i> → <b>NO</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Complete suppression of fire was motivated by a desire to protect commercial timber assets.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Wildfires were viewed as destructive anomalies that disrupted forest succession, destroyed commercial timber...\"</i> → <b>YES</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Modern mega-fires can burn with sufficient intensity to cause permanent soil degradation.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"fires so ferocious that they incinerate the very soil, destroy ancient seedbanks, and permanently alter ecosystems.\"</i> → <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "title": "Bài sưu tầm 302 - Passage 3: Rewiring the Self: The Nuances of Neuroplasticity",
+  "answers": {
+    "q27": "B",
+    "q28": "B",
+    "q29": "C",
+    "q30": "A",
+    "q31": "B",
+    "q32": "A",
+    "q33": "D",
+    "q34": "F",
+    "q35": "C",
+    "q36": "E",
+    "q37": "YES",
+    "q38": "NOT GIVEN",
+    "q39": "NO",
+    "q40": "NO"
+  },
+  "passageHtml": "<h2>READING PASSAGE 302</h2><h3>Rewiring the Self: The Nuances of Neuroplasticity</h3><p><strong>Paragraph 1.</strong> For the better part of the twentieth century, orthodox neuroscience operated under an unyielding dogma: <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">the adult mammalian brain was structurally immutable. Medical textbooks taught that following a fleeting window of developmental flexibility in early childhood, the neural architecture hardened like concrete. Once neurons died or brain regions sustained physical trauma, lost functions were assumed to be irrevocably extinguished.</span> However, over the past three decades, this mechanistic model has been systematically dismantled by the discovery of neuroplasticity—the brain’s enduring capacity to reorganize its neural pathways in response to environmental demands and learning.</p><p><strong>Paragraph 2.</strong> In <em>The Adaptive Mind</em>, neurobiologist Dr. Hannah West traces this paradigm shift, beginning with the foundational experiments of Michael Merzenich in the late 1970s. Working with owl monkeys, Merzenich mapped the <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">somatosensory cortex—the brain region responsible for processing tactile sensations. By amputating a finger or altering sensory input, Merzenich observed that within weeks, <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">the cortical territory previously dedicated to the missing digit was colonized by inputs from neighbouring fingers</span>.</span> The brain was not a static machine, but an adaptable, competitive ecosystem where synaptic territory was claimed, defended, and reallocated based on usage.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Subsequent human neuroimaging confirmed that this dynamism persists throughout life.</span> The classic demonstration emerged in the renowned studies of London taxi drivers by Eleanor Maguire. Drivers who spent years memorizing the intricate topographical labyrinth of London's 25,000 streets exhibited significantly enlarged posterior hippocampi—the neural hub dedicated to spatial navigation. Crucially, the increase in gray matter volume directly correlated with the number of years spent driving, <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">proving that sustained intellectual navigation physically reshaped cerebral anatomy</span>.</p><p><strong>Paragraph 4.</strong> However, West devotes the second half of her volume to tempering the breathless commercial hyperbole that has colonized public discussions of brain plasticity. In popular self-help literature, neuroplasticity is frequently marketed as a <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\"><span class=\"kw\">panacea</span></span>: a magical mechanism allowing anyone to learn languages instantaneously, overcome clinical depression through willpower alone, or completely reverse neurodegenerative diseases via commercial brain-training apps. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">West vigorously refutes this commercial optimism</span>, introducing what she designates as the 'plasticity paradox'.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Because neural pathways strengthen through repetition, neuroplasticity is equally responsible for <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">entrenching maladaptive pathways</span>.</span> Chronic phantom limb pain, obsessive-compulsive loops, and chemical addictions are themselves vivid manifestations of neuroplasticity: the brain becomes exceptionally proficient at firing destructive synaptic patterns that have been repeatedly stimulated. Furthermore, structural reorganization requires <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">staggering amounts of metabolic energy and deliberate, focused practice</span>; <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">it is not an effortless adaptation that can be triggered by ten minutes of playing smartphone puzzles</span>. By distinguishing between <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">genuine clinical neuro-rehabilitation</span> and <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">commercial pseudo-science</span>, <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">West provides an indispensable, sober contribution to understanding our most complex organ</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 31–36",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 31–36 on your answer sheet.</i><br><br><b>A.</b> reinforcement &nbsp;&nbsp; <b>B.</b> cure &nbsp;&nbsp; <b>C.</b> therapeutic<br><b>D.</b> exertion &nbsp;&nbsp; <b>E.</b> claims &nbsp;&nbsp; <b>F.</b> ineffective<br><b>G.</b> irreversible &nbsp;&nbsp; <b>H.</b> temporary &nbsp;&nbsp; <b>I.</b> balance",
+      "summaryTitle": "The Limits of Neuroplasticity",
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ],
+      "template": "<p>In recent decades, popular media and commercial enterprises have presented neuroplasticity as a universal <b>31.</b> {{q31}} for cognitive and emotional problems. However, Dr. Hannah West warns against this uncritical enthusiasm. The reality is that the brain’s adaptability can also lead to the <b>32.</b> {{q32}} of negative physical and psychological conditions, including persistent pain and addiction. Reorganizing brain circuitry is not a simple task; it demands significant <b>33.</b> {{q33}} and continuous, disciplined effort. Therefore, commercial digital games are largely <b>34.</b> {{q34}} to induce meaningful structural change. West’s work aims to separate verifiable <b>35.</b> {{q35}} practices from misleading commercial <b>36.</b> {{q36}} .</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 37–40",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 302? In boxes 37–40 on your answer sheet, write: <b>YES</b> / <b>NO</b> / <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "According to the first paragraph, 20th-century neuroscience believed that adult brain structure",
+      "options": [
+        "A. became increasingly unstable after early childhood.",
+        "B. was incapable of repairing or reconfiguring itself.",
+        "C. could only be altered through invasive medical surgery.",
+        "D. possessed more plasticity than child brain architecture."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"adult mammalian brain was structurally immutable... neural architecture hardened like concrete... lost functions were assumed to be irrevocably extinguished.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "What was the significant outcome of Michael Merzenich’s monkey experiments?",
+      "options": [
+        "A. It proved that tactile sensations are completely managed by peripheral nerves.",
+        "B. It demonstrated that brain regions can be annexed by adjacent sensory circuits.",
+        "C. It showed that monkeys adapt to physical injury faster than human beings.",
+        "D. It revealed that sensory loss permanently disables all surrounding brain tissues."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"cortical territory previously dedicated to the missing digit was colonized by inputs from neighbouring fingers.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Why does the author mention Eleanor Maguire’s study of London taxi drivers?",
+      "options": [
+        "A. to highlight the exceptional intelligence of professional drivers",
+        "B. to prove that spatial memory declines with chronological age",
+        "C. to provide physical evidence of adult brain restructuring through learning",
+        "D. to challenge earlier claims made by Michael Merzenich"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"proving that sustained intellectual navigation physically reshaped cerebral anatomy.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "The term 'plasticity paradox' refers to the idea that",
+      "options": [
+        "A. neuroplasticity can solidify harmful mental patterns as easily as helpful ones.",
+        "B. the brain requires less physical energy as it grows structurally more adaptable.",
+        "C. neuroplastic adaptations in humans are much slower than in other primates.",
+        "D. modern technologies diminish the brain’s natural ability to reorganize itself."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Because neural pathways strengthen through repetition, neuroplasticity is equally responsible for entrenching maladaptive pathways.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>panacea ↔ cure</i>",
+          "<b>Kết luận:</b> Chọn <b>B (cure)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>entrenching / strengthen ↔ reinforcement</i>",
+          "<b>Kết luận:</b> Chọn <b>A (reinforcement)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>staggering amounts of metabolic energy and deliberate... practice ↔ exertion</i>",
+          "<b>Kết luận:</b> Chọn <b>D (exertion)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>not an effortless adaptation that can be triggered by ten minutes of playing smartphone puzzles ↔ ineffective</i>",
+          "<b>Kết luận:</b> Chọn <b>F (ineffective)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>clinical neuro-rehabilitation ↔ therapeutic practices</i>",
+          "<b>Kết luận:</b> Chọn <b>C (therapeutic)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4 & 5:</b> <i>commercial pseudo-science / hyperbole ↔ commercial claims</i>",
+          "<b>Kết luận:</b> Chọn <b>E (claims)</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "The somatosensory cortex undergoes structural reallocation when sensory input is altered.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"somatosensory cortex... territory was colonized by inputs from neighbouring fingers\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Eleanor Maguire used taxi drivers because earlier animal models were proven fundamentally flawed.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "Không hề nhắc việc Maguire chọn tài xế vì các thí nghiệm động vật bị lỗi.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Brain-training apps on mobile phones produce structural benefits comparable to clinical therapy.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4 & 5:</b> Tác giả kịch liệt bác bỏ các app này: <i>\"West vigorously refutes... not an effortless adaptation...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Dr. Hannah West believes our understanding of the human brain is now completely resolved.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Gọi não bộ là <i>\"most complex organ\"</i> và cuốn sách là đóng góp để thấu hiểu chứ không khẳng định đã giải quyết triệt để.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

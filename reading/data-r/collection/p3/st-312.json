@@ -1,0 +1,251 @@
+{
+  "title": "Bài sưu tầm 312 - Passage 3: The Singing Hominin: The Evolutionary Roots of Melody",
+  "answers": {
+    "q27": "B",
+    "q28": "C",
+    "q29": "B",
+    "q30": "A",
+    "q31": "B",
+    "q32": "A",
+    "q33": "C",
+    "q34": "D",
+    "q35": "NO",
+    "q36": "YES",
+    "q37": "NO",
+    "q38": "NOT GIVEN",
+    "q39": "NO",
+    "q40": "YES"
+  },
+  "passageHtml": "<h2>READING PASSAGE 312</h2><h3>The Singing Hominin: The Evolutionary Roots of Melody</h3><p><strong>Paragraph 1.</strong> For centuries, Western philosophy viewed music as a charming but biologically superfluous invention—a cultural ornament grafted onto human intelligence long after the evolution of language. In <em>The Descent of Man</em> (1871), Charles Darwin proposed an alternative hypothesis: <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">musical vocalization preceded articulate speech, serving as a courtship display akin to avian mating songs</span>. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Yet for most of the twentieth century, evolutionary theorists dismissed music as a secondary byproduct of cognitive evolution</span>, famously summarized by cognitive scientist Steven Pinker, who categorized music as 'auditory cheesecake'—<span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">an exquisite cultural indulgence that stimulates neural pleasure centers but confers zero survival advantage</span>.</p><p><strong>Paragraph 2.</strong> In <em>The Singing Neanderthal</em>, archaeologist and cognitive prehistorian Dr. Steven Mithen mounts a rigorous challenge to this dismissive consensus. Mithen argues that treating music as an evolutionary triviality ignores its ubiquitous role across all human cultures and its deep physiological embedding in our neurological architecture. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">Infants respond to musical pitch and cadence months before they comprehend linguistic syntax</span>; <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">maternal 'infant-directed speech' (motherese) relies on exaggerated musical contours to soothe distress and transmit emotional meaning across every known human society</span>. Furthermore, <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">neuroimaging demonstrates that musical perception recruits archaic subcortical networks linked to emotion and social bonding</span>, indicating that music is phylogenetically ancient.</p><p><strong>Paragraph 3.</strong> Mithen proposes that language and music evolved from a shared ancestral communication system that he terms <em>Hmmmmm</em>—an acronym for Holistic, multi-modal, manipulative, musical, and mimetic. Before the emergence of compositional grammar and abstract symbolic words, extinct hominins such as <em>Homo heidelbergensis</em> and Neanderthals communicated through melodic, rhythmically expressive vocalizations coupled with bodily gesture. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">These vocal calls did not parse the world into modular nouns and verbs</span>; rather, <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">they communicated entire holistic messages intended to alter the emotional states of others</span>, coordinate collective hunting, <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">defuse interpersonal aggression, and reinforce social cohesion within the band</span>.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">The ultimate divergence between language and music occurred when early modern humans developed symbolic thought, allowing vocalizations to become segmented into abstract, referential words</span>. However, <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\"><span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">while language evolved to specialize in the transmission of propositional information and factual data, music retained its ancestral mastery over the emotional and social domain</span></span>. Mithen concludes that music is not an evolutionary accident; <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">it was the essential social adhesive that permitted hominins to build large, cooperative communities</span>, paving the evolutionary path for human civilization itself.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 31–34",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below. Write the correct letter, <b>A–F</b>, in boxes 31–34 on your answer sheet.</i>",
+      "endings": [
+        "A. musical communication is universally rooted in maternal care.",
+        "B. attract potential reproductive partners.",
+        "C. maintain peaceful relations and group solidarity.",
+        "D. human vocal calls to split into modular language and music.",
+        "E. modern humans to completely abandon non-verbal singing.",
+        "F. speech to lose its emotional effectiveness entirely."
+      ],
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 35–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 312? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q35",
+        "q36",
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "Steven Pinker’s description of music as 'auditory cheesecake' implies that music",
+      "options": [
+        "A. was initially developed to improve physical survival in predators.",
+        "B. serves as an enjoyable pastime that has no biological necessity.",
+        "C. evolved exclusively to facilitate linguistic syntax in toddlers.",
+        "D. is unique because it engages only the most modern brain regions."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"an exquisite cultural indulgence that stimulates neural pleasure centers but confers zero survival advantage.\"</i>"
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "What evidence does Mithen cite regarding infant behavior?",
+      "options": [
+        "A. Babies learn modular vocabulary before responding to melodic tones.",
+        "B. Children across cultures exhibit vastly different musical preferences.",
+        "C. Infants react to tonal pitch before understanding the meaning of words.",
+        "D. Infant-directed speech is only found in industrialized western nations."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Infants respond to musical pitch and cadence months before they comprehend linguistic syntax\"</i>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "According to the third paragraph, what was the nature of the Hmmmmm communication system?",
+      "options": [
+        "A. It relied on complex grammatical rules carved onto stone tablets.",
+        "B. It consisted of holistic vocalizations designed to influence emotions.",
+        "C. It was used solely for mating rituals during the summer months.",
+        "D. It prevented Neanderthals from coordinating collective hunting trips."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"communicated entire holistic messages intended to alter the emotional states of others\"</i>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "What is the primary difference between modern language and music according to Mithen?",
+      "options": [
+        "A. Language focuses on factual data, whereas music governs social-emotional connection.",
+        "B. Language is universal, whereas music is restricted to elite cultural circles.",
+        "C. Music requires modern brain structures that language does not engage.",
+        "D. Language preceded music by hundreds of thousands of years."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"language evolved to specialize in the transmission of propositional information... music retained its ancestral mastery over the emotional and social domain.\"</i>"
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Charles Darwin suggested that vocal music originally functioned to",
+      "finalAnswer": "B",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...serving as a courtship display akin to avian mating songs\"</i> → Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "Maternal infant-directed speech demonstrates that",
+      "finalAnswer": "A",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...relies on exaggerated musical contours to soothe distress... across every known human society.\"</i> → Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Archaic hominins utilized melodic gestures in order to",
+      "finalAnswer": "C",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...defuse interpersonal aggression, and reinforce social cohesion within the band.\"</i> → Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "The emergence of abstract symbolic reasoning caused",
+      "finalAnswer": "D",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...vocalizations to become segmented into abstract, referential words... ultimate divergence between language and music\"</i> → Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Darwin's ideas about musical evolution were universally adopted throughout the 20th century.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Thế kỷ 20 bác bỏ giả thuyết của Darwin (<i>\"theorists dismissed music as a secondary byproduct...\"</i>) → Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Brain scans reveal that music engages primitive neurological circuits linked to emotion.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"musical perception recruits archaic subcortical networks linked to emotion\"</i> → Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Extinct hominins possessed grammatical words equivalent to modern nouns and verbs.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Phủ định trực tiếp: <i>\"These vocal calls did not parse the world into modular nouns and verbs...\"</i> → Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Neanderthals created bone flutes to accompany their collective vocal performances.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "Bài viết không đề cập đến việc người Neanderthal có chế tác sáo xương hay không → Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "The emergence of modern language completely replaced the social role of music.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Âm nhạc vẫn giữ vai trò thống trị về mặt cảm xúc xã hội chứ không bị thay thế hoàn toàn → Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Music played an indispensable role in enabling early humans to form stable cooperative groups.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"essential social adhesive that permitted hominins to build large, cooperative communities...\"</i> → Chọn <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

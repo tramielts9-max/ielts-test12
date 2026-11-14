@@ -1,0 +1,266 @@
+{
+  "title": "Bài sưu tầm 320 - Passage 3: The Vertical Frontier: Elevators, Steel, and Urban Stratification",
+  "answers": {
+    "q27": "YES",
+    "q28": "NO",
+    "q29": "NO",
+    "q30": "YES",
+    "q31": "NO",
+    "q32": "C",
+    "q33": "B",
+    "q34": "A",
+    "q35": "E",
+    "q36": "G",
+    "q37": "B",
+    "q38": "B",
+    "q39": "B",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 320</h2><h3>The Vertical Frontier: Elevators, Steel, and Urban Stratification</h3><p><strong>Paragraph 1.</strong> Until the mid-nineteenth century, the vertical growth of world cities was arrested by a universal biological limitation: the human knee. While architects had long possessed the engineering capacity to erect masonry towers exceeding ten storeys, <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">urban buildings rarely rose above five or six floors. Climbing beyond the fifth flight of stairs was physically exhausting</span>, turning top-floor garrets into <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">undesirable, low-rent quarters reserved for domestic servants, impoverished students, and bohemian artists</span>. The wealthy and powerful occupied the <em>piano nobile</em>—the prestigious first and second floors—where <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">proximity to street life was achieved without the physical ordeal of vertical ascent</span>. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">The architectural geography of the pre-industrial city was horizontally stratified by wealth, but vertically democratic.</span></p><p><strong>Paragraph 2.</strong> This ancient spatial hierarchy was abruptly inverted in May 1854 at the New York Crystal Palace exhibition. Standing upon an open hoisting platform suspended high above a gasping crowd, inventor Elisha Graves Otis <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">ordered the hoisting cable severed. Instead of plummeting to the ground, <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\"><span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">the platform fell merely a few inches before Otis’s spring-operated safety brake engaged, locking the carriage onto toothed guide rails. With Otis’s dramatic proclamation that his safety elevator was secure</span></span>, the vertical limits of urban space vanished.</span> <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Coupled with the invention of the Bessemer steel-making process, which <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">replaced thick, load-bearing stone walls with lightweight steel skeletons</span>, the elevator enabled buildings to soar into the clouds.</span></p><p><strong>Paragraph 3.</strong> In <em>Up: The Vertical City and the Transformation of Modern Life</em>, urban sociologist Dr. Ronald Kroll explores how the elevator revolutionized social stratification. Almost overnight, <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">the social valuation of urban height was turned on its head. The top floors, once despised for their stair fatigue, became the most coveted and expensive real estate in the metropolis.</span> <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">High above the dust, cholera-laden street stench, and noise of industrial traffic, <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">the attic was reinvented as the luxury penthouse</span>, offering abundant natural light, pristine air, and panoramic views of the city below.</span> Conversely, the lower floors were demoted to commercial retail or secondary status.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Kroll argues that the elevator was not merely a mechanical convenience; it was a profound social separator.</span> In the low-rise city, citizens of disparate social strata crossed paths continuously on stairwells and sidewalks. In the skyscraper city, the high-speed elevator became an enclosed, private transit vehicle that <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">whisked corporate elites directly from underground parking garages to private cloud-level suites, completely bypassing public civic spaces.</span> By dissolving the physical friction of altitude, Otis’s machine did not simply elevate human bodies into the stratosphere; it severed the wealthy from the grounded reality of democratic city life.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 27–31",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 320? In boxes 27–31 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 32–36",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–G</b>, below. Write the correct letter, <b>A–G</b>, in boxes 32–36 on your answer sheet.</i>",
+      "endings": [
+        "A. buildings no longer required massive stone walls to bear structural weight.",
+        "B. hoisting platforms could be stopped safely even if main cables snapped.",
+        "C. they wished to avoid the exhausting physical strain of climbing stairs.",
+        "D. elevators were excessively expensive to install in old structures.",
+        "E. they offered clean air, sunlight, and isolation from street pollution.",
+        "F. municipal governments immediately banned all low-rise residential housing.",
+        "G. reduced casual interactions between different socioeconomic classes."
+      ],
+      "questionIds": [
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "Prior to the 1850s, physical fatigue prevented buildings from routinely exceeding six storeys.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"buildings rarely rose above five or six floors. Climbing beyond the fifth flight of stairs was physically exhausting...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Top-floor apartments in pre-industrial cities commanded the highest rental prices.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Ngược nghĩa trực tiếp: tầng trên cùng là nơi giá rẻ mạt nhất (<i>undesirable, low-rent quarters reserved for domestic servants, impoverished students...</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Elisha Graves Otis was severely injured during his 1854 public demonstration in New York.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Phanh an toàn giữ chặt, Otis không hề bị thương: <i>\"fell merely a few inches before Otis’s spring-operated safety brake engaged... secure\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "The invention of lightweight steel skeletons contributed to the growth of tall skyscrapers.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Coupled with the invention of the Bessemer steel-making process... enabled buildings to soar into the clouds.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Upper-floor penthouse apartments were originally created to house factory laborers.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Penthouse ra đời làm nơi ở xa hoa cho giới giàu có, không phải công nhân: <i>\"attic was reinvented as the luxury penthouse... most coveted and expensive real estate\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "In pre-industrial European cities, elite citizens preferred lower floors because",
+      "finalAnswer": "C",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...proximity to street life was achieved without the physical ordeal of vertical ascent.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Elisha Otis’s dramatic demonstration proved that",
+      "finalAnswer": "B",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...ordered the hoisting cable severed. Instead of plummeting... safety brake engaged\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "The introduction of the Bessemer steel process meant that",
+      "finalAnswer": "A",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...replaced thick, load-bearing stone walls with lightweight steel skeletons\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Penthouse suites became extraordinarily valuable because",
+      "finalAnswer": "E",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...High above the dust, cholera-laden street stench, and noise... offering abundant natural light, pristine air, and panoramic views...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "High-speed private elevators in skyscrapers have",
+      "finalAnswer": "G",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...whisked corporate elites directly... completely bypassing public civic spaces... severed the wealthy from the grounded reality of democratic city life.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>G</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What was the primary social effect of pre-industrial architecture on city dwellers?",
+      "options": [
+        "A. Wealthy citizens lived in rural areas, leaving cities entirely to artisans.",
+        "B. People from different social classes shared vertical spaces within identical buildings.",
+        "C. Factory owners were required by law to provide free housing for staff.",
+        "D. The poorest residents enjoyed superior natural lighting and views."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Cùng một tòa nhà: người giàu ở tầng dưới, người nghèo ở tầng áp mái → <i>vertically democratic / shared vertical spaces</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "In the second paragraph, what made Otis’s elevator breakthrough unique?",
+      "options": [
+        "A. It utilized electrical power rather than steam engines.",
+        "B. It included an automatic mechanism that prevented catastrophic free falls.",
+        "C. It was manufactured entirely from lightweight reinforced timber.",
+        "D. It was designed specifically for underground coal mining shafts."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cơ chế hãm lò xo tự động ngăn rơi tự do: <i>spring-operated safety brake engaged, locking the carriage</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "According to the third paragraph, how did the elevator alter the perception of upper storeys?",
+      "options": [
+        "A. Top floors were converted into industrial storage rooms for heavy machinery.",
+        "B. Upper floors evolved from cheap, undesirable spaces into elite luxury homes.",
+        "C. City governments prohibited residents from opening windows above the fifth floor.",
+        "D. Real estate prices became identical across all levels of a building."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Đảo lộn hoàn toàn: từ gác xép nghèo khổ thành căn hộ penthouse đắt đỏ bậc nhất: <i>social valuation was turned on its head... most coveted and expensive real estate</i>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What is Dr. Kroll’s overarching critique of the modern elevator in the final paragraph?",
+      "options": [
+        "A. It consumes unsustainable amounts of municipal electrical power.",
+        "B. It is prone to mechanical breakdowns during high-altitude windstorms.",
+        "C. It facilitates social isolation by insulating the affluent from public life.",
+        "D. It prevents architects from designing energy-efficient ventilation shafts."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Phê phán thang máy chia cắt tầng lớp xã hội, cô lập giới giàu khỏi đời sống công dân: <i>profound social separator... severed the wealthy from the grounded reality of democratic city life</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

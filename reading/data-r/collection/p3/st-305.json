@@ -1,0 +1,266 @@
+{
+  "title": "Bài sưu tầm 305 - Passage 3: The Chill of History: Navigating the Little Ice Age",
+  "answers": {
+    "q27": "B",
+    "q28": "A",
+    "q29": "G",
+    "q30": "F",
+    "q31": "E",
+    "q32": "NO",
+    "q33": "YES",
+    "q34": "NOT GIVEN",
+    "q35": "NO",
+    "q36": "YES",
+    "q37": "B",
+    "q38": "A",
+    "q39": "C",
+    "q40": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 305</h2><h3>The Chill of History: Navigating the Little Ice Age</h3><p><strong>Paragraph 1.</strong> Between approximately 1300 and 1850, the Earth experienced a protracted climatic cooling known to paleoclimatologists as the Little Ice Age. <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">While not a true glacial epoch</span>, <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">this hemispheric cooling depressed average global temperatures by merely 1°C to 1.5°C. Yet, this seemingly modest statistical shift triggered profound environmental and societal convulsions across Eurasia and North America.</span> <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Glaciers expanded down alpine valleys, demolishing Swiss villages; the River Thames in London froze so solidly that citizens held winter 'frost fairs' upon its surface;</span> and persistent, freezing rains devastated agrarian crops, plunging pre-modern civilizations into recurring cycles of famine, pestilence, and social rebellion.</p><p><strong>Paragraph 2.</strong> In <em>The Frigid Century</em>, historical climatologist Dr. Raymond Douglas challenges the long-standing divide between natural history and political science. For generations, <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">traditional political historians attributed the catastrophic upheavals of seventeenth-century Europe—including the devastating Thirty Years’ War, the English Civil War, and the collapse of the Ming Dynasty in China—almost exclusively to human agency: dynastic ambitions, religious bigotry, and fiscal mismanagement.</span> Douglas, however, <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">integrates high-resolution paleoclimatic data, such as polar ice-core samples, tree-ring chronologies (dendrochronology), and historic harvest records, to demonstrate that global cooling acted as an omnipresent 'threat multiplier' that pushed already stressed social systems over the brink of collapse</span>.</p><p><strong>Paragraph 3.</strong> The mechanism through which cooling destabilized societies was primarily agrarian. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Pre-industrial economies were extraordinarily vulnerable to climatic volatility, operating with razor-thin food surpluses.</span> <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">During the coldest decades of the seventeenth century—coinciding with the Maunder Minimum, an extended period of exceptionally low solar sunspot activity</span>—<span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">growing seasons contracted by up to four weeks. Springs were bitterly cold and sodden, rotting seeds in the earth; summers were truncated and dry; and premature autumn frosts destroyed unripened grain before harvest. The resulting agrarian shortfalls caused grain prices to skyrocket exponentially. As starvation spread through impoverished populations, <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">malnutrition crippled immune systems, allowing catastrophic outbreaks of typhus and bubonic plague to decimate populations across Europe and East Asia</span>.</span></p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Douglas is careful to avoid the trap of crude environmental determinism—the flawed theoretical assertion that climate dictates human history in a simple cause-and-effect equation.</span> <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">He illustrates that climatic shocks produced starkly divergent outcomes depending on the institutional resilience of specific societies.</span> In societies characterized by autocratic governance, extreme wealth inequality, and rigid agrarian serfdom, such as Muscovite Russia or Ottoman Anatolia, <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">climatic stress provoked state fragmentation and violent peasant uprisings</span>. Conversely, the Dutch Republic navigated the Little Ice Age with remarkable adaptability. <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">Possessing a commercial fleet, diversified maritime trade networks, and sophisticated hydrological drainage systems</span>, the Dutch imported grain from the Baltic, converted frozen waterways into transport highways for skates and ice-sledges, and expanded their urban economy amidst regional ruin. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Climate, Douglas demonstrates, does not author human destiny; rather, it brutally exposes the structural vulnerabilities of human institutions.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 27–31",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–G</b>, below. Write the correct letter, <b>A–G</b>, in boxes 27–31 on your answer sheet.</i>",
+      "endings": [
+        "A. focusing primarily on political decisions and human conflicts.",
+        "B. produced catastrophic real-world effects on agriculture and society.",
+        "C. proved that solar activity had no influence on climate patterns.",
+        "D. caused all European economies to collapse simultaneously.",
+        "E. they possessed commercial networks and flexible infrastructure.",
+        "F. they relied heavily on minimal food reserves.",
+        "G. prove that climatic stress contributed to societal breakdowns."
+      ],
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 32–36",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 305? In boxes 32–36 on your answer sheet, write: <b>YES</b> / <b>NO</b> / <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "A relatively minor drop in global temperatures",
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"depressed temperatures by merely 1°C... Yet, this seemingly modest shift triggered profound environmental and societal convulsions...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Traditional political historians tended to explain historical crises by",
+      "finalAnswer": "A",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"traditional political historians attributed... almost exclusively to human agency: dynastic ambitions, religious bigotry...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Historical tree-ring data and ice-core samples were used to",
+      "finalAnswer": "G",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"integrates paleoclimatic data... to demonstrate that global cooling acted as an omnipresent 'threat multiplier' that pushed social systems over the brink...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>G</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "Pre-industrial societies suffered severely from short growing seasons because",
+      "finalAnswer": "F",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Pre-industrial economies were extraordinarily vulnerable... operating with razor-thin food surpluses.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "The Dutch Republic managed to prosper during cold periods because",
+      "finalAnswer": "E",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Possessing a commercial fleet, diversified maritime trade networks, and sophisticated hydrological drainage systems...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "The Little Ice Age brought about global temperature declines equivalent to a major ice age.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"While not a true glacial epoch...\"</i> → Không hề tương đương một kỷ băng hà thực thụ.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "The Maunder Minimum coincided with several of the coldest decades of the seventeenth century.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"During the coldest decades... coinciding with the Maunder Minimum...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Starvation directly caused the genetic mutation of the typhus bacterium.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "Bài chỉ nói suy dinh dưỡng làm suy yếu hệ miễn dịch, không nói nạn đói gây đột biến gen vi khuẩn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Raymond Douglas argues that climatic shifts single-handedly determine the collapse of civilizations.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Douglas is careful to avoid the trap of crude environmental determinism... Climate does not author human destiny...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Societies with high inequality and autocratic rule proved less capable of withstanding climate shocks.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Các xã hội chuyên chế, bất bình đẳng cao như Nga hay Ottoman tan rã, bạo loạn: <i>provoked state fragmentation</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Why does the author mention London’s frozen River Thames in the first paragraph?",
+      "options": [
+        "A. to highlight the architectural ingenuity of early English bridges",
+        "B. to provide physical evidence of how severely local environments were altered",
+        "C. to illustrate that citizens enjoyed the economic opportunities brought by winter",
+        "D. to show that the cooling was restricted entirely to the British Isles"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Nêu sông Thames đóng băng cùng với sông băng tiến xuống làng mạc để chứng minh môi trường biến đổi vật lý dữ dội.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "According to the third paragraph, what was the primary chain of events leading to epidemic disease?",
+      "options": [
+        "A. shortened growing seasons → crop failure → widespread malnutrition → compromised immunity",
+        "B. frozen rivers → breakdown of sanitation → water contamination → plague outbreaks",
+        "C. sunspot inactivity → excessive rainfall → loss of livestock → urban overcrowding",
+        "D. grain hoarding by landlords → peasant riots → military conscription → infections"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Mùa màng ngắn lại → hạt giống thối/hỏng mùa → giá lương thực tăng vọt/đói kém → suy dinh dưỡng phá hủy hệ miễn dịch → dịch bệnh bùng phát.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "How does Douglas refute the accusation of environmental determinism in his work?",
+      "options": [
+        "A. by showing that historical records from the 17th century were frequently forged",
+        "B. by arguing that humans have total control over global weather patterns",
+        "C. by demonstrating that different political institutions produced contrasting results under identical climate stresses",
+        "D. by proving that the Little Ice Age had no measurable effect on Asian empires"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Đưa ra ví dụ đối lập: Nga/Ottoman sụp đổ trong khi Hà Lan lại phát triển rực rỡ dưới cùng một áp lực khí hậu.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What is the central thesis of Dr. Raymond Douglas’s <em>The Frigid Century</em>?",
+      "options": [
+        "A. Natural climate shifts are far more dangerous to human life than modern industrial pollution.",
+        "B. Climate volatility serves as an environmental stressor that uncovers the weaknesses of social systems.",
+        "C. Democratic societies will always inevitably collapse during prolonged environmental emergencies.",
+        "D. Historical events can only be understood through the scientific analysis of ice cores."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "Luận điểm cốt lõi ở cuối đoạn 4: <i>Climate brutally exposes the structural vulnerabilities of human institutions</i> ↔ Khí hậu bộc lộ các điểm yếu của hệ thống xã hội.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}
