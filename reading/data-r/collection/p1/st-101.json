@@ -1,0 +1,204 @@
+{
+  "title": "Bài sưu tầm 101 - Passage 1: The Antikythera Mechanism: The World's First Computer",
+  "answers": {
+    "q1": "storm",
+    "q2": "gear",
+    "q3": "frame",
+    "q4": "moon",
+    "q5": "eclipses",
+    "q6": "scans",
+    "q7": "planets",
+    "q8": "FALSE",
+    "q9": "TRUE",
+    "q10": "NOT GIVEN",
+    "q11": "FALSE",
+    "q12": "FALSE",
+    "q13": "TRUE"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 101</h2><h3>The Antikythera Mechanism: The World's First Computer</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In the spring of 1900, a crew of Greek sponge divers returning from North Africa was forced off course by an intense gale. Seeking shelter, they dropped anchor near the tiny, barren island of Antikythera</span>, situated between Crete and the Greek mainland. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">When the <span class=\"kw\">storm</span> subsided</span>, diver Elias Stadiatis donned a bronze diving helmet and descended to a depth of 45 metres to search for sponges. Instead of marine life, Stadiatis surfaced trembling, babbling about a seabed covered with rotting corpses and bronze horses. He had stumbled upon an ancient Roman shipwreck dating to the first century BCE, laden with marble statues, pottery, and exquisite bronze sculptures.</p><p><strong>Paragraph 2.</strong> Over the following nine months, Greek authorities carried out a salvage operation in hazardous deep waters. Among the rescued treasures brought to the National Archaeological Museum in Athens was an unassuming, calcified lump of corroded bronze encrusted with marine sediment. For almost two years, this ugly relic sat unnoticed in an outdoor courtyard. In May 1902, archaeologist Valerios Stais was examining the collection when he noticed that the decaying mass had cracked open, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">exposing a remarkably intricate <span class=\"kw\">gear</span> with triangular teeth embedded inside</span>. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Initial academic consensus dismissed the object as an anachronism; classicists insisted that such advanced mechanical design could not have existed in antiquity</span> and speculated that it was an astrolabe or navigation clock dropped by a passing medieval ship.</p><p><strong>Paragraph 3.</strong> Decades of subsequent multidisciplinary research disproved this skepticism. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">British physicist Derek de Solla Price began analysing the relic in the 1950s using X-ray photography</span>. His work revealed that the fragments belonged to a single portable device <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">originally enclosed in a protective wooden <span class=\"kw\">frame</span></span> roughly the size of a mantelpiece clock. Inscribed bronze plates had once covered the exterior, acting as an ancient user manual containing operational instructions and calendars. The device, dated to approximately 150–100 BCE, contained at least thirty interlocking bronze gears <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">powered by a hand-turned crank</span>. Turning the crank moved a complex system of differential gears, translating human motion into the calculated movements of celestial bodies.</p><p><strong>Paragraph 4.</strong> The front dial of the mechanism featured two concentric rings: an inner ring displaying the twelve signs of the zodiac and an outer ring corresponding to the 365 days of the Egyptian solar calendar. Pointers indicated the daily coordinates of the sun and moon, while an ingenious pin-and-slot gear assembly <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">simulated the <span class=\"kw\">moon</span>'s irregular orbit</span>, precisely matching its fluctuating speed across the night sky. On the reverse side, upper and lower spiral dials tracked the Metonic cycle (a 19-year lunar-solar calendar) and the Saros cycle, a 223-month sequence <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">capable of predicting upcoming <span class=\"kw\">eclipses</span> with frightening accuracy</span>, even indicating the hour of the event and the expected colour of the obscured moon.</p><p><strong>Paragraph 5.</strong> In 2005, the Antikythera Mechanism Research Project applied cutting-edge technology to the heavily fragmented device. Using three-dimensional computed tomography, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">scientists took high-resolution <span class=\"kw\">scans</span> that pierced deep into the corroded bronze cores</span>. This non-destructive technique unveiled thousands of microscopic text characters and faint <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">inscriptions invisible to the naked eye</span>. Crucially, the scans confirmed the presence of <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">gearing designed to track the orbital movements of five known <span class=\"kw\">planets</span></span>—Mercury, Venus, Mars, Jupiter, and Saturn. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">The Antikythera Mechanism demonstrated that the mechanical sophistication of the Hellenistic world was millennia ahead of what modern historians had ever conceived</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The Antikythera Mechanism",
+      "questionIds": ["q1", "q2", "q3", "q4", "q5", "q6", "q7"],
+      "template": "<p><b>Discovery</b></p><ul><li style=\"margin-bottom: 10px;\">A group of sponge divers anchored at Antikythera to escape a severe <b>1.</b> {{q1}} .</li><li style=\"margin-bottom: 10px;\">After lying forgotten in a courtyard, a broken metal lump revealed a bronze <b>2.</b> {{q2}} .</li></ul><p><b>Structure and Display</b></p><ul><li style=\"margin-bottom: 10px;\">The delicate calculating device was originally housed inside a wooden <b>3.</b> {{q3}} .</li><li style=\"margin-bottom: 10px;\">The front dial showed calendar dates, the zodiac, and the erratic speed of the <b>4.</b> {{q4}} .</li><li style=\"margin-bottom: 10px;\">Dials on the back permitted users to calculate the timing and appearance of future <b>5.</b> {{q5}} .</li></ul><p><b>Recent Findings</b></p><ul><li style=\"margin-bottom: 10px;\">In 2005, researchers examined internal layers using advanced <b>6.</b> {{q6}} .</li><li style=\"margin-bottom: 10px;\">The examination revealed that the mechanism also mapped the orbits of several <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write:<br><b>TRUE</b> – if the statement agrees with the information<br><b>FALSE</b> – if the statement contradicts the information<br><b>NOT GIVEN</b> – if there is no information on this</i>",
+      "questionIds": ["q8", "q9", "q10", "q11", "q12", "q13"]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "storm",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...When the storm subsided...\"</i>",
+          "<b>Từ gây nhiễu (Distractors):</b> gale, helmet, depth.",
+          "<b>Từ cần điền:</b> <b>storm</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "gear",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...exposing a remarkably intricate gear with triangular teeth...\"</i>",
+          "<b>Từ gây nhiễu (Distractors):</b> teeth, mass, rock.",
+          "<b>Từ cần điền:</b> <b>gear</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "frame",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...originally enclosed in a protective wooden frame...\"</i>",
+          "<b>Từ gây nhiễu (Distractors):</b> clock, plates, manual.",
+          "<b>Từ cần điền:</b> <b>frame</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "moon",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...simulated the moon's irregular orbit...\"</i>",
+          "<b>Từ gây nhiễu (Distractors):</b> sun, zodiac, calendar.",
+          "<b>Từ cần điền:</b> <b>moon</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "eclipses",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...capable of predicting upcoming eclipses with frightening accuracy...\"</i>",
+          "<b>Từ gây nhiễu (Distractors):</b> cycles, sequence, calendars.",
+          "<b>Từ cần điền:</b> <b>eclipses</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "scans",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...scientists took high-resolution scans that pierced deep...\"</i>",
+          "<b>Từ gây nhiễu (Distractors):</b> cores, characters, sediment.",
+          "<b>Từ cần điền:</b> <b>scans</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "planets",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...gearing designed to track the orbital movements of five known planets...\"</i>",
+          "<b>Từ gây nhiễu (Distractors):</b> characters, inscriptions, cores.",
+          "<b>Từ cần điền:</b> <b>planets</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The sponge divers arrived at Antikythera intentionally looking for ancient artifacts.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Thợ lặn bị bão dạt vào bờ khi đang đánh bắt hải sản trở về (<i>forced off course by an intense gale</i>), mục đích không phải tìm cổ vật.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Early scholars believed the corroded bronze object was too technologically advanced for ancient Greece.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"classicists insisted that such advanced mechanical design could not have existed in antiquity...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Derek de Solla Price was the first researcher to identify the exact individual who built the device.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Có nhắc đến Price nghiên cứu thiết bị bằng X-ray, nhưng bài đọc hoàn toàn không đề cập việc ông có tìm ra danh tính người chế tạo hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "The device required continuous water flow to power its internal gear system.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"powered by a hand-turned crank\"</i> → quay bằng tay quay, mâu thuẫn trực tiếp với chạy bằng sức nước.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Microscopic inscriptions inside the mechanism could be seen without using specialized scanning equipment.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...inscriptions invisible to the naked eye\"</i> → mắt thường không thể thấy, mâu thuẫn với <i>\"without using specialized equipment\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "The discovery of the mechanism forced historians to revise their opinions on ancient engineering capabilities.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...sophistication of the Hellenistic world was millennia ahead of what modern historians had ever conceived\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}
