@@ -1,0 +1,242 @@
+{
+  "title": "Bài sưu tầm 201 - Passage 2: Harnessing Nature's Glow: The Science of Living Light",
+  "answers": {
+    "q14": "C",
+    "q15": "B",
+    "q16": "F",
+    "q17": "E",
+    "q18": "columns",
+    "q19": ["fibres", "fibers"],
+    "q20": "bubbles",
+    "q21": "sensors",
+    "q22": "A",
+    "q23": "C",
+    "q24": "D",
+    "q25": "A",
+    "q26": "D"
+  },
+  "passageHtml": "<h2>READING PASSAGE 201</h2><h3>Harnessing Nature's Glow: The Science of Living Light</h3><p><strong>Paragraph A.</strong> In the ongoing global push to decarbonize modern cities, public lighting remains a stubborn obstacle. Streetlights, architectural illumination, and transit pathway indicators account for nearly twenty percent of worldwide municipal electricity expenditures. In response, an interdisciplinary alliance of synthetic biologists, material scientists, and urban planners is looking toward nature for a zero-carbon alternative: bioluminescence. The biochemical production of light by living organisms—exemplified by fireflies, deep-sea anglers, and certain varieties of subterranean fungi—requires no external electric grid. By decoding and transplanting the genetic machinery responsible for this cold illumination into common vegetation and microalgae, scientists hope to transform urban landscapes into self-illuminating ecosystems.</p><p><strong>Paragraph B.</strong> The biological mechanism driving this phenomenon is surprisingly universal across diverse phyla. Bioluminescence occurs when an enzyme termed luciferase catalyses the oxidation of a small molecule known as luciferin, releasing energy in the form of cold, visible light photons with almost no thermal energy wasted. While <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">human-made incandescent bulbs convert less than ten percent of their electrical input into light—radiating the rest as ambient heat—bioluminescent reactions exhibit an optical efficiency approaching ninety-eight percent</span>. 'From an energetic standpoint, nature solved the problem of sustainable lighting millions of years ago,' observes Dr. Claire Moreau, a biochemist at the European Institute of Molecular Ecology. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">'Our modern challenge is not inventing new chemistry, but engineering stable living vessels capable of sustaining this metabolic cascade over months.'</span></p><p><strong>Paragraph C.</strong> Initial commercial trials, however, encountered substantial biological hurdles. Early attempts to introduce bacterial luciferase genes into popular ornamental flora produced specimens that were barely perceptible in absolute darkness, requiring prolonged exposure to specialized cameras to capture any discernible luminescence. Furthermore, the energetic strain of producing light severely stunted plant development, causing premature leaf shedding and chlorosis. To overcome this, geneticists shifted their attention to naturally luminous fungi such as <em>Neonothopanus nambi</em>. Unlike bacterial systems, which require complex exogenous chemical additives to sustain light emission, <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">fungal bioluminescence shares biochemical pathways with caffeic acid—a polymer naturally present in the cell walls of all terrestrial plants</span>. By fusing the fungal genetic sequence with the plant's native metabolism, bioengineers recently achieved a thousand-fold increase in autonomous green luminescence without compromising structural health.</p><p><strong>Paragraph D.</strong> Building on this breakthrough, a team led by biophysicist Dr. Kenneth Vance conducted a practical deployment trial to evaluate whether bioluminescent microalgae could replace conventional electricity in subterranean infrastructure. Vance's team designed sealed, vertical borosilicate glass <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\"><span class=\"kw\">columns</span></span> containing cultures of the dinoflagellate <em>Pyrocystis fusiformis</em>. These photobioreactors were mounted along pedestrian corridors inside sixty underground transit stations in Brussels. During the day, <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">ambient light directed down via optical <span class=\"kw\">fibres</span></span> allowed the photosynthetic microalgae to generate oxygen and store metabolic carbohydrates. During evening operational hours, <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">mechanical pumps circulated air <span class=\"kw\">bubbles</span> through the liquid matrix</span>, creating fluid shear stress that physically stimulated the cells to produce an ethereal blue glow. <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\"><span class=\"kw\">Sensors</span> logged both optical output and commuter satisfaction</span> over a six-month monitoring cycle.</p><p><strong>Paragraph E.</strong> The public response to biological illumination, however, reveals complicated socio-cultural dynamics. Environmental sociologist Dr. Aris Thorne argues that modern societies have become conditioned to the harsh, uniform glare of high-pressure sodium and light-emitting diode (LED) fixtures. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">'Our circadian architecture and subjective feelings of safety are profoundly tied to excessive artificial brightness,' Thorne explains. 'When commuters encounter the soft, shifting glow of bioluminescent panels, many initially express unease, perceiving the dim illumination as inadequate for public surveillance.'</span> Nevertheless, Thorne’s surveys indicate that <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">after several weeks of exposure, public sentiment swung markedly toward appreciation</span>, with citizens reporting significant reductions in evening stress levels and feeling a restorative emotional connection to the living infrastructure.</p><p><strong>Paragraph F.</strong> Despite these promising developments, ecological toxicologists urge caution before living lighting is deployed on a commercial scale. Dr. Haruki Sato points out that <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">altering the optical profile of nocturnal urban environments could trigger unforeseen consequences for local fauna</span>. While blue-green wavelengths match the sensitivity of human nocturnal vision, they also overlap directly with the behavioural cues of many migrating passerine birds and insect pollinators. Introducing millions of permanently glowing trees into parks could <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">disrupt avian navigation</span>, misdirect mating swarms, and disrupt the foraging cycles of urban bats. <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">Sato insists that every synthetic organism must undergo comprehensive environmental impact assessments</span> to ensure that biological solutions do not simply replace electrical pollution with biological disorientation.</p><p><strong>Paragraph G.</strong> Looking ahead, researchers emphasize that <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">living lights are not designed to fully supplant high-intensity highway lighting, but rather to complement progressive municipal zoning</span>. Dr. Claire Moreau envisions a decentralized model where glowing pathways and bioluminescent street signs guide foot traffic through public squares, leaving traditional grids reserved strictly for critical arterial roadways. 'Decarbonization is not about finding a single technological miracle,' Moreau summarizes. 'It is about re-integrating passive biological functions into the fabric of human habitation.'</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–17",
+      "instructions": "<i>Reading Passage 201 has seven sections, <b>A–G</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–G</b>, in boxes 14–17 on your answer sheet.</i>",
+      "questionIds": ["q14", "q15", "q16", "q17"]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 18–21",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 18–21 on your answer sheet.</i>",
+      "summaryTitle": "Dr. Kenneth Vance’s Transit Station Experiment",
+      "questionIds": ["q18", "q19", "q20", "q21"],
+      "template": "<p>Dr. Kenneth Vance conducted a six-month investigation to assess whether cultures of microalgae could illuminate underground transit corridors. His team constructed vertical glass <b>18.</b> {{q18}} that were filled with photosynthetic organisms and positioned along corridors in Brussels.</p><p>During daytime periods, sunlight was channelled into the systems using optical <b>19.</b> {{q19}} to enable the algae to store energy. At night, mechanical equipment introduced <b>20.</b> {{q20}} into the liquid to generate physical stress, which stimulated the cells to glow. In addition to recording passenger reactions, specialized <b>21.</b> {{q21}} recorded the optical performance of the photobioreactors throughout the trial.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "matching_names",
+      "skillTag": "MATCH_FEATURES",
+      "title": "Questions 22–26",
+      "instructions": "<i>Look at the following statements (Questions 22–26) and the list of researchers below.<br>Match each statement with the correct person, <b>A–D</b>.<br>Write the correct letter, <b>A–D</b>, in boxes 22–26 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>List of Researchers:</b><br><b>A.</b> Dr. Claire Moreau<br><b>B.</b> Dr. Kenneth Vance<br><b>C.</b> Dr. Aris Thorne<br><b>D.</b> Dr. Haruki Sato",
+      "questionIds": ["q22", "q23", "q24", "q25", "q26"]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "an explanation of how a natural fungal process proved more compatible with plant biology than bacterial systems",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "C",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"fungal bioluminescence shares biochemical pathways with caffeic acid—a polymer naturally present in the cell walls of all terrestrial plants.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "data demonstrating the superior energy conservation of living light compared to artificial illumination",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "B",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"human-made incandescent bulbs convert less than ten percent... bioluminescent reactions exhibit an optical efficiency approaching ninety-eight percent.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "a warning regarding the potential risks that luminous urban plants pose to local wildlife",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "F",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"altering the optical profile... could trigger unforeseen consequences for local fauna... disrupt avian navigation, misdirect mating swarms...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "an account of how initial public discomfort with soft biological lighting gradually evolved into acceptance",
+      "options": ["A", "B", "C", "D", "E", "F", "G"],
+      "finalAnswer": "E",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"many initially express unease... public sentiment swung markedly toward appreciation...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "columns",
+      "inputWidth": "120px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...designed sealed, vertical borosilicate glass columns...\"</i>",
+          "<b>Từ gây nhiễu (Distractors):</b> stations, reactors, corridors.",
+          "<b>Từ cần điền:</b> <b>columns</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": ["fibres", "fibers"],
+      "inputWidth": "120px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...ambient light directed down via optical fibres...\"</i>",
+          "<b>Từ cần điền:</b> <b>fibres</b> (hoặc <b>fibers</b>)."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "bubbles",
+      "inputWidth": "120px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...mechanical pumps circulated air bubbles through the liquid matrix...\"</i>",
+          "<b>Từ gây nhiễu (Distractors):</b> pumps, stress.",
+          "<b>Từ cần điền:</b> <b>bubbles</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "sensors",
+      "inputWidth": "120px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"Sensors logged both optical output and commuter satisfaction...\"</i>",
+          "<b>Từ gây nhiễu (Distractors):</b> cameras, loggers.",
+          "<b>Từ cần điền:</b> <b>sensors</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Urban illumination systems should blend living lights with targeted conventional electricity rather than seeking total replacement.",
+      "options": [
+        "A. Dr. Claire Moreau",
+        "B. Dr. Kenneth Vance",
+        "C. Dr. Aris Thorne",
+        "D. Dr. Haruki Sato"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn G (Dr. Claire Moreau):</b> <i>\"...not designed to fully supplant high-intensity highway lighting, but rather to complement...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A (Dr. Claire Moreau)</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Habitual exposure to intense artificial light makes individuals initially distrustful of lower-intensity illumination.",
+      "options": [
+        "A. Dr. Claire Moreau",
+        "B. Dr. Kenneth Vance",
+        "C. Dr. Aris Thorne",
+        "D. Dr. Haruki Sato"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E (Dr. Aris Thorne):</b> <i>\"Our circadian architecture and subjective feelings of safety are profoundly tied to excessive artificial brightness... perceiving the dim illumination as inadequate...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C (Dr. Aris Thorne)</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Thorough ecological reviews must precede the widespread adoption of genetically altered organisms in cities.",
+      "options": [
+        "A. Dr. Claire Moreau",
+        "B. Dr. Kenneth Vance",
+        "C. Dr. Aris Thorne",
+        "D. Dr. Haruki Sato"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F (Dr. Haruki Sato):</b> <i>\"Sato insists that every synthetic organism must undergo comprehensive environmental impact assessments...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D (Dr. Haruki Sato)</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "The principal obstacle facing scientists is sustaining existing biological mechanisms over extended durations.",
+      "options": [
+        "A. Dr. Claire Moreau",
+        "B. Dr. Kenneth Vance",
+        "C. Dr. Aris Thorne",
+        "D. Dr. Haruki Sato"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B (Dr. Claire Moreau):</b> <i>\"Our modern challenge is not inventing new chemistry, but engineering stable living vessels capable of sustaining this metabolic cascade over months.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A (Dr. Claire Moreau)</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "The optical spectrum emitted by living organisms can interfere with the seasonal journeys of certain wildlife.",
+      "options": [
+        "A. Dr. Claire Moreau",
+        "B. Dr. Kenneth Vance",
+        "C. Dr. Aris Thorne",
+        "D. Dr. Haruki Sato"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F (Dr. Haruki Sato):</b> <i>\"...disrupt avian navigation [migrating passerine birds]...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D (Dr. Haruki Sato)</b>."
+        ]
+      }
+    }
+  }
+}
