@@ -1,0 +1,234 @@
+{
+  "title": "Bài sưu tầm 220 - Passage 2: The Demise of the Mental Map: Spatial Cognition in the Digital Age",
+  "answers": {
+    "q14": "C",
+    "q15": "D",
+    "q16": "B",
+    "q17": "A",
+    "q18": "E",
+    "q19": "NO",
+    "q20": "YES",
+    "q21": "YES",
+    "q22": "NOT GIVEN",
+    "q23": "YES",
+    "q24": "C",
+    "q25": "B",
+    "q26": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 220</h2><h3>The Demise of the Mental Map: Spatial Cognition in the Digital Age</h3><p><strong>Paragraph 1.</strong> For tens of thousands of years, navigating the physical world was an indispensable survival skill for the human species. Whether tracking migratory herds across Pleistocene savannas or exploring uncharted oceans using celestial vectors, our ancestors relied on internal spatial mapping. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">Within the human brain, an intricate neurological network continuously calculates geographic coordinates, monitors directional orientation, and builds dynamic mental representations of three-dimensional topography.</span> Over the past two decades, however, the universal adoption of satellite-based global positioning system (GPS) smartphone navigation has disrupted this ancient evolutionary compact. Rather than actively surveying surrounding landscapes and synthesizing geographic landmarks into cognitive maps, modern travelers passively obey turn-by-turn auditory instructions, outsourcing their biological navigation to automated algorithms.</p><p><strong>Paragraph 2.</strong> The biological command center of human spatial navigation resides within the hippocampus, a seahorse-shaped structure embedded deep inside the brain's medial temporal lobe. <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">In a legendary series of neuroimaging investigations conducted in the early 2000s, British neuroscientist Dr. Eleanor Maguire analyzed the brains of licensed London taxi drivers.</span> To earn their operating license, London cabbies must spend three to four years memorizing 'The Knowledge'—the complex labyrinth of twenty-five thousand streets and thousands of landmarks within a six-mile radius of Charing Cross. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Maguire discovered that qualified taxi drivers possessed a posterior hippocampus that was significantly larger than that of the general public.</span> <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\"><span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">Furthermore, the volume of gray matter correlated directly with the number of years spent driving on London streets, providing dramatic neurobiological proof that actively constructing mental maps physically enlarges and reinforces neural architecture.</span></span></p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">Under automated turn-by-turn GPS guidance, however, this dedicated neural circuitry falls completely silent. Neuroimaging trials show that when individuals navigate a city under passive device instructions, activation within the hippocampus and prefrontal cortex flatlines. Unlike active navigation—which demands continuous spatial computation, visual landmark triangulation, and predictive decision-making at every intersection—following automated arrows requires only low-level reaction.</span> <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\"><span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">Navigators effectively develop 'tunnel vision', ignoring peripheral landmarks and failing to construct an integrated mental overview of the urban terrain.</span></span> When a smartphone battery dies or a cellular signal drops, users frequently experience acute spatial disorientation, unable to find their way even within neighbourhoods they travel through daily.</p><p><strong>Paragraph 4.</strong> The long-term neurocognitive consequences of navigational atrophy are raising alarm bells among geriatric neurologists. Epidemiological research confirms that the hippocampus is one of the earliest brain structures damaged by the onset of Alzheimer’s disease and vascular dementia, <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">with spatial disorientation often presenting as the earliest clinical symptom</span>. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\"><span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">Because cognitive reserve—the brain’s resilience against neurodegenerative decline—is strengthened by lifelong mental exertion, neuroscientists hypothesize that chronic reliance on digital navigation may deprive the hippocampus of essential cognitive stimulation. By systematically replacing active spatial problem-solving with automated prompts, modern societies may be unwittingly reducing the neurological resilience of their aging populations.</span></span></p><p><strong>Paragraph 5.</strong> In response to this cognitive erosion, cognitive psychologists are advocating for spatial hygiene and intelligent navigation design. Researchers recommend that individuals deliberately turn off GPS navigation on familiar domestic routes, forcing the brain to attend to environmental landmarks and estimate distances independently. Furthermore, software designers are developing 'cognitively supportive' navigation applications. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\"><span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Rather than issuing passive turn-by-turn prompts, these experimental systems provide auditory cues based on prominent geographical landmarks—such as 'turn right after the stone cathedral'—or provide zoomed-out perspective maps that encourage users to maintain overall environmental orientation.</span></span> Preserving the human capacity to navigate the physical world is far more than an issue of practical convenience; it is about protecting the structural integrity of the human brain itself.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–18",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below.<br>Write the correct letter, <b>A–J</b>, in boxes 14–18 on your answer sheet.</i><br><br><b>A.</b> early &nbsp; <b>B.</b> passive &nbsp; <b>C.</b> mental &nbsp; <b>D.</b> noticeably &nbsp; <b>E.</b> landmarks<br><b>F.</b> permanent &nbsp; <b>G.</b> temporary &nbsp; <b>H.</b> unhelpful &nbsp; <b>I.</b> late &nbsp; <b>J.</b> physical",
+      "summaryTitle": "Spatial Navigation and Brain Plasticity",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ],
+      "template": "<p>For generations, humans navigated landscapes using internal cognitive maps. This ability is controlled primarily by the hippocampus, an area of the brain that creates <b>14.</b> {{q14}} models of our environment. Research by Dr. Eleanor Maguire showed that London taxi drivers who had completed intensive training possessed a <b>15.</b> {{q15}} larger posterior hippocampus than average citizens. However, current smartphone GPS tools encourage <b>16.</b> {{q16}} travel, causing brain activation in navigation areas to drop dramatically. Medical specialists worry about this trend because spatial disorientation is an <b>17.</b> {{q17}} sign of conditions such as Alzheimer's. To maintain cognitive health, experts suggest that people practice traveling without devices and that software developers design systems that use natural <b>18.</b> {{q18}} to guide drivers.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 19–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 220?<br>In boxes 19–23 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the claims of the writer<br><b>NO</b> – if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "C",
+      "inputWidth": "75px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...builds dynamic mental representations of three-dimensional topography.\"</i> → <b>C (mental)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "D",
+      "inputWidth": "75px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...possessed a posterior hippocampus that was significantly larger...\"</i> → <b>D (noticeably)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "B",
+      "inputWidth": "75px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...passively obey turn-by-turn auditory instructions...\"</i> → <b>B (passive)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "A",
+      "inputWidth": "75px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...spatial disorientation often presenting as the earliest clinical symptom.\"</i> → <b>A (early)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "E",
+      "inputWidth": "75px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...systems provide auditory cues based on prominent geographical landmarks...\"</i> → <b>E (landmarks)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Navigating using smartphone GPS requires similar levels of brain activity as using a traditional paper map.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Dùng GPS khiến vùng não ngừng kích hoạt (<i>flatlines</i>), trái ngược với điều hướng chủ động đòi hỏi tính toán liên tục.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "The size of a London taxi driver's hippocampus was linked to how long they had worked in the profession.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Furthermore, the volume of gray matter correlated directly with the number of years spent driving on London streets...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "People following GPS instructions tend to pay little attention to features in their surrounding environment.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Navigators effectively develop 'tunnel vision', ignoring peripheral landmarks...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "London taxi drivers scored higher in general memory tests than drivers who used navigation technology.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Có nói về kích thước hồi hải mã của tài xế taxi London, nhưng không có dữ liệu so sánh điểm thi trí nhớ chung giữa họ với các tài xế khác.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Regularly using active navigation can contribute to strengthening the brain's cognitive reserve.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"cognitive reserve... is strengthened by lifelong mental exertion...\"</i> → Rèn luyện điều hướng chủ động giúp củng cố cognitive reserve.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "What was shown by Dr. Eleanor Maguire’s study of London taxi drivers?",
+      "options": [
+        "A. Memorizing thousands of city streets caused long-term mental exhaustion.",
+        "B. Physical driving skills are managed exclusively by the prefrontal cortex.",
+        "C. Active spatial learning can lead to physical growth in specific brain regions.",
+        "D. Older taxi drivers were less capable of finding efficient routes through London."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...providing dramatic neurobiological proof that actively constructing mental maps physically enlarges and reinforces neural architecture.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Why are geriatric neurologists concerned about digital navigation devices?",
+      "options": [
+        "A. The screens emit radiation that damages cellular membranes in the eyes.",
+        "B. Underusing the brain's spatial circuitry may reduce protection against dementia.",
+        "C. Drivers who use GPS are more likely to experience automotive accidents.",
+        "D. The stress of relying on digital maps elevates cortisol levels in elderly people."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...by systematically replacing active spatial problem-solving with automated prompts, modern societies may be unwittingly reducing the neurological resilience of their aging populations.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "What modification do software designers propose for future navigation apps?",
+      "options": [
+        "A. Introducing automatic speed limits when vehicles enter historic city centres.",
+        "B. Replacing vocal prompts entirely with complex mathematical coordinates.",
+        "C. Giving directions that refer to recognizable physical features in the environment.",
+        "D. Forcing drivers to take different routes every time they travel to work."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...provide auditory cues based on prominent geographical landmarks—such as 'turn right after the stone cathedral'...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

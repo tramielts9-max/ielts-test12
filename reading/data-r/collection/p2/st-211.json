@@ -1,0 +1,287 @@
+{
+  "title": "Bài sưu tầm 211 - Passage 2: The Wood Wide Web: Rethinking the Subterranean Forest",
+  "answers": {
+    "q14": "E",
+    "q15": "F",
+    "q16": "A",
+    "q17": "D",
+    "q18": "bags",
+    "q19": "saplings",
+    "q20": "retention",
+    "q21": "corridors",
+    "q22": "D",
+    "q23": "C",
+    "q24": "B",
+    "q25": "A",
+    "q26": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 211</h2><h3>The Wood Wide Web: Rethinking the Subterranean Forest</h3><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">For more than a century, classical forestry was rooted in Darwinian competition. Trees within a forest stand were viewed as solitary combatants locked in a ruthless struggle for light, water, and soil minerals. The prevailing silvicultural consensus held that neighbouring trees engaged in zero-sum warfare: when one individual captured moisture, another starved. However, pioneering research over the past three decades has radically dismantled this solitary model.</span> Forest ecologists now recognize that beneath the leaf litter lies an astonishingly complex subterranean network linking trees of varying ages and species. Dubbed the 'Wood Wide Web', this cooperative biological grid is driven by mycorrhizal fungi, whose microscopic filaments physically stitch together entire forest ecosystems into interdependent living communities.</p><p><strong>Paragraph B.</strong> The biological mechanism underpinning this subterranean partnership is an ancient mutualism. Trees are photosynthetic champions, capturing solar energy and synthesizing carbon-based sugars; however, their root systems are relatively coarse and struggle to extract poorly soluble minerals like phosphorus and nitrogen from dense, compacted soils. Conversely, mycorrhizal fungi possess microscopic, thread-like structures termed hyphae that fan out through trillions of soil pores, creating an absorptive surface area thousands of times greater than all the tree roots combined. The fungi supply trees with vital dissolved minerals and water; in exchange, the host trees funnel up to forty percent of their photosynthesized carbohydrates directly into the fungal network. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">'It is neither purely altruistic nor purely predatory,' explains Dr. Suzanne Simard, a professor of forest ecology at the University of British Columbia. 'It is a complex carbon marketplace governed by biological reciprocity.'</span></p><p><strong>Paragraph C.</strong> To track how resources flow across this living grid, Dr. Suzanne Simard designed a landmark isotope-tracing experiment in the temperate old-growth rainforests of western Canada. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Simard’s team encased the branches of mature Douglas fir and paper birch trees inside airtight plastic <span class=\"kw\">bags</span></span>, injecting them with distinct radioactive carbon isotopes: carbon-14 and carbon-13. By tracing the movement of these isotopic markers using Geiger counters and mass spectrometers, Simard made an extraordinary discovery: carbon flowed bidirectionally between the two distinct tree species through the intervening fungal hyphae. In midsummer, when the broadleaf birch enjoyed full sunlight, it <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">channelled excess carbon to shaded fir <span class=\"kw\">saplings</span> growing beneath the canopy</span>. In autumn, when the deciduous birch shed its leaves, the evergreen fir reciprocated, pumping carbon back to the bare birch.</p><p><strong>Paragraph D.</strong> Beyond routine nutritional balancing, the fungal grid functions as an early-warning communication infrastructure. Dr. Kathryn Fahy, an eco-physiologist, investigated how trees respond to pest infestations. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">When broad bean plants and pine seedlings were attacked by aphids, Fahy isolated the root-free soil between plants while leaving the mycorrhizal hyphae intact. Within twenty-four hours of the initial infestation, healthy, uninfested plants connected to the network began synthesizing volatile defense chemicals, such as methyl salicylate, to repel incoming insects and attract predatory wasps.</span> When the hyphal threads were severed, however, neighbouring plants received no warning and were caught undefended. <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">Fahy’s findings proved that biochemical distress signals travel physically through the fungal conduits long before airborne volatile cues reach neighboring vegetation.</span></p><p><strong>Paragraph E.</strong> Central to the resilience of this underground architecture are ancient, deeply rooted specimens known as 'hub trees' or 'mother trees'. Genetic mapping reveals that a single massive mother tree can be physically connected to hundreds of other trees across an entire hectare of forest. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\"><span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Forest geneticist Dr. Marcus Thorne discovered that mother trees use the mycorrhizal network to recognize their own kin. In controlled experiments, mature Douglas firs directed significantly more carbon and protective defense compounds to their own genetic offspring than to stranger seedlings</span></span>, actively nurturing the next generation through the underground web. When commercial logging clear-cuts these veteran hub trees, the mycorrhizal network collapses, leaving regenerated saplings isolated and markedly more vulnerable to drought and disease.</p><p><strong>Paragraph F.</strong> Despite the popular enthusiasm for the Wood Wide Web concept, a vocal cohort of critical biologists urges scientific caution. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Dr. Julian Kroll cautions that popular media representations have romanticized the forest into a sentient, hyper-altruistic community, attributing deliberate human motivations to blind evolutionary processes.</span> <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">'Fungi are not benevolent postal workers delivering gifts between trees,' Kroll argues. 'Mycorrhizal fungi are opportunistic, selfish organisms acting exclusively in their own evolutionary self-interest. They trade carbon and nutrients only when it maximizes their own survival and reproductive spore production.'</span> <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Thorne acknowledges this debate, noting that while the network undeniably functions as a conduit for mutual survival, it can also be co-opted: certain parasitic plants, such as ghost pipes, tap directly into the grid to steal carbohydrates without providing any reciprocal contribution.</span></p><p><strong>Paragraph G.</strong> The practical implications of mycorrhizal ecology are forcing a profound overhaul of modern industrial silviculture. Conventional industrial forestry routinely practices clear-cutting followed by heavy mechanical tilling and the aerial spraying of chemical fungicides to kill native vegetation before monoculture planting. Agronomists now understand that this practice completely obliterates the delicate fungal mantle, severing historical subterranean connections that took centuries to mature. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Dr. Suzanne Simard advocates for '<span class=\"kw\">retention</span> forestry', where veteran hub trees and <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">undisturbed root <span class=\"kw\">corridors</span></span> are deliberately preserved</span> during timber harvesting. Maintaining these living biological conduits ensures that young replanted trees can immediately plug into an established subterranean grid, dramatically boosting reforestation survival rates in an era of rapid climate disruption.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–17",
+      "instructions": "<i>Reading Passage 211 has seven sections, <b>A–G</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–G</b>, in boxes 14–17 on your answer sheet.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 18–21",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 18–21 on your answer sheet.</i>",
+      "summaryTitle": "Dr. Suzanne Simard’s Isotope Experiment",
+      "questionIds": [
+        "q18",
+        "q19",
+        "q20",
+        "q21"
+      ],
+      "template": "<p>Dr. Suzanne Simard performed an experiment in Canadian rainforests to understand how materials move through fungal connections. Her team wrapped tree branches in plastic <b>18.</b> {{q18}} to expose them to radioactive carbon isotopes.</p><p>Using specialized scientific instruments, they discovered that carbon travelled in both directions between birch and fir trees. During summer, the birch transferred surplus carbon to shaded <b>19.</b> {{q19}} growing under the canopy. Later in the year, when the birch lost its foliage, the evergreen fir returned the favor.</p><p>Today, Simard promotes a harvest method called <b>20.</b> {{q20}} forestry, which protects ancient trees and underground <b>21.</b> {{q21}} so that new seedlings can connect to the network without delay.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "matching_names",
+      "skillTag": "MATCH_FEATURES",
+      "title": "Questions 22–26",
+      "instructions": "<i>Look at the following statements (Questions 22–26) and the list of researchers below.<br>Match each statement with the correct person, <b>A–D</b>.<br>Write the correct letter, <b>A–D</b>, in boxes 22–26 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>List of Researchers:</b><br><b>A.</b> Dr. Suzanne Simard<br><b>B.</b> Dr. Kathryn Fahy<br><b>C.</b> Dr. Marcus Thorne<br><b>D.</b> Dr. Julian Kroll",
+      "questionIds": [
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "an explanation of how veteran trees selectively provide resources to their direct descendants",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"mother trees directed significantly more carbon and protective defense compounds to their own genetic offspring...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "a criticism of the tendency to attribute human emotions and generous motives to natural networks",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"popular media representations have romanticized the forest into a sentient, hyper-altruistic community, attributing deliberate human motivations...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "a historical contrast between traditional ideas of tree competition and current network theories",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> <i>\"For more than a century, classical forestry was rooted in Darwinian competition... solitary combatants... However, pioneering research over the past three decades has radically dismantled...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "an account of how an underground connection allows trees to prepare defences against insect attacks",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"When broad bean plants... were attacked by aphids... healthy, uninfested plants... began synthesizing volatile defense chemicals...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "bags",
+      "inputWidth": "100px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...encased the branches... inside airtight plastic bags...\"</i> (Distractors: canopies, filaments).",
+          "<b>Từ cần điền:</b> <b>bags</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "saplings",
+      "inputWidth": "115px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...channelled excess carbon to shaded fir saplings growing beneath the canopy.\"</i> (Distractors: trees, branches).",
+          "<b>Từ cần điền:</b> <b>saplings</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "retention",
+      "inputWidth": "120px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn G:</b> <i>\"...advocates for 'retention forestry', where veteran hub trees...\"</i>",
+          "<b>Từ cần điền:</b> <b>retention</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "corridors",
+      "inputWidth": "120px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn G:</b> <i>\"...undisturbed root corridors are deliberately preserved...\"</i> (Distractors: connections, forests).",
+          "<b>Từ cần điền:</b> <b>corridors</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Fungal organisms transfer nutrients solely to advance their own biological survival rather than out of kindness.",
+      "options": [
+        "A. Dr. Suzanne Simard",
+        "B. Dr. Kathryn Fahy",
+        "C. Dr. Marcus Thorne",
+        "D. Dr. Julian Kroll"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F (Dr. Julian Kroll):</b> <i>\"Fungi are not benevolent postal workers... acting exclusively in their own evolutionary self-interest.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Mature mother trees supply larger amounts of carbon to seedlings that share their genetic heritage.",
+      "options": [
+        "A. Dr. Suzanne Simard",
+        "B. Dr. Kathryn Fahy",
+        "C. Dr. Marcus Thorne",
+        "D. Dr. Julian Kroll"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E (Dr. Marcus Thorne):</b> <i>\"Thorne discovered that mother trees... directed significantly more carbon... to their own genetic offspring than to stranger seedlings...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Plants transmit warning signals through underground threads before chemical messages disperse through the air.",
+      "options": [
+        "A. Dr. Suzanne Simard",
+        "B. Dr. Kathryn Fahy",
+        "C. Dr. Marcus Thorne",
+        "D. Dr. Julian Kroll"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D (Dr. Kathryn Fahy):</b> <i>\"Fahy’s findings proved that biochemical distress signals travel physically through the fungal conduits long before airborne volatile cues reach neighboring vegetation.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "The subterranean relationship between trees and fungi represents a dynamic system based on mutual exchange.",
+      "options": [
+        "A. Dr. Suzanne Simard",
+        "B. Dr. Kathryn Fahy",
+        "C. Dr. Marcus Thorne",
+        "D. Dr. Julian Kroll"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B (Dr. Suzanne Simard):</b> <i>\"'It is neither purely altruistic nor purely predatory... It is a complex carbon marketplace governed by biological reciprocity.'\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "The underground mycorrhizal network can be exploited by non-contributing parasitic species.",
+      "options": [
+        "A. Dr. Suzanne Simard",
+        "B. Dr. Kathryn Fahy",
+        "C. Dr. Marcus Thorne",
+        "D. Dr. Julian Kroll"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F (Dr. Marcus Thorne):</b> <i>\"Thorne acknowledges this debate, noting that while the network undeniably functions as a conduit for mutual survival, it can also be co-opted: certain parasitic plants... steal carbohydrates...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

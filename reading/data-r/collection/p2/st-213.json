@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 213 - Passage 2: Tapping the Earth's Cauldron: The Geothermal Frontier",
+  "answers": {
+    "q14": "FALSE",
+    "q15": "TRUE",
+    "q16": "FALSE",
+    "q17": "TRUE",
+    "q18": "FALSE",
+    "q19": "fractures",
+    "q20": "baseload",
+    "q21": "coal",
+    "q22": "radiators",
+    "q23": "salts",
+    "q24": "respiratory",
+    "q25": "stones",
+    "q26": "supercritical"
+  },
+  "passageHtml": "<h2>READING PASSAGE 213</h2><h3>Tapping the Earth's Cauldron: The Geothermal Frontier</h3><p><strong>Paragraph 1.</strong> Deep beneath the volcanic basalt plains of Iceland lies an energy reserve of staggering proportions. While most countries depend on burning hydrocarbon fuels or harnessing variable surface phenomena like wind and sunlight, <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">Iceland derives nearly one hundred percent of its electrical generation and building heat from domestic renewable sources, primarily geothermal energy</span>. Straddling the Mid-Atlantic Ridge—a tectonic boundary where the North American and Eurasian plates slowly tear apart—Iceland is a geological hotspot where subterranean magma ascends unusually close to the Earth's crust. For over a century, engineers have exploited this subterranean cauldron, transforming an impoverished island once dependent on imported coal and peat into a global beacon of clean energy independence.</p><p><strong>Paragraph 2.</strong> The technical foundation of conventional geothermal power relies on hydrothermal circulation. In natural geothermal fields, <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">rainwater percolates through porous volcanic <span class=\"kw\">fractures</span> deep into the crust</span>, where it comes into direct proximity with magma chambers heated to several hundred degrees Celsius. Subjected to intense subterranean pressure, the water superheats without boiling. When engineers drill production boreholes down into these high-enthalpy reservoirs—typically between one and three kilometres below the surface—<span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">the sudden drop in pressure causes the superheated fluid to flash violently into high-pressure steam</span>. This steam is funnelled upward through steel pipes to spin massive electromagnetic turbines, <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">generating <span class=\"kw\">baseload</span> electricity before being condensed back into liquid water</span>.</p><p><strong>Paragraph 3.</strong> In the capital city of Reykjavik, geothermal energy's most transformative civic application is district heating. In the early twentieth century, <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">the city was shrouded in choking smoke produced by burning soft <span class=\"kw\">coal</span> to warm drafty timber homes</span>. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Beginning in 1930, municipal authorities constructed an insulated underground pipeline network</span> <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">carrying geothermal water from nearby boreholes directly into urban <span class=\"kw\">radiators</span></span>. Today, this municipal system heats over ninety-nine percent of homes in the greater Reykjavik area at a fraction of the cost of fossil fuels. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">The municipal thermal grid is so abundant that excess thermal runoff is pumped through coiled plastic conduits embedded directly beneath city pavements and sidewalks, melting winter snow and ice automatically</span> <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">without the need for toxic chemical de-icing <span class=\"kw\">salts</span> or snowploughs</span>.</p><p><strong>Paragraph 4.</strong> Despite its triumphant record, geothermal extraction is not devoid of environmental complications and operational hazards. Magma-heated reservoir fluids are rarely pure water; they contain significant concentrations of non-condensable dissolved gases, primarily carbon dioxide and hydrogen sulfide. If vented directly into the ambient atmosphere, <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">hydrogen sulfide produces a noxious rotten-egg odor and can trigger <span class=\"kw\">respiratory</span> inflammation in downwind communities</span>. To neutralize this emissions hazard, engineers at the Hellisheidi geothermal plant developed the Carbfix project. Non-condensable gases are captured at the turbine exhaust, dissolved under pressure into massive streams of wastewater, and reinjected deep into porous basalt formations. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\"><span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">Within two years, chemical reactions between the acidic fluid and basalt minerals permanently transform the dissolved gas into solid white carbonate <span class=\"kw\">stones</span></span></span>, locking greenhouse gases underground forever.</p><p><strong>Paragraph 5.</strong> Looking toward the future, geoscientists are pushing deep drilling technology to its absolute physical limits. Standard geothermal wells tap fluids at roughly three hundred degrees Celsius; however, the Iceland Deep Drilling Project (IDDP) is drilling boreholes nearly five kilometres deep to <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">penetrate '<span class=\"kw\">supercritical</span>' reservoirs</span>, where temperatures exceed four hundred and fifty degrees Celsius and pressures surpass two hundred atmospheres. Supercritical fluids exist in an exotic physical state that is neither liquid nor gas, carrying up to ten times more kinetic energy per volume than standard steam. A single supercritical borehole could produce as much electrical energy as ten conventional geothermal wells, dramatically shrinking the surface land footprint of future power plants. As nations seek dependable, weather-independent baseload power to replace coal, Iceland’s volcanic engineering proves that the molten core of the planet can power human civilization sustainably.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 14–18",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 213?<br>In boxes 14–18 on your answer sheet, write:<br><b>TRUE</b> – if the statement agrees with the information<br><b>FALSE</b> – if the statement contradicts the information<br><b>NOT GIVEN</b> – if there is no information on this</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 19–26",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 19–26 on your answer sheet.</i>",
+      "noteTitle": "Geothermal Energy in Iceland",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<p><b>Conventional Hydrothermal Production</b></p><ul><li style=\"margin-bottom:8px;\">Rainwater seeps through volcanic <b>19.</b> {{q19}} to reach deep areas heated by magma.</li><li style=\"margin-bottom:8px;\">High-pressure steam is directed into turbines to produce <b>20.</b> {{q20}} power.</li><li style=\"margin-bottom:8px;\">The system provides a constant source of energy that is not dependent on the weather.</li></ul><p><b>Reykjavik Municipal Heating</b></p><ul><li style=\"margin-bottom:8px;\">In the early 1900s, residences were heated by burning <b>21.</b> {{q21}} , creating heavy air pollution.</li><li style=\"margin-bottom:8px;\">Today, hot water is delivered straight into domestic <b>22.</b> {{q22}} via underground pipes.</li><li style=\"margin-bottom:8px;\">The abundance of thermal water eliminates the need to apply <b>23.</b> {{q23}} on winter streets.</li></ul><p><b>Environmental Controls and Deep Drilling</b></p><ul><li style=\"margin-bottom:8px;\">Harmful exhaust gases like hydrogen sulfide can cause <b>24.</b> {{q24}} problems if released into the air.</li><li style=\"margin-bottom:8px;\">Dissolved gas mixed with wastewater is reinjected into basalt to create solid <b>25.</b> {{q25}} .</li><li style=\"margin-bottom:8px;\">The IDDP initiative targets <b>26.</b> {{q26}} reservoirs that can provide ten times more energy than standard steam.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "Iceland relies on imported coal for the majority of its current electricity production.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...Iceland derives nearly one hundred percent of its electrical generation and building heat from domestic renewable sources...\"</i> → Mâu thuẫn trực tiếp với relies on imported coal.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "Superheated water flashes into steam when it experiences a sudden decrease in pressure.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...the sudden drop in pressure causes the superheated fluid to flash violently into high-pressure steam.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "Reykjavik's district heating network was first established during the early nineteenth century.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Beginning in 1930, municipal authorities constructed an insulated underground pipeline network...\"</i> → Năm 1930 là thế kỷ 20, không phải thế kỷ 19.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "Warm geothermal water is used to keep roads and walkways free of ice in Reykjavik.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...excess thermal runoff is pumped through coiled plastic conduits embedded directly beneath city pavements and sidewalks, melting winter snow and ice automatically...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "The Carbfix project took more than ten years to convert its first batch of gas into stone.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Within two years, chemical reactions... transform the dissolved gas into solid white carbonate stones...\"</i> → Trong vòng 2 năm chứ không phải mất hơn 10 năm.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "fractures",
+      "inputWidth": "115px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...percolates through porous volcanic fractures deep into the crust...\"</i> (Distractors: chambers, reservoirs).",
+          "<b>Từ cần điền:</b> <b>fractures</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "baseload",
+      "inputWidth": "115px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...generating baseload electricity before being condensed...\"</i>",
+          "<b>Từ cần điền:</b> <b>baseload</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "coal",
+      "inputWidth": "100px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...shrouded in choking smoke produced by burning soft coal to warm drafty timber homes.\"</i> (Distractor: peat).",
+          "<b>Từ cần điền:</b> <b>coal</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "radiators",
+      "inputWidth": "115px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...carrying geothermal water... directly into urban radiators.\"</i> (Distractors: pipes, homes).",
+          "<b>Từ cần điền:</b> <b>radiators</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": "salts",
+      "inputWidth": "100px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...without the need for toxic chemical de-icing salts or snowploughs.\"</i>",
+          "<b>Từ cần điền:</b> <b>salts</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "respiratory",
+      "inputWidth": "125px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...trigger respiratory inflammation in downwind communities.\"</i>",
+          "<b>Từ cần điền:</b> <b>respiratory</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "stones",
+      "inputWidth": "105px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...permanently transform the dissolved gas into solid white carbonate stones...\"</i> (Distractors: minerals, gases).",
+          "<b>Từ cần điền:</b> <b>stones</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "supercritical",
+      "inputWidth": "135px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...penetrate 'supercritical' reservoirs, where temperatures exceed...\"</i>",
+          "<b>Từ cần điền:</b> <b>supercritical</b>."
+        ]
+      }
+    }
+  }
+}

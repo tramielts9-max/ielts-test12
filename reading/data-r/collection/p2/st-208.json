@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 208 - Passage 2: Quenching the Deluge: China's Sponge City Revolution",
+  "answers": {
+    "q14": "FALSE",
+    "q15": "FALSE",
+    "q16": "TRUE",
+    "q17": "FALSE",
+    "q18": "TRUE",
+    "q19": "grasses",
+    "q20": "aquifers",
+    "q21": "subsoils",
+    "q22": "floodplains",
+    "q23": "terraced",
+    "q24": "lakes",
+    "q25": "cables",
+    "q26": "saturation"
+  },
+  "passageHtml": "<h2>READING PASSAGE 208</h2><h3>Quenching the Deluge: China's Sponge City Revolution</h3><p><strong>Paragraph 1.</strong> For the burgeoning metropolises of mainland China, economic expansion has generated a severe hydrological vulnerability. Over the past four decades, rapid urbanization has encased tens of thousands of square kilometres of former wetlands, farmlands, and natural drainage basins inside impenetrable shells of concrete, masonry, and asphalt. Because impermeable pavements prevent storm runoff from seeping into the earth, sudden precipitation cannot drain naturally. Compounding this, municipalities historically relied on <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">subterranean drainage pipes designed decades ago to handle only modest rainfall events</span>. In July 2021, the vulnerabilities of this 'grey infrastructure' were laid bare when record monsoons inundated the central city of Zhengzhou, submerging subway lines, stranding hundreds of thousands of commuters, and causing catastrophic loss of life and billions of yuan in structural damage.</p><p><strong>Paragraph 2.</strong> In response to worsening urban deluges, the Chinese central government initiated a radical paradigm shift in municipal hydrological engineering: the 'Sponge City' initiative. Pioneered by landscape architect Professor Yu Kongjian of Peking University, the philosophy <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">repudiates the conventional engineering impulse to channel, contain, and discharge storm runoff through concrete pipes and culverts as swiftly as possible</span>. 'You cannot fight water with rigid barriers,' Yu insists. 'Instead of treating rainfall as a hostile adversary to be accelerated away, we must design cities to act as natural porous sponges: absorbing, detaining, purifying, and slowly releasing rainwater through natural ecological mechanisms.'</p><p><strong>Paragraph 3.</strong> The physical infrastructure of a Sponge City combines micro-ecological features with decentralized landscape architecture. At street level, conventional concrete gutters are replaced with vegetated bioswales—sloped drainage pathways <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">densely planted with water-tolerant native <span class=\"kw\">grasses</span> and shrubs</span>. Beneath these shallow channels lie stratified layers of gravel, sand, and organic compost that mechanically filter heavy particulate matter and vehicular oil residues <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">before runoff percolates into local groundwater <span class=\"kw\">aquifers</span></span>. Across public parks and civic plazas, impermeable tiles have been replaced with <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">porous paving stones manufactured from recycled industrial slag</span> and kiln-fired aggregates, allowing moisture to <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">drain directly into underlying <span class=\"kw\">subsoils</span></span>.</p><p><strong>Paragraph 4.</strong> On a macroscopic scale, the model integrates expansive ecological retention zones directly into the urban layout. In the pilot city of Wuhan, engineers <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">created vast 'rainwater parks' along river <span class=\"kw\">floodplains</span></span>. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\"><span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">During dry seasons, these <span class=\"kw\">terraced</span> wetland basins function as recreational public parks complete with pedestrian boardwalks, sports facilities, and botanical gardens</span></span>. When extreme monsoons strike, the terraced landscape submerges progressively, holding millions of cubic metres of floodwaters temporarily away from residential quarters and preventing the municipal sewer grid from becoming catastrophically overwhelmed. Within seventy-two hours of the storm's passing, <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">the floodwaters gradually drain into municipal <span class=\"kw\">lakes</span> or evaporate naturally</span>, mitigating the urban heat island effect during subsequent hot spells.</p><p><strong>Paragraph 5.</strong> However, the rapid rollout of Sponge Cities faces formidable logistical and economic hurdles. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Retrofitting densely built urban cores—where subterranean space is already <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">crowded with underground rail tunnels, power <span class=\"kw\">cables</span>, and sewage mains</span>—demands immense capital investments</span>. Furthermore, hydraulic engineers point out that green infrastructure has mathematical limits; while vegetated wetlands effortlessly absorb routine torrential showers, <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">they quickly reach <span class=\"kw\">saturation</span> points during freak atmospheric rivers</span> that drop a month's worth of rainfall in three hours. Despite these technical constraints, the Sponge City concept is gaining international traction, offering a compelling ecological blueprint for global cities seeking to adapt to the unpredictable climatic extremes of the twenty-first century.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 14–18",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 208?<br>In boxes 14–18 on your answer sheet, write:<br><b>TRUE</b> – if the statement agrees with the information<br><b>FALSE</b> – if the statement contradicts the information<br><b>NOT GIVEN</b> – if there is no information on this</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 19–26",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 19–26 on your answer sheet.</i>",
+      "noteTitle": "The Sponge City Framework",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<p><b>Road and Street Design</b></p><ul><li style=\"margin-bottom:8px;\">Traditional gutters are replaced with bioswales lined with native <b>19.</b> {{q19}} to catch water.</li><li style=\"margin-bottom:8px;\">Layers of gravel and sand filter vehicle residues before water enters underground <b>20.</b> {{q20}} .</li><li style=\"margin-bottom:8px;\">Porous stone surfaces allow rainwater to penetrate straight down into the <b>21.</b> {{q21}} .</li></ul><p><b>Macroscopic Water Parks in Wuhan</b></p><ul><li style=\"margin-bottom:8px;\">Parks are built on river <b>22.</b> {{q22}} to capture large amounts of floodwater.</li><li style=\"margin-bottom:8px;\">During severe rain, water fills <b>23.</b> {{q23}} basins to protect residential areas.</li><li style=\"margin-bottom:8px;\">Retained water naturally leaves via evaporation or flows into urban <b>24.</b> {{q24}} .</li></ul><p><b>Limitations and Challenges</b></p><ul><li style=\"margin-bottom:8px;\">Buried utilities such as power <b>25.</b> {{q25}} make retrofitting downtown areas difficult.</li><li style=\"margin-bottom:8px;\">Extreme storms can cause green wetlands to hit their <b>26.</b> {{q26}} levels, preventing further drainage.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "The underground drainage pipes in most Chinese cities were originally constructed to handle extreme monsoons.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...pipes designed decades ago to handle only modest rainfall events.\"</i> → Mâu thuẫn trực tiếp với <i>extreme monsoons</i>.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "Professor Yu Kongjian believes that water should be directed away from cities as rapidly as possible.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Yu insists... repudiates the conventional engineering impulse to channel, contain, and discharge storm runoff... as swiftly as possible.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "Paving stones used in Sponge Cities contain materials salvaged from industrial operations.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...paving stones manufactured from recycled industrial slag...\"</i> → slag = salvaged from industrial operations.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "The rainwater parks in Wuhan remain completely closed to the public during periods of dry weather.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"During dry seasons, these terraced wetland basins function as recreational public parks complete with pedestrian boardwalks...\"</i> → Mở cửa làm công viên, không hề đóng cửa.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "Modifying already established inner-city centres to fit the Sponge City concept is financially demanding.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Retrofitting densely built urban cores... demands immense capital investments.\"</i> → financially demanding.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "grasses",
+      "inputWidth": "110px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...densely planted with water-tolerant native grasses and shrubs.\"</i>",
+          "<b>Từ cần điền:</b> <b>grasses</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "aquifers",
+      "inputWidth": "110px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...before runoff percolates into local groundwater aquifers.\"</i>",
+          "<b>Từ cần điền:</b> <b>aquifers</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "subsoils",
+      "inputWidth": "110px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...drain directly into underlying subsoils.\"</i> (Distractors: compost, groundwater).",
+          "<b>Từ cần điền:</b> <b>subsoils</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "floodplains",
+      "inputWidth": "120px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...created vast 'rainwater parks' along river floodplains.\"</i>",
+          "<b>Từ cần điền:</b> <b>floodplains</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": "terraced",
+      "inputWidth": "110px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...During dry seasons, these terraced wetland basins function as recreational public parks...\"</i>",
+          "<b>Từ cần điền:</b> <b>terraced</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "lakes",
+      "inputWidth": "100px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...the floodwaters gradually drain into municipal lakes or evaporate...\"</i>",
+          "<b>Từ cần điền:</b> <b>lakes</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "cables",
+      "inputWidth": "100px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...crowded with underground rail tunnels, power cables, and sewage mains...\"</i>",
+          "<b>Từ cần điền:</b> <b>cables</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "saturation",
+      "inputWidth": "120px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...they quickly reach saturation points during freak atmospheric rivers...\"</i>",
+          "<b>Từ cần điền:</b> <b>saturation</b>."
+        ]
+      }
+    }
+  }
+}

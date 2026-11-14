@@ -1,0 +1,234 @@
+{
+  "title": "Bài sưu tầm 217 - Passage 2: The Vanishing Vault: Light Pollution and the Architecture of Darkness",
+  "answers": {
+    "q14": "A",
+    "q15": "C",
+    "q16": "E",
+    "q17": "B",
+    "q18": "D",
+    "q19": "YES",
+    "q20": "NO",
+    "q21": "NO",
+    "q22": "NOT GIVEN",
+    "q23": "YES",
+    "q24": "B",
+    "q25": "B",
+    "q26": "A"
+  },
+  "passageHtml": "<h2>READING PASSAGE 217</h2><h3>The Vanishing Vault: Light Pollution and the Architecture of Darkness</h3><p><strong>Paragraph 1.</strong> For the vast majority of human existence, the nocturnal sky was an omnipresent natural canvas. The nightly appearance of the Milky Way, meteor showers, and distant constellations anchored ancient mythologies, <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">regulated agrarian planting calendars</span>, and guided transoceanic maritime exploration. Over the past single century, however, the unbridled proliferation of artificial nocturnal illumination has severed this ancient sensory connection. Today, according to satellite radiometric surveys compiled by the International Dark-Sky Association, <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">more than eighty percent of the global human population—and ninety-nine percent of residents in the United States and Europe—lives beneath skies contaminated by artificial skyglow</span>. In modern metropolises, night has been effectively abolished, replaced by a permanent, sickly yellow twilight produced by misdirected commercial, residential, and civic lighting.</p><p><strong>Paragraph 2.</strong> The physical driver of urban skyglow is optical inefficiency. <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">Rather than casting light downward precisely where it is required for nocturnal human mobility, conventional streetlights, architectural spotlights, and commercial billboards emit significant portions of their output horizontally or directly upward into the sky.</span> Once emitted into the lower atmosphere, these unshielded photons <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">collide with air molecules, moisture droplets, and airborne aerosol particles in a physical process known as Rayleigh <span class=\"kw\">scattering</span></span>. The scattered light bounces back downward toward the surface, creating a luminous, diffuse dome of illumination that washes out the celestial background. Optical astronomers estimate that in high-density urban areas, the celestial threshold is degraded by a factor of hundreds; only the moon and a handful of the brightest planets remain visible through the artificial haze.</p><p><strong>Paragraph 3.</strong> The biological repercussions of perpetual illumination ripple across entire trophic cascades. Over billions of years, life on Earth evolved under an unwavering rhythm of solar daylight and nocturnal darkness. The sudden disruption of this evolutionary baseline has proven catastrophic for nocturnal wildlife. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">Flying insects, which rely on celestial navigation to maintain their heading, become fatally disoriented by roadside fixtures, exhausting themselves in frantic circles or falling victim to predatory bats.</span> Marine turtles hatchlings, biologically programmed to crawl toward the shimmering horizon of the moonlit sea, are <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">lured inland by the glare of coastal beachfront <span class=\"kw\">resorts</span></span>, perishing from dehydration or vehicular traffic. In human beings, <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">continuous exposure to blue-wavelength illumination from streetlights and digital screens suppresses nocturnal melatonin secretion</span>, impairing restorative sleep cycles and elevating statistical risks of metabolic syndrome and cardiovascular disease.</p><p><strong>Paragraph 4.</strong> Faced with this expanding ecological crisis, an international dark-sky movement is championing architectural and legislative solutions. The primary strategy does not require abandoning artificial illumination, but optimizing its physical delivery. Lighting engineers advocate for the universal installation of fully shielded, 'down-pointed' light fixtures that eliminate horizontal and upward glare. Furthermore, municipalities are <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">replacing harsh, blue-white light-emitting diodes (LEDs) with warm-spectrum luminaires operating below 2,200 Kelvins, dramatically reducing the atmospheric scattering that fuels skyglow</span>. In the Canary Islands and northern Chile, local authorities have enacted <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">strict municipal dark-sky ordinances surrounding major astronomical observatories</span>, demonstrating that targeted lighting regulations can preserve nocturnal clarity while <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">reducing municipal energy expenditure by more than thirty percent</span>.</p><p><strong>Paragraph 5.</strong> Beyond regulatory frameworks, conservationists are striving to protect intact natural darkness as an ecological and cultural heritage. The International Dark-Sky Association has designated over two hundred International Dark Sky Places across the globe—spanning remote national parks, island communities, and pristine wilderness reserves. <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">These protected enclaves, such as the Aoraki Mackenzie Reserve in New Zealand and the NamibRand Nature Reserve in Namibia</span>, serve as living ecological refuges where natural nocturnal habitats remain undisturbed and the unblemished spectacle of the cosmos can still be experienced. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\"><span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Protecting the night sky is not an elitist pursuit reserved exclusively for professional astronomers; it is the vital preservation of a shared human commons that has shaped our art, philosophy, and evolutionary biology since the dawn of consciousness.</span></span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–18",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below.<br>Write the correct letter, <b>A–J</b>, in boxes 14–18 on your answer sheet.</i><br><br><b>A.</b> majority &nbsp; <b>B.</b> hormone &nbsp; <b>C.</b> scattering &nbsp; <b>D.</b> reduction &nbsp; <b>E.</b> resorts<br><b>F.</b> minority &nbsp; <b>G.</b> increase &nbsp; <b>H.</b> reflection &nbsp; <b>I.</b> vehicles &nbsp; <b>J.</b> temporary",
+      "summaryTitle": "The Causes and Mitigation of Artificial Skyglow",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ],
+      "template": "<p>Over the last hundred years, the spread of electric light has separated human beings from the night sky, creating a condition known as skyglow that impacts a vast <b>14.</b> {{q14}} of people in Western nations. Skyglow occurs when unshielded lighting casts photons upward, where they collide with atmospheric particles and experience <b>15.</b> {{q15}} . This continual brightness causes serious ecological harm. For instance, young sea turtles are drawn away from the water toward bright <b>16.</b> {{q16}} on the coast. In addition, excessive blue light harms human health by interrupting regular <b>17.</b> {{q17}} production in the body. To solve this, cities are introducing shielded lights and warmer fixtures, which have created a substantial <b>18.</b> {{q18}} in electricity costs around observation sites.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 19–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 217?<br>In boxes 19–23 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the claims of the writer<br><b>NO</b> – if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "A",
+      "inputWidth": "75px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...more than eighty percent of the global human population—and ninety-nine percent of residents in the United States and Europe...\"</i> → <b>A (majority)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "C",
+      "inputWidth": "75px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...collide with air molecules, moisture droplets... in a physical process known as Rayleigh scattering.\"</i> → <b>C (scattering)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "E",
+      "inputWidth": "75px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...lured inland by the glare of coastal beachfront resorts...\"</i> → <b>E (resorts)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "B",
+      "inputWidth": "75px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...suppresses nocturnal melatonin [a hormone] secretion, impairing restorative sleep cycles...\"</i> → <b>B (hormone)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "D",
+      "inputWidth": "75px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...reducing municipal energy expenditure by more than thirty percent.\"</i> → <b>D (reduction)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Ancient societies made practical use of the nocturnal sky to plan agricultural work.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...regulated agrarian planting calendars...\"</i> → Dùng bầu trời đêm để lên lịch mùa vụ.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Blue-white LED lights create less atmospheric scattering than warm-spectrum lights.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thay đèn LED trắng xanh bằng đèn ánh sáng ấm giúp giảm tán xạ khí quyển (<i>dramatically reducing the atmospheric scattering</i>) → Câu hỏi ngược nghĩa.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Dark-sky regulations in Chile completely banned all nighttime public lighting.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Quy chuẩn chiếu sáng có mục tiêu (<i>targeted lighting regulations</i>) chứ không hề cấm hoàn toàn mọi ánh sáng công cộng.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "The Aoraki Mackenzie Reserve was the first dark-sky location recognized in the Southern Hemisphere.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Có nhắc đến Aoraki Mackenzie Reserve ở New Zealand, nhưng không có chi tiết nào nói đây là khu bảo tồn đầu tiên ở Nam Bán cầu hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Preserving natural darkness provides benefits to ordinary citizens as well as professional scientists.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Protecting the night sky is not an elitist pursuit reserved exclusively for professional astronomers; it is the vital preservation of a shared human commons...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "What is the main cause of urban skyglow described in the second paragraph?",
+      "options": [
+        "A. The high concentration of dust clouds blowing in from rural deserts.",
+        "B. Inefficient fixtures that direct light outward and upward instead of toward the ground.",
+        "C. Rapid fluctuations in lunar radiation during winter months.",
+        "D. The widespread use of old-fashioned gas streetlights in major cities."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Rather than casting light downward precisely where it is required... conventional streetlights... emit significant portions of their output horizontally or directly upward...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "How does artificial nighttime light affect flying insects?",
+      "options": [
+        "A. It increases their lifespan by protecting them from freezing temperatures.",
+        "B. It disrupts their navigational abilities, making them vulnerable to fatigue and predators.",
+        "C. It causes them to lay their eggs exclusively on roadside concrete surfaces.",
+        "D. It forces them to migrate away from rural agricultural fields into cities."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Flying insects, which rely on celestial navigation... become fatally disoriented... exhausting themselves in frantic circles or falling victim to predatory bats.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "What point does the writer make about the dark-sky movement in the final paragraph?",
+      "options": [
+        "A. It is an effort aimed at preserving a cultural and ecological asset shared by all humanity.",
+        "B. It cannot succeed unless international air travel is severely restricted at night.",
+        "C. It has failed to generate public interest outside of small scientific institutions.",
+        "D. It relies entirely on private charitable funding rather than government cooperation."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...preservation of a shared human commons that has shaped our art, philosophy, and evolutionary biology...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    }
+  }
+}

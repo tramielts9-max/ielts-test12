@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 218 - Passage 2: Harnessing the Gale: The Modern Revival of Wind-Powered Cargo",
+  "answers": {
+    "q14": "FALSE",
+    "q15": "FALSE",
+    "q16": "TRUE",
+    "q17": "TRUE",
+    "q18": "FALSE",
+    "q19": "wings",
+    "q20": "spar",
+    "q21": "lift",
+    "q22": "fuel",
+    "q23": "lifespan",
+    "q24": "cranes",
+    "q25": "hatchways",
+    "q26": "corridors"
+  },
+  "passageHtml": "<h2>READING PASSAGE 218</h2><h3>Harnessing the Gale: The Modern Revival of Wind-Powered Cargo</h3><p><strong>Paragraph 1.</strong> For more than a century, the global maritime shipping industry has run on fossil hydrocarbons. Modern cargo vessels—colossal container ships, bulk carriers, and oil tankers measuring up to four hundred metres in length—are propelled by titanic low-speed two-stroke diesel engines burning heavy fuel oil. While maritime logistics forms the undisputed backbone of international commerce, transporting over eighty percent of global trade volume, it exacts a punishing environmental toll. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">The international commercial fleet emits nearly three percent of global anthropogenic greenhouse gases each year</span>, alongside massive quantities of sulfur oxides and particulate soot that poison coastal air basins. Faced with aggressive net-zero decarbonization mandates issued by the International Maritime Organization (IMO), naval architects are turning to an ancient solution powered by twenty-first-century aerospace engineering: the commercial revival of wind-assisted ship propulsion (WASP).</p><p><strong>Paragraph 2.</strong> The contemporary reincarnation of maritime wind propulsion bears little physical resemblance to the canvas rigging and wooden masts of nineteenth-century clipper ships. Instead, modern vessels are deploying rigid, automated aerodynamic structures that <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">function like vertical airplane <span class=\"kw\">wings</span></span>. Leading this technological renaissance is the <em>Pyxis Ocean</em>, an eighty-thousand-tonne dry bulk carrier retrofitted in 2023 with two towering composite wind devices called WindWings. Standing thirty-seven point five metres tall and constructed from advanced glass-fibre and carbon composites, <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">these massive wings feature a central aerodynamic <span class=\"kw\">spar</span> flanked by two movable flaps</span>. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Controlled entirely by autonomous computer algorithms, the wings rotate automatically to catch oceanic winds at optimal angles</span>, <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">generating aerodynamic <span class=\"kw\">lift</span> that pulls the vessel forward across the water</span>.</p><p><strong>Paragraph 3.</strong> In sea trials across the Indian and Atlantic Oceans, wind-assisted propulsion demonstrated significant operational dividends. On transoceanic routes with dependable prevailing trade winds, the automated wings <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">reduced the vessel's daily heavy <span class=\"kw\">fuel</span> consumption by up to three tonnes per day</span>, translating directly to a thirty-percent reduction in carbon dioxide emissions. Beyond fuel conservation, the supplemental aerodynamic thrust allows ship captains to reduce the operating load on the main diesel engine without sacrificing cruising transit speed. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">This operational buffer cushions maritime shipping companies against volatile bunker fuel price spikes</span> while significantly <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">extending the operational <span class=\"kw\">lifespan</span> of expensive mechanical engine components</span>.</p><p><strong>Paragraph 4.</strong> However, the widespread retrofitting of the global cargo fleet faces formidable engineering and infrastructural obstacles. One major operational constraint is vertical clearance. Modern cargo vessels must routinely transit critical maritime bottlenecks—such as the Panama and Suez Canals—and <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">navigate beneath massive container gantry <span class=\"kw\">cranes</span> at international port terminals</span>. Towering rigid sails exceeding thirty metres in height would collide with these port structures. To circumvent this limitation, naval engineers had to design complex hydraulic pivoting joints allowing the wings to be <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">folded flat against the ship’s cargo <span class=\"kw\">hatchways</span> when entering ports</span> or navigating beneath suspension bridges. Furthermore, <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">the structural weight of the folding machinery reduces the total cargo-carrying capacity of the vessel by hundreds of tonnes</span>.</p><p><strong>Paragraph 5.</strong> To maximize the economic viability of wind-assisted vessels, shipping operators are pairing aerodynamic hardware with advanced voyage optimization software. Ocean routing algorithms now analyze real-time meteorological satellite telemetry, oceanic currents, and wave resistance to <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">plot dynamic routes that seek out wind-rich navigational <span class=\"kw\">corridors</span> rather than adhering to rigid, direct shipping lanes</span>. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">While dynamic routing can occasionally lengthen the physical distance of a voyage, the energetic savings derived from sustained wind assistance far outweigh the extra nautical miles</span>. As naval shipyards test further innovations—including cylindrical spinning Flettner rotors and autonomous towing kites—the global shipping industry is demonstrating that the oldest force in maritime history may offer the fastest path toward a zero-carbon trading future.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 14–18",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 218?<br>In boxes 14–18 on your answer sheet, write:<br><b>TRUE</b> – if the statement agrees with the information<br><b>FALSE</b> – if the statement contradicts the information<br><b>NOT GIVEN</b> – if there is no information on this</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 19–26",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 19–26 on your answer sheet.</i>",
+      "noteTitle": "Modern Wind-Assisted Ship Propulsion — Design Features of the Pyxis Ocean",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">The vessel is fitted with rigid sails made from composite materials, which function like aircraft <b>19.</b> {{q19}} .</li><li style=\"margin-bottom:8px;\">Each structure has a central <b>20.</b> {{q20}} along with two flaps that adjust position.</li><li style=\"margin-bottom:8px;\">The sails generate aerodynamic <b>21.</b> {{q21}} to help propel the carrier through the sea.</li></ul><p><b>Operational Benefits</b></p><ul><li style=\"margin-bottom:8px;\">Daily consumption of heavy <b>22.</b> {{q22}} was lowered by as much as three tonnes during ocean voyages.</li><li style=\"margin-bottom:8px;\">Lower operating strain on the main engine extends the operational <b>23.</b> {{q23}} of internal machinery.</li></ul><p><b>Infrastructural and Navigation Challenges</b></p><ul><li style=\"margin-bottom:8px;\">Wings can collide with port <b>24.</b> {{q24}} if they cannot be adjusted downward.</li><li style=\"margin-bottom:8px;\">Hydraulic joints allow the rigid structures to be stored flat over the ship's <b>25.</b> {{q25}} .</li><li style=\"margin-bottom:8px;\">Computer software evaluates satellite data to steer ships through windy <b>26.</b> {{q26}} instead of traditional straight routes.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "International shipping accounts for more than ten percent of global greenhouse gas emissions.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...international commercial fleet emits nearly three percent of global anthropogenic greenhouse gases...\"</i> → Mâu thuẫn trực tiếp với hơn 10%.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "The WindWings installed on the Pyxis Ocean are adjusted manually by ship crew members during voyages.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Controlled entirely by autonomous computer algorithms, the wings rotate automatically...\"</i> → Tự động bằng máy tính, không phải thủy thủ chỉnh tay.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "Using wind assistance can help protect cargo vessels from unexpected surges in fuel costs.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...cushions maritime shipping companies against volatile bunker fuel price spikes...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "Installing folding wing machinery slightly decreases the total volume of goods a ship can transport.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...structural weight of the folding machinery reduces the total cargo-carrying capacity of the vessel by hundreds of tonnes.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "Dynamic voyage routing always ensures that a ship travels the shortest possible geographical distance.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Định tuyến động có thể làm quãng đường dài hơn để đón gió (<i>can occasionally lengthen the physical distance</i>), không phải quãng đường ngắn nhất.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "wings",
+      "inputWidth": "100px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...function like vertical airplane wings.\"</i> (Distractors: masts, structures).",
+          "<b>Từ cần điền:</b> <b>wings</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "spar",
+      "inputWidth": "100px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...feature a central aerodynamic spar flanked by two movable flaps.\"</i>",
+          "<b>Từ cần điền:</b> <b>spar</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "lift",
+      "inputWidth": "100px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...generating aerodynamic lift that pulls the vessel forward...\"</i> (Distractor: thrust).",
+          "<b>Từ cần điền:</b> <b>lift</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "fuel",
+      "inputWidth": "100px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...reduced the vessel's daily heavy fuel consumption...\"</i>",
+          "<b>Từ cần điền:</b> <b>fuel</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": "lifespan",
+      "inputWidth": "110px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...extending the operational lifespan of expensive mechanical engine components.\"</i> (Distractors: speed, load).",
+          "<b>Từ cần điền:</b> <b>lifespan</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "cranes",
+      "inputWidth": "110px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...navigate beneath massive container gantry cranes at international port terminals.\"</i> (Distractor: bridges).",
+          "<b>Từ cần điền:</b> <b>cranes</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "hatchways",
+      "inputWidth": "120px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...folded flat against the ship’s cargo hatchways when entering ports...\"</i>",
+          "<b>Từ cần điền:</b> <b>hatchways</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "corridors",
+      "inputWidth": "120px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...seek out wind-rich navigational corridors rather than adhering to rigid, direct shipping lanes.\"</i> (Distractors: lanes, routes).",
+          "<b>Từ cần điền:</b> <b>corridors</b>."
+        ]
+      }
+    }
+  }
+}

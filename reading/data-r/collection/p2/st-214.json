@@ -1,0 +1,271 @@
+{
+  "title": "Bài sưu tầm 214 - Passage 2: Beyond the Double Helix: The Epigenetics Revolution",
+  "answers": {
+    "q14": "E",
+    "q15": "C",
+    "q16": "F",
+    "q17": "A",
+    "q18": "D",
+    "q19": "B",
+    "q20": "D",
+    "q21": "hardware",
+    "q22": "off",
+    "q23": "histones",
+    "q24": "neglect",
+    "q25": "starvation",
+    "q26": "reversible"
+  },
+  "passageHtml": "<h2>READING PASSAGE 214</h2><h3>Beyond the Double Helix: The Epigenetics Revolution</h3><p><strong>Paragraph A.</strong> For more than half a century, biological science was dominated by the dogma of genetic determinism. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Ever since James Watson and Francis Crick elucidated the double-helix structure of deoxyribonucleic acid (DNA) in 1953, the prevailing view held that the nucleotide sequence—composed of the chemical bases adenine, thymine, guanine, and cytosine—constituted a static, unalterable blueprint for human development.</span> According to this model, an individual’s susceptibility to chronic disease, biological longevity, and physiological capabilities were rigidly inscribed at conception. What you inherited from your biological parents was your inescapable biological destiny.</p><p><strong>Paragraph B.</strong> In recent decades, however, an exhilarating biological sub-discipline known as epigenetics has overturned this deterministic framework. Derived from the Greek prefix epi (meaning 'above' or 'on top of'), epigenetics investigates functional alterations in gene expression that do not involve changes to the underlying DNA sequence itself. Rather than functioning as a permanently cast bronze statue, the human genome is more akin to an interactive computer operating system. <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">While the <span class=\"kw\">hardware</span> (the fixed DNA sequence) remains identical across every cell in your body, the software (the epigenetic markers) continually tells specific cells whether to activate, mute, or turn up the volume of particular genetic programs.</span></p><p><strong>Paragraph C.</strong> The molecular machinery driving this dynamic regulation operates through two primary mechanisms: DNA methylation and histone modification. In DNA methylation, tiny carbon-and-hydrogen clusters known as methyl groups attach directly to specific cytosine bases on the DNA strand. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\"><span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Acting as physical biological roadblocks, heavy clusters of methyl groups prevent cellular transcription machinery from reading the gene, effectively switching it <span class=\"kw\">off</span>.</span></span> Conversely, histone modification alters the physical wrapping of DNA. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\"><span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Inside the cell nucleus, two metres of DNA thread are tightly spooled around barrel-shaped proteins called <span class=\"kw\">histones</span>.</span></span> When molecular chemical tags loosen this biological spooling, cellular enzymes can easily access and express the uncoiled genes; when the tags compress the histones tightly together, the genes are locked away in silence.</p><p><strong>Paragraph D.</strong> What makes epigenetics profoundly revolutionary is that these molecular switches are continually modified by external environmental cues and lifestyle behaviours. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Chronic psychological stress, industrial chemical pollutants, physical exercise, and dietary choices all trigger enzymatic cascades that alter methyl tags across our genome.</span> Molecular biologist Dr. Moshe Szyf demonstrated this in laboratory rodent experiments: <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">infant rats that experienced maternal <span class=\"kw\">neglect</span> and lack of grooming developed heavy methylation across the promoter regions of their glucocorticoid receptor genes in the brain</span>. As adults, these neglected animals exhibited abnormal stress sensitivity and heightened fear responses. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Remarkably, when researchers administered drugs to chemically remove these repressive methyl tags, the rats' normal, calm stress responses were fully restored.</span></p><p><strong>Paragraph E.</strong> Even more astonishing is the discovery that certain epigenetic modifications can be transmitted across generations. Historically, biologists believed that all epigenetic markers were wiped clean during embryonic fertilization through a process called reprogramming, resetting the egg and sperm back to an unblemished state. However, <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">epidemiological studies of the Dutch Hunger Winter of 1944–1945 revealed that severe maternal trauma could pierce this barrier. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">When pregnant women experienced severe <span class=\"kw\">starvation</span> during a Nazi wartime blockade</span>, their children grew up with distinct epigenetic alterations on their IGF2 metabolic genes, leading to abnormally high rates of obesity, diabetes, and cardiovascular disorders throughout adulthood. Decades later, medical researchers discovered that these metabolic vulnerabilities were also detectable in the grandchildren of the starved women</span>, demonstrating transgenerational epigenetic inheritance in humans.</p><p><strong>Paragraph F.</strong> The medical implications of epigenetic plasticity are inspiring a new generation of therapeutic treatments. Unlike fixed genetic mutations—such as those causing sickle cell anemia or Huntington's disease, which require complex gene-editing tools like CRISPR to correct—<span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">epigenetic alterations are chemically <span class=\"kw\">reversible</span></span>. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Oncologists have developed a class of pharmaceuticals called epigenetic therapies, which inhibit the enzymes responsible for silencing tumor-suppressor genes. In clinical trials treating myelodysplastic syndrome (a form of bone marrow cancer), these 'de-methylating' medications successfully reactivated silenced protective genes, halting the runaway proliferation of malignant cancer cells without damaging healthy tissue.</span></p><p><strong>Paragraph G.</strong> Ultimately, the epigenetics revolution reshapes human philosophy and ethical accountability. We are no longer merely the passive custodians of an unyielding ancestral genetic scroll; we are the active authors of our own biological expression. The habits we adopt, the pollution we tolerate, and the social stresses we endure imprint themselves not only upon our own cellular biology, but potentially upon the physical destiny of our children and grandchildren. As geneticist Dr. Randy Jirtle eloquently summarizes: 'The genome is the hardware of life, but the epigenome is the software. We finally have our hands on the keyboard.'</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–18",
+      "instructions": "<i>Reading Passage 214 has seven sections, <b>A–G</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–G</b>, in boxes 14–18 on your answer sheet.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq_two",
+      "skillTag": "MCQ_TWO",
+      "title": "Questions 19–20",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Write the correct letters in boxes 19 and 20 on your answer sheet.<br><br>Which <b>TWO</b> facts about epigenetic marks are mentioned by the writer in the text?</i>",
+      "questionIds": [
+        "q19",
+        "q20"
+      ],
+      "options": [
+        "A. They alter the underlying sequence of letters in the DNA molecule.",
+        "B. They act as physical barriers that prevent cellular machinery from reading certain genes.",
+        "C. They are completely immune to the effects of everyday physical exercise.",
+        "D. They can be modified by psychological and lifestyle factors.",
+        "E. They were completely understood by researchers during the 1950s."
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 21–26",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 21–26 on your answer sheet.</i>",
+      "summaryTitle": "The Science of Epigenetic Regulation",
+      "questionIds": [
+        "q21",
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<p>Epigenetics studies changes in gene activity that do not involve altering the underlying sequence of DNA. While human DNA was once thought to be an unchangeable blueprint, researchers now compare it to computer <b>21.</b> {{q21}} that is adjusted by software.</p><p>In DNA methylation, clusters of carbon and hydrogen prevent cells from reading a gene, effectively acting to switch it <b>22.</b> {{q22}} . Another process involves wrapping DNA around barrel-like structures called <b>23.</b> {{q23}} ; when these structures are loosened, genes are expressed.</p><p>Environmental conditions play a major role in these processes. In studies on rodents, animals that experienced maternal <b>24.</b> {{q24}} developed heavy methylation on stress-related genes in their brains.</p><p>Furthermore, historical research on the Dutch Hunger Winter showed that <b>25.</b> {{q25}} during pregnancy caused metabolic diseases in children and grandchildren.</p><p>Because epigenetic tags are chemically <b>26.</b> {{q26}} , scientists have designed medications that can halt diseases by turning protective genes back on.</p>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "a description of how wartime food deprivation led to health problems across multiple generations",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"Dutch Hunger Winter of 1944–1945... severe starvation during a Nazi wartime blockade... grandchildren of the starved women...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "an explanation of the physical proteins around which genetic material is tightly wrapped",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"Inside the cell nucleus, two metres of DNA thread are tightly spooled around barrel-shaped proteins called histones.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "an account of how pharmaceuticals can reactivate suppressed genes to fight cancer",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"Oncologists have developed a class of pharmaceuticals called epigenetic therapies, which inhibit the enzymes responsible for silencing tumor-suppressor genes.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "a mention of the historic scientific discovery that led to the belief that genes could not be changed",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> <i>\"Ever since James Watson and Francis Crick elucidated the double-helix structure... in 1953, the prevailing view held that the nucleotide sequence... constituted a static, unalterable blueprint...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "experimental proof that the biological effects of early emotional neglect can be reversed with medication",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"infant rats that experienced maternal neglect... when researchers administered drugs to chemically remove these repressive methyl tags, the rats' normal, calm stress responses were fully restored.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "B",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"Acting as physical biological roadblocks... prevent cellular transcription machinery from reading the gene...\"</i> (Chọn 2 đáp án: B và D).",
+          "<b>Kết luận:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "D",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"Chronic psychological stress, industrial chemical pollutants, physical exercise, and dietary choices all trigger enzymatic cascades...\"</i> (A sai vì không đổi trình tự DNA; C sai vì exercise có tác động; E sai vì thập niên 1950 tin thuyết định mệnh gen).",
+          "<b>Kết luận:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "hardware",
+      "inputWidth": "120px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B & G:</b> <i>\"...the hardware (the fixed DNA sequence) remains identical... software (the epigenetic markers)...\"</i>",
+          "<b>Từ cần điền:</b> <b>hardware</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "off",
+      "inputWidth": "90px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...effectively switching it off.\"</i>",
+          "<b>Từ cần điền:</b> <b>off</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": "histones",
+      "inputWidth": "115px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...spooled around barrel-shaped proteins called histones.\"</i> (Distractors: groups, enzymes).",
+          "<b>Từ cần điền:</b> <b>histones</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "neglect",
+      "inputWidth": "110px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...infant rats that experienced maternal neglect and lack of grooming...\"</i>",
+          "<b>Từ cần điền:</b> <b>neglect</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "starvation",
+      "inputWidth": "120px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...pregnant women experienced severe starvation during a Nazi wartime blockade...\"</i> (Distractor: trauma).",
+          "<b>Từ cần điền:</b> <b>starvation</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "reversible",
+      "inputWidth": "120px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"...epigenetic alterations are chemically reversible.\"</i>",
+          "<b>Từ cần điền:</b> <b>reversible</b>."
+        ]
+      }
+    }
+  }
+}

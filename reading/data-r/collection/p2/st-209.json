@@ -1,0 +1,277 @@
+{
+  "title": "Bài sưu tầm 209 - Passage 2: The Deep-Ocean Mining Frontier",
+  "answers": {
+    "q14": "D",
+    "q15": "B",
+    "q16": "C",
+    "q17": "F",
+    "q18": "E",
+    "q19": "B",
+    "q20": "D",
+    "q21": "vehicles",
+    "q22": "carbon",
+    "q23": [
+      "plough",
+      "plow"
+    ],
+    "q24": "vessel",
+    "q25": "Jamaica",
+    "q26": "chemistry"
+  },
+  "passageHtml": "<h2>READING PASSAGE 209</h2><h3>The Deep-Ocean Mining Frontier</h3><p><strong>Paragraph A.</strong> Four thousand metres beneath the sunlit surface of the central Pacific Ocean lies the abyssal plain of the Clarion-Clipperton Zone (CCZ). Stretching across five million square kilometres of seabed between Hawaii and Mexico, this pitch-black, freezing environment was long perceived as a desolate biological wasteland. Today, however, it is the focus of a ferocious geopolitical race. Resting loosely on the seabed mud are trillions of dark, potato-sized mineral concretions known as polymetallic nodules. Formed over millions of years as dissolved metals slowly precipitated around fragments of shell or bone, these nodules represent the planet's richest unexploited deposit of battery metals: containing more nickel, cobalt, copper, and manganese than all known terrestrial mineral deposits combined.</p><p><strong>Paragraph B.</strong> The technological catalyst driving commercial interest in the abyss is the green energy transition. Decarbonizing the global transport sector <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">requires hundreds of millions of electric <span class=\"kw\">vehicles</span></span>, each demanding batteries composed primarily of nickel and cobalt. Proponents of deep-sea extraction argue that sourcing these minerals from the abyssal seabed is ecologically superior to terrestrial mining. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">'Land-based mining in places like Indonesia and the Democratic Republic of Congo causes catastrophic deforestation, child labour exploitation, and toxic sulfur runoff,' contends Gerard Barron, executive director of an offshore prospecting consortium. 'On the abyssal plain, there are no rainforests to clear, no indigenous human communities to displace, and <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">the <span class=\"kw\">carbon</span> footprint of dredging loose nodules is substantially lower</span> than blasting open pits on land.'</span></p><p><strong>Paragraph C.</strong> Marine biologists, however, view industrial dredging of the abyssal plain with utter alarm. Far from being biological deserts, deep benthic plains harbour extraordinary biodiversity, with recent surveys revealing that more than eighty percent of species collected in the CCZ are completely new to science. Furthermore, life in the abyss operates on a geological timescale. Because ambient water temperatures hover near one degree Celsius and organic nutrients sinking from the surface are scarce, <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">abyssal animals exhibit exceptionally slow metabolic and reproductive rates</span>. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Specialized organisms—such as xenophyophores (giant single-celled protozoa) and delicate glass sponges—rely directly on the hard surfaces of the nodules themselves as anchoring substrates</span>. Removing the nodules permanently destroys the only hard habitat available on the muddy plain.</p><p><strong>Paragraph D.</strong> To measure the real-world ecological disruption of nodule collection, an international consortium of oceanographers revisited the site of the DISCOL experiment off the coast of Peru in 2019. In 1989, German researchers had artificially <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">scraped a three-kilometre-wide swath of the seabed with an eight-metre-wide <span class=\"kw\">plough</span> harrow</span> to simulate deep mining disruption. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">Thirty years after the initial disturbance, robotic submersibles found that the ploughed tracks remained completely visible in the soft sediment, looking as if they had been created yesterday. Bacterial communities had failed to recover their metabolic diversity, and populations of sessile suspension feeders remained eighty-five percent lower than in adjacent, undisturbed control plots</span>. The experiment proved that benthic ecosystems possess virtually zero natural resilience to mechanical disturbance.</p><p><strong>Paragraph E.</strong> Beyond localized mechanical destruction on the seabed, oceanographers are terrified by the transboundary hazards posed by underwater sediment plumes. Deep-sea mining machines—massive, tracked crawler vehicles weighing several hundred tonnes—will grind nodules from the mud, <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">pumping an aqueous slurry of ore, water, and silt up a vertical pipe to a surface production <span class=\"kw\">vessel</span></span>. After separating the mineral nodules, the surface ship will pump millions of gallons of leftover sediment and slurry back into the midwater column. Marine ecologist Dr. Diva Amon warns that these suspended particulate clouds could drift across ocean basins for thousands of kilometres. 'These plumes will suffocate delicate midwater organisms like jellyfish and siphonophores,' Amon warns, 'while <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\"><span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">toxic heavy metals dissolved in the water column threaten to bioaccumulate inside commercial tuna and swordfish fisheries</span></span>.'</p><p><strong>Paragraph F.</strong> Legally, the abyssal seabed outside national territorial borders is classified by the United Nations Convention on the Law of the Sea as the 'common heritage of mankind'. Its exploitation is <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">administered by the International Seabed Authority (ISA), an intergovernmental body based in Kingston, <span class=\"kw\">Jamaica</span></span>. Under intense pressure from mining corporations, the ISA has issued thirty exploration contracts, but has struggled to finalize an environmental exploitation code. While island nations like Nauru are eager to sponsor mining contracts to generate state revenue, <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">a growing coalition of over twenty-five nations—including France, Germany, and several Pacific island states—is calling for an immediate international moratorium, arguing that commercial exploitation must be blocked until deep-sea science can adequately quantify the planetary risks</span>.</p><p><strong>Paragraph G.</strong> The deep-sea dilemma presents modern civilization with a profound ethical dilemma. Can humanity justify sacrificing the least-explored, most fragile ecosystem on Earth to build the technological devices meant to rescue our terrestrial climate? As legal negotiations stall at the ISA, scientists insist that the true solution lies not in expanding extraction into the abyss, but in <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">perfecting closed-loop battery <span class=\"kw\">chemistry</span></span>, scaling up lithium-iron-phosphate alternatives that require no cobalt or nickel, and implementing aggressive mandatory recycling protocols for consumer electronics worldwide.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–18",
+      "instructions": "<i>Reading Passage 209 has seven sections, <b>A–G</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–G</b>, in boxes 14–18 on your answer sheet.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq_two",
+      "skillTag": "MCQ_TWO",
+      "title": "Questions 19–20",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Write the correct letters in boxes 19 and 20 on your answer sheet.<br><br>Which <b>TWO</b> arguments are made by opponents of deep-sea mining in the text?</i>",
+      "questionIds": [
+        "q19",
+        "q20"
+      ],
+      "options": [
+        "A. Mining equipment will generate noise levels that disrupt acoustic communications in whales.",
+        "B. Abyssal organisms have slow biological cycles that prevent them from recovering quickly.",
+        "C. Deep-sea mining will cause catastrophic earthquakes along oceanic fault lines.",
+        "D. The returned mining slurry could introduce toxic metals into the human food chain.",
+        "E. The global supply of nickel and cobalt in the ocean is too small to justify extraction costs."
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 21–26",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 21–26 on your answer sheet.</i>",
+      "summaryTitle": "The Clarion-Clipperton Zone Mining Debate",
+      "questionIds": [
+        "q21",
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<p>The Clarion-Clipperton Zone contains massive amounts of mineral deposits known as nodules, which are rich in elements needed to construct electric <b>21.</b> {{q21}} . Supporters argue that gathering nodules creates a much smaller <b>22.</b> {{q22}} footprint than blasting mines on land.</p><p>However, scientists stress that deep benthic life is extremely fragile. When oceanographers reviewed the DISCOL site in 2019, they discovered that machine tracks made by a <b>23.</b> {{q23}} in 1989 were still visible.</p><p>During commercial operations, large vehicles will pump a muddy mixture up to a surface <b>24.</b> {{q24}} where minerals will be extracted. The remaining sediment will then be released back into the water, generating giant plumes.</p><p>International regulation of the seabed is supervised by an agency located in <b>25.</b> {{q25}} . Experts suggest that improving battery <b>26.</b> {{q26}} could eliminate the need to extract oceanic minerals altogether.</p>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "an account of long-lasting environmental damage documented three decades after a simulated mining trial",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"Thirty years after the initial disturbance... ploughed tracks remained completely visible... Bacterial communities had failed to recover...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "a comparison between the ecological harms of extracting minerals on land versus seabed harvesting",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"Land-based mining in places like Indonesia... causes catastrophic deforestation... On the abyssal plain, there are no rainforests to clear...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "an explanation of how polymetallic nodules provide an essential physical foundation for certain organisms",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"Specialized organisms... rely directly on the hard surfaces of the nodules themselves as anchoring substrates.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "a mention of legal disagreements among nations regarding whether deep extraction should be delayed",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"a growing coalition of over twenty-five nations... is calling for an immediate international moratorium...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "a description of the potential damage that drifting sediment clouds could inflict on open-ocean fish",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"toxic heavy metals dissolved in the water column threaten to bioaccumulate inside commercial tuna and swordfish fisheries.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "B",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đáp án B:</b> Đoạn C (<i>\"...abyssal animals exhibit exceptionally slow metabolic and reproductive rates.\"</i>). Lưu ý A không xuất hiện; C bịa đặt về động đất; E sai vì đoạn A nói lượng khoáng sản nhiều hơn trên cạn gộp lại.",
+          "<b>Kết luận:</b> Chọn <b>B</b> (trong cặp B, D)."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "D",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đáp án D:</b> Đoạn E (<i>\"...toxic heavy metals... threaten to bioaccumulate inside commercial tuna and swordfish fisheries.\"</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b> (trong cặp B, D)."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "vehicles",
+      "inputWidth": "110px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...requires hundreds of millions of electric vehicles...\"</i>",
+          "<b>Từ cần điền:</b> <b>vehicles</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "carbon",
+      "inputWidth": "100px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...the carbon footprint of dredging loose nodules is substantially lower...\"</i>",
+          "<b>Từ cần điền:</b> <b>carbon</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": [
+        "plough",
+        "plow"
+      ],
+      "inputWidth": "110px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...scraped a three-kilometre-wide swath... with an eight-metre-wide plough harrow...\"</i>",
+          "<b>Từ cần điền:</b> <b>plough</b> (hoặc <b>plow</b>)."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "vessel",
+      "inputWidth": "100px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...pumping an aqueous slurry... up a vertical pipe to a surface production vessel.\"</i>",
+          "<b>Từ cần điền:</b> <b>vessel</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "Jamaica",
+      "inputWidth": "110px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"...administered by the International Seabed Authority (ISA)... based in Kingston, Jamaica.\"</i>",
+          "<b>Từ cần điền:</b> <b>Jamaica</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "chemistry",
+      "inputWidth": "120px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn G:</b> <i>\"...perfecting closed-loop battery chemistry, scaling up...\"</i>",
+          "<b>Từ cần điền:</b> <b>chemistry</b>."
+        ]
+      }
+    }
+  }
+}

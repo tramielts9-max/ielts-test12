@@ -1,0 +1,280 @@
+{
+  "title": "Bài sưu tầm 203 - Passage 2: The Revival of Acoustic Ecology",
+  "answers": {
+    "q14": "B",
+    "q15": "D",
+    "q16": "A",
+    "q17": "E",
+    "q18": "F",
+    "q19": "G",
+    "q20": "B",
+    "q21": "D",
+    "q22": "energy",
+    "q23": "plots",
+    "q24": "logging",
+    "q25": "satellite",
+    "q26": "traffic"
+  },
+  "passageHtml": "<h2>READING PASSAGE 203</h2><h3>The Revival of Acoustic Ecology</h3><p><strong>Paragraph A.</strong> For decades, conservation biology has relied on visual methodologies. Ecologists set camera traps, trek through dense undergrowth with binoculars, or fly drones over remote canopies to count animal populations. Yet <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">visual census techniques possess intrinsic limitations: animals conceal themselves in foliage, avoid human scent, or are active only during pitch-black nights</span>. In response, a rapidly expanding discipline known as soundscape ecology is revolutionizing how we evaluate environmental health. By treating an entire landscape as a continuous acoustic tapestry, researchers are discovering that the collective audio signature of a habitat—from the high-pitched stridulation of crickets to the resonant booming of howler monkeys—reveals structural integrity far more accurately than visual sightings alone.</p><p><strong>Paragraph B.</strong> Acoustic ecologists classify the auditory profile of any environment into three distinct components: biophony (sounds produced by non-human biological organisms), geophony (natural non-biological sounds such as rainfall, thunder, and wind), and anthrophony (human-generated mechanical noise). In a pristine, undisturbed ecosystem, biophony exhibits what bioacoustician Dr. Bernie Krause termed the 'acoustic niche hypothesis'. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">Over evolutionary epochs, diverse animal species evolved to vocalize at specific frequency bands and time slots to ensure their mating calls and territorial warnings are heard without jamming each other’s signals</span>. When a virgin rainforest is logged or encroached upon by human development, this acoustic partition collapses; the soundscape becomes fragmented, disjointed, and quiet.</p><p><strong>Paragraph C.</strong> The technological catalyst behind this acoustic revolution is the deployment of autonomous recording units (ARUs). These low-cost, weather-resistant devices can be strapped to tree trunks and programmed to record ambient audio non-stop for months on end. However, <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">the sheer volume of acoustic data generated quickly overwhelmed early research teams. In a single tropical reserve, a dozen ARUs can easily accumulate thirty thousand hours of audio files in a single season. Listening manually to verify bird songs or amphibian calls would demand decades of human labour</span>. Consequently, soundscape ecology remained a niche discipline until the recent integration of machine learning algorithms capable of parsing acoustic complexity at scale.</p><p><strong>Paragraph D.</strong> To automate audio analysis, Dr. Julian Rivera at the Amazonian Bioacoustic Observatory developed an algorithmic platform called SoundID. Rivera's team trained convolutional neural networks on vast libraries of verified animal vocalizations. Rather than attempting to identify every individual species, the software calculates two broad statistical metrics: the Acoustic Diversity Index (ADI) and the Bioacoustic Index (BI). These algorithms <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">analyze the mathematical distribution of acoustic <span class=\"kw\">energy</span> across a spectrum of frequency bands</span>. In <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">tests across forty fragmented <span class=\"kw\">plots</span> in the Peruvian rainforest</span>, Rivera showed that <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">areas suffering from <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">illegal selective <span class=\"kw\">logging</span></span>—which visual <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\"><span class=\"kw\">satellite</span></span> surveys frequently failed to detect beneath the dense forest canopy—displayed immediate, measurable collapses in acoustic diversity scores within forty-eight hours of timber extraction</span>.</p><p><strong>Paragraph E.</strong> While bioacoustic monitoring is proving transformative, field practitioners confront considerable physical and technical hurdles. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\"><span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">High ambient humidity and fungal spores in tropical rainforests corrode delicate microphone membranes, requiring frequent, costly maintenance</span></span>. Furthermore, intense downpours of monsoon rain generate overwhelming geophonic noise that completely drowns out high-frequency biological vocalizations for days at a time. In urban fringe habitats, heavy anthrophonic rumble from highways poses an opposite challenge: low-frequency engine vibrations overwhelm automated detection systems, leading algorithms to falsely register empty soundscapes when vocalizing species are simply <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">masked by <span class=\"kw\">traffic</span> noise</span>.</p><p><strong>Paragraph F.</strong> Despite these complications, acoustic monitoring is demonstrating unprecedented value in evaluating ecological restoration projects. In former agricultural plantations in Costa Rica, reforestation teams utilized bioacoustic indices to track habitat recovery following native tree replanting. The data revealed that <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">while newly planted forests appeared visually mature within seven years, their acoustic profiles remained depauperate for nearly two decades</span>. Specific specialized birds and insect guilds did not re-colonize the area until decomposing fallen logs and layered understory foliage created the structural micro-niches required for their natural behaviours. Acoustic data thus provides conservation donors and governments with an incorruptible metric of true biological recovery, preventing premature declarations of success.</p><p><strong>Paragraph G.</strong> Ultimately, soundscape ecology offers a profound conceptual shift in human perception. For centuries, Western scientific culture has prioritized sight as the supreme objective sense, relegating hearing to a secondary, subjective role. Dr. Bernie Krause argues that listening to the natural world requires an unlearning of visual bias. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">'A picture shows you a frozen moment in space,' Krause notes. 'A soundscape conveys the dynamic narrative of an entire ecosystem across time.'</span> By learning to decode the symphony of the living planet, humanity may finally acquire the auditory awareness necessary to halt the silent unraveling of global biodiversity.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–19",
+      "instructions": "<i>Reading Passage 203 has seven sections, <b>A–G</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–G</b>, in boxes 14–19 on your answer sheet.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18",
+        "q19"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq_two",
+      "skillTag": "MCQ_TWO",
+      "title": "Questions 20–21",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Write the correct letters in boxes 20 and 21 on your answer sheet.<br><br>Which <b>TWO</b> problems regarding autonomous recording units (ARUs) are mentioned in the text?</i>",
+      "options": [
+        "A. They are too expensive for small-scale conservation organisations to purchase.",
+        "B. They produce amounts of information that are impossible to process manually.",
+        "C. Their radio signals are frequently disrupted by dense forest canopies.",
+        "D. Their microphone mechanisms degrade due to moisture and biological growth.",
+        "E. They are frequently stolen or vandalized by illegal loggers."
+      ],
+      "questionIds": [
+        "q20",
+        "q21"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 22–26",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 22–26 on your answer sheet.</i>",
+      "summaryTitle": "Dr. Julian Rivera’s Automated Sound Analysis",
+      "questionIds": [
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<p>Dr. Julian Rivera established a software tool named SoundID to automate the examination of environmental audio recordings. Instead of attempting to classify each separate species, the programme measures how acoustic <b>22.</b> {{q22}} is distributed across multiple frequency channels.</p><p>In a field experiment conducted in Peru, Rivera examined forty separate forest <b>23.</b> {{q23}} to test the software’s capabilities. The results demonstrated that illegal <b>24.</b> {{q24}} caused immediate drops in bioacoustic diversity, even though the events could not be identified by <b>25.</b> {{q25}} images from space.</p><p>However, researchers note that in semi-urban areas, deep vibrations caused by vehicle <b>26.</b> {{q26}} can conceal biological sounds, leading to flawed readings.</p>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "a theory explaining how different animals developed unique acoustic frequencies to avoid interference",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"species evolved to vocalize at specific frequency bands and time slots to ensure their mating calls... without jamming each other’s signals.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "an account of how acoustic data exposed environmental destruction that was invisible to satellite cameras",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"areas suffering from illegal selective logging—which visual satellite surveys frequently failed to detect... displayed immediate, measurable collapses...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "an explanation of why visual census techniques often fail when monitoring wildlife",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> <i>\"visual census techniques possess intrinsic limitations: animals conceal themselves in foliage, avoid human scent...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "a description of physical equipment vulnerabilities caused by harsh tropical weather",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"humidity and fungal spores in tropical rainforests corrode delicate microphone membranes...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "proof that replanted forests can take decades to achieve genuine biological recovery despite looking mature",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"newly planted forests appeared visually mature within seven years, their acoustic profiles remained depauperate for nearly two decades.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "a contrast between the temporal depth of auditory observation and the static nature of images",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "G",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn G:</b> <i>\"'A picture shows you a frozen moment in space... A soundscape conveys the dynamic narrative... across time.'\"</i>",
+          "<b>Kết luận:</b> Chọn <b>G</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "B",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>B (produce amounts impossible to process manually):</b> Đoạn C (<i>\"sheer volume of acoustic data generated quickly overwhelmed... demand decades of human labour.\"</i>). Lưu ý: A sai vì bài ghi \"low-cost\"; C và E không được nhắc tới.",
+          "<b>Kết luận:</b> Chọn <b>B</b> (cặp <b>B, D</b>)."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "D",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>D (microphone mechanisms degrade):</b> Đoạn E (<i>\"humidity and fungal spores... corrode delicate microphone membranes...\"</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b> (cặp <b>B, D</b>)."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "energy",
+      "inputWidth": "110px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...analyze the mathematical distribution of acoustic energy across a spectrum...\"</i>",
+          "<b>Từ cần điền:</b> <b>energy</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": "plots",
+      "inputWidth": "100px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...tests across forty fragmented plots in the Peruvian rainforest...\"</i>",
+          "<b>Từ cần điền:</b> <b>plots</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "logging",
+      "inputWidth": "110px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...areas suffering from illegal selective logging...\"</i>",
+          "<b>Từ cần điền:</b> <b>logging</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "satellite",
+      "inputWidth": "120px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...which visual satellite surveys frequently failed to detect...\"</i>",
+          "<b>Từ cần điền:</b> <b>satellite</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "traffic",
+      "inputWidth": "110px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...masked by traffic noise / vibrations from highways...\"</i>",
+          "<b>Từ cần điền:</b> <b>traffic</b>."
+        ]
+      }
+    }
+  }
+}

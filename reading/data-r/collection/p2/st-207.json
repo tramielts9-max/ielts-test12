@@ -1,0 +1,239 @@
+{
+  "title": "Bài sưu tầm 207 - Passage 2: The Vanishing Melodies: The Linguistic Science of Whistled Speech",
+  "answers": {
+    "q14": "C",
+    "q15": "A",
+    "q16": "D",
+    "q17": "F",
+    "q18": "E",
+    "q19": "B",
+    "q20": "YES",
+    "q21": "NOT GIVEN",
+    "q22": "NO",
+    "q23": "YES",
+    "q24": "A",
+    "q25": "C",
+    "q26": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 207</h2><h3>The Vanishing Melodies: The Linguistic Science of Whistled Speech</h3><p><strong>Paragraph 1.</strong> Across the globe, approximately seventy isolated communities have developed a rare and ingenious communication system: whistled speech. Rather than being separate languages, these systems are acoustic transformations of existing spoken tongues. Whistled Spanish on the Canary Island of La Gomera (known locally as Silbo Gomero), whistled Turkish in the rugged Pontic Mountains, and whistled Yupik among Arctic hunters allow people to transmit complex semantic dialogues across distances where normal human speech is utterly inaudible. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\"><span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">While human shouting tops out at roughly eighty decibels and becomes unintelligible beyond two hundred metres due to acoustic attenuation, a powerful whistled pitch can reach one hundred and thirty decibels and carry across sheer canyons and open tundra for up to ten kilometres</span></span>.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">The physics of whistled communication is an exercise in acoustic reductionism</span>. When an individual speaks normally, words are shaped by complex vocal cord vibrations and resonant frequencies formed within the pharynx and mouth. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">In whistled speech, the vocal cords remain completely idle; the sound is produced solely by forcing compressed air through a narrow aperture formed between the tongue, teeth, and lips</span>. To convey phonetics, speakers mimic the pitch movements of spoken vowels while substituting the acoustic frequencies of consonants with sharp shifts in whistled pitch and sudden interruptions of airflow. Remarkably, <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">fluent whistlers can achieve comprehension accuracy rates exceeding ninety percent</span>, demonstrating that the human brain requires only a skeletal framework of acoustic frequencies to reconstruct complete linguistic meaning.</p><p><strong>Paragraph 3.</strong> The cognitive processing of whistled speech has upended decades of established neurological doctrine. In standard neurobiology, spoken language is processed predominantly within the left cerebral hemisphere, home to Broca’s and Wernicke’s areas. Conversely, the right cerebral hemisphere is responsible for interpreting non-linguistic musical pitch, melody, and emotional timbre. <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Neuroscientist Dr. Onur Güntürkün conducted brain-scanning experiments on Turkish villagers fluent in both spoken and whistled Turkish</span>. When subjects listened to spoken words, functional magnetic resonance imaging (fMRI) showed the expected asymmetric activation of the left temporal lobe. However, when listening to whistled sentences, <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">brain scans revealed intense, balanced neural firing across both hemispheres simultaneously</span>. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">The brain seamlessly fuses the right hemisphere's musical processing with the left hemisphere's syntactic decoding</span>, demonstrating astonishing neural plasticity.</p><p><strong>Paragraph 4.</strong> Historically, <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">whistled languages emerged in mountainous, thickly forested, or vast wetland regions where terrain severely impeded physical travel</span>. Shepherds on La Gomera could communicate across yawning ravines without having to spend hours hiking down and up precipitous stone trails. However, the socioeconomic forces of late modernity are <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">eroding the conditions that sustained these acoustic traditions</span>. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\"><span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">The introduction of cellular phones, paved highways, and motorized transport has rendered long-range whistled calling practically redundant. Furthermore, rural depopulation has hollowed out the communities where these practices flourished, as younger generations migrate to urban centres</span></span> where whistling is stigmatized as a crude, archaic relic of peasant life.</p><p><strong>Paragraph 5.</strong> To prevent the total extinction of this unique linguistic heritage, several vulnerable communities have launched institutional preservation campaigns. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">On La Gomera, the regional government made instruction in Silbo Gomero mandatory in all primary and secondary schools in 1999</span>, ensuring that over twenty thousand schoolchildren now practice the art annually. Meanwhile, computational linguists are deploying artificial intelligence algorithms to archive the acoustic patterns of aging whistlers in the Caucasus before the last fluent elders pass away. Anthropologists emphasize that whistled languages are far more than quaint cultural curiosities; they are irreplaceable living windows into human acoustic ingenuity and the limitless flexibility of the linguistic brain.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–19",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below.<br>Write the correct letter, <b>A–J</b>, in boxes 14–19 on your answer sheet.</i><br><br><b>A.</b> vocal cords &nbsp;|&nbsp; <b>B.</b> compulsory &nbsp;|&nbsp; <b>C.</b> limitation &nbsp;|&nbsp; <b>D.</b> simultaneous &nbsp;|&nbsp; <b>E.</b> uncertain<br><b>F.</b> geography &nbsp;|&nbsp; <b>G.</b> optional &nbsp;|&nbsp; <b>H.</b> emotional &nbsp;|&nbsp; <b>I.</b> lung capacity &nbsp;|&nbsp; <b>J.</b> tongue muscles",
+      "summaryTitle": "The Structure and Brain Processing of Whistled Languages",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18",
+        "q19"
+      ],
+      "template": "<p>Whistled communication systems are not distinct languages, but rather phonetic versions of spoken tongues that can overcome the <b>14.</b> {{q14}} of human shouting over long distances.</p><p>Unlike regular speech, whistlers make no use of their <b>15.</b> {{q15}} , creating sounds entirely through mouth position and breath pressure.</p><p>Neuroscientists long assumed that linguistic understanding took place mainly in the left side of the brain. However, experiments by Dr. Onur Güntürkün showed that listening to whistled sentences leads to <b>16.</b> {{q16}} neural activity in both halves of the brain.</p><p>These languages were originally developed because the <b>17.</b> {{q17}} of certain environments made rapid foot travel difficult.</p><p>Today, whistled languages face an <b>18.</b> {{q18}} future because of technological advances and rural emigration.</p><p>To reverse this decline, one island territory made the study of whistled speech <b>19.</b> {{q19}} for its younger generation.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 20–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 207?<br>In boxes 20–23 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the claims of the writer<br><b>NO</b> – if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...human shouting tops out at roughly eighty decibels and becomes unintelligible beyond two hundred metres due to acoustic attenuation...\"</i> → limitation.",
+          "<b>Kết luận:</b> Chọn <b>C (limitation)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"In whistled speech, the vocal cords remain completely idle...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A (vocal cords)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...intense, balanced neural firing across both hemispheres simultaneously.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D (simultaneous)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"emerged in mountainous, thickly forested, or vast wetland regions where terrain severely impeded...\"</i> → terrain = geography.",
+          "<b>Kết luận:</b> Chọn <b>F (geography)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...eroding the conditions that sustained these acoustic traditions...\"</i> → uncertain future.",
+          "<b>Kết luận:</b> Chọn <b>E (uncertain)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...made instruction in Silbo Gomero mandatory in all primary and secondary schools...\"</i> → mandatory = compulsory.",
+          "<b>Kết luận:</b> Chọn <b>B (compulsory)</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Whistled speech is capable of travelling further across open landscapes than amplified shouts.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"shouting... unintelligible beyond two hundred metres... a powerful whistled pitch can... carry across sheer canyons... for up to ten kilometres.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Whistlers require listeners to be familiar with the topic of conversation in order to achieve high comprehension rates.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chỉ nói tỷ lệ hiểu đạt trên 90%, không đề cập liệu người nghe có bắt buộc phải biết trước chủ đề hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Dr. Güntürkün’s brain imaging experiments tested subjects who spoke several European languages.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...conducted brain-scanning experiments on Turkish villagers fluent in both spoken and whistled Turkish.\"</i> → Đối tượng là dân làng Thổ Nhĩ Kỳ, không phải người nói nhiều thứ tiếng châu Âu.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "The construction of modern transportation routes contributed to the decline of traditional whistled speech.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"The introduction of cellular phones, paved highways, and motorized transport has rendered long-range whistled calling practically redundant.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "In the second paragraph, what does the writer emphasize about whistled speech?",
+      "options": [
+        "A. It relies on very simple physical actions to convey complicated messages.",
+        "B. It is more physically exhausting to produce than standard speech.",
+        "C. It cannot be learned successfully by individuals outside isolated communities.",
+        "D. It causes long-term strain to the muscles of the mouth."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Dây thanh âm nghỉ hoàn toàn, chỉ dùng luồng khí nén qua khe răng môi mà truyền tải được trên 90% ý nghĩa (<i>exercise in acoustic reductionism</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Brain scans of individuals listening to whistled speech showed that",
+      "options": [
+        "A. language comprehension was delayed by several seconds.",
+        "B. musical interpretation took precedence over syntactic meaning.",
+        "C. both hemispheres collaborated to decode the auditory signals.",
+        "D. the left temporal lobe ceased to function during communication."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...brain seamlessly fuses the right hemisphere's musical processing with the left hemisphere's syntactic decoding...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "What is the main threat to whistled languages identified in the fourth paragraph?",
+      "options": [
+        "A. Strict laws prohibiting children from speaking indigenous dialects.",
+        "B. Changing lifestyles and the availability of modern communication devices.",
+        "C. Linguistic confusion caused by the introduction of foreign languages.",
+        "D. The reluctance of older generations to teach their skills to young people."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"cellular phones, paved highways... rural depopulation... younger generations migrate to urban centres...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

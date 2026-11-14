@@ -1,0 +1,239 @@
+{
+  "title": "Bài sưu tầm 210 - Passage 2: The Internal Clockwork: Chronobiology and the Modern Workplace",
+  "answers": {
+    "q14": "C",
+    "q15": "E",
+    "q16": "B",
+    "q17": "A",
+    "q18": "D",
+    "q19": "NO",
+    "q20": "YES",
+    "q21": "NOT GIVEN",
+    "q22": "YES",
+    "q23": "NO",
+    "q24": "B",
+    "q25": "B",
+    "q26": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 210</h2><h3>The Internal Clockwork: Chronobiology and the Modern Workplace</h3><p><strong>Paragraph 1.</strong> Throughout the evolutionary history of <em>Homo sapiens</em>, human physiology was governed by an unyielding cosmic metric: the rhythmic alternation of natural daylight and nocturnal darkness. Every cell within the human organism operates according to a genetically encoded circadian rhythm spanning approximately twenty-four hours. This cellular clockwork regulates a vast array of biological processes, ranging from core body temperature cycles and digestive enzyme secretion to immune response activation and cortisol release. At the anatomical summit of this system sits the suprachiasmatic nucleus (SCN), a tiny cluster of twenty thousand neurons located within the brain’s hypothalamus. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\"><span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">Acting as a master pacemaker, the SCN synchronizes cellular clocks throughout the peripheral organs using neural and hormonal signals, synchronizing our internal physiology with the external planetary environment</span></span>.</p><p><strong>Paragraph 2.</strong> The modern industrial economy, however, has engineered a radical rupture between human biology and the natural world. With the invention of electric lighting and the rise of the round-the-clock service economy, tens of millions of workers are required to perform complex occupational duties during periods when their physiology is biologically primed for rest. Chronobiologists distinguish between three broad circadian phenotypes, or 'chronotypes': morning types ('larks'), intermediate types, and evening types ('owls'). <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\"><span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">An individual’s chronotype is largely determined by genetic polymorphisms within the PER and CRY clock gene families and cannot be consciously altered through willpower or moral discipline</span></span>.</p><p><strong>Paragraph 3.</strong> When an employee’s mandatory work timetable clashes fundamentally with their biological chronotype, the resulting physiological disharmony is termed 'social jetlag'. In a pioneering epidemiological survey involving over fifty thousand European workers, chronobiologist Dr. Till Roenneberg discovered that <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\"><span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">more than seventy percent of the workforce suffers from at least two hours of social jetlag every working day</span></span>. 'Social jetlag forces people to live in a continuous state of metabolic disruption,' Roenneberg emphasizes. 'Waking up an evening chronotype at six in the morning with an alarm clock is physiologically equivalent to forcing a morning chronotype to work through the dead of night. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">The individual is forced to function while their core body temperature is depressed and their brain is flooded with melatonin</span>.'</p><p><strong>Paragraph 4.</strong> The occupational hazards of circadian misalignment are catastrophic, particularly in high-stakes shift-work environments such as healthcare, long-haul aviation, chemical refining, and nuclear energy. At 4:00 AM, human psychomotor vigilance hits its circadian nadir; reaction times slow by up to fifty percent, attentional lapses spike exponentially, and the likelihood of human operational error triples. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\"><span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">Historical forensic audits demonstrate that many of the worst industrial disasters of the twentieth century—including the catastrophic nuclear meltdown at Chernobyl and the catastrophic Exxon Valdez oil tanker grounding—occurred during the early morning hours</span></span>, when tired operators made fatal perceptual mistakes. Over decades, chronic night-shift work exacts an equally grim physical toll, elevating risks of Type 2 diabetes, cardiovascular disease, and certain gastrointestinal malignancies.</p><p><strong>Paragraph 5.</strong> To address this mounting occupational crisis, innovative enterprises are ditching uniform nine-to-five schedules in favour of chronotype-adjusted scheduling. In a landmark corporate trial conducted across three industrial manufacturing plants in Germany, <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">shift workers were genetically tested and assigned to early, standard, or late rotating shifts matching their biological clocks</span>. Within six months, <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\"><span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">participating factories recorded a twenty-eight percent decrease in absenteeism, a dramatic drop in workplace injuries, and a measurable surge in overall worker satisfaction</span></span>. Furthermore, lighting engineers are designing dynamic, circadian-supportive LED lighting inside windowless work environments. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">These systems emit cool, blue-enriched light during morning hours to suppress daytime drowsiness, shifting automatically to warm, amber spectrums in the late afternoon to preserve natural melatonin secretion</span>. As corporate leaders confront rising healthcare costs and burnout, recognizing the non-negotiable biology of the internal clock may prove to be the ultimate workplace innovation.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–18",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below.<br>Write the correct letter, <b>A–J</b>, in boxes 14–18 on your answer sheet.</i><br><br><b>A.</b> accidents &nbsp;|&nbsp; <b>B.</b> majority &nbsp;|&nbsp; <b>C.</b> natural &nbsp;|&nbsp; <b>D.</b> decline &nbsp;|&nbsp; <b>E.</b> genetics<br><b>F.</b> temporary &nbsp;|&nbsp; <b>G.</b> increase &nbsp;|&nbsp; <b>H.</b> training &nbsp;|&nbsp; <b>I.</b> minority &nbsp;|&nbsp; <b>J.</b> mechanical",
+      "summaryTitle": "The Biology of Circadian Rhythms and Work Schedules",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ],
+      "template": "<p>Every human cell operates according to an internal twenty-four-hour cycle that is controlled by a master timer in the brain known as the SCN. This system regulates several bodily processes, ensuring that our internal biology matches <b>14.</b> {{q14}} environmental cycles.</p><p>However, modern shift work forces many individuals to work when their bodies expect sleep. Scientists recognize three distinct chronotypes, which are determined by human <b>15.</b> {{q15}} rather than individual discipline.</p><p>When people are forced to wake up at times that oppose their natural cycles, they experience a condition called social jetlag. Research by Dr. Till Roenneberg shows that this issue affects a large <b>16.</b> {{q16}} of European employees.</p><p>The consequences of this misalignment can be severe. In the early morning hours, human alertness hits a low point, which has contributed to major industrial <b>17.</b> {{q17}} in past decades.</p><p>To resolve these problems, some companies now organize shift patterns based on biological preferences, leading to a notable <b>18.</b> {{q18}} in worker injuries and time off.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 19–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 210?<br>In boxes 19–23 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the claims of the writer<br><b>NO</b> – if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...synchronizing our internal physiology with the external planetary environment.\"</i> → planetary / external = natural.",
+          "<b>Kết luận:</b> Chọn <b>C (natural)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...chronotype is largely determined by genetic polymorphisms... cannot be consciously altered through willpower...\"</i> → genetics.",
+          "<b>Kết luận:</b> Chọn <b>E (genetics)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...more than seventy percent of the workforce suffers from... social jetlag...\"</i> → 70% = majority.",
+          "<b>Kết luận:</b> Chọn <b>B (majority)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...many of the worst industrial disasters of the twentieth century... occurred during early morning hours...\"</i> → disasters = accidents.",
+          "<b>Kết luận:</b> Chọn <b>A (accidents)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...recorded a twenty-eight percent decrease in absenteeism, a dramatic drop in workplace injuries...\"</i> → decrease / drop = decline.",
+          "<b>Kết luận:</b> Chọn <b>D (decline)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "An individual's chronotype can be easily changed through regular mental training.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...cannot be consciously altered through willpower or moral discipline.\"</i> → Trực tiếp mâu thuẫn với <i>can be easily changed through regular mental training</i>.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Evening chronotypes have lower core body temperatures when forced to wake early.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...forced to function while their core body temperature is depressed...\"</i> → depressed = lower.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Industrial accidents are more likely to occur in nuclear plants than on chemical tankers.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Có liệt kê cả Chernobyl (hạt nhân) và Exxon Valdez (tàu dầu), nhưng hoàn toàn không có sự so sánh về tỷ lệ xảy ra tai nạn giữa hai ngành này.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "The German plant study required participants to undergo testing to determine their genetic chronotypes.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...shift workers were genetically tested and assigned to early, standard, or late rotating shifts...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Dynamic LED lighting systems emit blue light during the evening to encourage sleep.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"blue-enriched light during morning hours... shifting automatically to warm, amber spectrums in the late afternoon...\"</i> → Buổi tối phát ánh sáng hổ phách ấm, không phải ánh sáng xanh.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "What does the writer say about the suprachiasmatic nucleus (SCN) in the first paragraph?",
+      "options": [
+        "A. It produces hormones that directly digest food in the stomach.",
+        "B. It ensures that cellular clocks throughout the body remain synchronized.",
+        "C. It malfunctions when humans enter areas with warm climates.",
+        "D. It was discovered during historical excavations of ancient human remains."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Acting as a master pacemaker, the SCN synchronizes cellular clocks throughout the peripheral organs...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "What was demonstrated by Dr. Till Roenneberg’s survey of European workers?",
+      "options": [
+        "A. Most people prefer working evening shifts rather than morning shifts.",
+        "B. More than seventy percent of workers regularly experience social jetlag.",
+        "C. Alarm clocks have successfully corrected biological timing issues.",
+        "D. European workers take more sick leave than workers in other regions."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...more than seventy percent of the workforce suffers from at least two hours of social jetlag every working day.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "What is the main benefit of adjusting work shifts to match employees' biological clocks?",
+      "options": [
+        "A. It allows factories to operate twenty-four hours without hiring extra staff.",
+        "B. It completely eliminates the need for workplace health inspections.",
+        "C. It improves industrial safety and lowers employee absenteeism.",
+        "D. It reduces the amount of electricity required to illuminate factories."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...recorded a twenty-eight percent decrease in absenteeism, a dramatic drop in workplace injuries...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

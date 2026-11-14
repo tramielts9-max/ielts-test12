@@ -1,0 +1,239 @@
+{
+  "title": "Bài sưu tầm 202 - Passage 2: Doggerland: The Submerged Heart of Europe",
+  "answers": {
+    "q14": "D",
+    "q15": "B",
+    "q16": "G",
+    "q17": "A",
+    "q18": "F",
+    "q19": "YES",
+    "q20": "NOT GIVEN",
+    "q21": "YES",
+    "q22": "NO",
+    "q23": "NOT GIVEN",
+    "q24": "C",
+    "q25": "A",
+    "q26": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 202</h2><h3>Doggerland: The Submerged Heart of Europe</h3><p><strong>Paragraph 1.</strong> For centuries, fishermen dragging heavy beam trawls across the shallow waters of the North Sea between Britain and continental Europe returned to port with peculiar bycatches. Tangled among cod and haddock were the petrified bones of mammoths, woolly rhinos, and ancestral red deer, accompanied by worked barbed harpoons carved from antler. Until the late twentieth century, <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">antiquarians regarded these relics as debris swept out to sea by glacial floods</span>. Today, however, cutting-edge geomorphological surveys have established a profound historical reality: until roughly 8,200 years ago, this vast underwater expanse was a dry, fertile landmass connecting Britain directly to the Netherlands, Germany, and Denmark. Dubbed 'Doggerland' by archaeologists, it was not merely a narrow land bridge, but the vibrant, resource-rich ecological core of Mesolithic northern Europe.</p><p><strong>Paragraph 2.</strong> The topography of Doggerland was shaped dramatically by the melting of the immense ice sheets that marked the close of the Last Glacial Maximum around 18,000 years ago. As regional temperatures climbed, melting glaciers released trillions of gallons of water, transforming frozen tundra into a sweeping network of braided river valleys, freshwater marshes, lagoons, and dense oak forests. Archaeological excavations of coastal settlements reveal that Mesolithic hunter-gatherers thrived in this mosaic landscape. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\"><span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">Far from living a desperate, precarious existence, these human communities enjoyed a surplus of seasonal nutrition: migratory wildfowl, freshwater eels, marine molluscs, and abundant big game</span></span>. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">Artifacts retrieved from the seabed—such as bone awls, flint microliths, and wooden paddles—demonstrate sophisticated crafts and tools tailored to aquatic foraging</span>.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">The long-term demise of Doggerland, however, was inevitable</span>. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Over thousands of years, global sea levels crept steadily upward at an average rate of nearly a metre per century</span>. The rising tide gradually drowned low-lying coastal marshes, submerging valuable hunting territories and forcing human bands to retreat incrementally toward higher ground in contemporary Britain and Scandinavia. Marine archaeologists initially theorized that <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">this inundation was entirely gradual, allowing human populations ample generations to adapt their foraging strategies and migrate smoothly inland</span>.</p><p><strong>Paragraph 4.</strong> Recent marine geophysics, however, <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">has overturned this pastoral narrative, pointing to a sudden, apocalyptic catastrophe</span>. Approximately 8,150 years ago, <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">a catastrophic submarine landslide occurred off the western continental shelf of Norway. Known to geologists as the Storegga Slide, the collapse displaced roughly 3,000 cubic kilometres of sediment, triggering a colossal tsunami</span> that raced across the North Sea basin. Deep ocean core samples indicate that a wall of water up to twenty metres high smashed directly into Doggerland’s fragile barrier islands and low-lying coastal plains. For the human populations inhabiting the lagoons and estuaries, the disaster would have been instantaneous and insurmountable. Within hours, entire settlements were obliterated, and <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">any survivors clinging to high ridges found their freshwater supplies salt-contaminated and their foraging grounds destroyed</span>. The few elevated remnants of the landscape that resisted the initial wave were completely swallowed by rising waters within a few centuries, finally severing Britain from the European mainland.</p><p><strong>Paragraph 5.</strong> Mapping this vanished country presents monumental logistical obstacles. Traditional archaeological excavation methods are useless when the cultural layer lies buried beneath thirty metres of turbulent seawater and several metres of shifting marine silt. To pierce this barrier, <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">marine geophysicist Dr. Vincent Gaffney pioneered the <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">repurposing of seismic reflection data originally collected by multinational oil and gas companies prospecting for North Sea petroleum reserves</span></span>. By running advanced algorithms through this massive geological archive, Gaffney’s research team was able to strip away the marine sediments digitally, reconstructing over 45,000 square kilometres of prehistoric topography. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">The resulting digital atlas maps ancient river systems, fossilized lakes, and coastal hills with exquisite precision, allowing archaeologists to predict the precise locations where prehistoric human settlements once congregated</span>. The study of Doggerland stands as a sobering prehistoric case study of how rapidly accelerating sea-level rise can permanently dismantle human geography.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–18",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below.<br>Write the correct letter, <b>A–J</b>, in boxes 14–18 on your answer sheet.</i><br><br><b>A.</b> steady &nbsp;&nbsp; <b>B.</b> plentiful &nbsp;&nbsp; <b>C.</b> natural currents &nbsp;&nbsp; <b>D.</b> glacial floods &nbsp;&nbsp; <b>E.</b> unpredictable<br><b>F.</b> landslide &nbsp;&nbsp; <b>G.</b> unavoidable &nbsp;&nbsp; <b>H.</b> temporary &nbsp;&nbsp; <b>I.</b> severe famine &nbsp;&nbsp; <b>J.</b> earthquake",
+      "summaryTitle": "The Landscape and People of Doggerland",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ],
+      "template": "<p>Early twentieth-century researchers incorrectly assumed that prehistoric bones and tools found in the North Sea had been carried there by <b>14.</b> {{q14}} . Modern marine research has revealed that Doggerland was once a diverse environment featuring wetlands, waterways, and woodland.</p><p>The human inhabitants of this territory possessed a wide variety of tools, and far from struggling, they had access to <b>15.</b> {{q15}} food sources. However, the continuous upward trend in sea levels created an <b>16.</b> {{q16}} loss of land, forcing tribes to relocate.</p><p>While scientists once believed this resettlement occurred in a <b>17.</b> {{q17}} manner, geological evidence confirms that the final devastation was brought about by an underwater <b>18.</b> {{q18}} which generated a massive wave.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 19–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 202?<br>In boxes 19–23 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the claims of the writer<br><b>NO</b> – if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...regarded these relics as debris swept out to sea by glacial floods.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D (glacial floods)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...these human communities enjoyed a surplus of seasonal nutrition...\"</i> → <i>surplus</i> = <i>plentiful</i>.",
+          "<b>Kết luận:</b> Chọn <b>B (plentiful)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"The long-term demise of Doggerland, however, was inevitable.\"</i> → <i>inevitable</i> = <i>unavoidable</i>.",
+          "<b>Kết luận:</b> Chọn <b>G (unavoidable)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...inundation was entirely gradual, allowing human populations ample generations to adapt... and migrate smoothly...\"</i> → <i>gradual / smoothly</i> = <i>steady</i>.",
+          "<b>Kết luận:</b> Chọn <b>A (steady)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...a catastrophic submarine landslide occurred... triggering a colossal tsunami...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>F (landslide)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "The tools recovered from the seabed show that Doggerland’s residents were skilled at hunting in aquatic environments.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Artifacts retrieved from the seabed... demonstrate sophisticated crafts and tools tailored to aquatic foraging.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Sea levels during the Mesolithic period rose at a constant, unvarying speed throughout the entire year.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Có nhắc <i>average rate of nearly a metre per century</i>, nhưng không có thông tin về tốc độ dâng nước có <i>constant throughout the entire year</i> (đều đặn quanh năm) hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "The Storegga Slide tsunami destroyed the freshwater resources of communities that survived the initial impact.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...any survivors clinging to high ridges found their freshwater supplies salt-contaminated...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Oil and gas companies originally gathered seismic data with the deliberate purpose of aiding archaeological research.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...seismic reflection data originally collected by multinational oil and gas companies prospecting for North Sea petroleum reserves.\"</i> → Mục đích ban đầu là tìm dầu khí, không phải hỗ trợ khảo cổ.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Dr. Vincent Gaffney’s team has conducted physical deep-sea dives on all the settlement sites identified by their digital map.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nói nhóm Gaffney lập bản đồ kỹ thuật số (<i>digital atlas</i>), không đề cập liệu họ đã lặn thực tế xuống tất cả các địa điểm hay chưa.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "In the second paragraph, what point does the writer make about the hunter-gatherers of Doggerland?",
+      "options": [
+        "A. They were continually threatened by severe seasonal food shortages.",
+        "B. They preferred living in oak woodlands rather than coastal estuaries.",
+        "C. They developed a sophisticated society supported by an abundance of resources.",
+        "D. They migrated primarily to follow the movements of large reindeer herds."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Nhấn mạnh họ không sống khổ sở (<i>Far from living a desperate, precarious existence</i>) mà có thặng dư dinh dưỡng (<i>surplus</i>) và công cụ tinh vi (<i>sophisticated crafts</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "What does the writer emphasize about the Storegga Slide event in the fourth paragraph?",
+      "options": [
+        "A. Its catastrophic suddenness contrasted with previous assumptions of slow change.",
+        "B. It was preceded by several minor tidal waves that alerted human residents.",
+        "C. It affected settlements on the British coast far more severely than those in Norway.",
+        "D. It caused an immediate drop in global sea temperatures across northern Europe."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Đối lập giả thuyết cũ về sự từ từ (<i>gradual narrative</i>) với thực tế thảm họa bất ngờ tàn khốc (<i>sudden, apocalyptic catastrophe / within hours</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "What was the primary advantage of Dr. Vincent Gaffney’s mapping approach?",
+      "options": [
+        "A. It eliminated the need for complex computer software in oceanographic analysis.",
+        "B. It utilized existing industrial geophysical records to reveal drowned topography.",
+        "C. It was significantly less expensive than surveying land-based archaeological sites.",
+        "D. It allowed researchers to physically extract fragile wooden artifacts without damaging them."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ rõ ưu thế là tái sử dụng dữ liệu địa chấn dầu khí có sẵn (<i>repurposing seismic reflection data collected by oil and gas companies</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

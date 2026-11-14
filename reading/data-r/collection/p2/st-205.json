@@ -1,0 +1,239 @@
+{
+  "title": "Bài sưu tầm 205 - Passage 2: The Cognitive Horizons of Deep-Space Missions",
+  "answers": {
+    "q14": "A",
+    "q15": "E",
+    "q16": "B",
+    "q17": "C",
+    "q18": "F",
+    "q19": "D",
+    "q20": "NO",
+    "q21": "NO",
+    "q22": "YES",
+    "q23": "NOT GIVEN",
+    "q24": "B",
+    "q25": "A",
+    "q26": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 205</h2><h3>The Cognitive Horizons of Deep-Space Missions</h3><p><strong>Paragraph 1.</strong> As international aerospace agencies lay the engineering foundations for crewed expeditions to Mars, human physiologists are confronting a reality far more daunting than rocket propulsion: the fragility of the human brain under profound isolation. A journey to the Red Planet will demand that a crew of four to six astronauts live for nearly three years inside an enclosed habitat roughly the size of a shipping container. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Unlike astronauts stationed on the International Space Station (ISS), who view Earth rotating outside their cupola and communicate with mission control in near-real time</span>, Mars crews will cross an unprecedented psychological frontier. At maximum distance, <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">interplanetary radio transmissions will experience an unavoidable lag of up to twenty-two minutes each way</span>, completely eliminating conversational dialogue with Earth, while our home planet will shrink to a faint, unrecognizable speck of blue light.</p><p><strong>Paragraph 2.</strong> To investigate the psychological toll of this chronic sensory and social confinement, behavioural researchers rely on high-fidelity analog simulation facilities established in the world's most inhospitable corners. One preeminent testbed is the Concordia Research Station, perched atop an Antarctic ice plateau 3,200 metres above sea level. During the nine-month polar winter, outside temperatures regularly plummet below minus eighty degrees Celsius, and <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">complete physical evacuation is impossible</span>. The international research crew <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">lives in absolute sensory monotony: a monochrome landscape of white ice, no natural sunlight for four consecutive months, artificial recycled air, and a total absence of olfactory stimulation from vegetation or rainfall</span>.</p><p><strong>Paragraph 3.</strong> Neurocognitive monitoring of winter-over crews at Concordia has uncovered alarming patterns of psychological degeneration. After approximately three to four months of confinement, astronauts consistently experience what clinical psychologists term the 'third-quarter effect'. Regardless of individual mental fortitude, crew members exhibit an insidious cognitive deceleration: <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">working memory degrades, problem-solving latency doubles, and individuals report profound emotional flattening</span>. Electroencephalogram (EEG) telemetry indicates that prolonged isolation induces a state of chronic neurological hypometabolism, characterised by an abnormal predominance of theta brainwaves—a signature typically observed during sleep onset or deep meditation. In essence, <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">under monotonous sensory conditions, the human brain down-regulates its active processing capacity to conserve metabolic fuel</span>.</p><p><strong>Paragraph 4.</strong> Equally perilous are the subtle transformations in interpersonal dynamics. In the opening months of analog missions, crews universally report high cohesion and collective purpose. However, as sensory deprivation grinds on, micro-frictions over personal habits, food rationing, and minor workload allocations inevitably escalate. Dr. Alistair Finch, a behavioural psychologist who monitors deep-space analogs, observes that crews develop an intense psychological mechanism known as 'displacement'. 'Rather than directing frustration toward fellow habitat members—which would threaten direct survival—astronauts unconsciously <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">project their internal resentment outward,' Finch explains. 'They direct hostility toward ground control</span>, perceiving mission managers on Earth as unsympathetic, incompetent taskmasters.' <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">While displacement temporarily preserves internal crew cohesion</span>, <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">it dangerously impairs operational compliance when mission control issues critical navigation instructions</span>.</p><p><strong>Paragraph 5.</strong> To mitigate these psychological vulnerabilities, space agencies are testing multimodal neuro-restorative technologies. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Simple recreational distractions—such as pre-recorded movies or passive exercise—prove largely ineffective at reversing sensory atrophy</span>. Instead, <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">researchers at NASA’s Behavioral Health Division are deploying interactive virtual reality (VR) environments that simulate natural terrestrial biomes</span>. Immersive simulations featuring alpine forests, ocean waves, and tactile breezes have been shown to trigger rapid recovery in prefrontal cortex engagement, temporarily restoring working memory performance. Furthermore, engineers are designing autonomous AI-driven psychological assistants embedded directly within the habitat's life-support computers. <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">By monitoring subtle changes in an astronaut's vocal acoustics, facial micro-expressions, and typing speed, these algorithmic companions can <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">detect early depressive indicators days before the individual becomes consciously aware of their distress</span></span>, discreetly recommending adjustments to ambient lighting, sleep schedules, or workload distribution. Surviving the journey to Mars, it turns out, will depend less on mastering cosmic radiation than on preserving the delicate neurochemistry of the human mind.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–19",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below.<br>Write the correct letter, <b>A–J</b>, in boxes 14–19 on your answer sheet.</i><br><br><b>A.</b> delay &nbsp;&nbsp; <b>B.</b> reduction &nbsp;&nbsp; <b>C.</b> hostility &nbsp;&nbsp; <b>D.</b> early &nbsp;&nbsp; <b>E.</b> monotony<br><b>F.</b> unsuccessful &nbsp;&nbsp; <b>G.</b> increase &nbsp;&nbsp; <b>H.</b> confusion &nbsp;&nbsp; <b>I.</b> deliberate &nbsp;&nbsp; <b>J.</b> temporary",
+      "summaryTitle": "Research into the Psychology of Deep-Space Confinement",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18",
+        "q19"
+      ],
+      "template": "<p>Astronauts travelling to Mars will face unprecedented mental stress because of the tiny size of their habitat and the inevitable <b>14.</b> {{q14}} in communications with Earth.</p><p>To evaluate these impacts, scientists utilize research stations in Antarctica, where crews experience severe <b>15.</b> {{q15}} during long winter periods without sunlight or varied sensory experiences.</p><p>Medical evaluations demonstrate that after a few months, participants suffer from an <b>16.</b> {{q16}} in their problem-solving speeds and a decline in working memory.</p><p>In addition, interpersonal tensions often arise, leading crew members to display <b>17.</b> {{q17}} by channelling their anger toward ground personnel.</p><p>To combat this decline, space agencies are introducing immersive virtual reality, as simple entertainment options have proven to be <b>18.</b> {{q18}} .</p><p>Additionally, computer programmes can provide an <b>19.</b> {{q19}} identification of psychological issues by analyzing micro-behaviours and speech patterns.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 20–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 205?<br>In boxes 20–23 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the claims of the writer<br><b>NO</b> – if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...unavoidable lag of up to twenty-two minutes...\"</i> → <i>lag</i> = <i>delay</i>.",
+          "<b>Kết luận:</b> Chọn <b>A (delay)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...lives in absolute sensory monotony: a monochrome landscape...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>E (monotony)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...problem-solving latency doubles...\"</i> → Độ trễ tăng gấp đôi đồng nghĩa với tốc độ giải quyết vấn đề bị giảm sút (<i>reduction</i>).",
+          "<b>Kết luận:</b> Chọn <b>B (reduction)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...project their internal resentment outward... direct hostility toward ground control...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C (hostility)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...Simple recreational distractions... prove largely ineffective...\"</i> → <i>ineffective</i> = <i>unsuccessful</i>.",
+          "<b>Kết luận:</b> Chọn <b>F (unsuccessful)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...detect early depressive indicators days before the individual becomes consciously aware...\"</i> → <i>early</i>.",
+          "<b>Kết luận:</b> Chọn <b>D (early)</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Astronauts on the International Space Station face identical communication challenges to those expected on a Mars expedition.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Unlike astronauts stationed on the International Space Station (ISS), who... communicate with mission control in near-real time...\"</i> → Trực tiếp đối lập.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "The physical evacuation of personnel from Concordia station can be arranged safely during the Antarctic winter.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"During the nine-month polar winter... complete physical evacuation is impossible.\"</i> → Đối lập với <i>can be arranged safely</i>.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "The psychological phenomenon known as displacement can occasionally prevent direct conflict among crew members.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"While displacement temporarily preserves internal crew cohesion...\"</i> → Giúp giữ gắn kết nội bộ, tránh xung đột trực tiếp.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Virtual reality simulations can entirely replace the psychological benefits of real outdoor environments.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Nói VR giúp phục hồi tạm thời (<i>trigger rapid recovery... temporarily restoring</i>), nhưng không có câu nào khẳng định VR thay thế hoàn toàn (<i>entirely replace</i>) môi trường tự nhiên thật.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "In the third paragraph, what does the writer suggest about the 'third-quarter effect'?",
+      "options": [
+        "A. It can be prevented if crew members have extraordinary psychological strength.",
+        "B. It causes the brain to reduce its mental activity in response to a lack of stimulation.",
+        "C. It occurs primarily because astronauts are unable to achieve deep states of sleep.",
+        "D. It is caused by an excessive consumption of metabolic fuels within the body."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...under monotonous sensory conditions, the human brain down-regulates its active processing capacity to conserve metabolic fuel.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Why does Dr. Alistair Finch consider displacement to be dangerous?",
+      "options": [
+        "A. It causes crew members to stop obeying necessary directions from ground staff.",
+        "B. It eventually leads to violent physical altercations inside the spacecraft.",
+        "C. It forces mission control to replace astronauts while a mission is underway.",
+        "D. It permanently damages the friendship between individual team members."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...it dangerously impairs operational compliance when mission control issues critical navigation instructions.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "What is the main function of the automated AI assistants mentioned in the final paragraph?",
+      "options": [
+        "A. To override manual navigation controls if the crew experiences panic.",
+        "B. To provide automated psychiatric medication when stress thresholds are exceeded.",
+        "C. To recognize initial signs of emotional strain through behavioral cues.",
+        "D. To calculate the fastest orbital trajectory back to Earth during emergencies."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"By monitoring subtle changes in an astronaut's vocal acoustics, facial micro-expressions... detect early depressive indicators...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

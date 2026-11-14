@@ -1,0 +1,239 @@
+{
+  "title": "Bài sưu tầm 212 - Passage 2: Cracking the Code: The Decipherment of Linear B",
+  "answers": {
+    "q14": "D",
+    "q15": "B",
+    "q16": "C",
+    "q17": "A",
+    "q18": "F",
+    "q19": "NO",
+    "q20": "NO",
+    "q21": "YES",
+    "q22": "NO",
+    "q23": "YES",
+    "q24": "B",
+    "q25": "A",
+    "q26": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 212</h2><h3>Cracking the Code: The Decipherment of Linear B</h3><p><strong>Paragraph 1.</strong> In the spring of 1900, British archaeologist Sir Arthur Evans commenced excavations at Knossos on the Mediterranean island of Crete. Within days of breaking ground, Evans uncovered the monumental ruins of an elaborate Bronze Age palace, which he attributed to the legendary King Minos. Embedded among painted frescoes and massive storage jars were thousands of hardened clay tablets bearing two mysterious scripts composed of abstract geometric incisions. The older script, consisting of pictographic curves, Evans named Linear A; the younger, more angular script, he termed Linear B. Convinced that he had discovered a unique, non-Greek civilization that had ruled the prehistoric Aegean, <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\"><span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">Evans jealously guarded the tablets, stubbornly maintaining that the language recorded upon them could have no relation to classical Greek</span></span>.</p><p><strong>Paragraph 2.</strong> For over four decades, the tablets resisted all decipherment efforts, leaving historians in intellectual darkness. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\"><span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Because clay tablets were originally intended merely as temporary bureaucratic notes, they survived into antiquity only because catastrophic fires had burned the palaces, baking the soft clay into durable ceramic</span></span>. Evans died in 1941 without reading a single sentence. Progress was further hampered by the prevailing linguistic assumption that Linear B was an ancient Anatolian tongue or an unknown Minoan isolate. Without a bilingual inscription like the Rosetta Stone—which paired ancient Egyptian hieroglyphs with readable Greek—conventional cryptographers considered the script completely impenetrable.</p><p><strong>Paragraph 3.</strong> The crucial conceptual breakthrough came not from a celebrated linguist, but from an unsung American classicist named Alice Kober. Working with meticulous discipline at Brooklyn College during the 1940s, <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">Kober manually analyzed thousands of character sequences inscribed on index cards cut from old examination papers due to wartime paper shortages</span>. Kober noticed that certain groups of symbols shared identical starting characters, but concluded with varying suffixes. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">She realized that these variations represented inflectional endings, analogous to how case endings function in inflected languages like Latin</span>. Before her untimely death in 1950, <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">Kober constructed a rigorous mathematical 'grid' charting the relationships between recurring consonants and vowels, proving that Linear B was a phonetic syllabary where each sign represented a consonant paired with a vowel</span>.</p><p><strong>Paragraph 4.</strong> Kober’s foundational grid was inherited by Michael Ventris, a brilliant young British architect with an obsessive passion for ancient cryptography. <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Initially, Ventris shared Evans' belief that Linear B recorded an ancient Etruscan dialect</span>. However, <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\"><span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">as he plugged known phonetic values into place-names mentioned on Cretan tablets—such as A-mi-ni-so (Amnisos) and Ko-no-so (Knossos)—the phonetic syllables yielded words that sounded shockingly familiar</span></span>. On 1 July 1952, Ventris made a historic radio announcement on the BBC: Linear B was not a lost Minoan tongue, but archaic Greek, written some five centuries before Homer composed the Iliad. Working alongside Cambridge philologist John Chadwick, Ventris proved that Linear B represented Mycenaean Greek, the administrative language of the mainland warrior chieftains who had dominated the Aegean during the late Bronze Age.</p><p><strong>Paragraph 5.</strong> The decipherment of Linear B shattered the foundations of classical Mediterranean historiography. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\"><span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Rather than romantic heroic epics or philosophical treaties, the tablets proved to be exhaustive accounting ledgers maintained by palace scribes. They recorded meticulous inventories of agricultural taxation: quantities of barley, jars of olive oil, numbers of sheep, deliveries of bronze arrowheads, and assignments of palace craftspeople</span></span>. More importantly, <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">the tablets documented religious offerings to gods familiar from classical Greek mythology, including Zeus, Poseidon, and Athena</span>, demonstrating an unbroken cultural lineage between the Bronze Age Mycenaeans and the golden age of classical Athens. Solving the riddle of Linear B pushed back the verified history of the Greek language by more than half a millennium, illustrating the power of statistical analysis to resurrect ancient voices from silent clay.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–18",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below.<br>Write the correct letter, <b>A–J</b>, in boxes 14–18 on your answer sheet.</i><br><br><b>A.</b> place-names &nbsp;&nbsp; <b>B.</b> fires &nbsp;&nbsp; <b>C.</b> inflections &nbsp;&nbsp; <b>D.</b> classical Greek &nbsp;&nbsp; <b>E.</b> earthquakes<br><b>F.</b> lists &nbsp;&nbsp; <b>G.</b> poetry &nbsp;&nbsp; <b>H.</b> Latin &nbsp;&nbsp; <b>I.</b> military ranks &nbsp;&nbsp; <b>J.</b> decorations",
+      "summaryTitle": "The Mystery and Decipherment of Linear B",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ],
+      "template": "<p>Sir Arthur Evans discovered thousands of clay tablets at Knossos, but wrongly believed that the language was unrelated to <b>14.</b> {{q14}} .</p><p>The ancient records only survived because palace <b>15.</b> {{q15}} had hardened the clay tablets into durable items.</p><p>Decipherment efforts were stalled for decades until Alice Kober realized that changing endings on recurring symbols represented grammatical <b>16.</b> {{q16}} .</p><p>Building on Kober's structural grid, Michael Ventris realized the language sounded like Greek after analyzing local <b>17.</b> {{q17}} .</p><p>When translated, the tablets did not contain literary texts, but rather administrative <b>18.</b> {{q18}} detailing taxation and economic records.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 19–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 212?<br>In boxes 19–23 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the claims of the writer<br><b>NO</b> – if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "D",
+      "inputWidth": "75px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...stubbornly maintaining that the language recorded upon them could have no relation to classical Greek.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D (classical Greek)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "B",
+      "inputWidth": "75px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...survived into antiquity only because catastrophic fires had burned the palaces, baking the soft clay...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B (fires)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "C",
+      "inputWidth": "75px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...variations represented inflectional endings, analogous to how case endings function...\"</i> → inflections.",
+          "<b>Kết luận:</b> Chọn <b>C (inflections)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "A",
+      "inputWidth": "75px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...as he plugged known phonetic values into place-names mentioned on Cretan tablets...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A (place-names)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "F",
+      "inputWidth": "75px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...exhaustive accounting ledgers... recorded meticulous inventories of agricultural taxation...\"</i> → inventories / ledgers = lists.",
+          "<b>Kết luận:</b> Chọn <b>F (lists)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Sir Arthur Evans allowed independent researchers easy access to inspect the Knossos tablets.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Evans jealously guarded the tablets...\"</i> → Trái ngược hoàn toàn với allowed easy access.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "The clay tablets were originally created to serve as permanent historical monuments.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Because clay tablets were originally intended merely as temporary bureaucratic notes...\"</i> → Trái ngược với permanent monuments.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Alice Kober used non-standard materials for her research due to resource shortages during the war.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...inscribed on index cards cut from old examination papers due to wartime paper shortages.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Michael Ventris always believed from the beginning that Linear B was an early form of Greek.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Initially, Ventris shared Evans' belief that Linear B recorded an ancient Etruscan dialect.\"</i> → Ban đầu tưởng tiếng Etruscan, sau mới nhận ra tiếng Hy Lạp.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Names of classical Greek deities appeared in the translated inventories of the tablets.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...documented religious offerings to gods familiar from classical Greek mythology, including Zeus, Poseidon, and Athena...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "What was the significance of Alice Kober's work on Linear B?",
+      "options": [
+        "A. She proved that the script was borrowed directly from ancient Egyptian hieroglyphs.",
+        "B. She established that the signs functioned as a phonetic syllabary through mathematical patterns.",
+        "C. She translated the first complete administrative inventory from the palace of Knossos.",
+        "D. She discovered that the tablets recorded the personal correspondence of King Minos."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...proving that Linear B was a phonetic syllabary where each sign represented a consonant paired with a vowel.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "How did Michael Ventris confirm that Linear B was an archaic form of Greek?",
+      "options": [
+        "A. By matching phonetic symbols to known geographic locations on the island of Crete.",
+        "B. By discovering a bilingual stone inscription written in both Linear B and classical Latin.",
+        "C. By reading historical accounts written by the classical poet Homer.",
+        "D. By comparing the Knossos tablets to records found in northern Egypt."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...plugged known phonetic values into place-names mentioned on Cretan tablets—such as A-mi-ni-so (Amnisos) and Ko-no-so (Knossos)...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "What was revealed about Mycenaean society once the tablets were deciphered?",
+      "options": [
+        "A. Mycenaean kings spent most of their revenue funding creative theatrical performances.",
+        "B. The civilization had no organized system for recording commercial transactions.",
+        "C. Palace scribes kept exhaustive records of taxation, commodities, and human labour.",
+        "D. Religious rituals were conducted without making animal offerings to gods."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...exhaustive accounting ledgers maintained by palace scribes. They recorded meticulous inventories of agricultural taxation: quantities of barley... assignments of palace craftspeople.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

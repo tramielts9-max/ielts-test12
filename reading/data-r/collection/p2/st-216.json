@@ -1,0 +1,287 @@
+{
+  "title": "Bài sưu tầm 216 - Passage 2: Bioprospecting in the Cryosphere: The Cold Search for Novel Antibiotics",
+  "answers": {
+    "q14": "D",
+    "q15": "A",
+    "q16": "F",
+    "q17": "C",
+    "q18": "cores",
+    "q19": "biofilm",
+    "q20": "temperatures",
+    "q21": "host",
+    "q22": "C",
+    "q23": "D",
+    "q24": "A",
+    "q25": "C",
+    "q26": "A"
+  },
+  "passageHtml": "<h2>READING PASSAGE 216</h2><h3>Bioprospecting in the Cryosphere: The Cold Search for Novel Antibiotics</h3><p><strong>Paragraph A.</strong> The global healthcare system is hurtling toward an antimicrobial precipice. Decades of antibiotic overuse in clinical medicine and industrial livestock agriculture have driven the relentless emergence of multidrug-resistant pathogens—colloquially termed 'superbugs'. Common bacterial strains responsible for hospital-acquired infections, tuberculosis, and pneumonia are increasingly impervious to entire classes of synthetic and naturally derived pharmaceuticals. The World Health Organization projects that without an influx of novel molecular scaffolds, resistant infections could claim ten million lives annually by 2050. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Historically, almost all conventional antibiotics were isolated from actinobacteria living in temperate agricultural soils. However, after seventy years of exhaustive screening, this terrestrial reservoir is exhausted; researchers continually re-discover identical chemical variants, yielding virtually no structurally novel compounds</span>.</p><p><strong>Paragraph B.</strong> To circumvent this scientific stalemate, pioneering biomedical researchers are venturing to the furthest geographic margins of the planet: the cryosphere. Far from being sterile wastelands of inert ice, glaciers, subglacial lakes, and Antarctic permafrost teem with specialized, cold-adapted microorganisms known as psychrophiles. Over evolutionary epochs spanning millions of years, these extremophiles evolved to survive in environments characterized by persistent sub-zero temperatures, intense ultraviolet radiation, extreme desiccation, and perpetual nutrient starvation. <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">'To survive under such acute physical stress, psychrophilic bacteria cannot rely on conventional biochemistry,' explains Dr. Rebecca Frost, a chemical biologist at the British Antarctic Survey.</span> <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">'They synthesize unique secondary metabolites that remain structurally flexible and chemically reactive at near-freezing temperatures—properties that make them exceptional candidates for pharmaceutical development.'</span></p><p><strong>Paragraph C.</strong> The molecular mechanisms deployed by psychrophiles to conquer cold environments are proving exceptionally valuable to pharmacologists. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Unlike temperate bacteria, which synthesize rigid cellular membranes and stiff metabolic enzymes, cold-adapted microbes produce membrane lipids enriched with polyunsaturated fatty acids that preserve fluid cellular permeability. Furthermore, their enzymes possess flexible catalytic pockets that allow biochemical transformations to proceed with negligible activation energy.</span> To defend their localized ecological niches against competing microbes in nutrient-starved ice pockets, psychrophiles engage in chemical warfare, synthesizing potent antimicrobial peptides, siderophores, and volatile organic compounds designed to kill rival species. Because these subterranean polar strains have evolved in complete genetic isolation for millions of years, their offensive chemical compounds represent entirely uncharted molecular architectures.</p><p><strong>Paragraph D.</strong> To identify and extract these biochemical treasures, an international expedition led by microbiologist Dr. Liam Chen conducted field bioprospecting deep within the interior of Greenland. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Chen’s team drilled a series of ice <span class=\"kw\">cores</span> down to a depth of four hundred metres</span>, extracting samples of glacial ice dating back thirty thousand years. Using high-precision robotic micro-fractionation, the researchers isolated over two hundred distinct bacterial strains, including previously unrecorded species of <em>Streptomyces</em> and <em>Janthinobacterium</em>. In laboratory screening trials, <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">compounds purified from a novel strain named <em>Pseudomonas cryophila</em> exhibited potent bactericidal activity against methicillin-resistant <em>Staphylococcus aureus</em> (MRSA), <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">successfully disrupting the pathogen’s protective <span class=\"kw\">biofilm</span></span>—a defensive shield that conventional antibiotics are completely incapable of penetrating</span>.</p><p><strong>Paragraph E.</strong> Despite these dazzling discoveries, transitioning polar bioprospecting from experimental sampling to industrial mass production presents formidable logistical and economic barriers. Cultivating psychrophiles in commercial bioreactors is notoriously problematic. Because these organisms have adapted specifically to frigid conditions, <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">they typically undergo fatal protein denaturation and autolysis when broth <span class=\"kw\">temperatures</span> rise above ten degrees Celsius</span>. Dr. Sven Lindholm, an industrial bioprocess engineer, cautions that <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">conventional pharmaceutical fermentation equipment is engineered exclusively for warm, mesophilic organisms</span>. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">'Cooling industrial fermentation vats containing thousands of litres of culture fluid requires immense refrigeration infrastructure,' Lindholm notes. 'Unless we can synthesize these complex molecular structures chemically or <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">transplant their biosynthetic gene clusters into warm-tolerant <span class=\"kw\">host</span> cells</span>, commercial production costs will remain prohibitively high.'</span></p><p><strong>Paragraph F.</strong> Compounding technical challenges are profound legal and ecological ambiguities. The international governance of the cryosphere, particularly Antarctica, is governed by the Antarctic Treaty System of 1959. However, the original treaty focuses primarily on demilitarization and environmental preservation; it remains completely silent regarding the commercial ownership of genetic resources and biological patents. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\"><span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Bioethicist Dr. Maya Patel warns of an impending corporate 'bio-rush' on polar ecosystems. 'While private corporations stand to reap billions in pharmaceutical patents from extremophile enzymes, there is currently no legal framework requiring them to share these economic profits or channel royalties back into global conservation programs,' Patel argues.</span></span> 'Without binding international protocols, unregulated commercial bioprospecting risks despoiling the very pristine environments that hold the keys to saving human medicine.'</p><p><strong>Paragraph G.</strong> Looking toward the horizon, scientists emphasize that preserving polar glaciers is inextricably bound to the future of human healthcare. As climate change accelerates the irreversible melting of ancient alpine glaciers and polar ice sheets, thousands of unique psychrophilic strains are permanently disappearing before science can catalogue their genetic sequences. Protecting the frozen corners of the planet, therefore, is not merely an exercise in abstract ecological conservation; it is an act of medical self-preservation. In the microscopic depths of prehistoric ice lies the potential salvation of twenty-first-century pharmacology.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–17",
+      "instructions": "<i>Reading Passage 216 has seven sections, <b>A–G</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–G</b>, in boxes 14–17 on your answer sheet.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 18–21",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 18–21 on your answer sheet.</i>",
+      "summaryTitle": "Dr. Liam Chen’s Glacial Bioprospecting Project",
+      "questionIds": [
+        "q18",
+        "q19",
+        "q20",
+        "q21"
+      ],
+      "template": "<p>Dr. Liam Chen directed an expedition to Greenland to search for medicinal molecules preserved in prehistoric ice. His team extracted samples by drilling deep ice <b>18.</b> {{q18}} that contained specimens dating back thirty millennia. Through automated laboratory procedures, Chen's researchers gathered more than two hundred distinct bacterial strains. When tested against dangerous hospital pathogens, extracts taken from a newly identified bacterium destroyed the <b>19.</b> {{q19}} that normally blocks traditional medication. However, scaling up production is difficult because psychrophiles experience cell death if the <b>20.</b> {{q20}} of the culture liquid increases even slightly. Consequently, researchers are investigating whether to insert the relevant genetic codes into warm-tolerant <b>21.</b> {{q21}} cells to make industrial manufacturing viable.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "matching_names",
+      "skillTag": "MATCH_FEATURES",
+      "title": "Questions 22–26",
+      "instructions": "<i>Look at the following statements (Questions 22–26) and the list of researchers below.<br>Match each statement with the correct person, <b>A–D</b>.<br>Write the correct letter, <b>A–D</b>, in boxes 22–26 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>List of Researchers:</b><br><b>A.</b> Dr. Rebecca Frost<br><b>B.</b> Dr. Liam Chen<br><b>C.</b> Dr. Sven Lindholm<br><b>D.</b> Dr. Maya Patel",
+      "questionIds": [
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "an account of how a compound from ancient ice dismantled a protective barrier used by resistant bacteria",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"exhibited potent bactericidal activity against methicillin-resistant Staphylococcus aureus (MRSA), successfully disrupting the pathogen’s protective biofilm...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "an explanation of why customary soil sources have ceased to provide new forms of antibiotics",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> <i>\"Historically, almost all conventional antibiotics were isolated from actinobacteria... terrestrial reservoir is exhausted; researchers continually re-discover identical chemical variants...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "a warning about the absence of legal regulations regarding commercial profits made from polar genetic discoveries",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"Bioethicist Dr. Maya Patel warns... there is currently no legal framework requiring them to share these economic profits or channel royalties...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "details of the structural adaptations that allow cold-adapted bacteria to function at near-freezing temperatures",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"cold-adapted microbes produce membrane lipids enriched with polyunsaturated fatty acids... enzymes possess flexible catalytic pockets...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "cores",
+      "inputWidth": "110px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...drilled a series of ice cores down to a depth of four hundred metres...\"</i> (Distractors: samples, strains).",
+          "<b>Từ cần điền:</b> <b>cores</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "biofilm",
+      "inputWidth": "110px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...successfully disrupting the pathogen’s protective biofilm...\"</i> (Distractors: strain, shield).",
+          "<b>Từ cần điền:</b> <b>biofilm</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "temperatures",
+      "inputWidth": "130px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...when broth temperatures rise above ten degrees Celsius.\"</i>",
+          "<b>Từ cần điền:</b> <b>temperatures</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "host",
+      "inputWidth": "100px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...transplant their biosynthetic gene clusters into warm-tolerant host cells...\"</i>",
+          "<b>Từ cần điền:</b> <b>host</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Traditional pharmaceutical production systems are not built to process cold-adapted organisms.",
+      "options": [
+        "A. Dr. Rebecca Frost",
+        "B. Dr. Liam Chen",
+        "C. Dr. Sven Lindholm",
+        "D. Dr. Maya Patel"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E (Dr. Sven Lindholm):</b> <i>\"...conventional pharmaceutical fermentation equipment is engineered exclusively for warm, mesophilic organisms.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "The lack of legal agreements may allow private enterprises to exploit natural resources without paying conservation fees.",
+      "options": [
+        "A. Dr. Rebecca Frost",
+        "B. Dr. Liam Chen",
+        "C. Dr. Sven Lindholm",
+        "D. Dr. Maya Patel"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F (Dr. Maya Patel):</b> <i>\"...there is currently no legal framework requiring them to share these economic profits or channel royalties back into global conservation programs...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Extremophile bacteria produce unique chemical products because they must endure severe natural conditions.",
+      "options": [
+        "A. Dr. Rebecca Frost",
+        "B. Dr. Liam Chen",
+        "C. Dr. Sven Lindholm",
+        "D. Dr. Maya Patel"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B (Dr. Rebecca Frost):</b> <i>\"'To survive under such acute physical stress, psychrophilic bacteria cannot rely on conventional biochemistry... They synthesize unique secondary metabolites...'\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Cooling large quantities of biological broth in commercial factories involves excessive expense.",
+      "options": [
+        "A. Dr. Rebecca Frost",
+        "B. Dr. Liam Chen",
+        "C. Dr. Sven Lindholm",
+        "D. Dr. Maya Patel"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E (Dr. Sven Lindholm):</b> <i>\"Cooling industrial fermentation vats containing thousands of litres of culture fluid requires immense refrigeration infrastructure... costs will remain prohibitively high.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Psychrophilic compounds represent unusual candidates for medical use due to their ability to react at cold temperatures.",
+      "options": [
+        "A. Dr. Rebecca Frost",
+        "B. Dr. Liam Chen",
+        "C. Dr. Sven Lindholm",
+        "D. Dr. Maya Patel"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B (Dr. Rebecca Frost):</b> <i>\"...remain structurally flexible and chemically reactive at near-freezing temperatures—properties that make them exceptional candidates...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    }
+  }
+}

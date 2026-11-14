@@ -1,0 +1,239 @@
+{
+  "title": "Bài sưu tầm 215 - Passage 2: The Architecture of Choice: Behavioral Nudge Theory in Public Policy",
+  "answers": {
+    "q14": "B",
+    "q15": "C",
+    "q16": "E",
+    "q17": "A",
+    "q18": "D",
+    "q19": "NO",
+    "q20": "NO",
+    "q21": "NO",
+    "q22": "YES",
+    "q23": "YES",
+    "q24": "B",
+    "q25": "C",
+    "q26": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 215</h2><h3>The Architecture of Choice: Behavioral Nudge Theory in Public Policy</h3><p><strong>Paragraph 1.</strong> For centuries, classical economic doctrine was anchored in the idealized figure of <em>Homo economicus</em>—the perfectly rational human actor. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\"><span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">Standard economic models assumed that when making decisions regarding finance, healthcare, or retirement, individuals logically weigh all available information, impartially assess long-term costs and benefits, and consistently select the optimal outcome for their personal welfare. In recent decades, however, behavioural economists have systematically dismantled this assumption. Human decision-making is severely constrained by cognitive biases, mental fatigue, and a natural bias toward immediate gratification.</span></span> Recognizing these psychological limitations, governments worldwide are deploying a subtle yet powerful administrative methodology: 'nudge' theory.</p><p><strong>Paragraph 2.</strong> Popularized in 2008 by Nobel laureate Richard Thaler and legal scholar Cass Sunstein, nudge theory focuses on 'choice architecture'—the deliberate way choices are presented to citizens in everyday environments. The central premise is that human behavior can be profoundly influenced without banning any options or changing their economic incentives. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">A classic nudge does not mandate compliance via legal sanctions or heavy taxes</span>; rather, <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">it subtly alters the environment to make the healthier, safer, or more socially beneficial choice the easiest and most intuitive path of least resistance. Crucially, advocates insist that nudges must preserve 'libertarian paternalism': <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">people remain entirely free to choose alternative options if they actively desire to do so</span>.</span></p><p><strong>Paragraph 3.</strong> The most potent and ubiquitous tool in the choice architect's repertoire is the default option. Because human beings possess an overwhelming cognitive bias toward inertia, they disproportionately accept whatever choice is pre-selected for them. A famous demonstration of this principle appears in European organ donation policies. <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\"><span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">In countries with 'opt-in' systems—such as Germany and the United Kingdom—citizens must actively register on a state database to become organ donors upon death; in these nations, consent rates typically hover between twelve and fifteen percent. Conversely, in nations with 'opt-out' defaults—such as Austria, France, and Spain—citizens are presumed to be donors unless they submit a formal refusal; <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">in these societies, donation consent rates consistently exceed ninety-nine percent</span></span></span>, saving thousands of lives annually without spending a single euro on public advertising.</p><p><strong>Paragraph 4.</strong> Beyond healthcare, municipal authorities are utilizing behavioural nudges to achieve environmental objectives. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">In Copenhagen, municipal planners reduced street littering by forty-six percent simply by painting bright green footprints along sidewalks leading directly toward public trash bins</span>, visually guiding pedestrians' subconscious focus toward clean disposal. In the energy sector, utility providers in California dramatically reduced household electricity consumption by printing comparative social graphs on monthly bills. Rather than merely showing energy costs, bills displayed how an individual household's energy usage compared to the average of their most energy-efficient neighbours. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\"><span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">The innate human desire for social conformity proved far more effective at cutting power usage than financial rebates or moral public service announcements</span></span>.</p><p><strong>Paragraph 5.</strong> Despite these notable successes, nudge theory has attracted intense ethical criticism from civil libertarians and philosophers. <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Critics argue that governmental choice architecture is fundamentally undemocratic and manipulative, operating beneath the threshold of conscious citizen awareness. By exploiting cognitive vulnerabilities, state agencies can nudge populations into compliance without engaging in transparent democratic debate or passing explicit legislation.</span> Furthermore, <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">political scientists warn that nudges offer an alluring, low-cost distraction for politicians, allowing governments to introduce minor, symbolic tweaks—such as painting footprints or rewording tax letters—instead of undertaking the difficult, expensive structural reforms needed to solve deep-seated crises like poverty, systemic inequality, and climate change</span>. As algorithms and behavioral tracking increasingly merge into governance, defining the boundary between helpful guidance and psychological manipulation will be a decisive challenge of modern democracy.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–18",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below.<br>Write the correct letter, <b>A–J</b>, in boxes 14–18 on your answer sheet.</i><br><br><b>A.</b> reduction &nbsp;&nbsp; <b>B.</b> rational &nbsp;&nbsp; <b>C.</b> penalties &nbsp;&nbsp; <b>D.</b> conformity &nbsp;&nbsp; <b>E.</b> exceptionally<br><b>F.</b> rewards &nbsp;&nbsp; <b>G.</b> temporary &nbsp;&nbsp; <b>H.</b> unpredictable &nbsp;&nbsp; <b>I.</b> emotional &nbsp;&nbsp; <b>J.</b> financial",
+      "summaryTitle": "The Principles and Applications of Nudge Theory",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ],
+      "template": "<p>Traditional economic theories assumed that people always acted in a <b>14.</b> {{q14}} manner when making important choices. However, behavioural economics has revealed that human decisions are often flawed by mental fatigue and cognitive bias.</p><p>To help citizens make better choices, Richard Thaler and Cass Sunstein introduced the concept of choice architecture, which alters how options are presented without imposing legal <b>15.</b> {{q15}} .</p><p>The most effective method is changing the default choice. In several European nations, setting organ donation as the automatic choice caused participation to reach an <b>16.</b> {{q16}} high level.</p><p>Nudges have also been deployed to protect the environment. In Copenhagen, painting visual markers on paths created a notable <b>17.</b> {{q17}} in urban litter.</p><p>In California, power companies successfully lowered electricity usage by appealing to customers' desire for social <b>18.</b> {{q18}} by comparing them with efficient households.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 19–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 215?<br>In boxes 19–23 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the claims of the writer<br><b>NO</b> – if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "B",
+      "inputWidth": "75px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Standard economic models assumed that... individuals logically weigh all available information... perfectly rational human actor.\"</i> → rational.",
+          "<b>Kết luận:</b> Chọn <b>B (rational)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "C",
+      "inputWidth": "75px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"A classic nudge does not mandate compliance via legal sanctions or heavy taxes...\"</i> → sanctions = penalties.",
+          "<b>Kết luận:</b> Chọn <b>C (penalties)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "E",
+      "inputWidth": "75px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...in nations with 'opt-out' defaults... consent rates consistently exceed ninety-nine percent...\"</i> → Trên 99% = exceptionally high.",
+          "<b>Kết luận:</b> Chọn <b>E (exceptionally)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "A",
+      "inputWidth": "75px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...reduced street littering by forty-six percent...\"</i> → reduction.",
+          "<b>Kết luận:</b> Chọn <b>A (reduction)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "D",
+      "inputWidth": "75px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"The innate human desire for social conformity proved far more effective...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D (conformity)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Traditional economic models acknowledged that people often prefer instant gratification over long-term benefits.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Thuyết kinh tế truyền thống KHÔNG thừa nhận điều này, kinh tế học hành vi mới chỉ ra.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Under nudge theory, individuals are strictly prohibited from selecting options that are unhealthy.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"people remain entirely free to choose alternative options if they actively desire to do so.\"</i> → Trực tiếp mâu thuẫn với strictly prohibited.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Austria and Germany maintain identical consent systems for their national organ donation registers.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Đức dùng opt-in; Áo dùng opt-out default → Hai hệ thống hoàn toàn trái ngược nhau.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Showing consumers how their power usage compares to their neighbours' was more effective than offering financial rewards.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"The innate human desire for social conformity proved far more effective at cutting power usage than financial rebates...\"</i> → rebates = financial rewards.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Critics argue that relying on nudges may prevent governments from addressing deeper social issues.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...allowing governments to introduce minor, symbolic tweaks... instead of undertaking the difficult, expensive structural reforms needed to solve deep-seated crises...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "What is the core idea of 'libertarian paternalism' mentioned in the second paragraph?",
+      "options": [
+        "A. Governments should heavily penalize citizens who engage in reckless behavior.",
+        "B. People are guided toward beneficial actions while retaining complete freedom of choice.",
+        "C. Public decisions should be made exclusively by elected legal scholars.",
+        "D. Financial incentives should be the primary method for modifying public habits."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"alters the environment to make the healthier... choice the easiest... people remain entirely free to choose alternative options...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "What was the primary difference between organ donation rates in Germany and Austria?",
+      "options": [
+        "A. Austria spent more money on television advertising campaigns than Germany.",
+        "B. German citizens were legally forbidden from becoming donors if they were elderly.",
+        "C. Austria used an opt-out default system while Germany used an opt-in system.",
+        "D. Austrian hospitals offered significant tax reductions to registered donors."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...Germany: opt-in systems... consent rates 12-15%... Austria: opt-out defaults... exceed 99%...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "What concern do critics express about nudge theory in the final paragraph?",
+      "options": [
+        "A. It is too expensive for municipal budgets to maintain over long periods.",
+        "B. It completely fails to alter human behavior in urban environments.",
+        "C. It allows state authorities to manipulate public behavior without open public debate.",
+        "D. It cannot be applied to environmental problems or energy conservation."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...undemocratic and manipulative, operating beneath the threshold of conscious citizen awareness... without engaging in transparent democratic debate...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}
