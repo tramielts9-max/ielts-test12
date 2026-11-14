@@ -1,0 +1,218 @@
+{
+  "title": "Bài sưu tầm 108 - Passage 1: The Antikythera Mechanism",
+  "answers": {
+    "q1": "shelter",
+    "q2": "block",
+    "q3": "astrolabe",
+    "q4": "crank",
+    "q5": [
+      "colour",
+      "color"
+    ],
+    "q6": "games",
+    "q7": "tomography",
+    "q8": "FALSE",
+    "q9": "FALSE",
+    "q10": "FALSE",
+    "q11": "TRUE",
+    "q12": "FALSE",
+    "q13": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 108</h2><h3>The Antikythera Mechanism</h3><p><strong>Paragraph 1.</strong> In the spring of 1900, a crew of Greek sponge divers returning from North Africa encountered a severe Mediterranean storm and <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">dropped anchor to seek <span class=\"kw\">shelter</span> off the barren rocky coast of Antikythera</span>, a small island situated between Crete and the Peloponnese. Once the gale subsided, diver Elias Stadiatis plunged forty-five metres beneath the surface to explore the uncharted seabed. Instead of a bed of sponges, he <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">resurfaced in a state of terror, babbling about a seabed strewn with corpses and decaying bronze monsters</span>. He had stumbled upon the remnants of an immense ancient Roman galley that had foundered during the first century BCE, its hull packed with luxury Greek statuary, glass vessels, and ornamental ceramics intended for the Italian aristocracy.</p><p><strong>Paragraph 2.</strong> Over the next twelve months, Greek naval vessels and civilian divers conducted one of history's first major underwater archaeological salvage operations. Among the crates of recovered marble figures and bronze sculptures unloaded at the National Archaeological Museum in Athens was an unremarkable, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">calcified green <span class=\"kw\">block</span> of bronze and petrified timber</span> that had been retrieved from the bilge mud. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">For months, this corroded mass sat neglected in the museum courtyard. However, in May 1902, the block dried out and split open. Archaeologist Valerios Stais noticed a gear wheel</span> with miniature, precisely machined triangular teeth embedded deep inside the matrix.</p><p><strong>Paragraph 3.</strong> The discovery immediately ignited scientific controversy. In the early twentieth century, conventional historical doctrine held that complex differential clockwork had originated in medieval Western Europe no earlier than the fourteenth century CE. Many historians dismissed Stais's claims, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">arguing that the gear was an intrusive artifact, perhaps a modern celestial <span class=\"kw\">astrolabe</span></span> dropped accidentally by a passing fishing vessel centuries after the Roman shipwreck.</p><p><strong>Paragraph 4.</strong> The true nature of the artifact, now termed the Antikythera Mechanism, remained an enigma until the 1970s, when British physicist Derek de Solla Price performed the first radiological imaging on the calcified fragments. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Price revealed that the machine was not an astrolabe, but a sophisticated astronomical computer containing at least thirty distinct gear wheels</span> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">driven by a single manual <span class=\"kw\">crank</span></span>. By rotating this drive mechanism, the operator could compute and display the future positions of the Sun, the Moon, and <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">the five planets known in classical antiquity (Mercury, Venus, Mars, Jupiter, and Saturn)</span> on a set of dials on the front casing.</p><p><strong>Paragraph 5.</strong> In 2005, an international scientific collaboration <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">brought an eight-tonne microfocus X-ray <span class=\"kw\">tomography</span> scanner to Athens</span> to peer through the corroded bronze with unprecedented resolution. The three-dimensional imaging decoded thousands of microscopic Greek inscriptions etched onto the inner plates, confirming the presence of complex cyclical dials on the rear casing. One prominent dial tracked the nineteen-year Metonic cycle used to synchronise solar and lunar calendars. Another calibrated the Saros cycle—an eighteen-year astronomical sequence capable of forecasting future eclipses, complete with glyphs <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">predicting the exact hour, direction, and even the atmospheric <span class=\"kw\">colour</span> of the obscured lunar disc</span>. A subsidiary dial tracked the four-year Olympiad cycle, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">establishing the dates for the Panhellenic athletic <span class=\"kw\">games</span></span> across ancient Greece.</p><p><strong>Paragraph 6.</strong> Historical texts had long hinted at such mechanical wonders, <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">with the Roman orator Cicero describing a bronze planetarium constructed by Archimedes in the third century BCE</span>. The Antikythera Mechanism proved that classical Hellenistic engineering had achieved an astonishing level of mechanical sophistication, <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">which subsequently vanished entirely during the collapse of the Roman Empire, leaving no technological equal for well over a millennium</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The Antikythera Mechanism",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Discovery and Initial Analysis</b></p><ul><li style=\"margin-bottom:10px;\">The shipwreck was discovered by sponge divers seeking <b>1.</b> {{q1}} during severe weather.</li><li style=\"margin-bottom:10px;\">The device initially went unnoticed because it looked like a corroded <b>2.</b> {{q2}} of metal and wood.</li><li style=\"margin-bottom:10px;\">Sceptics argued that the gears must have come from an <b>3.</b> {{q3}} lost by a later ship.</li></ul><p><b>Mechanical Structure and Functions</b></p><ul><li style=\"margin-bottom:10px;\">The device was set into motion by the user turning a single <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">A dial on the back casing enabled the user to predict the time and the <b>5.</b> {{q5}} of lunar eclipses.</li><li style=\"margin-bottom:10px;\">A secondary display showed the timing of athletic <b>6.</b> {{q6}} scheduled across ancient Greece.</li><li style=\"margin-bottom:10px;\">High-tech X-ray <b>7.</b> {{q7}} enabled researchers to read tiny Greek inscriptions buried inside the machine.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 108?<br>In boxes 8–13 on your answer sheet, write:<br><b>TRUE</b> – if the statement agrees with the information<br><b>FALSE</b> – if the statement contradicts the information<br><b>NOT GIVEN</b> – if there is no information on this</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "shelter",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...dropped anchor to seek shelter off the barren rocky coast...\"</i> | Distractors: sponges, gale.",
+          "<b>Từ cần điền:</b> <b>shelter</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "block",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...calcified green block of bronze and petrified timber...\"</i> | Distractors: mass, matrix.",
+          "<b>Từ cần điền:</b> <b>block</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "astrolabe",
+      "inputWidth": "120px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...arguing that the gear was an intrusive artifact, perhaps a modern celestial astrolabe...\"</i> | Distractors: artifact, clockwork.",
+          "<b>Từ cần điền:</b> <b>astrolabe</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "crank",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...driven by a single manual crank.\"</i> | Distractors: drive, casing.",
+          "<b>Từ cần điền:</b> <b>crank</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": [
+        "colour",
+        "color"
+      ],
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...predicting the exact hour, direction, and even the atmospheric colour of the obscured lunar disc.\"</i> | Distractors: direction, hour.",
+          "<b>Từ cần điền:</b> <b>colour</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "games",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...establishing the dates for the Panhellenic athletic games...\"</i> | Distractors: dates, cycles.",
+          "<b>Từ cần điền:</b> <b>games</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "tomography",
+      "inputWidth": "130px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...brought an eight-tonne microfocus X-ray tomography scanner to Athens...\"</i> | Distractors: imaging, resolution.",
+          "<b>Từ cần điền:</b> <b>tomography</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Elias Stadiatis was aware that he had discovered an ancient shipwreck as soon as he saw it.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...resurfaced in a state of terror, babbling about a seabed strewn with corpses and decaying bronze monsters.\"</i> → Hoảng sợ tưởng thấy xác chết và quái vật, không nhận ra là xác tàu cổ.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Archaeologist Valerios Stais identified the gear wheel on the day the artifacts arrived in Athens.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Khối đồng bị bỏ quên nhiều tháng ở sân bảo tàng, mãi đến tháng 5 năm 1902 khi nó nứt ra thì Stais mới thấy bánh răng.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "The Antikythera Mechanism showed the orbits of all the planets recognized by modern science today.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...the five planets known in classical antiquity...\"</i> → Chỉ 5 hành tinh cổ đại, không phải tất cả hành tinh khoa học hiện đại biết.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Derek de Solla Price used radiological scanning to determine that the machine was not a medieval device.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Price revealed that the machine was not an astrolabe, but a sophisticated astronomical computer containing at least thirty distinct gear wheels...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Inscriptions on the mechanism proved that it had been manufactured by the mathematician Archimedes.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Cicero kể về cỗ máy của Archimedes thế kỷ 3 TCN, nhưng không có dòng chữ nào khẳng định cỗ máy Antikythera do chính Archimedes làm ra.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Mechanical technology of comparable complexity did not appear in Europe for over one thousand years.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...which subsequently vanished entirely during the collapse of the Roman Empire, leaving no technological equal for well over a millennium.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

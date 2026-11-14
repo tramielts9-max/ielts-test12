@@ -1,0 +1,219 @@
+{
+  "title": "Bài sưu tầm 118 - Passage 1: The Ancient Stepwells of Western India",
+  "answers": {
+    "q1": "aquifers",
+    "q2": "steps",
+    "q3": "queen",
+    "q4": "sculptures",
+    "q5": "heat",
+    "q6": "illnesses",
+    "q7": "rainwater",
+    "q8": "FALSE",
+    "q9": "NOT GIVEN",
+    "q10": "TRUE",
+    "q11": "FALSE",
+    "q12": "TRUE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 118</h2><h3>The Ancient Stepwells of Western India</h3><p><strong>Paragraph 1.</strong> Across the arid plains of northwestern India, predominantly in the states of Gujarat and Rajasthan, lies an extraordinary architectural heritage designed to conquer seasonal water scarcity: the subterranean stepwell. Known locally as <em>baolis</em>, <em>vavs</em>, or <em>kunds</em>, these monumental stone structures are virtually unique to the Indian subcontinent. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Unlike conventional vertical wells, where water is drawn upward using ropes and buckets from an exposed surface aperture</span>, a stepwell is an inverted architectural pavilion—an immense, multi-storey trench or subterranean funnel that descends through successive tiers of carved stone galleries to access fluctuating underground water tables.</p><p><strong>Paragraph 2.</strong> The origin of these complex subterranean monuments was dictated by the harsh extremes of the South Asian climate. Northwestern India is subject to a violent meteorological cycle: for nine months of the year, the region endures blistering heat and relentless drought, only to be inundated by torrential monsoon rains concentrated into a frantic window of just a few weeks. The porous, sandy soil of the arid plains absorbs rainwater rapidly, causing ephemeral surface streams to evaporate within days. To secure civic hydration throughout the long dry season, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">ancient civilisations excavated deep trenches to reach subterranean <span class=\"kw\">aquifers</span></span>. As the water table surged during the monsoon, the lower subterranean stone platforms were submerged; during the scorching summer, as the water level dropped, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">villagers descended hundreds of stone <span class=\"kw\">steps</span> to collect water from the receding depths</span>.</p><p><strong>Paragraph 3.</strong> Between the seventh and sixteenth centuries CE, stepwell construction evolved from utilitarian earthen trenches into breathtaking works of imperial monumental architecture. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Commissioned by reigning monarchs, wealthy merchant guilds, and particularly royal women seeking spiritual merit</span>, stepwells became subterranean stone palaces. The most spectacular surviving example is Rani ki Vav (The Queen’s Stepwell) in Patan, Gujarat, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">commissioned in 1063 CE by <span class=\"kw\">Queen</span> Udayamati as a memorial to her deceased husband, King Bhima I</span>. Descending over thirty metres into the earth across seven distinct terraced tiers, Rani ki Vav is supported by hundreds of elaborately carved pillars and <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">decorated with more than eight hundred major figurative <span class=\"kw\">sculptures</span> depicting deities</span>, celestial dancers, and geometric patterns.</p><p><strong>Paragraph 4.</strong> Beyond their practical hydraulic function, stepwells fulfilled a profound civic and social role in community life. Because <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">drawing household water was traditionally an exclusively female domestic duty</span>, the stepwell’s shaded galleries served as a daily gathering forum where village women socialised, exchanged news, and conducted religious rites free from male supervision. Furthermore, the stepwell acted as an ancient form of natural air conditioning: the deep subterranean stone mass, combined with the cooling evaporation from the central pool, created a stable microclimate where <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">temperatures were regularly six to ten degrees cooler than the blistering surface <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">heat</span></span></span>. Weary merchants and pilgrim caravans traversing desert trade routes routinely rested in these cool subterranean colonnades during the blazing midday hours.</p><p><strong>Paragraph 5.</strong> The demise of the stepwell began in the nineteenth century under the British Raj. Accustomed to European sanitary concepts, British colonial authorities viewed stepwells as unhygienic cesspools. Because villagers physically walked down into the standing water to submerge their brass pots, the pools <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">frequently acted as breeding grounds for parasitic <span class=\"kw\">illnesses</span></span>, particularly guinea worm disease and cholera. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">To eradicate these water-borne epidemics, colonial administrators installed mechanical iron hand-pumps and piped municipal systems, ordering many ancient stepwells filled with rubble or sealed behind brick walls</span>. Deprived of their traditional communal role, the remaining structures fell into disuse, their channels clogged by windblown silt and garbage. In recent years, however, <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">catastrophic modern aquifer depletion has prompted Indian conservationists to clear the silt from historic stepwells</span>, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">reviving their ancient engineering as sustainable <span class=\"kw\">rainwater</span> harvesting reservoirs</span> for the twenty-first century.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The Stepwells of Gujarat and Rajasthan",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Climate and engineering</b></p><ul><li style=\"margin-bottom: 10px;\">Stepwells were excavated down to deep underground <b>1.</b> {{q1}} to secure water during dry periods.</li><li style=\"margin-bottom: 10px;\">In summer months, people walked down flights of stone <b>2.</b> {{q2}} to fetch water.</li><li style=\"margin-bottom: 10px;\">The famous monument Rani ki Vav was ordered to be built by an eleventh-century <b>3.</b> {{q3}} .</li><li style=\"margin-bottom: 10px;\">The walls of Rani ki Vav display hundreds of stone <b>4.</b> {{q4}} of divine figures.</li></ul><p><b>Community functions and colonial period</b></p><ul><li style=\"margin-bottom: 10px;\">Subterranean chambers offered an escape from the intense surface <b>5.</b> {{q5}} .</li><li style=\"margin-bottom: 10px;\">British colonial administrators believed the standing water was a source of water-borne <b>6.</b> {{q6}} .</li><li style=\"margin-bottom: 10px;\">Historic stepwells are currently being restored to capture seasonal <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 118?<br>In boxes 8–13 on your answer sheet, write:<br><b>TRUE</b> – if the statement agrees with the information<br><b>FALSE</b> – if the statement contradicts the information<br><b>NOT GIVEN</b> – if there is no information on this</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "aquifers",
+      "inputWidth": "120px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...ancient civilisations excavated deep trenches to reach subterranean aquifers.\"</i>",
+          "<b>Distractors:</b> streams, platforms.",
+          "<b>Đáp án:</b> <b>aquifers</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "steps",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...villagers descended hundreds of stone steps to collect water...\"</i>",
+          "<b>Distractors:</b> platforms, depths.",
+          "<b>Đáp án:</b> <b>steps</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "queen",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...commissioned in 1063 CE by Queen Udayamati as a memorial...\"</i>",
+          "<b>Distractors:</b> monarchs, dancers.",
+          "<b>Đáp án:</b> <b>queen</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "sculptures",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...decorated with more than eight hundred major figurative sculptures depicting deities...\"</i>",
+          "<b>Distractors:</b> pillars, patterns.",
+          "<b>Đáp án:</b> <b>sculptures</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "heat",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...temperatures were regularly six to ten degrees cooler than the blistering surface heat.\"</i>",
+          "<b>Distractors:</b> pool, colonnades.",
+          "<b>Đáp án:</b> <b>heat</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "illnesses",
+      "inputWidth": "120px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...frequently acted as breeding grounds for parasitic illnesses...\"</i>",
+          "<b>Distractors:</b> epidemics, pumps.",
+          "<b>Đáp án:</b> <b>illnesses</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "rainwater",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...reviving their ancient engineering as sustainable rainwater harvesting reservoirs...\"</i>",
+          "<b>Distractors:</b> silt, garbage.",
+          "<b>Đáp án:</b> <b>rainwater</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Conventional vertical wells require users to descend stone steps to retrieve water.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Giếng truyền thống dùng dây và xô kéo nước từ trên miệng giếng (<i>drawn upward using ropes and buckets</i>), không cần phải bước xuống bậc thang.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Most stepwells in northwestern India were financed using taxes collected from foreign traders.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Có nhắc đến các vị vua, phụ nữ hoàng gia và thương hội xây dựng giếng, nhưng không hề đề cập nguồn tiền có lấy từ thuế thu của thương nhân nước ngoài hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Drawing water from stepwells was a domestic task primarily performed by women.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...drawing household water was traditionally an exclusively female domestic duty...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Temperatures at the bottom of a stepwell were consistently identical to temperatures at the surface.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...temperatures were regularly six to ten degrees cooler than the blistering surface heat.\"</i> → Mâu thuẫn trực tiếp với <i>consistently identical</i>.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "British colonial authorities sealed some stepwells to halt the spread of parasitic diseases.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"To eradicate these water-borne epidemics, colonial administrators... ordering many ancient stepwells filled with rubble or sealed behind brick walls.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Modern water conservation projects in India have completely resolved the issue of aquifer depletion.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nêu việc nạo vét các giếng cổ để làm bể trữ nước mưa, hoàn toàn không khẳng định vấn đề cạn kiệt tầng nước ngầm đã được giải quyết dứt điểm.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

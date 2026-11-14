@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 109 - Passage 1: The Saffron Crocus: The Golden Spice",
+  "answers": {
+    "q1": "corms",
+    "q2": "sunrise",
+    "q3": "blossoms",
+    "q4": "frescoes",
+    "q5": "baths",
+    "q6": "laws",
+    "q7": "rainfall",
+    "q8": "FALSE",
+    "q9": "FALSE",
+    "q10": "TRUE",
+    "q11": "FALSE",
+    "q12": "FALSE",
+    "q13": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 109</h2><h3>The Saffron Crocus: The Golden Spice</h3><p><strong>Paragraph 1.</strong> Derived from the delicate crimson stigmas of <em>Crocus sativus</em>, saffron has long been celebrated as the world's most costly agricultural commodity by weight. Known historically as 'vegetable gold', this extraordinary spice has profoundly influenced culinary arts, pharmacopeia, and royal ceremonies across three continents for over three thousand years. Unlike its wild ancestors, the cultivated saffron crocus is a triploid sterile cultigen; <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">it is incapable of reproducing sexually through seed production or spreading independently in natural landscapes. Instead, its survival depends entirely upon human intervention</span>, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">propagated artificially through the labor-intensive division and transplantation of subterranean <span class=\"kw\">corms</span></span>—the compressed, bulb-like storage organs that survive seasonal dormancy.</p><p><strong>Paragraph 2.</strong> The astronomical price of saffron stems directly from its brutal harvesting constraints. Each lilac crocus blossom produces exactly three slender stigmas, which must be plucked with surgical precision from the centre of the open flower. The entire harvesting window is concentrated into an intense two-to-three-week period in late autumn. Crucially, the flowers open at dawn and begin to wilt rapidly as atmospheric temperatures rise. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Field workers must therefore harvest every blooming flower by hand before <span class=\"kw\">sunrise</span></span>; if harvesting is delayed until midday, direct solar heat breaks down the volatile chemical compounds, degrading the spice’s essential oils and commercial grade. To yield a single kilogram of dried saffron, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">pickers must meticulously harvest between 150,000 and 200,000 <span class=\"kw\">blossoms</span></span>, requiring roughly forty hours of backbreaking manual labor.</p><p><strong>Paragraph 3.</strong> Archaeological records demonstrate that saffron cultivation was pioneered during the Aegean Bronze Age. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Spectacular multi-coloured <span class=\"kw\">frescoes</span> unearthed at the prehistoric settlement of Akrotiri, on the volcanic island of Santorini</span>, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">illustrate young women gathering saffron blossoms into woven reed baskets</span>, likely for presentation to an enthroned nature goddess or for use in seasonal maturation rituals. In classical Rome, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">the aromatic essence of saffron was used as perfume in public <span class=\"kw\">baths</span></span> and strewn across stone amphitheatres to mask the reek of gladiatorial slaughter, while patrician brides wore veils dyed a radiant saffron yellow to symbolise fertility and marital devotion.</p><p><strong>Paragraph 4.</strong> Throughout the medieval era, saffron’s value routinely surpassed that of pure gold, turning European trade hubs into battlegrounds against fraud. Because the shredded stigmas could be easily imitated by unscrupulous merchants, adulteration was pervasive. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Fraudulent dealers routinely saturated saffron with honey or oil to artificially increase shipment weight</span>, or bulked out batches with shredded marigold petals, safflower filaments, and shredded silk. In response, European city-states enacted drastic regulatory countermeasures. In Nuremberg, Germany, municipal authorities established the Safranschau—a dedicated inspection tribunal with the legal power to seize and chemically evaluate every batch entering the gates. Merchants convicted of altering saffron were subjected to barbaric <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">punishments under local <span class=\"kw\">laws</span></span>; <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">historical records document traders being burned at the stake or buried alive alongside their adulterated spice crates</span>.</p><p><strong>Paragraph 5.</strong> In the modern era, <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">technological advancements have done little to reduce the necessity of manual harvest</span>. Iran now dominates the international saffron sector, generating upwards of eighty-five percent of the global supply across its arid northeastern provinces. The distinct sensory profile of saffron is governed by three primary phytochemicals: <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">crocin, which imparts its brilliant golden-yellow hue to liquids; picrocrocin, which generates its characteristically bitter, earthy undertone; and safranal, the volatile compound responsible for its hay-like aroma</span>. However, climatologists <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">warn that changing <span class=\"kw\">rainfall</span> dynamics</span> and severe unseasonal frosts now threaten traditional corm planting schedules, placing the future of this ancient crop in jeopardy.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "Cultivation and History of Saffron",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Botany and harvesting</b></p><ul><li style=\"margin-bottom:10px;\">Saffron plants cannot produce seeds and must be propagated by separating their <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:10px;\">Harvesters must gather flowers before <b>2.</b> {{q2}} to prevent heat from damaging the chemical compounds.</li><li style=\"margin-bottom:10px;\">Producing one kilogram of dried spice requires tens of thousands of delicate <b>3.</b> {{q3}} .</li></ul><p><b>Historical roles and regulation</b></p><ul><li style=\"margin-bottom:10px;\">Ancient wall <b>4.</b> {{q4}} discovered in Santorini illustrate girls collecting crocuses.</li><li style=\"margin-bottom:10px;\">In ancient Rome, citizens burned or scattered saffron to scent public <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:10px;\">During the Middle Ages, merchants faced execution under local <b>6.</b> {{q6}} if caught tampering with saffron.</li><li style=\"margin-bottom:10px;\">Modern production is concentrated in Iran, where erratic <b>7.</b> {{q7}} threatens seasonal planting.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 109?<br>In boxes 8–13 on your answer sheet, write:<br><b>TRUE</b> – if the statement agrees with the information<br><b>FALSE</b> – if the statement contradicts the information<br><b>NOT GIVEN</b> – if there is no information on this</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "corms",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...propagated artificially through the labor-intensive division and transplantation of subterranean corms...\"</i> | Distractors: seeds, organs.",
+          "<b>Từ cần điền:</b> <b>corms</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "sunrise",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Field workers must therefore harvest every blooming flower by hand before sunrise...\"</i> | Distractors: dawn, midday.",
+          "<b>Từ cần điền:</b> <b>sunrise</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "blossoms",
+      "inputWidth": "115px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...pickers must meticulously harvest between 150,000 and 200,000 blossoms...\"</i> | Distractors: stigmas, flowers.",
+          "<b>Từ cần điền:</b> <b>blossoms</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "frescoes",
+      "inputWidth": "115px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Spectacular multi-coloured frescoes unearthed at the prehistoric settlement of Akrotiri...\"</i> | Distractors: baskets, rituals.",
+          "<b>Từ cần điền:</b> <b>frescoes</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "baths",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...the aromatic essence of saffron was used as perfume in public baths...\"</i> | Distractors: amphitheatres, veils.",
+          "<b>Từ cần điền:</b> <b>baths</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "laws",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...punishments under local laws; historical records document traders being burned at the stake...\"</i> | Distractors: tribunals, gates.",
+          "<b>Từ cần điền:</b> <b>laws</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "rainfall",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...warn that changing rainfall dynamics and severe unseasonal frosts now threaten...\"</i> | Distractor: frosts.",
+          "<b>Từ cần điền:</b> <b>rainfall</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Cultivated saffron crocuses can thrive in the wild without human assistance.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...it is incapable of reproducing sexually through seed production or spreading independently in natural landscapes. Instead, its survival depends entirely upon human intervention...\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Frescoes at Akrotiri depict older men overseeing the harvesting of saffron.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...illustrate young women gathering saffron blossoms...\"</i> → Tranh vẽ phụ nữ trẻ hái hoa, không có đàn ông lớn tuổi giám sát.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Medieval merchants sometimes coated saffron in sweet substances to make it heavier.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Fraudulent dealers routinely saturated saffron with honey [sweet substance] or oil to artificially increase shipment weight...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "The Nuremberg Safranschau allowed merchants to pay financial fines if their saffron was adulterated.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...traders being burned at the stake or buried alive alongside their adulterated spice crates.\"</i> → Bị thiêu sống hoặc chôn sống, không được phép nộp tiền phạt.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Modern machinery has replaced the need for human hand-picking in Iranian saffron fields.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"In the modern era, technological advancements have done little to reduce the necessity of manual harvest.\"</i> → Máy móc chưa thể thay thế bàn tay con người.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Crocin is the chemical compound responsible for the unique smell of saffron.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Crocin tạo màu (<i>brilliant golden-yellow hue</i>), còn safranal mới là hợp chất tạo mùi (<i>responsible for its hay-like aroma</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}
