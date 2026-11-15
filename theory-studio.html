@@ -236,6 +236,11 @@
       font-weight: 900; padding: 1px 5px; border-radius: 5px; text-transform: uppercase;
     }
 
+    .badge-node-tag {
+      background: #F3E8FF; color: #7E22CE; border: 1px solid #D8B4FE; font-size: 9.5px;
+      font-weight: 900; padding: 1px 5px; border-radius: 5px; font-family: monospace;
+    }
+
     /* NÚT THAO TÁC ADMIN */
     .admin-item-actions { display: none; align-items: center; gap: 4px; flex-shrink: 0; }
     .is-admin-mode .admin-item-actions { display: flex; }
@@ -299,11 +304,11 @@
     </div>
   </div>
 
-  <!-- ADMIN DRAWER (THÊM & SỬA BÀI HỌC) -->
+  <!-- ADMIN DRAWER (THÊM & SỬA BÀI HỌC KÈM GÁN MÃ ĐỐT LỘ TRÌNH VÀ 5 BÀI TẬP) -->
   <div id="adminVideoDrawer" class="admin-drawer">
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; flex-wrap: wrap; gap: 8px;">
       <b style="color: #92400E; font-size: 14px;" id="adminDrawerHeaderTitle">
-        <i class="fa-solid fa-plus-circle"></i> THÊM BÀI GIẢNG MỚI (TỰ ĐỘNG LỌC ID YOUTUBE)
+        <i class="fa-solid fa-plus-circle"></i> THÊM BÀI GIẢNG MỚI (TỰ ĐỘNG HÒA MẠNG LỘ TRÌNH)
       </b>
       <div style="display: flex; gap: 6px;">
         <button type="button" class="btn-3d btn-3d-white" id="btnCancelEdit" onclick="cancelAdminEdit()" style="display: none; padding: 5px 10px; font-size: 11.5px;">
@@ -317,6 +322,7 @@
 
     <input type="hidden" id="adminInputEditId" value="">
 
+    <!-- CỤM 1: THIẾT LẬP KỸ NĂNG & DẠNG BÀI -->
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 8px;">
       <div>
         <label style="font-size: 11.5px; font-weight: 800; color: #475569;">Phân hệ kỹ năng:</label>
@@ -355,6 +361,31 @@
       </div>
     </div>
 
+    <!-- CỤM 2: GẮN MÃ ĐỐT VÀO LỘ TRÌNH & CHỈ TIÊU 5 BÀI TẬP -->
+    <div style="background: #FEF3C7; border: 1.5px dashed #F59E0B; border-radius: 12px; padding: 10px; margin-bottom: 8px; display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 8px;">
+      <div>
+        <label style="font-size: 11.5px; font-weight: 900; color: #92400E;">🏷️ Mã Đốt Lộ Trình (Node ID):</label>
+        <input type="text" id="adminInputRoadmapNodeId" class="duo-input" placeholder="Ví dụ: S3_TH_READ_01 (để trống tự sinh)" style="margin: 0; background: #FFF;">
+      </div>
+      <div>
+        <label style="font-size: 11.5px; font-weight: 900; color: #92400E;">🎯 Chặng Lộ Trình (Stage):</label>
+        <select id="adminSelectStage" class="duo-input" style="margin: 0; background: #FFF;">
+          <option value="S3" selected>Stage 3: IELTS Skills (5.5 - 6.5)</option>
+          <option value="S4">Stage 4: Advanced Mastery (6.5 - 7.5+)</option>
+          <option value="S1">Stage 1: Foundation (0.0 - 4.0)</option>
+          <option value="S2">Stage 2: Pre-IELTS (4.0 - 5.5)</option>
+        </select>
+      </div>
+      <div>
+        <label style="font-size: 11.5px; font-weight: 900; color: #92400E;">📋 Thẻ bốc bài tập thực hành:</label>
+        <input type="text" id="adminInputTargetTag" class="duo-input" placeholder="Ví dụ: TFNG, GAP FILL, MCQ..." style="margin: 0; background: #FFF;">
+      </div>
+      <div>
+        <label style="font-size: 11.5px; font-weight: 900; color: #92400E;">🔢 Số bài tập đi kèm:</label>
+        <input type="number" id="adminInputTargetCount" class="duo-input" value="5" min="1" max="10" style="margin: 0; background: #FFF;">
+      </div>
+    </div>
+
     <div>
       <label style="font-size: 11.5px; font-weight: 800; color: #475569;">Tiêu đề bài học:</label>
       <input type="text" id="adminInputTitle" class="duo-input" placeholder="Ví dụ: GIẢI QUYẾT DẠNG TRUE/FALSE/NOT GIVEN...">
@@ -379,7 +410,7 @@
 
     <div style="display: flex; gap: 8px;">
       <button type="button" class="btn-3d btn-3d-red" id="btnAdminSubmit" onclick="saveAdminVideo()" style="padding: 8px 16px; font-size: 12px;">
-        💾 Lưu Bài Giảng Ngay
+        💾 Lưu Bài Giảng & Cập Nhật Lộ Trình
       </button>
       <span id="adminSaveStatus" style="font-size: 12px; font-weight: 800; color: #16A34A; align-self: center;"></span>
     </div>
@@ -688,6 +719,7 @@
       const isDraft = v.isPublished === false;
       const thumbUrl = theoryVideoEngine.getThumbnailUrl(v.youtubeId);
       const isChecked = selectedBatchIds.has(v.id);
+      const rNodeId = v.roadmapNodeId || '';
 
       html += `
         <div class="playlist-item ${isActive ? 'active' : ''} ${isDraft ? 'is-draft' : ''}" 
@@ -708,10 +740,11 @@
           <img src="${thumbUrl}" class="playlist-thumb" alt="thumbnail" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' width=\\'58\\' height=\\'36\\' fill=\\'%23CBD5E1\\'><rect width=\\'100%\\' height=\\'100%\\'/></svg>'">
 
           <div style="flex: 1; min-width: 0;">
-            <div style="display: flex; align-items: center; gap: 5px; margin-bottom: 2px;">
+            <div style="display: flex; align-items: center; gap: 5px; margin-bottom: 2px; flex-wrap: wrap;">
               <span style="font-size: 9.5px; font-weight: 900; background: rgba(0,0,0,0.06); padding: 1px 5px; border-radius: 5px; text-transform: uppercase;">
                 ${v.category || 'CHUNG'}
               </span>
+              ${rNodeId ? `<span class="badge-node-tag" title="Mã Đốt Lộ Trình: ${rNodeId}">${rNodeId}</span>` : ''}
               <span style="font-size: 10.5px; font-weight: 700; color: #64748B;">⏱️ ${v.duration || 'N/A'}</span>
               ${isDraft ? `<span class="badge-draft-tag">BẢN NHÁP</span>` : ''}
             </div>
@@ -1060,6 +1093,20 @@
     document.getElementById('adminInputDesc').value = v.description || '';
     document.getElementById('adminInputIsPublished').checked = v.isPublished !== false;
 
+    // NẠP THÊM 4 THÔNG SỐ LỘ TRÌNH ĐỂ CHỈNH SỬA
+    if (document.getElementById('adminInputRoadmapNodeId')) {
+      document.getElementById('adminInputRoadmapNodeId').value = v.roadmapNodeId || '';
+    }
+    if (document.getElementById('adminSelectStage')) {
+      document.getElementById('adminSelectStage').value = v.stage || 'S3';
+    }
+    if (document.getElementById('adminInputTargetTag')) {
+      document.getElementById('adminInputTargetTag').value = v.targetExerciseTag || '';
+    }
+    if (document.getElementById('adminInputTargetCount')) {
+      document.getElementById('adminInputTargetCount').value = v.targetExerciseCount || 5;
+    }
+
     document.getElementById('adminDrawerHeaderTitle').innerHTML = `<i class="fa-solid fa-pen-to-square"></i> ĐANG CHỈNH SỬA: [${v.title}]`;
     document.getElementById('btnAdminSubmit').innerText = "💾 Cập Nhật Bài Giảng";
     document.getElementById('btnCancelEdit').style.display = "inline-flex";
@@ -1079,8 +1126,14 @@
     document.getElementById('adminInputDesc').value = '';
     document.getElementById('adminInputIsPublished').checked = true;
 
-    document.getElementById('adminDrawerHeaderTitle').innerHTML = `<i class="fa-solid fa-plus-circle"></i> THÊM BÀI GIẢNG MỚI (TỰ ĐỘNG LỌC ID YOUTUBE)`;
-    document.getElementById('btnAdminSubmit').innerText = "💾 Lưu Bài Giảng Ngay";
+    // XÓA TRẮNG 4 Ô LỘ TRÌNH
+    if (document.getElementById('adminInputRoadmapNodeId')) document.getElementById('adminInputRoadmapNodeId').value = '';
+    if (document.getElementById('adminSelectStage')) document.getElementById('adminSelectStage').value = 'S3';
+    if (document.getElementById('adminInputTargetTag')) document.getElementById('adminInputTargetTag').value = '';
+    if (document.getElementById('adminInputTargetCount')) document.getElementById('adminInputTargetCount').value = 5;
+
+    document.getElementById('adminDrawerHeaderTitle').innerHTML = `<i class="fa-solid fa-plus-circle"></i> THÊM BÀI GIẢNG MỚI (TỰ ĐỘNG HÒA MẠNG LỘ TRÌNH)`;
+    document.getElementById('btnAdminSubmit').innerText = "💾 Lưu Bài Giảng & Cập Nhật Lộ Trình";
     document.getElementById('btnCancelEdit').style.display = "none";
   };
 
@@ -1104,6 +1157,12 @@
     const description = document.getElementById('adminInputDesc').value;
     const isPublished = document.getElementById('adminInputIsPublished').checked;
 
+    // THU NHẬP 4 THÔNG SỐ LỘ TRÌNH
+    const roadmapNodeId = document.getElementById('adminInputRoadmapNodeId')?.value?.trim();
+    const stage = document.getElementById('adminSelectStage')?.value || 'S3';
+    const targetExerciseTag = document.getElementById('adminInputTargetTag')?.value?.trim();
+    const targetExerciseCount = document.getElementById('adminInputTargetCount')?.value || 5;
+
     if (!title || !youtubeUrl) {
       alert("⚠️ Thầy vui lòng nhập ít nhất Tiêu đề bài học và Link YouTube nhé!");
       return;
@@ -1112,6 +1171,10 @@
     try {
       await theoryVideoEngine.saveVideo({
         id: editId || undefined,
+        roadmapNodeId: roadmapNodeId || undefined,
+        stage,
+        targetExerciseTag: targetExerciseTag || undefined,
+        targetExerciseCount: parseInt(targetExerciseCount, 10) || 5,
         skillKey,
         category,
         order,
@@ -1124,7 +1187,7 @@
 
       const statusEl = document.getElementById('adminSaveStatus');
       if (statusEl) {
-        statusEl.innerText = editId ? "✅ Đã cập nhật thành công!" : "✅ Đã thêm bài giảng mới!";
+        statusEl.innerText = editId ? "✅ Đã cập nhật thành công!" : "✅ Đã thêm bài giảng & hòa mạng Lộ Trình!";
         setTimeout(() => statusEl.innerText = "", 2500);
       }
 
@@ -1149,4 +1212,3 @@
 </script>
 </body>
 </html>
- 
