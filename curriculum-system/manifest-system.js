@@ -1,7 +1,8 @@
 /**
  * curriculum-system/manifest-system.js
- * SỔ CÁI MASTER TOÀN DIỆN (FULL 858 ĐỐT SỐNG: BAND 0.0 ➔ 7.5+)
- * Khớp trọn vẹn toàn bộ kho bài tập thực tế theo tiến trình 4 Giai đoạn
+ * SỔ CÁI MASTER TOÀN DIỆN (BAND 0.0 ➔ 7.5+)
+ * TÍCH HỢP 100% KHO 60 BÀI ĐỌC SƯU TẦM & BÀI LUYỆN THEO KỸ NĂNG
+ * BẢN FULL ĐẦY ĐỦ 100% - BẢO TOÀN NGUYÊN VẸN 858 ĐỐT SỐNG CŨ
  */
 
 // =========================================================================
@@ -212,10 +213,228 @@ function generateStage2Nodes() {
 }
 
 // =========================================================================
-// 3. GIAI ĐOẠN 3: IELTS SKILLS (BAND 5.5 ➔ 6.5) - TỔNG: 334 ĐỐT
+// HÀM TIỆN ÍCH TỰ ĐỘNG SINH KHO 60 BÀI ĐỌC SƯU TẦM & BÀI LUYỆN THEO KỸ NĂNG
+// =========================================================================
+function generateReadingCollectionAndSkillNodes() {
+  const nodes = [];
+
+  // Cấu hình thời lượng theo chỉ thị của Thầy
+  const skillDuration = { fast: 15, normal: 20, slow: 30 };
+  const fullP1Duration = { fast: 12, normal: 15, slow: 20 };
+  const fullP2Duration = { fast: 15, normal: 18, slow: 25 };
+  const fullP3Duration = { fast: 18, normal: 20, slow: 30 };
+
+  // Danh mục phân bổ kỹ năng chuẩn từ reading/js-r/reading-subsystems.config.js
+  const p2MatchInfo = [201, 203, 206, 209, 211, 214, 216, 219];
+  const p2MatchFeatures = [201, 206, 211, 216];
+  const p2SummaryComp = [201, 203, 206, 209, 211, 214, 216, 219];
+  const p2SummaryBox = [202, 205, 207, 210, 212, 215, 217, 220];
+  const p2NoteComp = [204, 208, 213, 218];
+  const p2Ynng = [202, 205, 207, 210, 212, 215, 217, 220];
+  const p2Tfng = [204, 208, 213, 218];
+  const p2Mcq = [202, 205, 207, 210, 212, 215, 217, 220];
+  const p2McqTwo = [203, 209, 214, 219];
+
+  const p3SummaryBox = [302, 303, 304, 306, 308, 309, 311, 313, 314, 317, 318, 319];
+  const p3MatchEndings = [301, 305, 307, 310, 312, 315, 316, 320];
+
+  // 1. SINH 20 BÀI PASSAGE 1 (101 - 120)
+  for (let i = 1; i <= 20; i++) {
+    const code = 100 + i;
+    const setId = String(i).padStart(2, '0');
+
+    // A. Bài Full Passage 1 Sưu tầm
+    nodes.push({
+      id: `S3_READ_COLL_ST${code}`, stage: "S3", domain: "READING", type: "PRACTICE",
+      title: `Reading Sưu Tầm: Bộ ${setId} - Passage 1 (Full 13 câu)`,
+      url: `reading/runner-reading.html?test=data-r/collection/p1/st-${code}.json&set=${setId}`,
+      duration: fullP1Duration, coachHours: 0.25,
+      tags: ["READ_COLLECTION", "READ_P1", `SET_${setId}`, `ST_${code}`]
+    });
+
+    // B. Bài Luyện Kỹ Năng: NOTE_COMP
+    nodes.push({
+      id: `S3_SKILL_ST${code}_NOTE_COMP`, stage: "S3", domain: "READING", type: "PRACTICE",
+      title: `Luyện Kỹ Năng: Note Completion (st-${code})`,
+      url: `reading/runner-reading.html?test=data-r/collection/p1/st-${code}.json&skill=NOTE_COMP`,
+      duration: skillDuration, coachHours: 0.25,
+      tags: ["NOTE_COMP", "GAP FILL", "GAP_FILL", "READ_SKILL", `ST_${code}`]
+    });
+
+    // C. Bài Luyện Kỹ Năng: TFNG
+    nodes.push({
+      id: `S3_SKILL_ST${code}_TFNG`, stage: "S3", domain: "READING", type: "PRACTICE",
+      title: `Luyện Kỹ Năng: True/False/Not Given (st-${code})`,
+      url: `reading/runner-reading.html?test=data-r/collection/p1/st-${code}.json&skill=TFNG`,
+      duration: skillDuration, coachHours: 0.25,
+      tags: ["TFNG", "TRUE/FALSE/NOT GIVEN", "TRUE_FALSE_NOT_GIVEN", "READ_SKILL", `ST_${code}`]
+    });
+  }
+
+  // 2. SINH 20 BÀI PASSAGE 2 (201 - 220)
+  for (let i = 1; i <= 20; i++) {
+    const code = 200 + i;
+    const setId = String(i).padStart(2, '0');
+
+    // A. Bài Full Passage 2 Sưu tầm
+    nodes.push({
+      id: `S3_READ_COLL_ST${code}`, stage: "S3", domain: "READING", type: "PRACTICE",
+      title: `Reading Sưu Tầm: Bộ ${setId} - Passage 2 (Full 13 câu)`,
+      url: `reading/runner-reading.html?test=data-r/collection/p2/st-${code}.json&set=${setId}`,
+      duration: fullP2Duration, coachHours: 0.25,
+      tags: ["READ_COLLECTION", "READ_P2", `SET_${setId}`, `ST_${code}`]
+    });
+
+    // B. Các bài Kỹ Năng Passage 2 theo đúng phân bổ
+    if (p2MatchInfo.includes(code)) {
+      nodes.push({
+        id: `S3_SKILL_ST${code}_MATCH_INFO`, stage: "S3", domain: "READING", type: "PRACTICE",
+        title: `Luyện Kỹ Năng: Matching Information (st-${code})`,
+        url: `reading/runner-reading.html?test=data-r/collection/p2/st-${code}.json&skill=MATCH_INFO`,
+        duration: skillDuration, coachHours: 0.25,
+        tags: ["MATCH_INFO", "MATCHING INFORMATION", "MATCHING_INFORMATION", "READ_SKILL", `ST_${code}`]
+      });
+    }
+    if (p2MatchFeatures.includes(code)) {
+      nodes.push({
+        id: `S3_SKILL_ST${code}_MATCH_FEATURES`, stage: "S3", domain: "READING", type: "PRACTICE",
+        title: `Luyện Kỹ Năng: Matching Names / Features (st-${code})`,
+        url: `reading/runner-reading.html?test=data-r/collection/p2/st-${code}.json&skill=MATCH_FEATURES`,
+        duration: skillDuration, coachHours: 0.25,
+        tags: ["MATCH_FEATURES", "MATCHING NAMES", "MATCHING_NAMES", "READ_SKILL", `ST_${code}`]
+      });
+    }
+    if (p2SummaryComp.includes(code)) {
+      nodes.push({
+        id: `S3_SKILL_ST${code}_SUMMARY_COMP`, stage: "S3", domain: "READING", type: "PRACTICE",
+        title: `Luyện Kỹ Năng: Summary Completion (st-${code})`,
+        url: `reading/runner-reading.html?test=data-r/collection/p2/st-${code}.json&skill=SUMMARY_COMP`,
+        duration: skillDuration, coachHours: 0.25,
+        tags: ["SUMMARY_COMP", "GAP FILL", "GAP_FILL", "READ_SKILL", `ST_${code}`]
+      });
+    }
+    if (p2SummaryBox.includes(code)) {
+      nodes.push({
+        id: `S3_SKILL_ST${code}_SUMMARY_BOX`, stage: "S3", domain: "READING", type: "PRACTICE",
+        title: `Luyện Kỹ Năng: Summary Box Words (st-${code})`,
+        url: `reading/runner-reading.html?test=data-r/collection/p2/st-${code}.json&skill=SUMMARY_BOX`,
+        duration: skillDuration, coachHours: 0.25,
+        tags: ["SUMMARY_BOX", "GAP FILL", "GAP_FILL", "READ_SKILL", `ST_${code}`]
+      });
+    }
+    if (p2NoteComp.includes(code)) {
+      nodes.push({
+        id: `S3_SKILL_ST${code}_NOTE_COMP`, stage: "S3", domain: "READING", type: "PRACTICE",
+        title: `Luyện Kỹ Năng: Note Completion (st-${code})`,
+        url: `reading/runner-reading.html?test=data-r/collection/p2/st-${code}.json&skill=NOTE_COMP`,
+        duration: skillDuration, coachHours: 0.25,
+        tags: ["NOTE_COMP", "GAP FILL", "GAP_FILL", "READ_SKILL", `ST_${code}`]
+      });
+    }
+    if (p2Ynng.includes(code)) {
+      nodes.push({
+        id: `S3_SKILL_ST${code}_YNNG`, stage: "S3", domain: "READING", type: "PRACTICE",
+        title: `Luyện Kỹ Năng: Yes/No/Not Given (st-${code})`,
+        url: `reading/runner-reading.html?test=data-r/collection/p2/st-${code}.json&skill=YNNG`,
+        duration: skillDuration, coachHours: 0.25,
+        tags: ["YNNG", "YES/NO/NOT GIVEN", "YES_NO_NOT_GIVEN", "READ_SKILL", `ST_${code}`]
+      });
+    }
+    if (p2Tfng.includes(code)) {
+      nodes.push({
+        id: `S3_SKILL_ST${code}_TFNG`, stage: "S3", domain: "READING", type: "PRACTICE",
+        title: `Luyện Kỹ Năng: True/False/Not Given (st-${code})`,
+        url: `reading/runner-reading.html?test=data-r/collection/p2/st-${code}.json&skill=TFNG`,
+        duration: skillDuration, coachHours: 0.25,
+        tags: ["TFNG", "TRUE/FALSE/NOT GIVEN", "TRUE_FALSE_NOT_GIVEN", "READ_SKILL", `ST_${code}`]
+      });
+    }
+    if (p2Mcq.includes(code)) {
+      nodes.push({
+        id: `S3_SKILL_ST${code}_MCQ`, stage: "S3", domain: "READING", type: "PRACTICE",
+        title: `Luyện Kỹ Năng: Multiple Choice 1 Answer (st-${code})`,
+        url: `reading/runner-reading.html?test=data-r/collection/p2/st-${code}.json&skill=MCQ`,
+        duration: skillDuration, coachHours: 0.25,
+        tags: ["MCQ", "MULTIPLE CHOICES 1 ANSWER", "MULTIPLE_CHOICE", "READ_SKILL", `ST_${code}`]
+      });
+    }
+    if (p2McqTwo.includes(code)) {
+      nodes.push({
+        id: `S3_SKILL_ST${code}_MCQ_TWO`, stage: "S3", domain: "READING", type: "PRACTICE",
+        title: `Luyện Kỹ Năng: Multiple Choice 2 Answers (st-${code})`,
+        url: `reading/runner-reading.html?test=data-r/collection/p2/st-${code}.json&skill=MCQ_TWO`,
+        duration: skillDuration, coachHours: 0.25,
+        tags: ["MCQ_TWO", "MULTIPLE CHOICES 2 ANSWERS", "MULTIPLE_CHOICE_TWO", "READ_SKILL", `ST_${code}`]
+      });
+    }
+  }
+
+  // 3. SINH 20 BÀI PASSAGE 3 (301 - 320)
+  for (let i = 1; i <= 20; i++) {
+    const code = 300 + i;
+    const setId = String(i).padStart(2, '0');
+
+    // A. Bài Full Passage 3 Sưu tầm
+    nodes.push({
+      id: `S3_READ_COLL_ST${code}`, stage: "S3", domain: "READING", type: "PRACTICE",
+      title: `Reading Sưu Tầm: Bộ ${setId} - Passage 3 (Full 14 câu)`,
+      url: `reading/runner-reading.html?test=data-r/collection/p3/st-${code}.json&set=${setId}`,
+      duration: fullP3Duration, coachHours: 0.5,
+      tags: ["READ_COLLECTION", "READ_P3", `SET_${setId}`, `ST_${code}`]
+    });
+
+    // B. Kỹ năng MCQ (Tất cả 20 bài P3 đều có)
+    nodes.push({
+      id: `S3_SKILL_ST${code}_MCQ`, stage: "S3", domain: "READING", type: "PRACTICE",
+      title: `Luyện Kỹ Năng: Multiple Choice 1 Answer (st-${code})`,
+      url: `reading/runner-reading.html?test=data-r/collection/p3/st-${code}.json&skill=MCQ`,
+      duration: skillDuration, coachHours: 0.25,
+      tags: ["MCQ", "MULTIPLE CHOICES 1 ANSWER", "MULTIPLE_CHOICE", "READ_SKILL", `ST_${code}`]
+    });
+
+    // C. Kỹ năng YNNG (Tất cả 20 bài P3 đều có)
+    nodes.push({
+      id: `S3_SKILL_ST${code}_YNNG`, stage: "S3", domain: "READING", type: "PRACTICE",
+      title: `Luyện Kỹ Năng: Yes/No/Not Given (st-${code})`,
+      url: `reading/runner-reading.html?test=data-r/collection/p3/st-${code}.json&skill=YNNG`,
+      duration: skillDuration, coachHours: 0.25,
+      tags: ["YNNG", "YES/NO/NOT GIVEN", "YES_NO_NOT_GIVEN", "READ_SKILL", `ST_${code}`]
+    });
+
+    // D. Kỹ năng SUMMARY_BOX (12 bài P3)
+    if (p3SummaryBox.includes(code)) {
+      nodes.push({
+        id: `S3_SKILL_ST${code}_SUMMARY_BOX`, stage: "S3", domain: "READING", type: "PRACTICE",
+        title: `Luyện Kỹ Năng: Summary Box Words (st-${code})`,
+        url: `reading/runner-reading.html?test=data-r/collection/p3/st-${code}.json&skill=SUMMARY_BOX`,
+        duration: skillDuration, coachHours: 0.25,
+        tags: ["SUMMARY_BOX", "GAP FILL", "GAP_FILL", "READ_SKILL", `ST_${code}`]
+      });
+    }
+
+    // E. Kỹ năng MATCH_ENDINGS (8 bài P3)
+    if (p3MatchEndings.includes(code)) {
+      nodes.push({
+        id: `S3_SKILL_ST${code}_MATCH_ENDINGS`, stage: "S3", domain: "READING", type: "PRACTICE",
+        title: `Luyện Kỹ Năng: Matching Sentence Endings (st-${code})`,
+        url: `reading/runner-reading.html?test=data-r/collection/p3/st-${code}.json&skill=MATCH_ENDINGS`,
+        duration: skillDuration, coachHours: 0.25,
+        tags: ["MATCH_ENDINGS", "MATCHING_ENDINGS", "READ_SKILL", `ST_${code}`]
+      });
+    }
+  }
+
+  return nodes;
+}
+
+// =========================================================================
+// 3. GIAI ĐOẠN 3: IELTS SKILLS (BAND 5.5 ➔ 6.5) - TỔNG: 334 ĐỐT CŨ + BÀI MỚI
 // =========================================================================
 function generateStage3Nodes() {
   const nodes = [];
+
+  // TÍCH HỢP TOÀN BỘ 60 BÀI ĐỌC SƯU TẦM & BÀI KỸ NĂNG MỚI LÊN ĐẦU
+  nodes.push(...generateReadingCollectionAndSkillNodes());
 
   // Reading Cam 17, 18, 19 (Có mớm từ khóa: 3 cams * 4 tests * 3 passages = 36 bài)
   [17, 18, 19].forEach(cam => {
@@ -423,12 +642,12 @@ function generateStage4Nodes() {
 }
 
 // =========================================================================
-// TỔNG HỢP TOÀN BỘ CHUỖI ĐỐT SỐNG MASTER VÀO 1 MẢNG DUY NHẤT (858 BÀI)
+// TỔNG HỢP TOÀN BỘ CHUỖI ĐỐT SỐNG MASTER VÀO 1 MẢNG DUY NHẤT
 // =========================================================================
 export const MASTER_CURRICULUM_SYSTEM = [
   ...generateStage1Nodes(), // 67 đốt
   ...generateStage2Nodes(), // 173 đốt
-  ...generateStage3Nodes(), // 334 đốt
+  ...generateStage3Nodes(), // 334 đốt cũ + Toàn bộ 60 bài Sưu tầm & Bài Luyện Kỹ năng mới
   ...generateStage4Nodes()  // 284 đốt
 ];
 
