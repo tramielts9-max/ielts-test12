@@ -1,17 +1,20 @@
 /**
  * curriculum-system/ui-modules/ui-roadmap-render.js
  * MODULE GIAO DIỆN LỘ TRÌNH 5 CHẶNG, CỔNG ADMIN GATE & ĐIỀU PHỐI AI GEMINI
- * BẢN FULL ĐẦY ĐỦ 100% - BẢO TOÀN NGUYÊN VẸN MỌI TÍNH NĂNG & GIAO DIỆN
+ * BẢN FULL ĐẦY ĐỦ 100% - TÍCH HỢP HIỂN THỊ VIDEO LÝ THUYẾT & CHECK HOÀN THÀNH CHUẨN XÁC
  * - Điều phối giọng nói STT & Tải file báo cáo phân tích đầu vào
  * - Băm lộ trình 5 chặng với hạn ngạch 75% đề thật & Vòng lặp ôn tập 3 ngày
  * - Cổng duyệt Admin Gate: Phê duyệt 1-click & Khóa học sinh khi đang Pending
  * - Render 4 thẻ thống kê 3D Duolingo & Danh sách nhiệm vụ học hôm nay
+ * - Hiển thị Đốt Video Lý thuyết có Popup xem YouTube trực tiếp
+ * - Bộ lọc đối soát lịch sử phân biệt tuyệt đối giữa Full Passage vs Skill Mode
  */
 
 import { curriculumEngineSystem } from '../engine-system.js';
 import { MASTER_CURRICULUM_SYSTEM } from '../manifest-system.js';
 import { analyzeStudentDiagnostic } from '../ai-service-system.js';
 import { stateManager } from '../../js/state.js';
+import { theoryVideoEngine } from '../../js/theory-video-engine.js';
 
 let diagRecognition = null;
 let isDiagRecording = false;
@@ -20,6 +23,87 @@ export class UIRoadmapRenderer {
   constructor(contextUI) {
     this.context = contextUI;
     this.initSpeechSTT();
+    this.injectTheoryModalToDOM();
+  }
+
+  // =========================================================================
+  // 0. NHÚNG POPUP MODAL XEM VIDEO YOUTUBE TRỰC TIẾP TRÊN LỘ TRÌNH
+  // =========================================================================
+  injectTheoryModalToDOM() {
+    if (typeof document === 'undefined') return;
+    if (document.getElementById('roadmapTheoryVideoModal')) return;
+
+    const modalDiv = document.createElement('div');
+    modalDiv.id = 'roadmapTheoryVideoModal';
+    modalDiv.style.cssText = 'position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(15,23,42,0.8); z-index:99999; display:none; align-items:center; justify-content:center; padding:16px; backdrop-filter:blur(4px);';
+
+    modalDiv.innerHTML = `
+      <div style="background:#FFFFFF; border-radius:24px; border:3px solid #E8E2D8; border-bottom:7px solid #D3CBC0; width:100%; max-width:800px; padding:20px; box-shadow:0 25px 50px rgba(0,0,0,0.3); position:relative;">
+        <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:12px; gap:10px;">
+          <div>
+            <span id="rmTheoryModalBadge" style="background:#FEF3C7; color:#B45309; border:1px solid #FCD34D; font-size:11px; font-weight:900; padding:2px 8px; border-radius:6px; text-transform:uppercase;">
+              BÀI GIẢNG CHIẾN THUẬT
+            </span>
+            <h3 id="rmTheoryModalTitle" style="margin:6px 0 0 0; font-size:17px; font-weight:900; color:#1E1B4B; line-height:1.35;">
+              Đang tải bài giảng...
+            </h3>
+          </div>
+          <button type="button" onclick="window.closeRoadmapTheoryModal()" style="border:none; background:#F1F5F9; border-radius:50%; width:36px; height:36px; font-size:18px; cursor:pointer; font-weight:900; color:#64748B; display:flex; align-items:center; justify-content:center;">✕</button>
+        </div>
+
+        <div style="position:relative; width:100%; padding-top:56.25%; background:#000; border-radius:16px; overflow:hidden; margin-bottom:14px;">
+          <iframe id="rmTheoryModalIframe" style="position:absolute; top:0; left:0; width:100%; height:100%; border:none;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+
+        <p id="rmTheoryModalDesc" style="font-size:13px; color:#475569; background:#FAF7F2; border:1.5px solid #E8E2D8; padding:10px 14px; border-radius:12px; margin:0 0 14px 0; line-height:1.5; font-weight:600;"></p>
+
+        <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
+          <a id="rmTheoryModalStudioLink" href="theory-studio.html" target="_blank" style="font-size:12.5px; font-weight:800; color:#0284C7; text-decoration:none;">
+            📂 Mở trong Phòng Bài Giảng Đầy Đủ &rarr;
+          </a>
+          <button type="button" id="rmTheoryModalBtnDone" onclick="window.confirmRoadmapTheoryCompleted()" style="background:#16A34A; color:white; border:none; padding:10px 20px; border-radius:12px; font-weight:900; font-size:13.5px; cursor:pointer; box-shadow:0 3px 0 #15803D;">
+            ✓ Tôi Đã Xem Xong Bài Giảng Này
+          </button>
+        </div>
+      </div>
+    `;
+
+    document.body.appendChild(modalDiv);
+
+    window.activeModalVideoId = null;
+    window.openRoadmapTheoryModal = (youtubeId, title, desc, videoId, catBadge) => {
+      window.activeModalVideoId = videoId;
+      const modal = document.getElementById('roadmapTheoryVideoModal');
+      const iframe = document.getElementById('rmTheoryModalIframe');
+      const titleEl = document.getElementById('rmTheoryModalTitle');
+      const descEl = document.getElementById('rmTheoryModalDesc');
+      const badgeEl = document.getElementById('rmTheoryModalBadge');
+      const linkEl = document.getElementById('rmTheoryModalStudioLink');
+
+      if (titleEl) titleEl.innerText = title || "Bài giảng lý thuyết";
+      if (descEl) descEl.innerText = desc || "Hãy ghi chú lại các cấu trúc và bẫy đề thi quan trọng nhé!";
+      if (badgeEl) badgeEl.innerText = catBadge || "BÀI GIẢNG CHIẾN THUẬT";
+      if (linkEl) linkEl.href = `theory-studio.html?id=${videoId}`;
+      if (iframe) iframe.src = `https://www.youtube.com/embed/${youtubeId}?autoplay=1&rel=0`;
+
+      if (modal) modal.style.display = 'flex';
+    };
+
+    window.closeRoadmapTheoryModal = () => {
+      const modal = document.getElementById('roadmapTheoryVideoModal');
+      const iframe = document.getElementById('rmTheoryModalIframe');
+      if (iframe) iframe.src = '';
+      if (modal) modal.style.display = 'none';
+      window.activeModalVideoId = null;
+    };
+
+    window.confirmRoadmapTheoryCompleted = () => {
+      if (window.activeModalVideoId && typeof theoryVideoEngine !== 'undefined') {
+        theoryVideoEngine.toggleCompleted(window.activeModalVideoId);
+      }
+      window.closeRoadmapTheoryModal();
+      this.context.render();
+    };
   }
 
   // =========================================================================
@@ -435,6 +519,73 @@ export class UIRoadmapRenderer {
   }
 
   // =========================================================================
+  // BỘ ĐỐI SOÁT HOÀN THÀNH CHUẨN XÁC: PHÂN BIỆT ĐỐT VIDEO, FULL PASSAGE VÀ SKILL MODE
+  // =========================================================================
+  resolveNodeCompletionInfo(node, email) {
+    // 1. Nếu là Đốt Video Lý Thuyết -> Tra cứu từ kho TheoryVideoEngine
+    if (node.isTheoryVideo || node.type === 'THEORY') {
+      const vidId = node.videoId || node.id;
+      let isDone = false;
+      if (typeof theoryVideoEngine !== 'undefined') {
+        isDone = theoryVideoEngine.isCompleted(vidId);
+      } else if (typeof window !== 'undefined' && window.theoryVideoEngine) {
+        isDone = window.theoryVideoEngine.isCompleted(vidId);
+      }
+      return { isCompleted: isDone, isTheoryVideo: true };
+    }
+
+    // 2. Nếu là Bài Sưu Tầm Full Passage hoặc Bài Kỹ Năng -> Phân biệt theo URL
+    const nodeUrl = node.url || '';
+    if (nodeUrl.includes('data-r/collection/')) {
+      const isSkillTask = nodeUrl.includes('skill=');
+      const cleanEmail = (email || this.context.getActiveWorkingEmail()).toLowerCase().trim();
+      const rawHist = localStorage.getItem(`ielts_history_${cleanEmail}`) || localStorage.getItem('ielts_local_history');
+
+      if (rawHist) {
+        try {
+          const hist = JSON.parse(rawHist);
+          if (Array.isArray(hist)) {
+            const matchCode = nodeUrl.match(/st-(\d+)/);
+            const targetCode = matchCode ? matchCode[0] : '';
+
+            if (targetCode) {
+              const matchedAttempt = hist.find(item => {
+                if (!item || item.moduleType !== 'reading') return false;
+                const pUrl = item.pageUrl || item.url || '';
+                if (!pUrl.includes(targetCode)) return false;
+
+                if (isSkillTask) {
+                  const matchSkill = nodeUrl.match(/skill=([^&]+)/);
+                  const skillTag = matchSkill ? matchSkill[1] : '';
+                  return skillTag ? pUrl.includes(`skill=${skillTag}`) : pUrl.includes('skill=');
+                } else {
+                  // Bài Full: BẮT BUỘC KHÔNG CHỨA skill=
+                  return !pUrl.includes('skill=');
+                }
+              });
+
+              if (matchedAttempt) {
+                return {
+                  isCompleted: true,
+                  firstAttempt: matchedAttempt,
+                  latestAttempt: matchedAttempt
+                };
+              }
+            }
+          }
+        } catch (e) {}
+      }
+    }
+
+    // 3. Fallback mặc định về bộ quản lý CalendarHistory
+    if (this.context.calendarHistoryMgr?.getNodeCompletionInfo) {
+      return this.context.calendarHistoryMgr.getNodeCompletionInfo(node);
+    }
+
+    return { isCompleted: false };
+  }
+
+  // =========================================================================
   // 4. RENDER GIAO DIỆN CHÍNH: FORM THIẾT LẬP HOẶC BẢN ĐỒ LỘ TRÌNH 5 CHẶNG
   // =========================================================================
   async renderRoadmap(targetContainerId = 'roadmapSectionMount') {
@@ -601,10 +752,11 @@ export class UIRoadmapRenderer {
       return;
     }
 
-    // 5. Cập nhật tiến độ hoàn thành từ lịch sử thực tế
+    // 5. Cập nhật tiến độ hoàn thành từ lịch sử thực tế (sử dụng bộ đối soát chuẩn xác)
     (data.schedule || []).forEach(day => {
       (day.nodes || []).forEach(node => {
-        if (!data.completedNodeIds.includes(node.id) && this.context.calendarHistoryMgr.isNodeCompletedInHistory(node)) {
+        const comp = this.resolveNodeCompletionInfo(node, email);
+        if (comp.isCompleted && !data.completedNodeIds.includes(node.id)) {
           data.completedNodeIds.push(node.id);
         }
       });
@@ -702,10 +854,47 @@ export class UIRoadmapRenderer {
         <!-- DANH SÁCH BÀI TẬP HÔM NAY -->
         <div class="cs-task-list">
           ${(currentDayPlan.nodes || []).map(node => {
-            const compInfo = this.context.calendarHistoryMgr.getNodeCompletionInfo(node);
+            const compInfo = this.resolveNodeCompletionInfo(node, email);
             const isDone = compInfo.isCompleted;
             const isRemedial = !!node.isRemedial || (node.title || '').includes('ĐẶC TRỊ');
+            const isTheoryVideo = !!node.isTheoryVideo || node.type === 'THEORY';
 
+            // TRƯỜNG HỢP 1: THẺ ĐỐT VIDEO LÝ THUYẾT CHIẾN THUẬT
+            if (isTheoryVideo) {
+              const ytId = node.youtubeId || (node.url && node.url.includes('id=') ? node.url.split('id=')[1] : '');
+              return `
+                <div class="cs-task-card ${isDone ? 'is-done' : ''}" style="border: 2.5px solid #FCD34D !important; border-bottom: 5px solid #F59E0B !important; background: #FFFDF7 !important;">
+                  <div class="cs-task-info">
+                    <div class="cs-task-meta">
+                      <span class="cs-node-id" style="background: #FEF3C7; color: #92400E; border: 1px solid #FCD34D;">${node.id}</span>
+                      <span class="cs-node-domain" style="background: #FEE2E2; color: #991B1B;">🎬 LÝ THUYẾT CHIẾN THUẬT</span>
+                      <span class="cs-node-time">⏱️ Thời lượng: <b>${node.assignedDurationMinutes || 15} phút</b></span>
+                    </div>
+                    <div class="cs-task-title" style="color: #1E1B4B; font-size: 15px;">
+                      ${isDone ? '✓ ' : ''}${node.title}
+                    </div>
+                    <div style="font-size: 13px; color: #92400E; background: #FEF9C3; border: 1.5px solid #FDE047; padding: 6px 12px; border-radius: 10px; margin-top: 6px; line-height: 1.45; font-weight: 700;">
+                      💡 <b>Chiến lược:</b> ${node.benefit || 'Xem kỹ video trước khi bước vào giải 5 bài tập thực chiến bên dưới!'}
+                    </div>
+                  </div>
+
+                  <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 6px;">
+                    ${isDone ? `
+                      <span class="cs-btn-action cs-btn-done" style="padding: 5px 12px; font-size: 12px; border-radius: 8px; background: #16A34A; color: white;">
+                        <i class="fa-solid fa-circle-check"></i> Đã học bài giảng
+                      </span>
+                    ` : ''}
+
+                    <button type="button" onclick="window.openRoadmapTheoryModal('${ytId}', '${(node.title || '').replace(/'/g, "\\'")}', '${(node.benefit || '').replace(/'/g, "\\'")}', '${node.videoId || node.id}', '${node.domain || 'LÝ THUYẾT'}')" 
+                            class="cs-btn-action" style="background: #D97706; color: white; border: none; border-bottom: 4px solid #B45309; padding: 8px 18px; border-radius: 12px; font-weight: 900; font-size: 13.5px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; box-shadow: 0 4px 10px rgba(217,119,6,0.25);">
+                      🎬 Xem Bài Giảng Ngay &rarr;
+                    </button>
+                  </div>
+                </div>
+              `;
+            }
+
+            // TRƯỜNG HỢP 2: THẺ BÀI TẬP THỰC HÀNH / BÀI ĐỌC SƯU TẦM / BÀI KỸ NĂNG
             return `
               <div class="cs-task-card ${isDone ? 'is-done' : ''}" style="${isRemedial ? 'border-left: 6px solid #EF4444 !important;' : ''}">
                 <div class="cs-task-info">
@@ -723,12 +912,12 @@ export class UIRoadmapRenderer {
                     <div style="display: flex; flex-direction: column; gap: 6px; margin-top: 8px;">
                       <div style="font-size: 13px; font-weight: 800; color: #166534; background: #DCFCE7; border: 1.5px solid #86EFAC; border-radius: 8px; padding: 4px 10px; display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap;">
                         <span style="background: #166534; color: white; padding: 1px 6px; border-radius: 5px; font-size: 11px;">LẦN 1</span>
-                        <span>🎯 Điểm: <b>${compInfo.firstAttempt.score}</b></span>
-                        <span>⏱️ Thời gian: <b>${compInfo.firstAttempt.timeSpent}</b></span>
-                        <span>📅 Nộp lúc: <b>${compInfo.firstAttempt.timestamp}</b></span>
+                        <span>🎯 Điểm: <b>${compInfo.firstAttempt?.score || 'Đạt'}</b></span>
+                        <span>⏱️ Thời gian: <b>${compInfo.firstAttempt?.timeSpent || 'Chuẩn'}</b></span>
+                        <span>📅 Nộp lúc: <b>${compInfo.firstAttempt?.timestamp || 'Đã ghi nhận'}</b></span>
                       </div>
 
-                      ${compInfo.latestAttempt ? `
+                      ${compInfo.latestAttempt && compInfo.latestAttempt !== compInfo.firstAttempt ? `
                         <div style="font-size: 13px; font-weight: 800; color: #065F46; background: #A7F3D0; border: 1.5px solid #34D399; border-radius: 8px; padding: 4px 10px; display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap;">
                           <span style="background: #059669; color: white; padding: 1px 6px; border-radius: 5px; font-size: 11px;">LẦN 2 (MỚI NHẤT)</span>
                           <span>🎯 Điểm: <b>${compInfo.latestAttempt.score}</b></span>
