@@ -1,19 +1,55 @@
 /**
  * curriculum-system/engine-system.js
  * CỔNG TRUNG GIAN MASTER (GATEWAY / FACADE) ĐIỀU PHỐI TOÀN BỘ LỘ TRÌNH 5 CHẶNG
- * BẢN FULL ĐẦY ĐỦ 100% - BẢO TOÀN NGUYÊN VẸN MỌI HỢP ĐỒNG API CŨ
+ * BẢN FULL ĐẦY ĐỦ 100% - HÒA MẠNG ĐỐT VIDEO LÝ THUYẾT VÀO KHO BÀI TẬP MASTER
  * - KẾT NỐI 3 MODULE CON: SESSION MATRIX, REMEDIAL PRUNER, PHASE SCHEDULER
- * - DUY TRÌ 100% TƯƠNG THÍCH VỚI UI-SYSTEM.JS VÀ ROADMAP.HTML (KHÔNG LÀM GÃY HỆ THỐNG)
- * - TÍCH HỢP BẮC CẦU TỰ ĐỘNG TỪ BÀI THI DIAGNOSTIC SANG LỘ TRÌNH CHỜ DUYỆT (PENDING_ADMIN_APPROVAL)
+ * - TỰ ĐỘNG HÚT TOÀN BỘ VIDEO LÝ THUYẾT TỪ THEORY-VIDEO-ENGINE VÀO LỘ TRÌNH
+ * - TỰ ĐỘNG ĐỒNG BỘ MỖI KHI ADMIN THÊM / SỬA / XÓA VIDEO TRÊN WEB
+ * - DUY TRÌ 100% TƯƠNG THÍCH VỚI UI-SYSTEM.JS, ROADMAP.HTML VÀ BÀI THI DIAGNOSTIC
  */
 
 import { EngineSessionMatrix } from './engine-core/engine-session-matrix.js';
 import { EngineRemedialPruner } from './engine-core/engine-remedial-pruner.js';
 import { EnginePhaseScheduler } from './engine-core/engine-phase-scheduler.js';
+import { theoryVideoEngine } from '../js/theory-video-engine.js';
 
 export class CurriculumEngineSystem {
   constructor() {
     this.allNodes = [];
+  }
+
+  /**
+   * CẦU NỐI ĐỘNG: Lấy toàn bộ Video Lý Thuyết từ theoryVideoEngine và hòa mạng
+   * cùng 858 bài tập tĩnh thành một kho bài thống nhất (Master Curriculum Pool)
+   */
+  getMergedNodesWithTheory() {
+    let theoryNodes = [];
+    try {
+      if (typeof theoryVideoEngine !== 'undefined' && theoryVideoEngine.getCurriculumTheoryNodes) {
+        theoryNodes = theoryVideoEngine.getCurriculumTheoryNodes();
+      } else if (typeof window !== 'undefined' && window.theoryVideoEngine?.getCurriculumTheoryNodes) {
+        theoryNodes = window.theoryVideoEngine.getCurriculumTheoryNodes();
+      }
+    } catch (e) {
+      console.warn("⚠️ [EngineSystem] Không thể lấy video lý thuyết động, sử dụng kho bài tĩnh:", e);
+      theoryNodes = [];
+    }
+
+    if (!Array.isArray(theoryNodes) || theoryNodes.length === 0) {
+      return [...this.allNodes];
+    }
+
+    // Lọc trùng lặp mã đốt nếu video đã tồn tại trong danh sách
+    const existingIds = new Set(this.allNodes.map(n => n.id));
+    const uniqueTheoryNodes = theoryNodes.filter(tn => !existingIds.has(tn.id));
+
+    // Đảm bảo mọi Đốt Lý Thuyết đều có trường benefit sư phạm
+    const enrichedTheoryNodes = uniqueTheoryNodes.map(tn => ({
+      ...tn,
+      benefit: tn.benefit || EngineSessionMatrix.generateBenefit(tn)
+    }));
+
+    return [...enrichedTheoryNodes, ...this.allNodes];
   }
 
   /**
@@ -59,10 +95,29 @@ export class CurriculumEngineSystem {
   }
 
   /**
-   * Lọc bài học theo Band và cứu bài khẩn cấp (miễn trừ 100% khỏi Head-cut)
+   * Lọc bài học theo Band, bảo vệ Đốt Lý Thuyết và cứu bài khẩn cấp khỏi Head-cut
    */
   pruneCurriculumByBands(startBand = 0.0, targetBand = 7.0, aiOptions = {}) {
-    return EngineRemedialPruner.pruneCurriculumByBands(this.allNodes, startBand, targetBand, aiOptions);
+    const mergedMasterNodes = this.getMergedNodesWithTheory();
+    
+    // Tách riêng các Đốt Lý Thuyết để bảo vệ không bị Head-cut nhầm
+    const theoryNodes = mergedMasterNodes.filter(n => n.isTheoryVideo || n.type === 'THEORY');
+    const practiceNodes = mergedMasterNodes.filter(n => !n.isTheoryVideo && n.type !== 'THEORY');
+
+    // Chạy thuật toán gọt bài tập thực hành theo Band tiêu chuẩn
+    const prunedPracticeNodes = EngineRemedialPruner.pruneCurriculumByBands(practiceNodes, startBand, targetBand, aiOptions);
+
+    // Lọc Đốt Lý Thuyết phù hợp với mục tiêu:
+    // Nếu targetBand >= 5.5: Giữ lại toàn bộ video Reading/Listening Cambridge Stage 3 & 4
+    // Nếu startBand < 4.0: Giữ lại video Ngữ pháp và Pre-skills Stage 1 & 2
+    const relevantTheoryNodes = theoryNodes.filter(tn => {
+      const stage = (tn.stage || 'S3').toUpperCase();
+      if (startBand >= 5.0 && (stage === 'S1')) return false; // Học sinh khá không cần video vỡ lòng
+      if (targetBand < 5.0 && (stage === 'S4')) return false; // Mục tiêu thấp chưa cần video nâng cao
+      return true;
+    });
+
+    return [...relevantTheoryNodes, ...prunedPracticeNodes];
   }
 
   /**
@@ -138,11 +193,11 @@ export class CurriculumEngineSystem {
         review_interval_days: 3,
         review_skills: ["READING", "LISTENING"]
       },
-      academic_summary: `Lộ trình thích ứng sinh tự động từ bài thi chẩn đoán [${attemptSnapshot.testTitle || 'Diagnostic'}]. Điểm chuẩn giờ: Band ${details.officialBand || startBand} | Tiềm năng: Band ${details.potentialBand || startBand}. Hệ thống đã nạp trực tiếp danh sách câu sai vào Chặng 1 & 2 để cứu bài.`,
+      academic_summary: `Lộ trình thích ứng sinh tự động từ bài thi chẩn đoán [${attemptSnapshot.testTitle || 'Diagnostic'}]. Điểm chuẩn giờ: Band ${details.officialBand || startBand} | Tiềm năng: Band ${details.potentialBand || startBand}. Hệ thống đã hòa mạng Video Chiến thuật Thầy Phúc và nạp trực tiếp danh sách câu sai vào Chặng 1 & 2 để cứu bài.`,
       blueprintProfile: blueprintProfile
     };
 
-    // 4. Lọc kho bài tập (Cứu bài khẩn cấp 100% câu sai)
+    // 4. Lọc kho bài tập (Cứu bài khẩn cấp 100% câu sai + Video lý thuyết)
     const retainedNodes = this.pruneCurriculumByBands(startBand, targetBand, aiOptions);
     const totals = this.calculateTotals(retainedNodes, 'normal', 1.5, startBand, targetBand);
     const scheduleData = this.generateDailyCalendar(retainedNodes, 'normal', 1.5, startBand, targetBand, aiOptions);
