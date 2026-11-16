@@ -1,9 +1,9 @@
 /**
  * curriculum-system/engine-core/engine-phase-scheduler.js
  * BỘ MÁY BĂM LỊCH 5 CHẶNG TUẦN TỰ & VÒNG LẶP ÔN TẬP SPACED REPETITION 3 NGÀY
- * BẢN FULL ĐẦY ĐỦ 100% - TÍCH HỢP ĐỐT VIDEO LÝ THUYẾT ĐỨNG ĐẦU & TỰ ĐỘNG GẮP 5 BÀI TẬP ĐI KÈM
+ * BẢN FULL ĐẦY ĐỦ 100% - TÍCH HỢP ĐỐT VIDEO LÝ THUYẾT ĐỨNG ĐẦU & TỰ ĐỘNG GẮP BÀI TẬP THEO DẠNG
  * - CHẶNG 1: DỒN 100% BÀI CỨU CÂU SAI ĐẶC TRỊ + VIDEO LÝ THUYẾT NGỮ PHÁP LÊN ĐẦU
- * - CHẶNG 2: VIDEO LÝ THUYẾT CHIẾN THUẬT READING + 100% TỪ VỰNG 28 UNIT + BÀI TẬP ĐỀ CAMBRIDGE
+ * - CHẶNG 2: VIDEO LÝ THUYẾT CHIẾN THUẬT READING + 100% TỪ VỰNG 28 UNIT + BÀI TẬP 101-320 THEO DẠNG & CAMBRIDGE
  * - CHẶNG 3: VIDEO CHIẾN THUẬT LISTENING + ĐẨY NHANH LISTENING CAMBRIDGE THỰC CHIẾN
  * - CHẶNG 4: VIDEO LÝ THUYẾT WRITING + THỰC CHIẾN (75% ĐỀ THI THẬT) + ÔN TẬP READING 3 NGÀY
  * - CHẶNG 5: VIDEO CHIẾN THUẬT SPEAKING + VỀ ĐÍCH SPEAKING FORECAST + ÔN TẬP LISTENING 3 NGÀY
@@ -13,6 +13,43 @@
 import { EngineSessionMatrix } from './engine-session-matrix.js';
 
 export class EnginePhaseScheduler {
+  /**
+   * Trích xuất danh sách skill tags chuẩn từ một Đốt Video Lý Thuyết (hoặc node bất kỳ)
+   */
+  static extractSkillTagsFromTheoryNode(thTask) {
+    if (!thTask || typeof thTask !== 'object') return [];
+    const rawList = [];
+    if (Array.isArray(thTask.targetSkillTags)) rawList.push(...thTask.targetSkillTags);
+    if (thTask.targetSkillTag) rawList.push(thTask.targetSkillTag);
+    if (thTask.categoryTag) rawList.push(thTask.categoryTag);
+    if (thTask.targetExerciseTag) rawList.push(thTask.targetExerciseTag);
+    if (Array.isArray(thTask.tags)) rawList.push(...thTask.tags);
+
+    const combined = rawList.map(x => String(x || '').toUpperCase()).join(' ');
+    const resolved = [];
+
+    if (combined.includes('TFNG') || combined.includes('TRUE/FALSE/NOT GIVEN')) resolved.push('TFNG');
+    if (combined.includes('YNNG') || combined.includes('YES/NO/NOT GIVEN')) resolved.push('YNNG');
+    if (combined.includes('SUMMARY_BOX') || combined.includes('SUMMARY BOX')) resolved.push('SUMMARY_BOX');
+    if (combined.includes('SUMMARY_COMP')) resolved.push('SUMMARY_COMP');
+    if (combined.includes('NOTE_COMP')) resolved.push('NOTE_COMP');
+    if (combined.includes('GAP FILL') || combined.includes('GAP_FILL')) {
+      resolved.push('NOTE_COMP', 'SUMMARY_COMP', 'SUMMARY_BOX');
+    }
+    if (combined.includes('MATCH_INFO') || combined.includes('MATCHING INFORMATION')) resolved.push('MATCH_INFO');
+    if (combined.includes('MATCH_FEATURES') || combined.includes('MATCHING NAMES') || combined.includes('MATCHING FEATURES')) resolved.push('MATCH_FEATURES');
+    if (combined.includes('MATCH_ENDINGS') || combined.includes('MATCHING SENTENCE ENDINGS')) resolved.push('MATCH_ENDINGS');
+    if (combined.includes('MATCH_HEADINGS') || combined.includes('MATCHING HEADINGS')) resolved.push('MATCH_HEADINGS');
+    if (combined.includes('MCQ_TWO') || combined.includes('MULTIPLE CHOICES 2 ANSWERS')) {
+      resolved.push('MCQ_TWO');
+    } else if (combined.includes('MCQ') || combined.includes('MULTIPLE CHOICES 1 ANSWER')) {
+      resolved.push('MCQ');
+    }
+    if (thTask.targetExerciseTag) resolved.push(String(thTask.targetExerciseTag).toUpperCase().trim());
+
+    return Array.from(new Set(resolved.filter(Boolean)));
+  }
+
   /**
    * Băm lịch học theo 5 Chặng tuần tự:
    * Phân bổ thông minh bài cứu, Đốt Video Lý thuyết, 28 Unit từ vựng, hạn ngạch 75% đề thi thật và vòng lặp duy trì 3 ngày.
@@ -28,10 +65,14 @@ export class EnginePhaseScheduler {
     const qStandardGrammar = [];
     const qVocab = [];
     const qTheoryReading = [];
-    const qReading = [];
+    const qRemedialReading = [];
+    const qSkillReading = [];
+    const qCollectionReading = [];
+    const qCamReading = [];
     const qTheoryListening = [];
     const qPreListening = [];
-    const qOfficialListening = [];
+    const qRemedialListening = [];
+    const qNormalListening = [];
     const qTheoryWriting = [];
     const qPreWriting = [];
     const qOfficialWritingT1 = [];
@@ -51,6 +92,8 @@ export class EnginePhaseScheduler {
     (retainedNodes || []).forEach(node => {
       if (!node) return;
       const d = (node.domain || '').toUpperCase();
+      const idUpper = String(node.id || '').toUpperCase();
+      const nodeTags = (node.tags || []).map(t => String(t).toUpperCase());
       const isTheory = !!node.isTheoryVideo || node.type === 'THEORY';
 
       const nWithBenefit = {
@@ -64,15 +107,23 @@ export class EnginePhaseScheduler {
         else if (node.isRemedial) qRemedialGrammar.push(nWithBenefit);
         else qStandardGrammar.push(nWithBenefit);
       } else if (d === 'READING' || d === 'PRE_READING') {
-        if (isTheory) qTheoryReading.push(nWithBenefit);
-        else if (node.isRemedial) qReading.unshift(nWithBenefit); // Đưa bài đọc yếu lên đầu
-        else qReading.push(nWithBenefit);
+        if (isTheory) {
+          qTheoryReading.push(nWithBenefit);
+        } else if (node.isRemedial) {
+          qRemedialReading.push(nWithBenefit);
+        } else if (idUpper.startsWith('S3_SKILL_') || nodeTags.includes('READ_SKILL')) {
+          qSkillReading.push(nWithBenefit);
+        } else if (idUpper.startsWith('S3_READ_COLL_') || nodeTags.includes('READ_COLLECTION')) {
+          qCollectionReading.push(nWithBenefit);
+        } else {
+          qCamReading.push(nWithBenefit);
+        }
       } else if (d === 'PRE_LISTENING') {
         qPreListening.push(nWithBenefit);
       } else if (d === 'LISTENING') {
         if (isTheory) qTheoryListening.push(nWithBenefit);
-        else if (node.isRemedial) qOfficialListening.unshift(nWithBenefit);
-        else qOfficialListening.push(nWithBenefit);
+        else if (node.isRemedial) qRemedialListening.push(nWithBenefit);
+        else qNormalListening.push(nWithBenefit);
       } else if (d.includes('PRE_WRITING')) {
         qPreWriting.push(nWithBenefit);
       } else if (d === 'WRITING_T1') {
@@ -89,11 +140,36 @@ export class EnginePhaseScheduler {
       }
     });
 
+    // Sắp xếp Video Lý Thuyết Reading: đưa video chữa dạng yếu của AI / Diagnostic lên trước
+    const focusReadingSkills = new Set(
+      [...(aiOptions.reading_focus_skills || []), ...(aiOptions.retained_weak_tags || []), ...(aiOptions.weak_tags || [])]
+        .map(t => String(t || '').toUpperCase().trim())
+        .filter(Boolean)
+    );
+    if (qTheoryReading.length > 1 && focusReadingSkills.size > 0) {
+      qTheoryReading.sort((a, b) => {
+        const aMatch = this.extractSkillTagsFromTheoryNode(a).some(t => focusReadingSkills.has(t)) ? 0 : 1;
+        const bMatch = this.extractSkillTagsFromTheoryNode(b).some(t => focusReadingSkills.has(t)) ? 0 : 1;
+        return aMatch - bMatch;
+      });
+    }
+
+    // Dựng hàng đợi Reading chuẩn thứ tự theo chiến lược AI (mặc định: Remedial -> Skill 101-320 -> Collection -> Cam)
+    const readingStrategy = String(aiOptions.reading_strategy || '').toUpperCase();
+    const qReading = readingStrategy === 'CAM_EXAM_FIRST'
+      ? [...qRemedialReading, ...qCamReading, ...qSkillReading, ...qCollectionReading]
+      : [...qRemedialReading, ...qSkillReading, ...qCollectionReading, ...qCamReading];
+
+    const qOfficialListening = [...qRemedialListening, ...qNormalListening];
+
     // Gom hàng đợi Grammar: VIDEO LÝ THUYẾT & BÀI CỨU XẾP ĐẦU TIÊN
     const qGrammar = [...qTheoryGrammar, ...qRemedialGrammar, ...qStandardGrammar];
 
-    // Kho lưu trữ đề thi đã học để phục vụ Vòng lặp Ôn tập Spaced Repetition
-    const reviewPoolReading = qReading.filter(n => !n.isTheoryVideo);
+    // Kho lưu trữ đề thi đã học để phục vụ Vòng lặp Ôn tập Spaced Repetition (ưu tiên Cam & Full Collection P2/P3)
+    const camAndFullReviewPool = [...qCamReading, ...qCollectionReading].filter(n => !n.isTheoryVideo);
+    const reviewPoolReading = camAndFullReviewPool.length > 0
+      ? camAndFullReviewPool
+      : qReading.filter(n => !n.isTheoryVideo);
     const reviewPoolListening = qOfficialListening.filter(n => !n.isTheoryVideo);
 
     // 2. Tính toán phân bổ số ngày cho từng Chặng (Tổng cộng chuẩn targetDays)
@@ -110,30 +186,58 @@ export class EnginePhaseScheduler {
       return { ...task, assignedDurationMinutes: dur };
     };
 
-    // Hàm phụ trợ: Bốc đúng số lượng bài tập thực hành theo Tag dạng bài của Video Lý Thuyết
-    const pickMatchingExercises = (exerciseQueue, targetTag, count = 5) => {
+    // Hàm phụ trợ: Bốc đúng số lượng bài tập thực hành 101-320 theo Tag dạng bài của Video Lý Thuyết
+    const pickMatchingExercises = (exerciseQueue, thTaskOrTag, count = 5) => {
       if (!exerciseQueue || exerciseQueue.length === 0 || count <= 0) return [];
-      const matched = [];
-      const remaining = [];
+      const priorityTags = (thTaskOrTag && typeof thTaskOrTag === 'object')
+        ? this.extractSkillTagsFromTheoryNode(thTaskOrTag)
+        : [String(thTaskOrTag || '').toUpperCase()].filter(Boolean);
 
+      const matched = [];
+      const usedStCodes = new Set();
+      const extractStCode = (item) => {
+        const m = String(item?.url || item?.id || '').match(/st-?(\d{3})/i);
+        return m ? m[1] : '';
+      };
+
+      // Vòng 1: Ưu tiên gắp bài READ_SKILL trong bộ 101-320 khớp đúng dạng bài của Video Lý Thuyết
+      const pass1Remaining = [];
       for (const item of exerciseQueue) {
         const itemTags = (item.tags || []).map(t => String(t).toUpperCase());
-        const tagToMatch = String(targetTag || '').toUpperCase();
-        const isMatch = tagToMatch && (itemTags.includes(tagToMatch) || (item.title || '').toUpperCase().includes(tagToMatch));
+        const itemId = String(item.id || '').toUpperCase();
+        const isSkillItem = itemId.startsWith('S3_SKILL_') || itemTags.includes('READ_SKILL');
+        const stCode = extractStCode(item);
+        const isMatchSkill = priorityTags.some(pt => itemTags.includes(pt));
 
-        if (isMatch && matched.length < count) {
+        if (isSkillItem && isMatchSkill && matched.length < count && (!stCode || !usedStCodeCheck(usedStCodes, stCode))) {
+          const dur = item.duration?.[speedProfile] || item.duration?.normal || 20;
+          matched.push({ ...item, assignedDurationMinutes: dur });
+          if (stCode) usedStCodes.add(stCode);
+        } else {
+          pass1Remaining.push(item);
+        }
+      }
+
+      // Vòng 2: Nếu chưa đủ count, gắp tiếp bài bất kỳ (Collection / Cam / hoặc Skill trùng st) khớp tag/title
+      const pass2Remaining = [];
+      for (const item of pass1Remaining) {
+        const itemTags = (item.tags || []).map(t => String(t).toUpperCase());
+        const titleUpper = (item.title || '').toUpperCase();
+        const isMatchFallback = priorityTags.some(pt => itemTags.includes(pt) || titleUpper.includes(pt));
+
+        if (isMatchFallback && matched.length < count) {
           const dur = item.duration?.[speedProfile] || item.duration?.normal || 20;
           matched.push({ ...item, assignedDurationMinutes: dur });
         } else {
-          remaining.push(item);
+          pass2Remaining.push(item);
         }
       }
 
       // Cập nhật lại hàng đợi sau khi đã bốc bài khớp
       exerciseQueue.length = 0;
-      exerciseQueue.push(...remaining);
+      exerciseQueue.push(...pass2Remaining);
 
-      // Nếu không đủ bài khớp dạng, bốc các bài tiếp theo trong hàng đợi cho đủ số lượng
+      // Vòng 3: Nếu vẫn chưa đủ số lượng, bốc các bài tiếp theo trong hàng đợi cho đủ chỉ tiêu
       while (matched.length < count && exerciseQueue.length > 0) {
         const fallbackTask = pickFromQueue(exerciseQueue);
         if (fallbackTask) matched.push(fallbackTask);
@@ -141,6 +245,8 @@ export class EnginePhaseScheduler {
 
       return matched;
     };
+
+    const usedStCodeCheck = (setRef, code) => setRef.has(code);
 
     let currentDayNum = 1;
 
@@ -183,7 +289,7 @@ export class EnginePhaseScheduler {
     }
 
     // -----------------------------------------------------------------------
-    // CHẶNG 2: READING & 100% KHO TỪ VỰNG (ƯU TIÊN VIDEO CHIẾN THUẬT LÊN ĐẦU + 5 BÀI TẬP)
+    // CHẶNG 2: READING & 100% KHO TỪ VỰNG (ƯU TIÊN VIDEO CHIẾN THUẬT LÊN ĐẦU + BÀI TẬP THEO DẠNG 101-320)
     // -----------------------------------------------------------------------
     for (let i = 0; i < daysPhase2 && currentDayNum <= targetDays; i++) {
       const dayTasks = [];
@@ -196,9 +302,9 @@ export class EnginePhaseScheduler {
           dayTasks.push(thTask);
           mins += thTask.assignedDurationMinutes;
 
-          // Tự động gắp bài tập tương ứng dạng bài đó (chỉ tiêu gắp tối đa 2 bài reading dài/ngày để không quá tải 90p)
-          const targetExCount = thTask.targetExerciseCount ? Math.min(2, thTask.targetExerciseCount) : 1;
-          const matchingExercises = pickMatchingExercises(qReading, thTask.targetExerciseTag || thTask.categoryTag, targetExCount);
+          // Tự động gắp bài tập 101-320 tương ứng dạng bài đó (tối đa 2 bài reading/ngày để không quá tải 90p)
+          const targetExCount = thTask.targetExerciseCount ? Math.min(2, thTask.targetExerciseCount) : 2;
+          const matchingExercises = pickMatchingExercises(qReading, thTask, targetExCount);
           matchingExercises.forEach(ex => {
             dayTasks.push(ex);
             mins += ex.assignedDurationMinutes;
@@ -215,7 +321,7 @@ export class EnginePhaseScheduler {
         }
       }
 
-      // 3. Nếu chưa có bài Reading trong ngày -> Chạy 1 bài Reading Cambridge thông thường
+      // 3. Nếu chưa có bài Reading trong ngày -> Bốc 1-2 bài Reading từ hàng đợi (đủ thời lượng)
       const hasReadingPractice = dayTasks.some(t => (t.domain || '').toUpperCase() === 'READING' && !t.isTheoryVideo);
       if (!hasReadingPractice && mins < dailyTargetMinutes) {
         const rTask = pickFromQueue(qReading);
@@ -240,7 +346,7 @@ export class EnginePhaseScheduler {
         totalMinutes: mins,
         phaseId: "PHASE_2_READING_VOCAB",
         phaseName: "Chặng 2: Đột Phá Reading & Quét Sạch 100% Từ Vựng (28 Unit)",
-        phaseDesc: "Xem video chiến thuật độc quyền Thầy Phúc, cày sạch 28 Unit từ vựng và giải đề Reading chuẩn phòng thi.",
+        phaseDesc: "Xem video chiến thuật độc quyền Thầy Phúc, cày sạch 28 Unit từ vựng và giải bài Reading 101-320 theo dạng + đề Cambridge chuẩn phòng thi.",
         nodes: dayTasks
       });
       currentDayNum++;
@@ -316,8 +422,9 @@ export class EnginePhaseScheduler {
 
       // 2. Chu kỳ 3 ngày ôn tập duy trì Reading
       if (isReviewDay) {
-        const revTask = reviewPoolReading.length > 0 
-          ? { ...reviewPoolReading[(i * 2) % reviewPoolReading.length], assignedDurationMinutes: 40, title: `[🔄 ÔN TẬP DUY TRÌ] ${reviewPoolReading[(i * 2) % reviewPoolReading.length].title}` }
+        const pickedRev = reviewPoolReading.length > 0 ? reviewPoolReading[(i * 2) % reviewPoolReading.length] : null;
+        const revTask = pickedRev
+          ? { ...pickedRev, assignedDurationMinutes: 40, title: `[🔄 ÔN TẬP DUY TRÌ] ${pickedRev.title}` }
           : {
             id: `REV_READ_MAINT_${currentDayNum}`, stage: "S4", domain: "READING", type: "TEST",
             title: `[🔄 ÔN TẬP DUY TRÌ] Giải Đề Reading Cam Bấm Giờ 40 Phút`,
@@ -384,8 +491,9 @@ export class EnginePhaseScheduler {
 
       // 2. Chu kỳ 3 ngày ôn tập duy trì Listening
       if (isReviewDay) {
-        const revLisTask = reviewPoolListening.length > 0
-          ? { ...reviewPoolListening[(dayInPhase5 * 3) % reviewPoolListening.length], assignedDurationMinutes: 30, title: `[🔄 ÔN TẬP DUY TRÌ] ${reviewPoolListening[(dayInPhase5 * 3) % reviewPoolListening.length].title}` }
+        const pickedRevLis = reviewPoolListening.length > 0 ? reviewPoolListening[(dayInPhase5 * 3) % reviewPoolListening.length] : null;
+        const revLisTask = pickedRevLis
+          ? { ...pickedRevLis, assignedDurationMinutes: 30, title: `[🔄 ÔN TẬP DUY TRÌ] ${pickedRevLis.title}` }
           : {
             id: `REV_LIS_MAINT_${currentDayNum}`, stage: "S4", domain: "LISTENING", type: "TEST",
             title: `[🔄 ÔN TẬP DUY TRÌ] Nghe Lại 1 Đề Listening Cam 1.1x Bấm Giờ 30 Phút`,
