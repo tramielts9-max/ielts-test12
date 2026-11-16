@@ -1,8 +1,8 @@
 /**
  * curriculum-system/ui-modules/ui-roadmap-render.js
  * MODULE GIAO DIỆN LỘ TRÌNH 5 CHẶNG & ĐIỀU PHỐI AI GEMINI (BẢN FULL ĐẦY ĐỦ 100%)
- * ĐÃ VÁ DỨT ĐIỂM LỖI BỐC SAI BÀI THI DIAGNOSTIC VÀ LỖI ÉP ĐIỂM THÀNH BAND 2.0
- * - BÓC CHÍNH XÁC 100% BÀI THI MỚI NHẤT QUA EPOCH ID (LOẠI BỎ BÀI 0 ĐIỂM RÁC)
+ * ĐÃ KHÓA CHẾT ĐIỂM BÀI THI THẬT (CHỐNG AI TỰ Ý NÂNG KHỐNG LÊN BAND 5.5)
+ * - BẮT BUỘC LẤY ĐÚNG START BAND CỦA BÀI TEST DIAGNOSTIC (KHÔNG ĐỂ AI TỰ ĐỔI)
  * - TỰ ĐỘNG HÓA 1-CLICK: Tự động trích xuất kết quả bài thi Diagnostic sang lộ trình AI
  * - HỘP CÁT DRAFT SANDBOX: Bấm "Soạn lại" không bị mất lộ trình cũ, có nút HỦY BỎ an toàn
  * - NÚT XUẤT PDF / IN LỘ TRÌNH: Chuẩn hóa xuất file PDF gửi phụ huynh học sinh
@@ -187,15 +187,15 @@ export class UIRoadmapRenderer {
     const det = recentDiag.details || {};
     const blueprint = det.blueprintProfile || {};
 
-    // Tự động lấy điểm xuất phát thật từ bài thi (tránh số 0 ảo)
+    // 🔴 KHÓA CHẶT ĐIỂM START BAND THẬT: Lấy chuẩn xác từ kết quả thi của học sinh
     let extractedBand = "3.5";
-    if (det.potentialBand && !isNaN(parseFloat(det.potentialBand)) && parseFloat(det.potentialBand) > 0) {
-      extractedBand = String(det.potentialBand);
-    } else if (det.officialBand && !isNaN(parseFloat(det.officialBand)) && parseFloat(det.officialBand) > 0) {
-      extractedBand = String(det.officialBand);
-    } else if (recentDiag.score) {
+    if (recentDiag.score) {
       const m = String(recentDiag.score).match(/Band\s*([0-9.]+)/i) || String(recentDiag.score).match(/([0-9.]+)/);
       if (m && parseFloat(m[1]) > 0) extractedBand = m[1];
+    } else if (det.officialBand && parseFloat(det.officialBand) > 0) {
+      extractedBand = String(det.officialBand);
+    } else if (det.potentialBand && parseFloat(det.potentialBand) > 0) {
+      extractedBand = String(det.potentialBand);
     }
 
     // Tự động đọc Target Band từ dropdown chọn mục tiêu
@@ -247,7 +247,7 @@ export class UIRoadmapRenderer {
   }
 
   // =========================================================================
-  // 3. CHẨN ĐOÁN & BĂM LỘ TRÌNH 5 CHẶNG BẰNG AI GEMINI
+  // 3. CHẨN ĐOÁN & BĂM LỘ TRÌNH 5 CHẶNG BẰNG AI GEMINI (KHÓA CHẾT ĐIỂM THI THẬT)
   // =========================================================================
   async runAIDiagnostic() {
     const text = document.getElementById('diagTextInput')?.value?.trim();
@@ -272,16 +272,27 @@ export class UIRoadmapRenderer {
       if (!resBox) return;
       resBox.style.display = 'block';
 
-      // 🔴 VÁ LỖI TOÁN TỬ: Nếu điểm phân tích <= 0 thì tự động lấy điểm từ text hoặc mặc định 3.5 thay vì gán 2.0
-      let parsedStart = parseFloat(result.estimated_band);
-      if (isNaN(parsedStart) || parsedStart <= 0) {
-        const textMatch = text.match(/Start\s*Band[:\s]*([0-9.]+)/i);
-        parsedStart = textMatch ? parseFloat(textMatch[1]) : 3.5;
+      // 🔴 KHÓA CHẾT START BAND: Ưu tiên số 1 lấy từ text đầu vào/bài thi thật, CẤM AI tự ý nâng lên 5.5
+      let startB = 3.5;
+      const textMatch = text.match(/Start\s*Band[:\s]*([0-9.]+)/i) || text.match(/Band\s*([0-9.]+)/i);
+      if (textMatch && parseFloat(textMatch[1]) > 0) {
+        startB = parseFloat(textMatch[1]);
+      } else if (!isNaN(parseFloat(result.estimated_band)) && parseFloat(result.estimated_band) > 0) {
+        startB = parseFloat(result.estimated_band);
       }
-      const startB = Math.max(1.0, parsedStart);
 
-      const parsedTarget = parseFloat(result.target_band);
-      const targetB = Math.min(7.5, !isNaN(parsedTarget) ? parsedTarget : 7.0);
+      // Khóa Target Band theo lựa chọn thực tế của giáo viên hoặc AI
+      let targetB = 7.0;
+      const targetMatch = text.match(/Target\s*Band[:\s]*([0-9.]+)/i);
+      if (targetMatch && parseFloat(targetMatch[1]) > 0) {
+        targetB = Math.min(7.5, parseFloat(targetMatch[1]));
+      } else if (!isNaN(parseFloat(result.target_band)) && parseFloat(result.target_band) > 0) {
+        targetB = Math.min(7.5, parseFloat(result.target_band));
+      }
+
+      // Cập nhật lại vào object result để các module đồng bộ con số thật
+      result.estimated_band = startB;
+      result.target_band = targetB;
 
       const pruned = curriculumEngineSystem.pruneCurriculumByBands(startB, targetB, result);
       const savedCount = MASTER_CURRICULUM_SYSTEM.length - pruned.length;
@@ -331,7 +342,7 @@ export class UIRoadmapRenderer {
           <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
             <b style="color:#166534; font-size:15px;">🎯 KẾT QUẢ ĐIỀU PHỐI TỪ AI GEMINI</b>
             <span style="background:#e0f2fe; color:#0369a1; padding:3px 10px; border-radius:20px; font-weight:800; font-size:12px;">
-              Band ước lượng: ~${startB} ➔ Mục tiêu: ${targetB}
+              Band chuẩn hóa: ${startB} ➔ Mục tiêu: ${targetB}
             </span>
           </div>
           
@@ -477,7 +488,6 @@ export class UIRoadmapRenderer {
         return !isZero;
       });
 
-      // Nếu có bài làm thật thì ưu tiên lấy, nếu chỉ có bài rỗng thì lấy bài gần nhất
       return completedAttempt || diagAttempts[0];
     } catch (e) {
       console.warn("[UIRoadmapRenderer] Lỗi tìm bài thi diagnostic:", e);
