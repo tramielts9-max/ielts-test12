@@ -4,6 +4,9 @@
  * BẢN FULL ĐẦY ĐỦ 100% - BẢO TOÀN NGUYÊN VẸN MỌI HỢP ĐỒNG API VÀ WINDOW GLOBALS
  * - Tích hợp 4 module con: Admin Gate, Schedule Tuition, Calendar History, Roadmap Render
  * - Đảm bảo backward compatibility 100% với roadmap.html, index.html và script gọi ngoài
+ * - BẢO VỆ DỮ LIỆU ĐỘT PHÁ: HỘP CÁT SANDBOX (DRAFT VS ACTIVE) CHỐNG BẤM NHẦM MẤT BÀI
+ * - TỰ ĐỘNG HÓA 1-CLICK: TỰ RÚT DATA DIAGNOSTIC SANG LỘ TRÌNH QUA AI GEMINI
+ * - HỖ TRỢ XUẤT FILE IN / PDF LỘ TRÌNH A4 CHUYÊN NGHIỆP
  */
 
 import { curriculumEngineSystem } from './engine-system.js';
@@ -38,13 +41,20 @@ class CurriculumUISystem {
   }
 
   // =========================================================================
-  // 1. QUẢN LÝ BỘ NHỚ LỘ TRÌNH LOCAL & CLOUD STORAGE
+  // 1. QUẢN LÝ BỘ NHỚ LỘ TRÌNH LOCAL & CLOUD STORAGE (CÓ HỘP CÁT DRAFT SANDBOX)
   // =========================================================================
   getStorageKey(email) {
     const clean = (email || this.getActiveWorkingEmail()).toLowerCase().trim();
     return `ielts_roadmap_data_${clean}`;
   }
 
+  // Key dành riêng cho Bản Nháp Sandbox (Chống ghi đè mất lộ trình chính)
+  getDraftStorageKey(email) {
+    const clean = (email || this.getActiveWorkingEmail()).toLowerCase().trim();
+    return `ielts_roadmap_draft_${clean}`;
+  }
+
+  // Lấy Lộ Trình Đang Chạy Chính Thức (Active Roadmap)
   getSavedRoadmap(email) {
     try {
       const target = (email || this.getActiveWorkingEmail()).toLowerCase().trim();
@@ -53,6 +63,56 @@ class CurriculumUISystem {
     } catch (e) {
       return null;
     }
+  }
+
+  // Lấy Bản Nháp Đang Soạn (Nếu có)
+  getDraftRoadmap(email) {
+    try {
+      const target = (email || this.getActiveWorkingEmail()).toLowerCase().trim();
+      const raw = localStorage.getItem(this.getDraftStorageKey(target));
+      return raw ? JSON.parse(raw) : null;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  // Lưu tạm thời vào Bản Nháp (Chưa đè lên Active Roadmap)
+  saveDraftRoadmap(email, draftData) {
+    try {
+      const target = (email || this.getActiveWorkingEmail()).toLowerCase().trim();
+      localStorage.setItem(this.getDraftStorageKey(target), JSON.stringify(draftData));
+    } catch (e) {
+      console.warn("Lỗi lưu bản nháp roadmap:", e);
+    }
+  }
+
+  // Xóa Bản Nháp khi hủy bỏ hoặc sau khi đã duyệt
+  clearDraftRoadmap(email) {
+    try {
+      const target = (email || this.getActiveWorkingEmail()).toLowerCase().trim();
+      localStorage.removeItem(this.getDraftStorageKey(target));
+    } catch (e) {}
+  }
+
+  // Hủy Bỏ Soạn Lại: Khôi phục nguyên vẹn 100% Lộ Trình Cũ (Chống mất bài khi bấm nhầm)
+  cancelEditRoadmap() {
+    const target = this.getActiveWorkingEmail();
+    this.clearDraftRoadmap(target);
+    this.isForceEditing = false;
+    this.render();
+  }
+
+  // Phê Duyệt & Ghi Đè Bản Nháp Thành Lộ Trình Chính Thức
+  commitDraftRoadmap(email) {
+    const target = (email || this.getActiveWorkingEmail()).toLowerCase().trim();
+    const draft = this.getDraftRoadmap(target);
+    if (!draft) return false;
+
+    this.saveRoadmap(target, draft);
+    this.clearDraftRoadmap(target);
+    this.isForceEditing = false;
+    this.render();
+    return true;
   }
 
   saveRoadmap(email, data) {
@@ -139,6 +199,7 @@ class CurriculumUISystem {
     this.render();
   }
 
+  // Bấm Soạn Lại: Chuyển sang Sandbox Draft, giữ nguyên lộ trình cũ
   triggerEditRoadmap() {
     this.isForceEditing = true;
     this.render();
@@ -243,7 +304,7 @@ class CurriculumUISystem {
   }
 
   // =========================================================================
-  // 5. ỦY QUYỀN (DELEGATION) MODULE 4: ROADMAP RENDER & AI DIAGNOSTIC
+  // 5. ỦY QUYỀN (DELEGATION) MODULE 4: ROADMAP RENDER, TỰ ĐỘNG HÓA & PDF EXPORT
   // =========================================================================
   toggleMicrophone() {
     return this.roadmapRenderer.toggleMicrophone();
@@ -255,6 +316,11 @@ class CurriculumUISystem {
 
   async runAIDiagnostic() {
     return this.roadmapRenderer.runAIDiagnostic();
+  }
+
+  // Tự động hóa 1-Click: Tự đọc bài Diagnostic gần nhất & sinh lộ trình qua AI
+  async autoGenerateFromLatestDiagnostic(studentEmail) {
+    return this.roadmapRenderer.autoGenerateFromLatestDiagnostic(studentEmail);
   }
 
   applyBandRoadmap(startBand, targetBand, aiData = null) {
@@ -281,6 +347,13 @@ class CurriculumUISystem {
     return this.roadmapRenderer.renderStudentPendingGate(data, studentEmail);
   }
 
+  // Kích hoạt In / Xuất PDF Lộ Trình
+  triggerPrintRoadmap() {
+    if (typeof window !== 'undefined') {
+      window.print();
+    }
+  }
+
   async render(targetContainerId = 'roadmapSectionMount') {
     return this.roadmapRenderer.renderRoadmap(targetContainerId);
   }
@@ -291,4 +364,6 @@ export const curriculumUI = new CurriculumUISystem();
 // GẮN CHẶT VÀO WINDOW ĐẢM BẢO ROADMAP.HTML VÀ CÁC THẺ BUTTON KHÔNG BỊ LỖI
 if (typeof window !== 'undefined') {
   window.curriculumUI = curriculumUI;
+  window.triggerPrintRoadmap = () => curriculumUI.triggerPrintRoadmap();
+  window.cancelEditRoadmap = () => curriculumUI.cancelEditRoadmap();
 }
