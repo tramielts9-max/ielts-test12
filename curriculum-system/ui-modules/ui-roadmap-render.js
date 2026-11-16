@@ -1,10 +1,10 @@
 /**
  * curriculum-system/ui-modules/ui-roadmap-render.js
- * MODULE GIAO DIỆN LỘ TRÌNH 5 CHẶNG & ĐIỀU PHỐI AI GEMINI (ĐÃ GỠ BỎ TOÀN BỘ KHÓA)
- * BẢN FULL ĐẦY ĐỦ 100% - TÍCH HỢP HIỂN THỊ VIDEO LÝ THUYẾT & CHECK HOÀN THÀNH CHUẨN XÁC
- * - Điều phối giọng nói STT & Tải file báo cáo phân tích đầu vào
- * - Băm lộ trình 5 chặng với hạn ngạch 75% đề thật & Vòng lặp ôn tập 3 ngày
- * - Đã gỡ bỏ hoàn toàn cổng chờ duyệt Pending & màn hình tạm khóa học viên
+ * MODULE GIAO DIỆN LỘ TRÌNH 5 CHẶNG & ĐIỀU PHỐI AI GEMINI (BẢN FULL ĐẦY ĐỦ 100%)
+ * BẢN ĐÃ TỰ ĐỘNG HÓA 1-CLICK TỪ DIAGNOSTIC & TÍCH HỢP HỘP CÁT SANDBOX CHỐNG BẤM NHẦM
+ * - TỰ ĐỘNG HÓA 1-CLICK: Tự động trích xuất kết quả bài thi Diagnostic sang lộ trình AI
+ * - HỘP CÁT DRAFT SANDBOX: Bấm "Soạn lại" không bị mất lộ trình cũ, có nút HỦY BỎ an toàn
+ * - NÚT XUẤT PDF / IN LỘ TRÌNH: Chuẩn hóa xuất file PDF gửi phụ huynh học sinh
  * - Render 4 thẻ thống kê 3D Duolingo & Danh sách nhiệm vụ học hôm nay
  * - Hiển thị Đốt Video Lý thuyết có Popup xem YouTube trực tiếp
  * - Bộ lọc đối soát lịch sử phân biệt tuyệt đối giữa Full Passage vs Skill Mode
@@ -38,7 +38,7 @@ export class UIRoadmapRenderer {
     modalDiv.style.cssText = 'position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(15,23,42,0.8); z-index:99999; display:none; align-items:center; justify-content:center; padding:16px; backdrop-filter:blur(4px);';
 
     modalDiv.innerHTML = `
-      <div style="background:#FFFFFF; border-radius:24px; border:3px solid #E8E2D8; border-bottom:7px solid #D3CBC0; width:100%; max-width:800px; padding:20px; box-shadow:0 25px 50px rgba(0,0,0,0.3); position:relative;">
+      <div style="background:#FFFFFF; border-radius:24px; border:3px solid #E8E2D8; border-bottom:7px solid #D3CBC0; width:100%; max-width:800px; padding:20px; box-shadow:0 25px 50px rgba(0,0,0,0.3); position:relative; font-family:'Plus Jakarta Sans', system-ui, sans-serif;">
         <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:12px; gap:10px;">
           <div>
             <span id="rmTheoryModalBadge" style="background:#FEF3C7; color:#B45309; border:1px solid #FCD34D; font-size:11px; font-weight:900; padding:2px 8px; border-radius:6px; text-transform:uppercase;">
@@ -172,12 +172,70 @@ export class UIRoadmapRenderer {
   }
 
   // =========================================================================
-  // 2. CHẨN ĐOÁN & BĂM LỘ TRÌNH 5 CHẶNG BẰNG AI GEMINI
+  // 2. TỰ ĐỘNG HÓA 1-CLICK: TỰ RÚT KẾT QUẢ THI DIAGNOSTIC GẦN NHẤT ĐƯA VÀO AI
+  // =========================================================================
+  async autoGenerateFromLatestDiagnostic(studentEmail) {
+    const targetEmail = (studentEmail || this.context.getActiveWorkingEmail()).toLowerCase().trim();
+    const recentDiag = this.findRecentDiagnosticAttempt(targetEmail);
+
+    if (!recentDiag) {
+      alert(`⚠️ Không tìm thấy bài thi chẩn đoán (Diagnostic) nào của học viên [${targetEmail}] trên hệ thống!\nHãy cho học sinh làm bài thi đầu vào trước hoặc dán báo cáo điểm vào ô bên dưới.`);
+      return;
+    }
+
+    const det = recentDiag.details || {};
+    const blueprint = det.blueprintProfile || {};
+
+    // Tự động tổng hợp dữ liệu bài thi thành bản hồ sơ chuẩn xác
+    const summaryLines = [
+      `[HỒ SƠ HỌC THUẬT TỰ ĐỘNG RÚT TRÍCH TỪ BÀI THI DIAGNOSTIC]`,
+      `- Học viên: ${targetEmail}`,
+      `- Bài thi gốc: ${recentDiag.testTitle || 'Diagnostic Test 1'} (Thời gian làm: ${recentDiag.timeSpent || 'N/A'})`,
+      `- Điểm số chi tiết: Ngữ pháp ${det.gScore || 'N/A'}, Nghe ${det.lScore || 'N/A'}, Đọc ${det.rScore || 'N/A'}, Viết Band ${det.wBand || 'N/A'}, Nói Band ${det.sBand || 'N/A'}`,
+      `- Điểm tổng hợp chẩn đoán: ${recentDiag.score || det.overallScore || 'N/A'}`
+    ];
+
+    if (Array.isArray(det.gWrongList) && det.gWrongList.length > 0) {
+      summaryLines.push(`- Lỗi sai Ngữ pháp: ${det.gWrongList.map(w => `Câu ${w.num} (${w.explanation || w.topic || ''})`).join('; ')}`);
+    }
+
+    if (Array.isArray(blueprint.failedReadingSkills) && blueprint.failedReadingSkills.length > 0) {
+      summaryLines.push(`- Lỗ hổng Reading: ${blueprint.failedReadingSkills.join(', ')}`);
+    }
+
+    if (Array.isArray(blueprint.failedListeningSkills) && blueprint.failedListeningSkills.length > 0) {
+      summaryLines.push(`- Lỗ hổng Listening: ${blueprint.failedListeningSkills.join(', ')}`);
+    }
+
+    if (det.wt1Text) {
+      summaryLines.push(`- Bài viết Task 1: ${det.wt1Text}`);
+    }
+    if (det.wt2Text) {
+      summaryLines.push(`- Bài viết Task 2: ${det.wt2Text}`);
+    } else {
+      summaryLines.push(`- Bài viết Task 2: (Học sinh bỏ trắng hoàn toàn 0 từ - Cần đặc trị)`);
+    }
+
+    const synthesizedPrompt = summaryLines.join('\n');
+
+    // Tự động điền vào khung văn bản chẩn đoán
+    const area = document.getElementById('diagTextInput');
+    if (area) {
+      area.value = synthesizedPrompt;
+      area.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    // Tự động kích hoạt AI phân tích ngay lập tức
+    await this.runAIDiagnostic();
+  }
+
+  // =========================================================================
+  // 3. CHẨN ĐOÁN & BĂM LỘ TRÌNH 5 CHẶNG BẰNG AI GEMINI
   // =========================================================================
   async runAIDiagnostic() {
     const text = document.getElementById('diagTextInput')?.value?.trim();
     if (!text) {
-      alert("⚠️ Em vui lòng nói vào micro hoặc dán báo cáo trước khi chẩn đoán nhé!");
+      alert("⚠️ Em vui lòng nói vào micro, bấm nút tự động rút trích hoặc dán báo cáo trước khi chẩn đoán nhé!");
       return;
     }
     const btn = document.getElementById('btnStartAIAnalyze');
@@ -272,9 +330,14 @@ export class UIRoadmapRenderer {
             <span>⏱️ BTVN: <b>${stats.days} ngày</b> (${stats.hours}h tự cày)</span>
           </div>
 
-          <button type="button" onclick="window.curriculumUI.applyBandRoadmap(${startB}, ${targetB}, ${JSON.stringify(result).replace(/"/g, '&quot;')})" style="background:#16a34a; color:white; border:none; padding:12px 18px; border-radius:12px; font-weight:900; font-size:14px; cursor:pointer; width:100%; box-shadow:0 3px 0 #15803d;">
-            🚀 Phê Duyệt & Kích Hoạt Lộ Trình Này Cho [${targetEmail}]
-          </button>
+          <div style="display:flex; gap:10px; flex-wrap:wrap;">
+            <button type="button" onclick="window.curriculumUI.applyBandRoadmap(${startB}, ${targetB}, ${JSON.stringify(result).replace(/"/g, '&quot;')})" style="flex:1; min-width:240px; background:#16a34a; color:white; border:none; padding:12px 18px; border-radius:12px; font-weight:900; font-size:14px; cursor:pointer; box-shadow:0 3px 0 #15803d;">
+              🚀 Phê Duyệt & Kích Hoạt Lộ Trình Này Cho [${targetEmail}]
+            </button>
+            <button type="button" onclick="window.curriculumUI.cancelEditRoadmap()" style="background:#FFFFFF; color:#DC2626; border:2px solid #FCA5A5; padding:12px 18px; border-radius:12px; font-weight:900; font-size:13.5px; cursor:pointer;">
+              ✕ Hủy Bỏ
+            </button>
+          </div>
         </div>
       `;
     } catch (e) {
@@ -286,6 +349,9 @@ export class UIRoadmapRenderer {
     }
   }
 
+  // =========================================================================
+  // 4. ÁP DỤNG LỘ TRÌNH VỚI CHỐT CHẶN AN TOÀN SANDBOX
+  // =========================================================================
   applyBandRoadmap(startBand, targetBand, aiData = null) {
     const targetEmail = this.context.getActiveWorkingEmail();
     const sBand = parseFloat(startBand) || 0.0;
@@ -296,10 +362,13 @@ export class UIRoadmapRenderer {
       return;
     }
 
-    const isAdmin = this.context.checkIsAdmin();
     const retainedNodes = curriculumEngineSystem.pruneCurriculumByBands(sBand, tBand, aiData || {});
     const totals = curriculumEngineSystem.calculateTotals(retainedNodes, 'normal', 1.5, sBand, tBand);
     const scheduleData = curriculumEngineSystem.generateDailyCalendar(retainedNodes, 'normal', 1.5, sBand, tBand, aiData || {});
+
+    // Giữ lại danh sách bài tập đã nộp trước đó của học sinh nếu có
+    const existingRoadmap = this.context.getSavedRoadmap(targetEmail);
+    const completedNodeIds = Array.isArray(existingRoadmap?.completedNodeIds) ? existingRoadmap.completedNodeIds : [];
 
     const payload = {
       createdAt: new Date().toISOString(),
@@ -308,19 +377,21 @@ export class UIRoadmapRenderer {
       targetBand: tBand,
       speedProfile: 'normal',
       dailyHours: 1.5,
-      currentDay: 1,
+      currentDay: existingRoadmap?.currentDay || 1,
       totals,
       schedule: scheduleData.dailySchedule,
-      completedNodeIds: [],
+      completedNodeIds: completedNodeIds,
       aiDiagnosticData: aiData,
       isLockedByAdmin: false,
-      // Luôn mở khóa và phê duyệt ngay cho cả học viên lẫn giáo viên
       approvalStatus: "approved"
     };
 
+    // Lưu vào Active Roadmap chính thức và dọn dẹp nháp Sandbox
     this.context.saveRoadmap(targetEmail, payload);
+    this.context.clearDraftRoadmap(targetEmail);
     this.context.isForceEditing = false;
     this.context.suppressCloudFetchForEmail = '';
+    
     alert(`✅ Đã phê duyệt và kích hoạt lộ trình 5 chặng (${totals.totalLiveSessions} buổi - ${totals.totalDays} ngày) cho học viên: ${targetEmail}!`);
     this.context.render();
   }
@@ -331,6 +402,7 @@ export class UIRoadmapRenderer {
     if (confirm(`⚠️ Bạn có chắc muốn XÓA LỘ TRÌNH và thiết lập lại từ đầu cho [${email}] không?`)) {
       try {
         localStorage.removeItem(this.context.getStorageKey(email));
+        this.context.clearDraftRoadmap(email);
       } catch (e) {}
       this.context.syncRoadmapToCloud(email, null);
       this.context.suppressCloudFetchForEmail = email;
@@ -340,7 +412,7 @@ export class UIRoadmapRenderer {
   }
 
   // =========================================================================
-  // 3. CỔNG DUYỆT ADMIN GATE: BẮC CẦU & CÁC STUB GIỮ TƯƠNG THÍCH API
+  // 5. CỔNG DUYỆT ADMIN GATE: BẮC CẦU & CÁC STUB GIỮ TƯƠNG THÍCH API
   // =========================================================================
   findRecentDiagnosticAttempt(email) {
     try {
@@ -406,7 +478,7 @@ export class UIRoadmapRenderer {
   }
 
   // =========================================================================
-  // BỘ ĐỐI SOÁT HOÀN THÀNH CHUẨN XÁC: PHÂN BIỆT ĐỐT VIDEO, FULL PASSAGE VÀ SKILL MODE
+  // 6. BỘ ĐỐI SOÁT HOÀN THÀNH CHUẨN XÁC: PHÂN BIỆT ĐỐT VIDEO, FULL PASSAGE VÀ SKILL MODE
   // =========================================================================
   resolveNodeCompletionInfo(node, email) {
     // 1. Nếu là Đốt Video Lý Thuyết -> Tra cứu từ kho TheoryVideoEngine
@@ -474,7 +546,7 @@ export class UIRoadmapRenderer {
   }
 
   // =========================================================================
-  // 4. RENDER GIAO DIỆN CHÍNH: FORM THIẾT LẬP HOẶC BẢN ĐỒ LỘ TRÌNH 5 CHẶNG
+  // 7. RENDER GIAO DIỆN CHÍNH: CÓ BANNER AN TOÀN CHỐNG MẤT BÀI & NÚT XUẤT PDF
   // =========================================================================
   async renderRoadmap(targetContainerId = 'roadmapSectionMount') {
     const container = document.getElementById(targetContainerId);
@@ -510,14 +582,36 @@ export class UIRoadmapRenderer {
     const adminBarHtml = this.context.adminGateMgr.renderAdminControlBar();
     const floatingBarHtml = this.context.adminGateMgr.renderFloatingImpersonationBar();
 
-    const adminPendingCardHtml = '';
-
-    // 4. Nếu chưa có dữ liệu hoặc Admin chủ động bấm "Soạn Lại"
+    // 🔴 CHỐT CHẶN AN TOÀN: NẾU ĐANG Ở CHẾ ĐỘ SOẠN LẠI HOẶC CHƯA CÓ LỘ TRÌNH
     if (!data || this.context.isForceEditing) {
+      const hasExistingRoadmap = !!data;
+
       container.innerHTML = `
         <div class="cs-container">
           ${adminBarHtml}
           ${floatingBarHtml}
+
+          ${hasExistingRoadmap ? `
+            <!-- BANNER HỘP CÁT AN TOÀN (CHỐNG MẤT BÀI KHI BẤM NHẦM) -->
+            <div style="background:#FEF2F2; border:2.5px solid #EF4444; border-bottom:5px solid #DC2626; border-radius:18px; padding:16px 20px; margin-bottom:20px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
+              <div>
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <span style="font-size:20px;">🛡️</span>
+                  <b style="color:#991B1B; font-size:15px; text-transform:uppercase;">
+                    CHẾ ĐỘ SOẠN THẢO NHÁP AN TOÀN (DRAFT SANDBOX)
+                  </b>
+                </div>
+                <div style="font-size:13px; color:#7F1D1D; font-weight:700; margin-top:4px;">
+                  Lộ trình hiện tại của học viên <b style="color:#1E293B;">${email}</b> (Band ${data.startBand || 0.0} ➔ ${data.targetBand || 7.0}) <b>VẪN ĐANG ĐƯỢC BẢO VỆ 100%</b>.<br>
+                  Nếu bạn lỡ bấm nhầm hoặc không muốn thay đổi nữa, hãy bấm nút HỦY BỎ bên cạnh!
+                </div>
+              </div>
+              <button type="button" onclick="window.curriculumUI.cancelEditRoadmap()" class="btn-3d" style="background:#FFFFFF; color:#DC2626 !important; border:2px solid #EF4444; border-bottom:4px solid #B91C1C; padding:10px 18px; font-weight:900; font-size:13.5px; border-radius:12px; cursor:pointer;">
+                ✕ HỦY BỎ & GIỮ NGUYÊN LỘ TRÌNH CŨ
+              </button>
+            </div>
+          ` : ''}
+
           <div style="text-align:center; padding:10px;">
             <h3 style="margin:0 0 6px 0; font-size:22px; font-weight:900; color:#8B1518;">
               🎯 THIẾT LẬP LỘ TRÌNH CHO: <span style="color:#0284c7;">${email}</span>
@@ -526,6 +620,7 @@ export class UIRoadmapRenderer {
               Lộ trình tính xuôi theo số buổi học (300k/buổi - 12 buổi/tháng) hoặc phân tích tự động bằng AI Gemini:
             </p>
 
+            <!-- TÙY CHỌN 1: FORM CHỌN BAND CƠ BẢN -->
             <div style="background:#FAF7F2; border:2px solid #E8E2D8; border-radius:18px; padding:20px; max-width:620px; margin:0 auto 20px auto; display:flex; flex-direction:column; gap:14px;">
               <div style="display:grid; grid-template-columns:1fr 1fr; gap:14px; text-align:left;">
                 <div>
@@ -565,18 +660,27 @@ export class UIRoadmapRenderer {
               </button>
             </div>
 
+            <!-- TÙY CHỌN 2: CHẨN ĐOÁN TỰ ĐỘNG BẰNG AI GEMINI (CÓ NÚT 1-CLICK TỰ RÚT DATA) -->
             <div class="cs-diag-box">
               <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
                 <div>
-                  <b style="color:#0369a1; font-size:14px;"><i class="fa-solid fa-wand-magic-sparkles"></i> CHẨN ĐOÁN & BĂM 5 CHẶNG TUẦN TỰ BẰNG AI GEMINI</b>
-                  <div style="font-size:12.5px; color:#64748b; margin-top:2px; font-weight:700;">Dán báo cáo điểm chi tiết hoặc nói tự thuật, AI sẽ băm đúng 5 Chặng tuần tự:</div>
+                  <b style="color:#0369a1; font-size:15px;"><i class="fa-solid fa-wand-magic-sparkles"></i> CHẨN ĐOÁN & BĂM 5 CHẶNG TUẦN TỰ BẰNG AI GEMINI</b>
+                  <div style="font-size:12.5px; color:#64748b; margin-top:2px; font-weight:700;">Hệ thống tự động đọc bài thi chẩn đoán gần nhất hoặc nhận văn bản tự thuật:</div>
                 </div>
-                <button type="button" id="btnDiagMic" class="cs-diag-mic-btn" onclick="window.curriculumUI.toggleMicrophone()">
-                  <i class="fa-solid fa-microphone"></i> Bấm để nói tự thuật trình độ
-                </button>
+
+                <div style="display:flex; gap:8px; flex-wrap:wrap;">
+                  <!-- NÚT 1-CLICK TỰ ĐỘNG HÓA HOÀN TOÀN TỪ KẾT QUẢ THI DIAGNOSTIC -->
+                  <button type="button" onclick="window.curriculumUI.autoGenerateFromLatestDiagnostic('${email}')" class="btn-3d" style="background:#059669; color:white; border:none; padding:9px 16px; border-radius:12px; font-weight:900; font-size:13px; cursor:pointer; display:inline-flex; align-items:center; gap:6px; box-shadow:0 3px 0 #047857;" title="Tự động lấy bài làm của học sinh này từ phòng thi Diagnostic và băm lộ trình ngay">
+                    <i class="fa-solid fa-bolt"></i> 1-Click Tự Động Băm Từ Bài Thi Đầu Vào
+                  </button>
+
+                  <button type="button" id="btnDiagMic" class="cs-diag-mic-btn" onclick="window.curriculumUI.toggleMicrophone()">
+                    <i class="fa-solid fa-microphone"></i> Bấm để nói tự thuật
+                  </button>
+                </div>
               </div>
 
-              <textarea id="diagTextInput" class="cs-diag-textarea" placeholder="Dán toàn bộ bản phân tích điểm hoặc gõ tự thuật..."></textarea>
+              <textarea id="diagTextInput" class="cs-diag-textarea" placeholder="Nội dung phân tích học thuật sẽ tự động điền vào đây khi bạn bấm nút '1-Click Tự Động' ở trên, hoặc bạn cũng có thể dán thủ công..."></textarea>
 
               <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
                 <div style="display:flex; align-items:center; gap:8px;">
@@ -587,9 +691,16 @@ export class UIRoadmapRenderer {
                   <span id="diagMicStatus" style="font-size:12.5px; color:#16a34a; font-weight:bold;"></span>
                 </div>
 
-                <button type="button" id="btnStartAIAnalyze" onclick="window.curriculumUI.runAIDiagnostic()" style="background:#0284c7; color:white; border:none; padding:10px 20px; border-radius:10px; font-weight:800; font-size:13.5px; cursor:pointer;">
-                  ⚡ Gửi AI Phân Tích & Băm Lộ Trình 5 Chặng
-                </button>
+                <div style="display:flex; gap:8px;">
+                  <button type="button" id="btnStartAIAnalyze" onclick="window.curriculumUI.runAIDiagnostic()" style="background:#0284c7; color:white; border:none; padding:10px 20px; border-radius:10px; font-weight:800; font-size:13.5px; cursor:pointer;">
+                    ⚡ Gửi AI Phân Tích & Băm Lộ Trình 5 Chặng
+                  </button>
+                  ${hasExistingRoadmap ? `
+                    <button type="button" onclick="window.curriculumUI.cancelEditRoadmap()" style="background:#FFFFFF; color:#64748B; border:1.5px solid #CBD5E1; padding:10px 16px; border-radius:10px; font-weight:800; font-size:13px; cursor:pointer;">
+                      ✕ Hủy
+                    </button>
+                  ` : ''}
+                </div>
               </div>
 
               <div id="diagAIResultContainer" style="display:none;"></div>
@@ -620,7 +731,6 @@ export class UIRoadmapRenderer {
       <div class="cs-container">
         ${adminBarHtml}
         ${floatingBarHtml}
-        ${adminPendingCardHtml}
 
         <!-- BANNER ĐỒNG BỘ SỐ NGÀY ĐỘNG (${totalDaysCount} NGÀY) -->
         <div style="background: linear-gradient(135deg, #8B1518 0%, #B91C1C 100%); border-radius: 18px; padding: 20px 24px; margin-bottom: 22px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 14px; box-shadow: 0 4px 0 #5E0C0E; color: white;">
@@ -641,17 +751,22 @@ export class UIRoadmapRenderer {
           </div>
           
           <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-            <a href="curriculum-system/roadmap.html?studentEmail=${encodeURIComponent(email)}" class="btn-3d" style="background: #FFFFFF; color: #8B1518 !important; border-bottom: 4px solid rgba(0,0,0,0.18); font-size: 14.5px; padding: 12px 22px;">
+            <a href="curriculum-system/roadmap.html?studentEmail=${encodeURIComponent(email)}" class="btn-3d" style="background: #FFFFFF; color: #8B1518 !important; border-bottom: 4px solid rgba(0,0,0,0.18); font-size: 14px; padding: 11px 20px;">
               🚀 XEM TOÀN BỘ LỘ TRÌNH &rarr;
             </a>
 
+            <!-- NÚT XUẤT FILE IN / PDF CHUẨN A4 -->
+            <button type="button" onclick="window.curriculumUI.triggerPrintRoadmap()" class="btn-3d" style="background: #059669; color: #FFFFFF !important; border-bottom: 4px solid #047857; padding: 11px 18px; font-size: 13.5px; display:inline-flex; align-items:center; gap:6px;" title="In hoặc xuất file PDF toàn bộ lộ trình gửi cho phụ huynh học sinh">
+              <i class="fa-solid fa-file-pdf"></i> In / Xuất PDF
+            </button>
+
             ${isAdmin ? `
-              <button type="button" onclick="window.curriculumUI.triggerEditRoadmap()" class="btn-3d" style="background: #3B82F6; color: #FFFFFF !important; border-bottom: 4px solid #1D4ED8; padding: 12px 16px; font-size: 13.5px;" title="Soạn lại hoặc điều chỉnh bằng AI">
+              <button type="button" onclick="window.curriculumUI.triggerEditRoadmap()" class="btn-3d" style="background: #3B82F6; color: #FFFFFF !important; border-bottom: 4px solid #1D4ED8; padding: 11px 16px; font-size: 13.5px;" title="Soạn lại hoặc điều chỉnh bằng AI (Lộ trình cũ được bảo vệ)">
                 ✏️ Soạn lại
               </button>
             ` : ''}
 
-            <button type="button" onclick="window.curriculumUI.resetRoadmap()" class="btn-3d" style="background: rgba(255,255,255,0.2); color: #FFFFFF !important; border: 1.5px solid rgba(255,255,255,0.4); border-bottom: 4px solid rgba(0,0,0,0.2); padding: 12px 16px; font-size: 13.5px;" title="Xóa và thiết lập lại từ đầu">
+            <button type="button" onclick="window.curriculumUI.resetRoadmap()" class="btn-3d" style="background: rgba(255,255,255,0.2); color: #FFFFFF !important; border: 1.5px solid rgba(255,255,255,0.4); border-bottom: 4px solid rgba(0,0,0,0.2); padding: 11px 16px; font-size: 13.5px;" title="Xóa và thiết lập lại từ đầu">
               🔄 Đặt lại
             </button>
           </div>
@@ -718,7 +833,7 @@ export class UIRoadmapRenderer {
                       ${isDone ? '✓ ' : ''}${node.title}
                     </div>
                     <div style="font-size: 13px; color: #92400E; background: #FEF9C3; border: 1.5px solid #FDE047; padding: 6px 12px; border-radius: 10px; margin-top: 6px; line-height: 1.45; font-weight: 700;">
-                      💡 <b>Chiến lược:</b> ${node.benefit || 'Xem kỹ video trước khi bước vào giải 5 bài tập thực chiến bên dưới!'}
+                      💡 <b>Chiến lược:</b> ${node.benefit || 'Xem kỹ video trước khi bước vào giải các bài tập thực chiến bên dưới!'}
                     </div>
                   </div>
 
