@@ -37,6 +37,15 @@
     }
     .btn-back:hover { background: #FAF7F2; }
 
+    /* NÚT XUẤT FILE IN / PDF CHUẨN A4 */
+    .btn-print-pdf {
+      background: #059669; color: #FFFFFF !important; border: 2px solid #047857;
+      border-bottom: 4px solid #065F46; border-radius: 12px; padding: 8px 16px;
+      font-weight: 900; font-size: 13.5px; cursor: pointer; display: inline-flex;
+      align-items: center; gap: 6px; transition: all 0.15s ease;
+    }
+    .btn-print-pdf:hover { background: #047857; transform: translateY(-1px); }
+
     .ai-summary-card {
       background: #FFFFFF; border: 2.5px solid #E8E2D8; border-bottom: 5px solid #D3CBC0;
       border-radius: 20px; padding: 20px 24px; margin-bottom: 22px; box-shadow: 0 4px 12px rgba(0,0,0,0.03);
@@ -75,19 +84,117 @@
       justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;
     }
     .node-row:last-child { border-bottom: none; }
+
+    /* KHUNG THÔNG TIN DÀNH RIÊNG CHO BẢN IN PDF (MẶC ĐỊNH ẨN TRÊN MÀN HÌNH) */
+    .print-institutional-header {
+      display: none;
+    }
+
+    /* =========================================================================
+       CSS TỐI ƯU HÓA KHI IN HOẶC XUẤT FILE PDF KHỔ GIẤY A4
+       ========================================================================= */
+    @media print {
+      body {
+        background-color: #FFFFFF !important;
+        background-image: none !important;
+        color: #000000 !important;
+        margin: 0 !important;
+        padding: 10mm 12mm !important;
+        font-size: 11pt !important;
+      }
+      .roadmap-wrapper {
+        max-width: 100% !important;
+        margin: 0 !important;
+      }
+      /* Ẩn các phần tử thừa khi in ấn */
+      .top-nav, .quick-jump-bar, #roadmapFloatingMount, .no-print, a.btn-back, .btn-print-pdf {
+        display: none !important;
+      }
+      /* Hiện khung tiêu đề trịnh trọng cho bản PDF */
+      .print-institutional-header {
+        display: block !important;
+        border-bottom: 2.5px solid #8B1518 !important;
+        padding-bottom: 14px !important;
+        margin-bottom: 20px !important;
+      }
+      .print-grid-stats {
+        display: grid !important;
+        grid-template-columns: repeat(4, 1fr) !important;
+        gap: 10px !important;
+        margin-top: 14px !important;
+      }
+      .print-stat-item {
+        border: 1.5px solid #CBD5E1 !important;
+        border-radius: 10px !important;
+        padding: 8px 12px !important;
+        text-align: center !important;
+      }
+      /* Chống gãy trang vô lý */
+      .day-card, .phase-milestone-banner, .ai-summary-card {
+        page-break-inside: avoid !important;
+        break-inside: avoid !important;
+        box-shadow: none !important;
+        border: 1.5px solid #CBD5E1 !important;
+        margin-bottom: 14px !important;
+      }
+      .phase-milestone-banner {
+        background: #1E293B !important;
+        color: #FFFFFF !important;
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+      }
+      .day-card-header {
+        background: #F1F5F9 !important;
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+      }
+      /* Không in đuôi link URL ra giấy */
+      a[href]::after {
+        content: none !important;
+      }
+    }
   </style>
 </head>
 <body>
 
 <div class="roadmap-wrapper">
 
+  <!-- KHUNG TIÊU ĐỀ TRỊNH TRỌNG XUẤT HIỆN TRÊN BẢN IN PDF GỬI PHỤ HUYNH -->
+  <div class="print-institutional-header" id="printHeaderMount">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 16px;">
+      <div>
+        <h1 style="margin: 0; font-size: 22px; font-weight: 900; color: #8B1518; text-transform: uppercase;">
+          TRẠM IELTS — BẢN ĐỒ LỘ TRÌNH ĐÀO TẠO 5 CHẶNG
+        </h1>
+        <div style="font-size: 13px; color: #475569; font-weight: 700; margin-top: 4px;">
+          Chương trình cá nhân hóa theo phương pháp băm chặng tuần tự & cố vấn học thuật
+        </div>
+      </div>
+      <div style="text-align: right; font-size: 12.5px; color: #1E293B; line-height: 1.5;">
+        <div>Học viên: <b id="printStudentEmailText" style="color: #0284C7;">...</b></div>
+        <div>Ngày xuất: <b id="printGeneratedDate">...</b></div>
+      </div>
+    </div>
+
+    <!-- 4 Ô THÔNG TIN TÓM TẮT DÀNH CHO PHỤ HUYNH TRÊN BẢN PDF -->
+    <div class="print-grid-stats" id="printStatsMount"></div>
+  </div>
+
   <div class="top-nav">
     <a href="../index.html" class="btn-back">⬅ Quay lại Màn hình chính</a>
     <div style="font-size: 18px; font-weight: 900; color: #8B1518;">
       🗺️ BẢN ĐỒ TOÀN CẢNH LỘ TRÌNH 5 CHẶNG CHI TIẾT
     </div>
-    <div id="roadmapTargetBadge" style="font-size: 13px; font-weight: 900; background: #FFF4E5; color: #D97706; padding: 4px 12px; border-radius: 12px; border: 1px solid #FCD34D;">
-      Đang tải...
+    
+    <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+      <!-- NÚT XUẤT PDF / IN LỘ TRÌNH -->
+      <button type="button" onclick="window.print()" class="btn-print-pdf" title="In hoặc lưu file PDF toàn bộ lộ trình này để gửi cho phụ huynh">
+        <i class="fa-solid fa-file-pdf"></i> In / Xuất PDF
+      </button>
+
+      <div id="roadmapTargetBadge" style="font-size: 13px; font-weight: 900; background: #FFF4E5; color: #D97706; padding: 6px 14px; border-radius: 12px; border: 1px solid #FCD34D;">
+        Đang tải...
+      </div>
     </div>
   </div>
 
@@ -140,7 +247,13 @@
     const floatMount = document.getElementById('roadmapFloatingMount');
     const adminApprovalMount = document.getElementById('roadmapAdminApprovalMount');
 
-    const isAdmin = curriculumUI.checkIsAdmin();
+    // Cập nhật thông tin lên Khung Header Bản In PDF
+    const printEmail = document.getElementById('printStudentEmailText');
+    const printDate = document.getElementById('printGeneratedDate');
+    const printStats = document.getElementById('printStatsMount');
+
+    if (printEmail) printEmail.innerText = email;
+    if (printDate) printDate.innerText = new Date().toLocaleDateString('vi-VN');
 
     if (curriculumUI.isImpersonating()) {
       floatMount.innerHTML = `
@@ -168,10 +281,32 @@
     }
 
     const totalDays = data.schedule.length;
-    // Đã gỡ bỏ cổng khóa Pending Approval & Lock Admin Gate -> mọi học viên xem thẳng toàn bộ lộ trình
     if (adminApprovalMount) adminApprovalMount.innerHTML = '';
 
     badge.innerText = `Chặng: Band ${data.startBand || 0.0} ➔ ${data.targetBand || 7.0} (${totalDays} ngày - ${data.totals?.totalLiveSessions || 42} buổi)`;
+
+    // Đổ dữ liệu 4 thẻ tóm tắt lên Bản In PDF
+    if (printStats) {
+      const tot = data.totals || {};
+      printStats.innerHTML = `
+        <div class="print-stat-item">
+          <div style="font-size:11px; font-weight:800; color:#64748B;">MỤC TIÊU BAND</div>
+          <b style="font-size:16px; color:#8B1518;">${data.startBand || 0.0} ➔ ${data.targetBand || 7.0}</b>
+        </div>
+        <div class="print-stat-item">
+          <div style="font-size:11px; font-weight:800; color:#64748B;">LỚP HỌC GIÁO VIÊN</div>
+          <b style="font-size:16px; color:#0284C7;">${tot.totalLiveSessions || 0} buổi (${tot.totalTeacherHours || 0}h)</b>
+        </div>
+        <div class="print-stat-item">
+          <div style="font-size:11px; font-weight:800; color:#64748B;">HỌC PHÍ TOÀN KHÓA</div>
+          <b style="font-size:16px; color:#15803D;">${tot.tuitionVND || '0đ'}</b>
+        </div>
+        <div class="print-stat-item">
+          <div style="font-size:11px; font-weight:800; color:#64748B;">THỜI GIAN ĐÀO TẠO</div>
+          <b style="font-size:16px; color:#D97706;">${totalDays} ngày (${tot.estimatedMonths || 0} tháng)</b>
+        </div>
+      `;
+    }
 
     // 3. RENDER BANNER HỒ SƠ HỌC THUẬT & ĐƠN THUỐC ĐIỀU PHỐI TỪ AI
     const ai = data.aiDiagnosticData;
@@ -252,7 +387,7 @@
       </div>
     `;
 
-    // 5. DANH SÁCH 91 NGÀY HỌC PHÂN BỔ THEO 5 KHỐI CHẶNG
+    // 5. DANH SÁCH TOÀN BỘ CÁC NGÀY HỌC PHÂN BỔ THEO 5 KHỐI CHẶNG
     let html = '';
     let lastRenderedPhaseId = '';
 
@@ -289,7 +424,6 @@
       `;
 
       (day.nodes || []).forEach(node => {
-        // CÔ LẬP LỊCH SỬ THỰC TẾ: CHỈ ĐỌC BÀI CỦA ĐÚNG HỌC VIÊN ĐÓ
         const compInfo = curriculumUI.getNodeCompletionInfo(node, email);
         const isDone = compInfo.isCompleted;
         const taskUrl = resolvePath(node.url);
