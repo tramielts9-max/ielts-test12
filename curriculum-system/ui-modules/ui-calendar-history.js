@@ -6,6 +6,7 @@
  * - Tích hợp buổi học trực tiếp (🔴 Lớp 1-1 & 👥 Lớp nhóm) lên từng ô lịch
  * - Thuật toán tính Streak ngọn lửa chính xác có bảo lưu ngày hôm qua
  * - Bóc tách lịch sử nộp bài độc lập từng học sinh & Điều hướng Review link
+ * - Đối soát chính xác tiến độ Video Lý Thuyết & phân biệt tuyệt đối Reading 101-320 Full vs Skill Mode
  */
 
 import { CONFIG } from '../../js/config.js';
@@ -67,6 +68,33 @@ export class UICalendarHistoryManager {
   // =========================================================================
   getNodeCompletionInfo(node, specifiedEmail = null) {
     try {
+      // 0. Nếu là Đốt Video Lý Thuyết -> Tra cứu trạng thái đã xem từ TheoryVideoEngine / LocalStorage
+      if (node && (node.isTheoryVideo || node.type === 'THEORY')) {
+        const vidId = node.videoId || node.id;
+        let isTheoryDone = false;
+        if (typeof window !== 'undefined' && window.theoryVideoEngine?.isCompleted) {
+          isTheoryDone = window.theoryVideoEngine.isCompleted(vidId);
+        } else {
+          try {
+            const arr = JSON.parse(localStorage.getItem('tram_theory_completed_vids') || '[]');
+            isTheoryDone = Array.isArray(arr) && arr.includes(vidId);
+          } catch (e) {}
+        }
+        if (isTheoryDone) {
+          return {
+            isCompleted: true,
+            totalAttempts: 1,
+            firstAttempt: {
+              score: 'Đã xem',
+              timeSpent: 'Lý thuyết',
+              timestamp: 'Hoàn thành'
+            },
+            latestAttempt: null
+          };
+        }
+        return { isCompleted: false, totalAttempts: 0 };
+      }
+
       const activeEmail = (specifiedEmail || this.context?.getActiveWorkingEmail?.() || 'guest').toLowerCase().trim();
       const adminEmail = (localStorage.getItem('ielts_admin_backup_email') || 'tramielts9@gmail.com').toLowerCase().trim();
       
@@ -80,26 +108,57 @@ export class UICalendarHistoryManager {
         history = studentRaw ? JSON.parse(studentRaw) : [];
       } else {
         history = stateManager?.getLocalHistory?.() || [];
+        if ((!Array.isArray(history) || history.length === 0) && activeEmail !== 'guest') {
+          const fallbackRaw = localStorage.getItem(`ielts_history_${activeEmail}`);
+          history = fallbackRaw ? JSON.parse(fallbackRaw) : [];
+        }
       }
 
       if (!Array.isArray(history)) history = [];
 
-      const matches = history.filter(item => {
-        if (!item) return false;
-        const t = (item.testTitle || '').toLowerCase();
-        const nTitle = (node?.title || '').toLowerCase();
-        const nId = (node?.id || '').toLowerCase();
-        const u = (item.pageUrl || '').toLowerCase();
-        const nu = (node?.url || '').toLowerCase();
+      // Đối soát tách biệt tuyệt đối cho kho Reading Sưu tầm 101-320 (Full vs ?skill=...)
+      const nodeUrl = String(node?.url || '').toLowerCase();
+      const isCollectionNode = nodeUrl.includes('data-r/collection/');
+      let matches = [];
 
-        const matchId = nId && t.includes(nId);
-        const matchTitle = (nTitle && t.includes(nTitle)) || (t && nTitle.includes(t));
-        const matchUrl = nu && u && (u.includes(nu) || nu.includes(u));
-        const codeInNode = node?.url?.match(/[\d]+[\-\.][\d]+/)?.[0];
-        const matchCode = codeInNode && t.includes(codeInNode);
+      if (isCollectionNode) {
+        const isSkillTask = nodeUrl.includes('skill=');
+        const matchCode = nodeUrl.match(/st-(\d+)/i);
+        const targetCode = matchCode ? matchCode[0].toLowerCase() : '';
+        const matchSkill = nodeUrl.match(/skill=([^&]+)/i);
+        const targetSkill = matchSkill ? matchSkill[1].toLowerCase() : '';
 
-        return matchId || matchTitle || matchUrl || matchCode;
-      });
+        if (targetCode) {
+          matches = history.filter(item => {
+            if (!item) return false;
+            const pUrl = String(item.pageUrl || item.url || '').toLowerCase();
+            const isReadRec = item.moduleType === 'reading' || pUrl.includes('runner-reading');
+            if (!isReadRec || !pUrl.includes(targetCode)) return false;
+
+            if (isSkillTask) {
+              return targetSkill ? pUrl.includes(`skill=${targetSkill}`) : pUrl.includes('skill=');
+            }
+            return !pUrl.includes('skill=');
+          });
+        }
+      } else {
+        matches = history.filter(item => {
+          if (!item) return false;
+          const t = (item.testTitle || '').toLowerCase();
+          const nTitle = (node?.title || '').toLowerCase();
+          const nId = (node?.id || '').toLowerCase();
+          const u = (item.pageUrl || '').toLowerCase();
+          const nu = (node?.url || '').toLowerCase();
+
+          const matchId = nId && t.includes(nId);
+          const matchTitle = (nTitle && t.includes(nTitle)) || (t && nTitle.includes(t));
+          const matchUrl = nu && u && (u.includes(nu) || nu.includes(u));
+          const codeInNode = node?.url?.match(/[\d]+[\-\.][\d]+/)?.[0];
+          const matchCode = codeInNode && t.includes(codeInNode);
+
+          return matchId || matchTitle || matchUrl || matchCode;
+        });
+      }
 
       if (matches.length > 0) {
         matches.sort((a, b) => {
