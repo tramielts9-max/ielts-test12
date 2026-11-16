@@ -2,6 +2,7 @@
  * js/theory-video-engine.js - HẠ TẦNG QUẢN LÝ VIDEO LÝ THUYẾT & CHIẾN THUẬT IELTS MASTER
  * TÍCH HỢP CHUYỂN ĐỔI THÀNH ĐỐT SỐNG LỘ TRÌNH (CURRICULUM NODES) KÈM CHỈ TIÊU 5 BÀI TẬP
  * BẢN FULL ĐẦY ĐỦ 100% - BẢO TOÀN NGUYÊN VẸN MỌI TÍNH NĂNG CŨ VÀ TƯƠNG THÍCH HOÀN TOÀN
+ * - BỔ SUNG ÁNH XẠ TỰ ĐỘNG DẠNG BÀI VIDEO -> SKILL TAGS CHUẨN CỦA KHO READING 101-320
  */
 
 import { CONFIG } from './config.js';
@@ -431,6 +432,50 @@ class TheoryVideoEngine {
     return 'S4';
   }
 
+  // Ánh xạ tên Dạng bài Video Lý thuyết sang Skill Tags chuẩn của bộ Reading 101-320
+  inferReadingSkillTags(category = '', title = '', targetExerciseTag = '') {
+    const combined = `${this.normalizeCategory(category)} ${String(title || '').toUpperCase()} ${String(targetExerciseTag || '').toUpperCase()}`;
+    const skillTags = [];
+
+    if (combined.includes('TRUE/FALSE/NOT GIVEN') || combined.includes('TRUE / FALSE') || combined.includes('T/F/NG') || combined.includes('TFNG')) {
+      skillTags.push('TFNG');
+    }
+    if (combined.includes('YES/NO/NOT GIVEN') || combined.includes('YES / NO') || combined.includes('Y/N/NG') || combined.includes('YNNG')) {
+      skillTags.push('YNNG');
+    }
+    if (combined.includes('SUMMARY_BOX') || combined.includes('SUMMARY BOX') || combined.includes('WORD BOX')) {
+      skillTags.push('SUMMARY_BOX');
+    }
+    if (combined.includes('SUMMARY_COMP') || combined.includes('SUMMARY COMPLETION')) {
+      skillTags.push('SUMMARY_COMP');
+    }
+    if (combined.includes('NOTE_COMP') || combined.includes('NOTE COMPLETION') || combined.includes('NOTES COMPLETION')) {
+      skillTags.push('NOTE_COMP');
+    }
+    if (combined.includes('GAP FILL') || combined.includes('GAP-FILL') || combined.includes('GAP_FILL')) {
+      skillTags.push('NOTE_COMP', 'SUMMARY_COMP', 'SUMMARY_BOX');
+    }
+    if (combined.includes('MATCHING INFORMATION') || combined.includes('MATCH_INFO')) {
+      skillTags.push('MATCH_INFO');
+    }
+    if (combined.includes('MATCHING NAMES') || combined.includes('MATCHING FEATURES') || combined.includes('MATCH_FEATURES')) {
+      skillTags.push('MATCH_FEATURES');
+    }
+    if (combined.includes('MATCHING SENTENCE ENDINGS') || combined.includes('MATCHING ENDINGS') || combined.includes('MATCH_ENDINGS')) {
+      skillTags.push('MATCH_ENDINGS');
+    }
+    if (combined.includes('MATCHING HEADINGS') || combined.includes('MATCH_HEADINGS')) {
+      skillTags.push('MATCH_HEADINGS');
+    }
+    if (combined.includes('MULTIPLE CHOICES 2 ANSWERS') || combined.includes('MULTIPLE CHOICE 2') || combined.includes('CHOOSE TWO') || combined.includes('MCQ_TWO')) {
+      skillTags.push('MCQ_TWO');
+    } else if (combined.includes('MULTIPLE CHOICES 1 ANSWER') || combined.includes('MULTIPLE CHOICE') || combined.includes('MCQ')) {
+      skillTags.push('MCQ');
+    }
+
+    return Array.from(new Set(skillTags));
+  }
+
   extractYoutubeId(url) {
     if (!url) return '';
     const cleanUrl = url.trim();
@@ -783,7 +828,7 @@ class TheoryVideoEngine {
 
   // =========================================================================
   // CẦU NỐI VÀNG: BIẾN TOÀN BỘ VIDEO THÀNH ĐỐT SỐNG LỘ TRÌNH (CURRICULUM NODES)
-  // TỰ ĐỘNG CHUI VÀO BẢNG TỔNG 858 BÀI TẬP VÀ GIAO ĐỦ 5 BÀI TẬP KÈM THEO
+  // TỰ ĐỘNG CHUI VÀO BẢNG TỔNG BÀI TẬP VÀ GẮN CHUẨN TAG DẠNG BÀI ĐỂ GIAO ĐÚNG DẠNG
   // =========================================================================
   getCurriculumTheoryNodes() {
     const publishedVideos = this.videos.filter(v => v.isPublished !== false);
@@ -798,6 +843,17 @@ class TheoryVideoEngine {
 
       const domain = (v.skillKey || 'reading').toUpperCase();
       const nodeId = (v.roadmapNodeId || this.generateDefaultNodeId(v)).trim().toUpperCase();
+      const normalizedCat = this.normalizeCategory(v.category);
+      const skillTags = domain === 'READING'
+        ? this.inferReadingSkillTags(normalizedCat, v.title, v.targetExerciseTag)
+        : [];
+      const mergedTags = Array.from(new Set([
+        normalizedCat,
+        v.targetExerciseTag || normalizedCat,
+        ...skillTags,
+        `SKILL_${domain}`,
+        "THEORY_VIDEO_NODE"
+      ].filter(Boolean)));
 
       return {
         id: nodeId,
@@ -812,12 +868,10 @@ class TheoryVideoEngine {
           slow: Math.round(parsedMins * 1.3)
         },
         coachHours: 0,
-        tags: [
-          v.category,
-          v.targetExerciseTag || v.category,
-          `SKILL_${domain}`,
-          "THEORY_VIDEO_NODE"
-        ],
+        tags: mergedTags,
+        categoryTag: normalizedCat,
+        targetSkillTag: skillTags[0] || '',
+        targetSkillTags: skillTags,
         benefit: v.description || `Nắm vững toàn bộ chiến thuật, bản chất và bẫy đề thi dạng bài ${v.category} từ Thầy Phúc.`,
         isTheoryVideo: true,
         videoId: v.id,
@@ -831,4 +885,6 @@ class TheoryVideoEngine {
 }
 
 export const theoryVideoEngine = new TheoryVideoEngine();
-window.theoryVideoEngine = theoryVideoEngine;
+if (typeof window !== 'undefined') {
+  window.theoryVideoEngine = theoryVideoEngine;
+}
