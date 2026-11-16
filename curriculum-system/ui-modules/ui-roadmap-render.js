@@ -1,7 +1,8 @@
 /**
  * curriculum-system/ui-modules/ui-roadmap-render.js
  * MODULE GIAO DIỆN LỘ TRÌNH 5 CHẶNG & ĐIỀU PHỐI AI GEMINI (BẢN FULL ĐẦY ĐỦ 100%)
- * BẢN ĐÃ TỰ ĐỘNG HÓA 1-CLICK TỪ DIAGNOSTIC & TÍCH HỢP HỘP CÁT SANDBOX CHỐNG BẤM NHẦM
+ * ĐÃ VÁ DỨT ĐIỂM LỖI BỐC SAI BÀI THI DIAGNOSTIC VÀ LỖI ÉP ĐIỂM THÀNH BAND 2.0
+ * - BÓC CHÍNH XÁC 100% BÀI THI MỚI NHẤT QUA EPOCH ID (LOẠI BỎ BÀI 0 ĐIỂM RÁC)
  * - TỰ ĐỘNG HÓA 1-CLICK: Tự động trích xuất kết quả bài thi Diagnostic sang lộ trình AI
  * - HỘP CÁT DRAFT SANDBOX: Bấm "Soạn lại" không bị mất lộ trình cũ, có nút HỦY BỎ an toàn
  * - NÚT XUẤT PDF / IN LỘ TRÌNH: Chuẩn hóa xuất file PDF gửi phụ huynh học sinh
@@ -186,10 +187,26 @@ export class UIRoadmapRenderer {
     const det = recentDiag.details || {};
     const blueprint = det.blueprintProfile || {};
 
+    // Tự động lấy điểm xuất phát thật từ bài thi (tránh số 0 ảo)
+    let extractedBand = "3.5";
+    if (det.potentialBand && !isNaN(parseFloat(det.potentialBand)) && parseFloat(det.potentialBand) > 0) {
+      extractedBand = String(det.potentialBand);
+    } else if (det.officialBand && !isNaN(parseFloat(det.officialBand)) && parseFloat(det.officialBand) > 0) {
+      extractedBand = String(det.officialBand);
+    } else if (recentDiag.score) {
+      const m = String(recentDiag.score).match(/Band\s*([0-9.]+)/i) || String(recentDiag.score).match(/([0-9.]+)/);
+      if (m && parseFloat(m[1]) > 0) extractedBand = m[1];
+    }
+
+    // Tự động đọc Target Band từ dropdown chọn mục tiêu
+    const selectedTarget = document.getElementById('matrixTargetBandSelect')?.value || "7.0";
+
     // Tự động tổng hợp dữ liệu bài thi thành bản hồ sơ chuẩn xác
     const summaryLines = [
       `[HỒ SƠ HỌC THUẬT TỰ ĐỘNG RÚT TRÍCH TỪ BÀI THI DIAGNOSTIC]`,
       `- Học viên: ${targetEmail}`,
+      `- Start Band: ${extractedBand}`,
+      `- Target Band: ${selectedTarget}`,
       `- Bài thi gốc: ${recentDiag.testTitle || 'Diagnostic Test 1'} (Thời gian làm: ${recentDiag.timeSpent || 'N/A'})`,
       `- Điểm số chi tiết: Ngữ pháp ${det.gScore || 'N/A'}, Nghe ${det.lScore || 'N/A'}, Đọc ${det.rScore || 'N/A'}, Viết Band ${det.wBand || 'N/A'}, Nói Band ${det.sBand || 'N/A'}`,
       `- Điểm tổng hợp chẩn đoán: ${recentDiag.score || det.overallScore || 'N/A'}`
@@ -255,9 +272,16 @@ export class UIRoadmapRenderer {
       if (!resBox) return;
       resBox.style.display = 'block';
 
-      const startB = parseFloat(result.estimated_band) || 2.0;
+      // 🔴 VÁ LỖI TOÁN TỬ: Nếu điểm phân tích <= 0 thì tự động lấy điểm từ text hoặc mặc định 3.5 thay vì gán 2.0
+      let parsedStart = parseFloat(result.estimated_band);
+      if (isNaN(parsedStart) || parsedStart <= 0) {
+        const textMatch = text.match(/Start\s*Band[:\s]*([0-9.]+)/i);
+        parsedStart = textMatch ? parseFloat(textMatch[1]) : 3.5;
+      }
+      const startB = Math.max(1.0, parsedStart);
+
       const parsedTarget = parseFloat(result.target_band);
-      const targetB = Math.min(7.0, !isNaN(parsedTarget) ? parsedTarget : 7.0);
+      const targetB = Math.min(7.5, !isNaN(parsedTarget) ? parsedTarget : 7.0);
 
       const pruned = curriculumEngineSystem.pruneCurriculumByBands(startB, targetB, result);
       const savedCount = MASTER_CURRICULUM_SYSTEM.length - pruned.length;
@@ -354,8 +378,8 @@ export class UIRoadmapRenderer {
   // =========================================================================
   applyBandRoadmap(startBand, targetBand, aiData = null) {
     const targetEmail = this.context.getActiveWorkingEmail();
-    const sBand = parseFloat(startBand) || 0.0;
-    const tBand = Math.min(7.0, parseFloat(targetBand) || 7.0);
+    const sBand = parseFloat(startBand) || 3.5;
+    const tBand = Math.min(7.5, parseFloat(targetBand) || 7.0);
 
     if (sBand >= tBand) {
       alert("⚠️ Điểm mục tiêu mong muốn (Target Band) phải lớn hơn Điểm hiện tại của em ít nhất 0.5 Band nhé!");
@@ -412,7 +436,7 @@ export class UIRoadmapRenderer {
   }
 
   // =========================================================================
-  // 5. CỔNG DUYỆT ADMIN GATE: BẮC CẦU & CÁC STUB GIỮ TƯƠNG THÍCH API
+  // 5. CỔNG DUYỆT ADMIN GATE: BẮC CẦU & BỘ LỌC BỐC CHÍNH XÁC BÀI THI MỚI NHẤT
   // =========================================================================
   findRecentDiagnosticAttempt(email) {
     try {
@@ -422,6 +446,7 @@ export class UIRoadmapRenderer {
       const history = JSON.parse(rawHistory);
       if (!Array.isArray(history)) return null;
 
+      // 🔴 BƯỚC 1: Lọc đúng các bài thi thuộc hệ chẩn đoán Diagnostic
       const diagAttempts = history.filter(item => {
         if (!item) return false;
         const isDiagModule = item.moduleType === 'diagnostic';
@@ -432,13 +457,30 @@ export class UIRoadmapRenderer {
       });
 
       if (diagAttempts.length === 0) return null;
-      diagAttempts.sort((a, b) => {
-        const epochA = stateManager?.extractEpoch ? stateManager.extractEpoch(a) : 0;
-        const epochB = stateManager?.extractEpoch ? stateManager.extractEpoch(b) : 0;
-        return epochB - epochA;
+
+      // 🔴 BƯỚC 2: Sắp xếp theo thứ tự thời gian chuẩn xác 100% bằng cách rút trích mili-giây từ ID
+      // (Ví dụ: id = "diag_attempt_1794323657457" -> lấy số 1794323657457)
+      const extractTimestamp = (att) => {
+        const idMatch = String(att?.id || '').match(/\d{10,15}/);
+        if (idMatch) return parseInt(idMatch[0], 10);
+        if (stateManager?.extractEpoch) return stateManager.extractEpoch(att);
+        return 0;
+      };
+
+      diagAttempts.sort((a, b) => extractTimestamp(b) - extractTimestamp(a));
+
+      // 🔴 BƯỚC 3: Loại bỏ các bài nộp rỗng 0 điểm (0 phút) nếu có bài làm thật
+      const completedAttempt = diagAttempts.find(att => {
+        const time = String(att.timeSpent || '');
+        const score = String(att.score || '');
+        const isZero = time.includes('0 phút') || score.includes('0/100') || score.includes('Band 0.0');
+        return !isZero;
       });
-      return diagAttempts[0];
+
+      // Nếu có bài làm thật thì ưu tiên lấy, nếu chỉ có bài rỗng thì lấy bài gần nhất
+      return completedAttempt || diagAttempts[0];
     } catch (e) {
+      console.warn("[UIRoadmapRenderer] Lỗi tìm bài thi diagnostic:", e);
       return null;
     }
   }
@@ -519,7 +561,6 @@ export class UIRoadmapRenderer {
                   const skillTag = matchSkill ? matchSkill[1] : '';
                   return skillTag ? pUrl.includes(`skill=${skillTag}`) : pUrl.includes('skill=');
                 } else {
-                  // Bài Full: BẮT BUỘC KHÔNG CHỨA skill=
                   return !pUrl.includes('skill=');
                 }
               });
@@ -629,10 +670,10 @@ export class UIRoadmapRenderer {
                     <option value="0.0">0.0 (Mất gốc hoàn toàn)</option>
                     <option value="2.0">2.0 (Biết bập bõm, mất gốc)</option>
                     <option value="3.0">3.0 (Nhớ từ vựng căn bản)</option>
-                    <option value="3.5">3.5 (Ngữ pháp câu đơn)</option>
+                    <option value="3.5" selected>3.5 (Ngữ pháp câu đơn)</option>
                     <option value="4.0">4.0 (Đã học tiếng Anh cơ bản)</option>
                     <option value="4.5">4.5 (Có gốc, chưa làm đề)</option>
-                    <option value="5.0" selected>5.0 (Bắt đầu làm quen đề)</option>
+                    <option value="5.0">5.0 (Bắt đầu làm quen đề)</option>
                     <option value="5.5">5.5 (Đã thi thử 5.0 - 5.5)</option>
                     <option value="6.0">6.0 (Cần lên 6.5 - 7.0)</option>
                     <option value="6.5">6.5 (Nước rút chạm trần 7.0)</option>
@@ -644,9 +685,9 @@ export class UIRoadmapRenderer {
                   <select id="matrixTargetBandSelect" class="border border-slate-300 rounded p-2 text-sm w-full font-bold">
                     <option value="5.0">Band 5.0 (Tốt nghiệp cơ bản / Định cư)</option>
                     <option value="5.5">Band 5.5 (Chuẩn đầu ra Cao đẳng / ĐH)</option>
-                    <option value="6.0" selected>Band 6.0 (Xét tuyển Đại học Top đầu)</option>
+                    <option value="6.0">Band 6.0 (Xét tuyển Đại học Top đầu)</option>
                     <option value="6.5">Band 6.5 (Chuẩn vàng Du học & Việc làm)</option>
-                    <option value="7.0">Band 7.0 (TRẦN CAO NHẤT KHÓA HỌC)</option>
+                    <option value="7.0" selected>Band 7.0 (TRẦN CAO NHẤT KHÓA HỌC)</option>
                   </select>
                 </div>
               </div>
