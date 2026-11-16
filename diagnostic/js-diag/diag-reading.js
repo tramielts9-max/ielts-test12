@@ -6,6 +6,7 @@
  * - XÓA HIGHLIGHT TRỰC TIẾP BẰNG CLICK CHUỘT
  * - PHÒNG NGỰ BỎ TRỐNG BÀI: 0 CÂU ĐÚNG ➔ SCORE = 0
  * - GIỮ NGUYÊN RESIZER 3D DUOLINGO KÉO THẢ MÀN HÌNH
+ * - BỔ SUNG TỰ NHẬN DIỆN DẠNG CÂU HỎI READING CHUẨN (TFNG, YNNG, NOTE_COMP, MATCH_INFO...) KỂ CẢ KHI ĐỀ CHƯA PHÂN LOẠI SẴN
  */
 
 export class DiagReadingEngine {
@@ -451,6 +452,41 @@ export class DiagReadingEngine {
     this.userAnswers[qId] = String(val).trim();
   }
 
+  /**
+   * Tự nhận diện & chuẩn hóa mã dạng câu hỏi Reading sang 10 tag chuẩn của kho 101-320
+   * (Hoạt động chính xác cả khi đề đã gắn trường type lẫn khi đề chưa phân loại sẵn)
+   */
+  inferNormalizedSkillTag(rawType = '', rawGroup = '', options = [], expected = '', questionText = '') {
+    const meta = `${String(rawType || '')} ${String(rawGroup || '')}`.toUpperCase();
+    const qText = String(questionText || '').toUpperCase();
+    const optsStr = Array.isArray(options) ? options.map(o => String(o).toUpperCase()).join(' | ') : '';
+    const expStr = Array.isArray(expected) ? expected.join(' ').toUpperCase() : String(expected || '').toUpperCase();
+
+    if (meta.includes('YES') && meta.includes('NO')) return 'YNNG';
+    if (meta.includes('YNNG')) return 'YNNG';
+    if (meta.includes('TRUE') && meta.includes('FALSE')) return 'TFNG';
+    if (meta.includes('TFNG')) return 'TFNG';
+    if (meta.includes('SUMMARY') && (meta.includes('BOX') || optsStr.length > 0)) return 'SUMMARY_BOX';
+    if (meta.includes('SUMMARY')) return 'SUMMARY_COMP';
+    if (meta.includes('NOTE') || meta.includes('SENTENCE COMPLETION')) return 'NOTE_COMP';
+    if (meta.includes('MATCHING INFO') || meta.includes('MATCH_INFO') || meta.includes('WHICH PARAGRAPH')) return 'MATCH_INFO';
+    if (meta.includes('MATCHING FEATURE') || meta.includes('MATCHING NAME') || meta.includes('MATCH_FEATURES')) return 'MATCH_FEATURES';
+    if (meta.includes('MATCHING ENDING') || meta.includes('SENTENCE ENDING') || meta.includes('MATCH_ENDINGS')) return 'MATCH_ENDINGS';
+    if (meta.includes('MATCHING HEADING') || meta.includes('MATCH_HEADINGS')) return 'MATCH_HEADINGS';
+    if (meta.includes('CHOOSE TWO') || meta.includes('2 ANSWERS') || meta.includes('MCQ_TWO')) return 'MCQ_TWO';
+    if (meta.includes('MULTIPLE CHOICE') || meta.includes('MCQ')) return 'MCQ';
+
+    // Suy luận tự động nếu đề chưa gắn sẵn type/group
+    if (optsStr.includes('YES') && optsStr.includes('NO')) return 'YNNG';
+    if (optsStr.includes('TRUE') && optsStr.includes('FALSE')) return 'TFNG';
+    if (expStr === 'TRUE' || expStr === 'FALSE') return 'TFNG';
+    if (expStr === 'YES' || expStr === 'NO') return 'YNNG';
+    if (qText.includes('WHICH PARAGRAPH') || qText.includes('WHICH SECTION') || optsStr.includes('PARAGRAPH ')) return 'MATCH_INFO';
+    if (!Array.isArray(options) || options.length === 0) return 'NOTE_COMP';
+    if (qText.includes('CHOOSE TWO') || qText.includes('TWO LETTERS')) return 'MCQ_TWO';
+    return 'MCQ';
+  }
+
   // =========================================================================
   // 5. CHẤM ĐIỂM CHUẨN XÁC TUYỆT ĐỐI (LOẠI BỎ ĐIỂM ẢO RỖNG)
   // =========================================================================
@@ -473,9 +509,12 @@ export class DiagReadingEngine {
         const isCorrect = isT1 && isT2;
         if (isCorrect) score++;
 
+        const inferredSkill = this.inferNormalizedSkillTag(q.type, q.group, q.tier1Options, q.correctTier1, q.statement);
         const d = {
           questionNum: idx + 1,
           questionId: q.id,
+          questionType: q.type || '',
+          skillTag: inferredSkill,
           userTier1: t1 || "Trống",
           userTier2: t2 || "Trống",
           expectedTier1: q.correctTier1,
@@ -510,9 +549,13 @@ export class DiagReadingEngine {
         if (isCorrect) score++;
 
         const expStr = Array.isArray(exp) ? exp.join(' / ') : String(exp);
+        const inferredSkill = this.inferNormalizedSkillTag(q.type, q.group, q.options, exp, q.questionText || q.statement);
         const d = {
           questionNum: qNum,
           questionId: qId,
+          questionType: q.type || '',
+          questionGroup: q.group || '',
+          skillTag: inferredSkill,
           userAnswer: u || "(Bỏ trống)",
           expectedAnswer: expStr,
           isCorrect: isCorrect
@@ -537,15 +580,26 @@ export class DiagReadingEngine {
     const total = qKeys.length;
     qKeys.forEach((qId, idx) => {
       const q = this.questionsMap[qId] || {};
+      const parentGroup = (this.groups || []).find(g => Array.isArray(g.questionIds) && g.questionIds.includes(qId)) || {};
       const expected = this.expectedAnswers[qId];
       const userVal = (this.userAnswers[qId] || '').trim();
       const isCorrect = userVal ? this.checkMatch(userVal, expected) : false;
       if (isCorrect) score++;
 
       const expStr = Array.isArray(expected) ? expected.join(' / ') : String(expected);
+      const inferredSkill = this.inferNormalizedSkillTag(
+        q.type || parentGroup.type || '',
+        `${parentGroup.title || ''} ${parentGroup.instructions || ''}`,
+        q.options,
+        expected,
+        q.text
+      );
       const d = {
         questionNum: q.num || idx + 1,
         questionId: qId,
+        questionType: q.type || parentGroup.type || '',
+        questionGroup: parentGroup.title || '',
+        skillTag: inferredSkill,
         userAnswer: userVal || "(Bỏ trống)",
         expectedAnswer: expStr,
         isCorrect: isCorrect
