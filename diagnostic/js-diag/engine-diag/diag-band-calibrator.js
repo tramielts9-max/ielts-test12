@@ -5,7 +5,7 @@
  * - MA TRẬN KHỐNG CHẾ TRẦN ĐIỂM: TEST 1 (80/100 = BAND 4.0, MAX 5.0)
  * - MA TRẬN TEST 2 (MAX 6.5) & TEST 3 (6.0 - 7.5+)
  * - BỘ ĐẾM TỪ AN TOÀN CHỐNG LỖI KÝ TỰ RÁC VÀ KHOẢNG TRẮNG
- * - TRÍCH XUẤT BLUEPRINT LỖ HỔNG PHỤC VỤ BĂM LỘ TRÌNH HỌC TẬP THÍCH ỨNG
+ * - TRÍCH XUẤT BLUEPRINT LỖ HỔNG PHỤC VỤ BĂM LỘ TRÌNH HỌC TẬP THÍCH ỨNG (KÈM MÃ DẠNG READING 101-320)
  */
 
 import { roundIELTS, calculateSmartOverCap } from '../diag-ai.js';
@@ -144,18 +144,45 @@ export class DiagBandCalibrator {
     return parseFloat(calculateSmartOverCap(sBand, testId));
   }
 
+  /**
+   * Bóc tách & chuẩn hóa mã dạng câu hỏi Reading bị sai sang chuẩn kho 101-320
+   */
+  extractReadingSkillTagsFromWrong(w) {
+    if (!w || typeof w !== 'object') return [];
+    const results = [];
+    if (w.skillTag) results.push(String(w.skillTag).toUpperCase().trim());
+
+    const meta = `${String(w.questionType || '')} ${String(w.questionGroup || '')} ${String(w.behaviorTag || '')}`.toUpperCase();
+    if (meta.includes('YES') && meta.includes('NO')) results.push('YNNG');
+    else if (meta.includes('TRUE') && meta.includes('FALSE')) results.push('TFNG');
+    if (meta.includes('SUMMARY') && meta.includes('BOX')) results.push('SUMMARY_BOX');
+    else if (meta.includes('SUMMARY')) results.push('SUMMARY_COMP');
+    if (meta.includes('NOTE') || meta.includes('SENTENCE COMPLETION')) results.push('NOTE_COMP');
+    if (meta.includes('MATCHING INFO')) results.push('MATCH_INFO');
+    if (meta.includes('MATCHING FEATURE') || meta.includes('MATCHING NAME')) results.push('MATCH_FEATURES');
+    if (meta.includes('MATCHING ENDING') || meta.includes('SENTENCE ENDING')) results.push('MATCH_ENDINGS');
+    if (meta.includes('MULTIPLE CHOICE')) results.push('MCQ');
+
+    if (w.behaviorTag) results.push(String(w.behaviorTag).trim());
+    if (w.questionNum) results.push(`READ_Q${w.questionNum}`);
+    return results.filter(Boolean);
+  }
+
   // =========================================================================
   // 5. TRÍCH XUẤT BLUEPRINT LỖ HỔNG (ITEM-LEVEL ERROR PROFILE)
   // =========================================================================
   extractBlueprintProfile(testId, liveGrammar, liveRead, liveLis, liveWritingSub, liveSpkWords) {
+    const failedReadingSet = new Set();
+    ((liveRead && liveRead.wrongList) || []).forEach(w => {
+      this.extractReadingSkillTagsFromWrong(w).forEach(tag => failedReadingSet.add(tag));
+    });
+
     return {
       testId: testId || 'test_01',
       wrongGrammarTags: ((liveGrammar && liveGrammar.wrongList) || [])
         .map(w => w.topic || `G_Q${w.num}`)
         .filter(Boolean),
-      failedReadingSkills: ((liveRead && liveRead.wrongList) || [])
-        .map(w => w.behaviorTag || `READ_Q${w.questionNum}`)
-        .filter(Boolean),
+      failedReadingSkills: Array.from(failedReadingSet),
       failedListeningSkills: ((liveLis && liveLis.wrongList) || [])
         .map(w => `LIS_P${w.partNum}_Q${w.num}`)
         .filter(Boolean),
