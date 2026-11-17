@@ -1,0 +1,266 @@
+{
+  "title": "Bài sưu tầm 325 - Passage 3: Rethinking the Bronze Age Collapse",
+  "answers": {
+    "q27": "NO",
+    "q28": "YES",
+    "q29": "NOT GIVEN",
+    "q30": "YES",
+    "q31": "NO",
+    "q32": "E",
+    "q33": "B",
+    "q34": "G",
+    "q35": "A",
+    "q36": "D",
+    "q37": "D",
+    "q38": "A",
+    "q39": "C",
+    "q40": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 325</h2><h3>Rethinking the Bronze Age Collapse</h3><p><strong>Paragraph 1.</strong> Around 1200 BCE, the interconnected civilizations of the eastern Mediterranean entered a sudden, catastrophic tailspin. Within half a century, great palace centres from Mycenae in mainland Greece to Hattusa in central Anatolia were burned, abandoned, or reduced to scattered villages. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">For much of the twentieth century, archaeologists explained this disaster through a tidy villain: mysterious maritime raiders known from Egyptian inscriptions as the 'Sea Peoples'.</span></span> Yet in <em>1177 BCE: The Year Civilization Collapsed</em>, historian Eric Cline argues that <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">blaming external invaders alone mistakes a final spark for the deeper structural rot</span>.</p><p><strong>Paragraph 2.</strong> Late Bronze Age kingdoms were anything but isolated islands. Diplomatic letters pressed into baked clay reveal royal courts bound together by marriage alliances, luxury gift exchanges, and above all, strategic metal supply lines. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\"><span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">Making bronze required smelting roughly nine parts copper—mined abundantly in Cyprus—with one part tin, a far rarer ore hauled over perilous caravan trails from as far away as Afghanistan.</span></span> When instability along those distant corridors choked off tin shipments, even mighty armies found themselves short of weapons and ploughshares. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Tightly coupled trade networks brought prosperity during calm decades, yet turned regional crises into contagious shocks.</span></p><p><strong>Paragraph 3.</strong> Compounding this fragility was a stubborn shift in climate. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">Pollen grains trapped in ancient lake sediments across Syria, Cyprus, and Greece point to a prolonged multi-decade drought beginning right as the twelfth century BCE opened.</span> <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">Palace economies depended on central storehouses collecting grain surpluses from surrounding estates to feed scribes, artisans, and standing charioteers.</span> As harvests shrank year after year, hungry populations grew restless, trade caravans were raided along desert passes, and <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">internal uprisings likely burned several citadels before any foreign fleet appeared on the horizon.</span></p><p><strong>Paragraph 4.</strong> In this light, the Sea Peoples look less like an unstoppable superpower than a symptom of wider upheaval—<span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">displaced families, opportunistic mercenaries, and starving coastal bands moving across a region whose defences had already hollowed out.</span> Crucially, <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">not every society vanished equally: while top-heavy Mycenaean palaces and Hittite courts collapsed and even forgot how to write, smaller decentralized communities and iron-working workshops quietly adapted, laying the groundwork for a leaner Iron Age world.</span> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\"><span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">Cline concludes that the Bronze Age collapse warns modern readers not against single catastrophes, but against over-optimized systems that leave <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">no margin for cascading failure</span>.</span></span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 27–31",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 325? In boxes 27–31 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 32–36",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–G</b>, below. Write the correct letter, <b>A–G</b>, in boxes 32–36 on your answer sheet.</i>",
+      "endings": [
+        "A. displaced populations found it easier to overwhelm weakened states.",
+        "B. military strength depended on securing minerals from distant regions.",
+        "C. Egyptian scribes exaggerated the size of coastal raids for propaganda.",
+        "D. complex societies with little built-in redundancy risk simultaneous breakdown.",
+        "E. focusing solely on foreign attacks overlooks long-term internal vulnerabilities.",
+        "F. palace artisans deliberately destroyed clay records before fleeing cities.",
+        "G. shrinking agricultural surpluses undermined the social order from within."
+      ],
+      "questionIds": [
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "Modern historians generally agree that the Sea Peoples were the sole cause of the Bronze Age collapse.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Đổ lỗi hoàn toàn cho Hải dân là quan điểm cũ của thế kỷ 20; nghiên cứu mới (Eric Cline) cho rằng đó chỉ là tia lửa cuối cùng trên nền cấu trúc đã mục ruỗng.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "The raw materials needed to manufacture bronze were not sourced from a single region.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Đồng khai thác ở Síp (Cyprus), còn thiếc hiếm hơn phải chở qua các tuyến đường xa tới tận Afghanistan.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Lake sediment data suggests that Cyprus suffered earlier droughts than mainland Greece.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 (Bẫy từ khóa):</b> Bài có nhắc mẫu phấn hoa ở hồ tại Syria, <i>Cyprus</i>, và <i>Greece</i> đều cho thấy hạn hán kéo dài đầu thế kỷ 12 TCN, nhưng không so sánh nơi nào bị hạn sớm hơn nơi nào.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "Some Mediterranean communities lost literacy skills following the collapse of palace centres.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"while top-heavy Mycenaean palaces and Hittite courts collapsed and even forgot how to write...\"</i> (quên cả chữ viết).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Eric Cline believes that modern societies are far less exposed to cascading failures than Bronze Age kingdoms.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Cline cảnh báo độc giả hiện đại về chính nguy cơ của các hệ thống tối ưu hóa quá mức không chừa khoảng dự phòng cho sự sụp đổ dây chuyền.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "According to Eric Cline, traditional explanations of 1200 BCE are flawed because",
+      "finalAnswer": "E",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Đổ cho giặc ngoài là nhầm tia lửa cuối cùng với sự suy yếu cấu trúc sâu xa bên trong.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Bronze Age empires remained vulnerable to distant conflicts because",
+      "finalAnswer": "B",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chế tác đồng thanh làm vũ khí phụ thuộc vào đồng (Síp) và thiếc chở từ rất xa (Afghanistan); tuyến đường bất ổn là thiếu vũ khí.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Prolonged dry weather weakened palace administrations because",
+      "finalAnswer": "G",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Cung điện sống nhờ kho dự trữ thóc dư để nuôi thợ thủ công, thư lại và quân đội; mất mùa liên tiếp làm dân đói nổi loạn từ bên trong.",
+          "<b>Kết luận:</b> Chọn <b>G</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "As regional droughts and trade disruptions deepened,",
+      "finalAnswer": "A",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Hải dân gồm những nhóm di cư, lính đánh thuê và dân đói tràn qua khu vực có hệ thống phòng thủ đã rỗng ruột từ trước.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "The broad historical lesson drawn from the collapse is that",
+      "finalAnswer": "D",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Hệ thống tối ưu hóa quá mức mà không có biên độ dự phòng dễ sụp đổ dây chuyền hàng loạt.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What role did the 'Sea Peoples' play in earlier archaeological theories?",
+      "options": [
+        "A. They were seen as peaceful traders who introduced iron tools to Greece.",
+        "B. They were thought to be displaced farmers fleeing droughts in Egypt.",
+        "C. They were credited with preserving Mycenaean writing systems.",
+        "D. They were held primarily responsible for destroying Mediterranean kingdoms."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Suốt thế kỷ 20, giới khảo cổ coi Hải dân là 'kẻ thủ ác' chính gây ra thảm họa.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "In the second paragraph, what does the writer emphasize about Bronze Age trade?",
+      "options": [
+        "A. Close economic interdependence also created shared vulnerability to disruption.",
+        "B. Royal marriage alliances prevented kingdoms from fighting over tin mines.",
+        "C. Cypriot copper reserves ran dry before caravan routes to Asia opened.",
+        "D. Baked clay letters show that monarchs tried to ban luxury gift exchanges."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Mạng lưới gắn kết chặt mang lại thịnh vượng lúc bình yên nhưng biến khủng hoảng cục bộ thành cú sốc lây lan diện rộng.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "What evidence contradicts the idea that all palace destruction came from foreign invaders?",
+      "options": [
+        "A. Surviving inscriptions list only small numbers of enemy ships.",
+        "B. Some cities were abandoned peacefully without any signs of fire.",
+        "C. Food shortages and internal unrest likely damaged citadels prior to sea raids.",
+        "D. Palace scribes recorded welcoming coastal settlers into storehouses."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nạn đói do hạn hán khiến dân bất mãn, cướp đoàn buôn và các cuộc nổi dậy nội bộ có lẽ đã thiêu rụi nhiều thành trì trước khi hạm đội ngoài tới.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What contrast does the final paragraph highlight between different Bronze Age groups?",
+      "options": [
+        "A. Coastal towns recovered faster than inland iron-working workshops.",
+        "B. Smaller, flexible communities outlasted rigid, centralized palace states.",
+        "C. Hittite courts kept their writing traditions while island villages lost theirs.",
+        "D. Decentralized societies avoided the effects of the twelfth-century drought."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Các cung điện cồng kềnh sụp đổ, trong khi cộng đồng nhỏ phi tập trung và xưởng rèn sắt linh hoạt thích nghi để bước sang Thời kỳ Đồ Sắt.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

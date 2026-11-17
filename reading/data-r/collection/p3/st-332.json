@@ -1,0 +1,261 @@
+{
+  "title": "Bài sưu tầm 332 - Passage 3: How Modern Cities Lost Their Acoustic Rhythm",
+  "answers": {
+    "q27": "B",
+    "q28": "D",
+    "q29": "A",
+    "q30": "C",
+    "q31": "C",
+    "q32": "E",
+    "q33": "A",
+    "q34": "F",
+    "q35": "YES",
+    "q36": "NOT GIVEN",
+    "q37": "NO",
+    "q38": "YES",
+    "q39": "NO",
+    "q40": "YES"
+  },
+  "passageHtml": "<h2>READING PASSAGE 332</h2><h3>How Modern Cities Lost Their Acoustic Rhythm</h3><p><strong>Paragraph 1.</strong> If a time traveller from seventeenth-century Europe were dropped into a contemporary city square, the shock would be acoustic before it was visual. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\"><span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Pre-industrial towns were rarely silent—merchants shouted, hooves clattered on cobbles, and blacksmiths hammered iron—yet those sounds rose and fell in clear cycles. Once dusk settled or workshops closed, neighbourhoods dropped into genuine quiet, allowing distant church bells or night watchmen to carry across entire districts.</span></span> Today, by contrast, <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">urban life sits beneath an unbroken hum of ventilation fans, distant highways, and refrigerated trucks</span> that never quite switches off.</p><p><strong>Paragraph 2.</strong> Acoustic historian Emily Garvey argues in <em>The Vanishing Pause</em> that we misunderstand the problem when we complain only about decibels. In her view, <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">a brief, loud burst—like a passing train—rarely wears down the nervous system in the same way as a low, continuous drone.</span></span> When sound loses its sharp edges and merges into a permanent background wash, residents stop listening actively to their surroundings. <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">Garvey refers to this flat, featureless acoustic layer as 'lo-fi' space, where individual voices or birdsong must strain to stand out above mechanical noise.</span></p><p><strong>Paragraph 3.</strong> This shift did not arrive solely with petrol engines. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\"><span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">During the 1920s and 1930s, the arrival of domestic radio and public loudspeakers altered how people treated quiet gaps in the day. Before broadcast media, silence in a parlour or café felt ordinary; afterwards, an empty room without background music or chatter began to feel slightly awkward.</span></span> <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">Commercial developers soon noticed that steady, predictable audio could mask embarrassing pauses and encourage shoppers to linger longer in department stores and hotel lobbies.</span></p><p><strong>Paragraph 4.</strong> Over the past decade, urban planners have tried to fight back with acoustic barriers, quieter road surfaces, and electric buses. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Yet Garvey warns that technical fixes alone miss a deeper cultural habit.</span> Walk through a newly pedestrianised plaza with zero traffic, and you will still find cafés pumping amplified playlists onto the pavement while visitors seal themselves inside noise-cancelling headphones. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">Instead of welcoming shared quiet, modern city dwellers often replace public machine noise with private, self-selected soundtracks.</span> <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Even parks designed as acoustic refuges frequently struggle to enforce quiet zones because visitors regard ambient music as part of leisure.</span></p><p><strong>Paragraph 5.</strong> Recovering urban stillness therefore requires more than engineering; it demands rethinking what public space is for. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Garvey points to a handful of European municipalities that now protect 'listening courtyards'—small enclosed gardens tucked behind busy avenues where amplified audio is banned and water fountains mask traffic rumble without adding harshness.</span> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">She does not call for cities to return to pre-modern austerity, but insists that without pockets of unscheduled quiet, urban residents lose an essential space for mental recovery and unplanned conversation.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 31–34",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below. Write the correct letter, <b>A–F</b>, in boxes 31–34 on your answer sheet.</i>",
+      "endings": [
+        "A. keep customers inside commercial spaces for longer periods.",
+        "B. force municipal authorities to ban all outdoor music events.",
+        "C. maintain an uninterrupted layer of low-level mechanical sound.",
+        "D. restore the historical bells that once marked working hours.",
+        "E. struggle to hear subtle natural or human sounds clearly.",
+        "F. substitute personal audio streams for environmental noise."
+      ],
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 35–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 332? In boxes 35–40 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q35",
+        "q36",
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What contrast does the writer draw in the opening paragraph?",
+      "options": [
+        "A. Historical cities had stricter laws against nighttime noise.",
+        "B. Earlier urban soundscapes paused regularly instead of running non-stop.",
+        "C. Modern residents are more tolerant of street traders than past citizens.",
+        "D. Country villages were once louder than busy commercial ports."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Thành phố xưa có tiếng ồn nhưng lên xuống theo chu kỳ và im hẳn vào tối/lúc đóng xưởng (<i>rose and fell in clear cycles</i>), khác với tiếng rền không tắt ngày nay.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "According to Emily Garvey in paragraph 2, why is modern city noise particularly harmful?",
+      "options": [
+        "A. Its sudden peaks exceed safe medical limits for human hearing.",
+        "B. Residents have become too accustomed to hearing warning signals.",
+        "C. Heavy machinery is now located closer to residential apartments.",
+        "D. Its flat, constant quality dulls people's sensitivity to their surroundings."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Không chỉ do độ lớn (decibels), mà vì âm thanh mất đường nét và hòa thành lớp nền liên tục khiến cư dân ngừng lắng nghe môi trường (<i>flat, featureless acoustic layer... stop listening actively</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "What effect did early broadcasting have on daily social life, according to paragraph 3?",
+      "options": [
+        "A. It made periods of total quiet feel uncomfortable to many people.",
+        "B. It encouraged families to spend more evenings in local cafés.",
+        "C. It replaced live street musicians with recorded classical concerts.",
+        "D. It prompted store owners to turn off machinery during business hours."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Sau khi radio xuất hiện, một căn phòng thiếu nhạc nền hoặc tiếng nói chuyện trở nên gượng gạo (<i>an empty room without background music or chatter began to feel slightly awkward</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "Why does Garvey praise 'listening courtyards' in the final paragraph?",
+      "options": [
+        "A. They completely block out all sound from nearby streets.",
+        "B. They prove that traffic bans work better than garden walls.",
+        "C. They use gentle natural sound to soften city noise without extra equipment.",
+        "D. They attract tourists away from crowded shopping districts."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Cấm loa khuếch đại và dùng đài phun nước để làm dịu tiếng xe cộ mà không gây chói tai (<i>water fountains mask traffic rumble without adding harshness</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Unlike pre-industrial streets, modern urban centres",
+      "finalAnswer": "C",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>unbroken hum of ventilation fans, distant highways... that never quite switches off</i> ↔ <b>C</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "People living inside a 'lo-fi' soundscape often",
+      "finalAnswer": "E",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>where individual voices or birdsong must strain to stand out above mechanical noise</i> ↔ <b>E</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Early retailers discovered that continuous background music could",
+      "finalAnswer": "A",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>encourage shoppers to linger longer in department stores and hotel lobbies</i> ↔ <b>A</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Even in traffic-free areas, pedestrians frequently",
+      "finalAnswer": "F",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>replace public machine noise with private, self-selected soundtracks</i> ↔ <b>F</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Seventeenth-century European towns experienced noticeable noise during daytime trading hours.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Pre-industrial towns were rarely silent—merchants shouted, hooves clattered on cobbles, and blacksmiths hammered iron...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Public loudspeakers in the 1930s were louder than modern café sound systems.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "Bài có nhắc đến <i>public loudspeakers</i> những năm 1930 (Đoạn 3) và <i>cafés pumping amplified playlists</i> (Đoạn 4), nhưng không hề so sánh bên nào to hơn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Short, intense bursts of sound cause greater mental exhaustion than steady background noise.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Phủ định trực tiếp: tiếng ồn ngắn và lớn ít làm suy kiệt thần kinh bằng tiếng rền đều liên tục (<i>rarely wears down the nervous system in the same way as a low, continuous drone</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Switching to electric vehicles will not by itself restore quiet habits to city centres.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Xe buýt điện và rào chắn mới chỉ là giải pháp kỹ thuật; ngay cả phố đi bộ không xe vẫn đầy loa quán cà phê và tai nghe (<i>technical fixes alone miss a deeper cultural habit</i>).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Park visitors welcome strict bans on background music in green spaces.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Công viên gặp khó khăn khi áp dụng vùng yên tĩnh vì khách coi nhạc nền là một phần của việc giải trí (<i>visitors regard ambient music as part of leisure</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Emily Garvey accepts that modern cities cannot go back to historical levels of simplicity.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"She does not call for cities to return to pre-modern austerity...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

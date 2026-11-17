@@ -1,0 +1,253 @@
+{
+  "title": "Bài sưu tầm 338 - Passage 3: Reclaiming the Urban Night: Why Cities Are Rethinking Late-Hour Economics",
+  "answers": {
+    "q27": "D",
+    "q28": "G",
+    "q29": "B",
+    "q30": "I",
+    "q31": "E",
+    "q32": "A",
+    "q33": "NO",
+    "q34": "YES",
+    "q35": "NOT GIVEN",
+    "q36": "NO",
+    "q37": "C",
+    "q38": "A",
+    "q39": "D",
+    "q40": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 338</h2><h3>Reclaiming the Urban Night: Why Cities Are Rethinking Late-Hour Economics</h3><p><strong>Paragraph 1.</strong> Historically, municipal authorities treated the hours between midnight and dawn primarily as a problem of public order. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\"><span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">Urban policy for the night centred on licensing restrictions, noise bylaws, and expanded police patrols designed to contain the disruptions of late-night bars and music venues.</span></span> Yet as twenty-four-hour logistics, hospital care, and remote global service work have expanded, urban planners have begun to realise that millions of city residents live and work after dark—not as revellers, but as essential contributors to civic life.</p><p><strong>Paragraph 2.</strong> In <em>After Dark</em>, urban geographer Dr. Priya Nair traces the emergence of what she calls 'nocturnal governance.' <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Over the past decade, more than fifty cities—including London, Amsterdam, and Melbourne—have appointed dedicated 'night mayors' or advisory commissions to coordinate transport, licensing, and cultural venues across the late shift.</span></span> Rather than viewing nocturnal activity solely through a lens of crime prevention, <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">these offices bring together transit agencies, venue owners, local residents, and emergency responders who previously operated in isolation</span>. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">Early interventions have focused on practical urban design: upgrading dim pedestrian underpasses with warm LED illumination, establishing late-night community clinics, and keeping public toilets open past 11 p.m.</span></p><p><strong>Paragraph 3.</strong> Transport represents the decisive battleground for a fair nocturnal city. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\"><span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">When municipal subway and bus networks shut down at midnight to cut operating deficits or perform track repairs, cities inadvertently penalise their lowest-paid workers. Nurses, cleaners, warehouse staff, and kitchen employees are forced either to wait hours in unsafe corridors or to spend a disproportionate share of their wages on private taxis.</span></span> London's introduction of weekend Night Tube services demonstrated that <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">reliable late-hour transit not only serves shift workers, but also reduces street congestion around closing times by dispersing crowds smoothly rather than stranding thousands outside clubs at once</span>.</p><p><strong>Paragraph 4.</strong> Nonetheless, Nair warns that 'night-time economy' strategies carry serious social blind spots. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">When municipal budgets are tight, city leaders are often tempted to prioritise commercial alcohol zones and tourist entertainment districts that generate immediate tax revenue, while leaving working-class outer suburbs poorly lit and underserved.</span> <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Furthermore, rising commercial rents in newly trendy nightlife corridors have driven out independent rehearsal spaces and affordable late-night cafés, replacing them with high-margin chain venues.</span> <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\"><span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">For families and elderly residents living above newly promoted entertainment zones, extended operating hours can also bring chronic sleep loss, turning a policy meant to enliven the city into a source of quiet exclusion.</span></span></p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">To avoid reducing the urban night to a commercial playground, Nair argues that planners must design for diversity rather than noise alone. Libraries open until midnight, quiet floodlit parks for late walkers, and safe rest hubs for delivery riders illustrate how cities can support varied nocturnal rhythms without sacrificing residential peace.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 27–32",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below. Write the correct letter, <b>A–J</b>, in boxes 27–32 on your answer sheet.</i><br><br><b>A.</b> exclusion &nbsp;|&nbsp; <b>B.</b> lighting &nbsp;|&nbsp; <b>C.</b> tourism &nbsp;|&nbsp; <b>D.</b> regulation &nbsp;|&nbsp; <b>E.</b> congestion<br><b>F.</b> employment &nbsp;|&nbsp; <b>G.</b> oversight &nbsp;|&nbsp; <b>H.</b> silence &nbsp;|&nbsp; <b>I.</b> infrastructure &nbsp;|&nbsp; <b>J.</b> privatisation",
+      "summaryTitle": "Managing the Modern 24-Hour City",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31",
+        "q32"
+      ],
+      "template": "<p>For much of modern history, urban policy for late hours centred on strict <b>27.</b> {{q27}} and law enforcement. More recently, major cities have created dedicated civic <b>28.</b> {{q28}} offices to coordinate stakeholders across public services and venues. Practical upgrades have included improved street <b>29.</b> {{q29}} and extended medical access. Researchers also stress the need for reliable late-night transport <b>30.</b> {{q30}} , which protects low-income shift staff while easing street <b>31.</b> {{q31}} after closing hours. However, if planners focus purely on profitable nightlife zones, they risk creating neighbourhood <b>32.</b> {{q32}} for older or residential communities.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 33–36",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 338? In boxes 33–36 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>licensing restrictions, noise bylaws</i> ↔ strict <b>regulation (D)</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>nocturnal governance / night mayors or advisory commissions</i> ↔ civic <b>oversight (G)</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>upgrading dim pedestrian underpasses with warm LED illumination</i> ↔ street <b>lighting (B)</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "I",
+      "inputWidth": "70px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>municipal subway and bus networks</i> ↔ transport <b>infrastructure (I)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>dispersing crowds smoothly rather than stranding thousands outside</i> ↔ easing <b>congestion (E)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>a source of quiet exclusion</i> ↔ <b>exclusion (A)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Traditional city planning viewed late-night activity primarily as a vital source of cultural innovation.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Trước đây chính quyền coi giờ đêm là vấn đề trật tự công cộng (<i>a problem of public order</i>), tập trung vào hạn chế cấp phép và tuần tra.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Night-mayor offices have helped bridge communication gaps between previously separate civic departments.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Kết nối cơ quan giao thông, chủ địa điểm, cư dân và lực lượng khẩn cấp vốn trước đây <i>\"previously operated in isolation\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "High-margin chain venues in nightlife districts are less safe than independent cafés.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Bẫy Cam:</b> Đoạn 4 có nhắc cả <i>independent late-night cafés</i> và <i>high-margin chain venues</i>, nhưng chỉ nói về giá thuê đẩy quán độc lập đi, không so sánh mức độ an toàn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Elderly city residents generally benefit financially from extended commercial opening hours.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Người cao tuổi sống phía trên khu giải trí phải chịu mất ngủ kéo dài và bị gạt ra ngoài lề (<i>chronic sleep loss... quiet exclusion</i>), không phải hưởng lợi.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What role do 'night mayors' perform according to the second paragraph?",
+      "options": [
+        "A. They personally lead police patrols in entertainment districts.",
+        "B. They oversee the construction of new underground train lines.",
+        "C. They align the work of multiple public and private groups after dark.",
+        "D. They set minimum wages for hospital and logistics workers."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Điều phối giao thông, cấp phép và văn hóa; kết nối 4 nhóm trước đây hoạt động tách rời.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "In the third paragraph, why is shutting down public transit at midnight criticised?",
+      "options": [
+        "A. It imposes disproportionate financial and safety burdens on low-wage staff.",
+        "B. It prevents repair crews from completing essential maintenance on tracks.",
+        "C. It encourages municipal authorities to raise daytime ticket prices.",
+        "D. It forces suburban clubs to close earlier than city-centre venues."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Làm thiệt thòi nhóm lao động thu nhập thấp (y tá, tạp vụ...), buộc họ chờ ở nơi thiếu an toàn hoặc tốn phần lớn lương đi taxi.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "What flaw in municipal night policies does Nair highlight in the fourth paragraph?",
+      "options": [
+        "A. Cities spend too much money lighting quiet outer suburbs.",
+        "B. Alcohol zones fail to generate meaningful tax income for local councils.",
+        "C. Independent artists refuse to share rehearsal rooms with delivery riders.",
+        "D. Revenue-focused plans often neglect residential areas outside entertainment hubs."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Ưu tiên khu thương mại/rượu bia thu thuế nhanh trong khi bỏ mặc vùng ngoại ô lao động (<i>leaving working-class outer suburbs poorly lit and underserved</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What solution does Nair propose in the final paragraph?",
+      "options": [
+        "A. banning commercial nightlife near residential apartment blocks",
+        "B. creating calm, non-commercial public spaces alongside entertainment venues",
+        "C. restricting late-night library access to essential shift employees",
+        "D. transferring responsibility for park lighting to private delivery companies"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Thiết kế đa dạng thay vì chỉ phục vụ ồn ào: thư viện mở muộn, công viên yên tĩnh có đèn, trạm nghỉ cho shipper.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

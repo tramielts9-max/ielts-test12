@@ -1,0 +1,253 @@
+{
+  "title": "Bài sưu tầm 322 - Passage 3: Why We Misremember Our Own Childhoods",
+  "answers": {
+    "q27": "C",
+    "q28": "A",
+    "q29": "D",
+    "q30": "B",
+    "q31": "E",
+    "q32": "B",
+    "q33": "H",
+    "q34": "A",
+    "q35": "F",
+    "q36": "D",
+    "q37": "YES",
+    "q38": "NOT GIVEN",
+    "q39": "NO",
+    "q40": "YES"
+  },
+  "passageHtml": "<h2>READING PASSAGE 322</h2><h3>Why We Misremember Our Own Childhoods</h3><p><strong>Paragraph 1.</strong> Ask most adults to recall their earliest memory, and they will describe a vivid scene from around age three or four—perhaps a birthday cake, a barking dog, or getting lost in a crowded shop. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Before that boundary lies a blank stretch known to psychologists as childhood amnesia.</span> <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">For decades, followers of Sigmund Freud attributed this silence to emotional repression, arguing that the mind buried disturbing early impulses.</span> Modern developmental neuroscience, however, points to a far more practical cause: <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">the infant brain is busy generating new neurons at breakneck speed inside the hippocampus, the region responsible for binding scattered sights and sounds into coherent life episodes.</span> Ironically, this rapid cellular growth overwrites fragile early circuits before they can settle into long-term storage.</p><p><strong>Paragraph 2.</strong> Yet forgetting is only half the story. Equally puzzling is how confidently adults recount early episodes that never actually took place. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\"><span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">Rather than acting like a video archive that replays intact footage, human memory behaves more like an improvisational theatre troupe: every time we summon a past event, we rebuild it from fragments using our current beliefs and expectations.</span></span> In a landmark 1995 study, cognitive psychologist Elizabeth Loftus asked adult participants to read four short childhood stories supplied by their relatives—three real events and one fabricated tale about getting lost in a shopping mall at age five. After two interviews, <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">roughly a quarter of the volunteers not only insisted the mall incident had happened, but also added sensory details of their own, such as the shirt worn by the stranger who rescued them.</span></p><p><strong>Paragraph 3.</strong> What makes early memories especially malleable is the social environment in which children learn to talk about the past. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">Psychologist Robyn Fivush found that parents adopt strikingly different conversational styles when reminiscing with preschoolers.</span> Parents who ask open-ended questions—prompting a child to describe how an outing felt or what happened next—raise children who later recall richer, earlier personal memories. Conversely, <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">overhearing family anecdotes or flipping through photo albums can quietly plant external material inside a child's developing sense of self.</span> <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">Once a family story is repeated at enough dinner tables, a listener's brain converts the mental picture formed while listening into what feels indistinguishable from a first-hand recollection.</span></p><p><strong>Paragraph 4.</strong> Crucially, these borrowed memories do not feel hazy or hesitant; <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">subjective certainty turns out to be a poor guide to historical accuracy.</span> When psychologists tracked individuals who claimed to remember impossible early events—such as looking down at their own cradle from the ceiling—those accounts carried the same emotional warmth and sensory clarity as verified experiences. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">In legal settings, this finding has proved sobering:</span> well-meaning eyewitnesses and therapy clients can become genuinely convinced of fabricated episodes if an interviewer repeatedly invites them to imagine what 'might have occurred'.</p><p><strong>Paragraph 5.</strong> Far from being a design flaw, however, our tendency to edit the past serves an evolutionary purpose. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Brain-imaging research shows that remembering yesterday and picturing tomorrow recruit nearly identical neural networks.</span> By keeping past scenes flexible rather than locked in stone, the brain can recombine old elements to rehearse future challenges, anticipate social pitfalls, and maintain a stable personal narrative as circumstances shift. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Our childhood memories may be unreliable as historical records, yet <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">their quiet plasticity helps anchor who we believe we are becoming</span>.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 31–36",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 31–36 on your answer sheet.</i><br><br><b>A.</b> repetition &nbsp;|&nbsp; <b>B.</b> reconstruction &nbsp;|&nbsp; <b>C.</b> hesitation<br><b>D.</b> adaptability &nbsp;|&nbsp; <b>E.</b> wiring &nbsp;|&nbsp; <b>F.</b> imagination<br><b>G.</b> conflict &nbsp;|&nbsp; <b>H.</b> dialogue &nbsp;|&nbsp; <b>I.</b> trauma",
+      "summaryTitle": "The Mechanics of Early Memory",
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ],
+      "template": "<p>Modern neuroscience suggests that adults forget infancy not because of buried emotional pain, but because rapid brain development disrupts delicate neural <b>31.</b> {{q31}} before memories stabilize. Even later recollections are shaped by ongoing mental <b>32.</b> {{q32}} rather than faithful playback. Research into parent-child <b>33.</b> {{q33}} demonstrates that family conversations help decide which early scenes survive. However, frequent <b>34.</b> {{q34}} of shared stories can lead listeners to mistake second-hand pictures for real experiences. Because active <b>35.</b> {{q35}} can strengthen false impressions, psychologists warn against suggestive questioning in courts. Ultimately, though, memory's <b>36.</b> {{q36}} helps humans plan for unfamiliar situations ahead.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 37–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 322? In boxes 37–40 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "How does contemporary brain science challenge earlier explanations of childhood amnesia?",
+      "options": [
+        "A. It proves that children under three have fully mature hippocampi.",
+        "B. It shows that emotional shock strengthens infant memory retention.",
+        "C. It links early forgetting to physical growth rather than psychological defence.",
+        "D. It demonstrates that most adults can recover pre-verbal memories with training."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Trước đây Freud cho là dồn nén cảm xúc (phòng vệ tâm lý), nay khoa học thần kinh chỉ ra nguyên nhân sinh học: sự tăng trưởng tế bào thần kinh quá nhanh ở hồi hải mã làm ghi đè mạch ký ức non nớt.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Why does the writer compare memory to an improvisational theatre troupe?",
+      "options": [
+        "A. to highlight that recollections are freshly assembled each time they are retrieved",
+        "B. to show that people intentionally invent dramatic details to entertain friends",
+        "C. to explain why memories stored in video archives fade after several years",
+        "D. to suggest that actors retain childhood scenes better than other adults"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> So sánh nhằm nhấn mạnh ký ức không phát lại nguyên vẹn mà mỗi lần nhớ là một lần tự lắp ghép lại từ các mảnh vụn theo niềm tin hiện tại (<i>rebuild it from fragments</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "According to the third paragraph, what role do family anecdotes and photographs play?",
+      "options": [
+        "A. They protect young children from confusing real outings with dreams.",
+        "B. They discourage preschoolers from asking open-ended questions.",
+        "C. They ensure that siblings remember shared holidays identically.",
+        "D. They can gradually turn outside accounts into convincing personal memories."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nghe kể chuyện gia đình hay xem ảnh có thể lặng lẽ cấy dữ liệu bên ngoài vào, biến hình ảnh tưởng tượng khi nghe thành ký ức trông y như tự mình trải qua.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "What point does the writer make about human memory in the final paragraph?",
+      "options": [
+        "A. Its tendency to distort the past hinders our ability to predict social risks.",
+        "B. Its flexibility assists the brain in preparing for future scenarios.",
+        "C. Future-oriented brain regions operate separately from memory networks.",
+        "D. Fixed factual recall is more valuable for survival than personal storytelling."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Vùng não nhớ quá khứ và hình dung tương lai dùng chung mạng lưới; giữ ký ức linh hoạt giúp não tái tổ hợp dữ liệu cũ để diễn tập các thách thức tương lai.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>overwrites fragile early circuits</i> ↔ disrupts delicate neural <b>wiring (E)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>rebuild it from fragments</i> ↔ ongoing mental <b>reconstruction (B)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "H",
+      "inputWidth": "70px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>conversational styles when reminiscing</i> ↔ parent-child <b>dialogue (H)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>repeated at enough dinner tables</i> ↔ frequent <b>repetition (A)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>repeatedly invites them to imagine</i> ↔ active <b>imagination (F)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>quiet plasticity / keeping past scenes flexible</i> ↔ memory's <b>adaptability (D)</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Most people cannot retrieve genuine memories from the first few years of life.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Ký ức sớm nhất thường quanh 3–4 tuổi; trước mốc đó là khoảng trống gọi là <i>childhood amnesia</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "In Loftus's experiment, female participants were more likely than males to accept the invented story.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 (Bẫy từ khóa):</b> Bài mô tả thí nghiệm năm 1995 của Loftus và tỷ lệ ~1/4 người tình nguyện tin câu chuyện bịa, nhưng không hề phân tách hay so sánh giới tính nam và nữ.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Memories that feel emotionally vivid and clear are usually reliable indicators of real events.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"subjective certainty turns out to be a poor guide to historical accuracy\"</i> — ngay cả ký ức bất khả thi vẫn có độ rõ nét và cảm xúc y như thật.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Imperfect recall of early life contributes positively to maintaining a consistent sense of identity.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Dù thiếu chính xác lịch sử, tính dẻo của ký ức giúp duy trì mạch tự sự bản thân ổn định (<i>maintain a stable personal narrative / anchor who we believe we are becoming</i>).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

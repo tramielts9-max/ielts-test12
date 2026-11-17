@@ -1,0 +1,265 @@
+{
+  "title": "Bài sưu tầm 327 - Passage 3: The Myth of the Lone Genius in Scientific Discovery",
+  "answers": {
+    "q27": "B",
+    "q28": "B",
+    "q29": "B",
+    "q30": "B",
+    "q31": "B",
+    "q32": "A",
+    "q33": "F",
+    "q34": "C",
+    "q35": "NO",
+    "q36": "NOT GIVEN",
+    "q37": "YES",
+    "q38": "YES",
+    "q39": "NOT GIVEN",
+    "q40": "YES"
+  },
+  "passageHtml": "<h2>READING PASSAGE 327</h2><h3>The Myth of the Lone Genius in Scientific Discovery</h3><p><strong>Paragraph 1.</strong> Popular accounts of science tend to revolve around singular heroes: Isaac Newton beneath an apple tree, or Charles Darwin aboard the <em>Beagle</em>. In <em>Shared Sparks</em>, sociologist of science Clara Lind argues that <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">this focus on solitary brilliance distorts how knowledge actually grows. Major breakthroughs rarely emerge from isolated minds; they appear when accumulated tools, shared questions, and competing teams reach a tipping point.</span></p><p><strong>Paragraph 2.</strong> Lind supports her case by examining 'multiples'—cases where independent researchers arrive at the same finding almost simultaneously. In the seventeenth century, calculus was developed independently by Newton in England and Gottfried Leibniz in Germany; in the nineteenth century, <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">natural selection was formulated separately by Darwin and Alfred Russel Wallace</span>. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\"><span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Far from being rare coincidences, sociologist Robert Merton catalogued hundreds of such parallel breakthroughs</span>, suggesting that <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">once foundational concepts mature, discovery becomes almost inevitable</span> rather than the miracle of one irreplaceable brain.</span></p><p><strong>Paragraph 3.</strong> Why, then, does the heroic myth remain so stubborn? Lind points to modern institutions. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\"><span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\"><span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Leading scientific prizes restrict awards to at most three individuals, forcing committees to erase dozens of laboratory technicians, postgraduates, and earlier theorists from the public record.</span></span></span></span> Similarly, <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">patent law and venture funding demand a clear legal owner before capital is invested.</span> <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Narratives of individual genius are therefore not mere romantic storytelling; they serve practical legal and financial purposes.</span></p><p><strong>Paragraph 4.</strong> This distortion carries real costs for contemporary research. When funding agencies reward prominent 'star' investigators while overlooking collaborative networks, <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\"><span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">young scientists are discouraged from sharing preliminary data openly for fear of being scooped.</span></span> Lind warns that <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">clinging to outdated ideas of lone authorship slows down solutions to modern problems—such as climate modelling and vaccine design—that can only be tackled by large, transparent teams.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 31–34",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below. Write the correct letter, <b>A–F</b>, in boxes 31–34 on your answer sheet.</i>",
+      "endings": [
+        "A. commercial investors require identifiable rights over new inventions.",
+        "B. researchers often reach identical conclusions independently.",
+        "C. complex global challenges require open collective effort.",
+        "D. laboratory equipment has become too costly for small universities.",
+        "E. earlier thinkers had failed to record their experiments properly.",
+        "F. awards tend to exclude supporting contributors from recognition."
+      ],
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 35–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 327? In boxes 35–40 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q35",
+        "q36",
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What is Clara Lind’s main criticism of popular science stories?",
+      "options": [
+        "A. They exaggerate the technical difficulty of early experiments.",
+        "B. They credit individuals for progress that depends on wider conditions.",
+        "C. They overlook key discoveries made during the seventeenth century.",
+        "D. They claim modern tools have replaced human imagination."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Khám phá khoa học hiếm khi xuất phát từ cá nhân cô lập mà xuất hiện khi công cụ, câu hỏi chung và nhiều nhóm cạnh tranh đạt điểm chín muồi.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Why does the writer mention Robert Merton’s research in the second paragraph?",
+      "options": [
+        "A. to suggest that Newton borrowed Leibniz’s mathematical work",
+        "B. to show that parallel discoveries occur too often to be pure luck",
+        "C. to argue that British scholars worked faster than German rivals",
+        "D. to explain why Darwin delayed publishing his evolutionary theory"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Merton thống kê hàng trăm trường hợp phát minh song song (<i>Far from being rare coincidences...</i>), chứng tỏ đây không phải trùng hợp ngẫu nhiên.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "According to the third paragraph, why do scientific awards reinforce the 'lone genius' image?",
+      "options": [
+        "A. Laboratory assistants prefer not to have their names published.",
+        "B. Selection rules limit the number of recipients who can be honoured.",
+        "C. Prize committees lack the resources to trace historical papers.",
+        "D. Patent lawyers forbid winners from thanking their colleagues."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Các giải thưởng giới hạn tối đa 3 người (<i>restrict awards to at most three individuals</i>), buộc hội đồng phải gạt bỏ hàng chục cộng sự khác.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "What negative effect of the heroic narrative does Lind highlight in the final paragraph?",
+      "options": [
+        "A. Universities are closing down small independent laboratories.",
+        "B. Researchers hesitate to exchange early findings with peers.",
+        "C. Young scientists are leaving academic careers for business.",
+        "D. Governments have reduced funding for vaccine development."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Các nhà khoa học trẻ ngại chia sẻ dữ liệu sơ bộ công khai vì sợ bị cướp công (<i>discouraged from sharing preliminary data openly for fear of being scooped</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Once technical methods and background ideas reach maturity,",
+      "finalAnswer": "B",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Khi các khái niệm nền tảng chín muồi, các nhóm độc lập thường cùng đi tới kết luận giống nhau.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "Patent regulations favour single-creator stories because",
+      "finalAnswer": "A",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Luật sáng chế và quỹ đầu tư cần chủ sở hữu pháp lý rõ ràng trước khi rót vốn (<i>demand a clear legal owner before capital is invested</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "High-profile prizes distort scientific history because",
+      "finalAnswer": "F",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Giải thưởng giới hạn 3 người nên gạt bỏ kỹ thuật viên, nghiên cứu sinh và các nhà lý thuyết tiền nhiệm khỏi ghi nhận.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Outdated models of individual credit harm modern science because",
+      "finalAnswer": "C",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bám víu vào tác quyền cá nhân làm chậm giải pháp cho các bài toán hiện đại vốn đòi hỏi các nhóm lớn minh bạch.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Independent discoveries by separate scientists happen only occasionally.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Far from being rare coincidences, sociologist Robert Merton catalogued hundreds of such parallel breakthroughs...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Alfred Russel Wallace knew Charles Darwin personally before developing his evolutionary theory.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bài có nhắc cả Wallace và Darwin cùng độc lập tìm ra thuyết chọn lọc tự nhiên, nhưng không đề cập hai người có quen biết trước đó hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Institutional rules sometimes force prize judges to omit key team members.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"restrict awards to at most three individuals, forcing committees to erase dozens of laboratory technicians...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Financial interests play a role in keeping the solitary-inventor myth alive.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"they serve practical legal and financial purposes.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Major scientific journals now refuse to publish papers listing more than three authors.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "Con số 'ba người' trong Đoạn 3 áp dụng cho giải thưởng khoa học, bài hoàn toàn không nói tạp chí khoa học cấm ghi quá 3 tác giả.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Competition for personal recognition can reduce openness among junior researchers.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"young scientists are discouraged from sharing preliminary data openly for fear of being scooped.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

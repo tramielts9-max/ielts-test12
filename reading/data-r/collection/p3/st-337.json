@@ -1,0 +1,253 @@
+{
+  "title": "Bài sưu tầm 337 - Passage 3: The Illusion of Frictionless Choice: Why Convenience Can Undermine Satisfaction",
+  "answers": {
+    "q27": "B",
+    "q28": "D",
+    "q29": "A",
+    "q30": "C",
+    "q31": "F",
+    "q32": "C",
+    "q33": "H",
+    "q34": "A",
+    "q35": "E",
+    "q36": "D",
+    "q37": "YES",
+    "q38": "NOT GIVEN",
+    "q39": "NO",
+    "q40": "YES"
+  },
+  "passageHtml": "<h2>READING PASSAGE 337</h2><h3>The Illusion of Frictionless Choice: Why Convenience Can Undermine Satisfaction</h3><p><strong>Paragraph 1.</strong> For decades, consumer technology has operated under a single guiding assumption: any delay, physical step, or mental hurdle between a desire and its fulfilment is a flaw to be engineered away. From one-click purchasing and algorithmic playlists to instant grocery delivery, modern platforms celebrate 'frictionless' design. <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">The underlying promise is straightforward: by removing minor obstacles, services save users time and maximise daily satisfaction.</span> <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">Yet in <em>The Value of Effort</em>, behavioural psychologist Dr. Martin Halvorsen argues that eliminating every trace of resistance often backfires, quietly eroding both the pleasure we derive from our choices and our memory of the experience.</span></p><p><strong>Paragraph 2.</strong> Halvorsen traces this paradox to how human beings assign worth. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Contrary to classical economic models, which assume people value an object strictly for its final utility, psychological experiments reveal that we attach disproportionate significance to anything requiring personal involvement.</span> <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\"><span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">A classic illustration is the well-documented 'IKEA effect': participants asked to assemble simple storage boxes or fold origami figures consistently priced their own clumsy creations far higher than identical, professionally finished versions.</span></span> <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">When a product arrives completely pre-packaged at the tap of a screen, the consumer remains a passive recipient. Without an investment of attention or manual skill, the emotional bond between person and outcome weakens considerably.</span></p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">A second casualty of hyper-convenience is the loss of anticipation. In an era when music albums, television series, and restaurant meals are available within seconds, satisfaction is flattened by immediacy.</span> <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Neuroimaging studies indicate that the brain's reward centres fire not merely upon receiving a treat, but vigorously during the period of waiting and planning that precedes it.</span> <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">Moreover, when effortless abundance lowers the perceived cost of switching, users become chronically restless. A viewer browsing a vast catalogue of films frequently spends more minutes abandoning half-watched titles than enjoying any single narrative, precisely because walking away carries zero sense of sacrifice.</span></p><p><strong>Paragraph 4.</strong> Perhaps the most troubling consequences emerge in learning and intellectual growth. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Educational researchers have long recognised the principle of 'desirable difficulty': when study materials are presented in ways that force the learner to pause, decode, or retrieve ideas from memory—such as reading slightly harder typefaces or summarising a lecture in one's own words—long-term recall improves markedly.</span> <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Conversely, automated summary tools and one-button translation apps create a seductive illusion of competence. Students glide smoothly across complex texts without experiencing confusion, yet tests conducted days later show that very little information has actually settled into durable memory.</span></p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Halvorsen is careful not to romanticise unnecessary bureaucracy or inefficient tools. Nobody benefits from broken transport networks or poorly designed medical forms.</span> Rather, he distinguishes between 'toxic friction,' which merely wastes time, and <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">'productive friction,' which slows us down just enough to engage judgement, craft, and deliberate reflection</span>. <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">As digital platforms compete to predict our desires before we even articulate them, preserving small pockets of intentional effort may become essential—not to slow progress, but to ensure our experiences remain genuinely ours.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 31–36",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 31–36 on your answer sheet.</i><br><br><b>A.</b> effort &nbsp;|&nbsp; <b>B.</b> pricing &nbsp;|&nbsp; <b>C.</b> expectation<br><b>D.</b> resilience &nbsp;|&nbsp; <b>E.</b> retention &nbsp;|&nbsp; <b>F.</b> convenience<br><b>G.</b> advertising &nbsp;|&nbsp; <b>H.</b> attachment &nbsp;|&nbsp; <b>I.</b> isolation",
+      "summaryTitle": "The Hidden Costs of Effortless Design",
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ],
+      "template": "<p>Modern software developers tend to equate user happiness with maximum <b>31.</b> {{q31}} . However, Dr. Halvorsen warns that removing every minor delay strips away the pleasure of joyful <b>32.</b> {{q32}} . Psychological research shows that individuals form stronger emotional <b>33.</b> {{q33}} to items when they contribute personal <b>34.</b> {{q34}} during creation. In education, overly smooth digital shortcuts can actually weaken long-term <b>35.</b> {{q35}} of complex ideas, whereas well-placed mental challenges help build deeper cognitive <b>36.</b> {{q36}} .</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 37–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 337? In boxes 37–40 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What is the writer's main purpose in the first paragraph?",
+      "options": [
+        "A. to explain why modern grocery delivery services have become profitable",
+        "B. to introduce a challenge to a widely accepted design philosophy",
+        "C. to criticise consumers for demanding faster digital platforms",
+        "D. to compare algorithmic playlists with traditional retail stores"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Nêu giả định phổ biến rằng thiết kế không ma sát (<i>frictionless design</i>) luôn tốt, rồi đưa luận điểm phản biện của Halvorsen rằng nó thường phản tác dụng.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Why does the writer refer to the 'IKEA effect' in the second paragraph?",
+      "options": [
+        "A. to show that homemade furniture is structurally stronger than factory models",
+        "B. to prove that consumers rarely notice defects in professional products",
+        "C. to explain why shoppers prefer assembling complex household tools",
+        "D. to illustrate how active participation increases perceived value"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Người tham gia định giá món đồ tự tay lắp cao hơn bản làm sẵn, chứng minh sự tham gia trực tiếp (<i>personal involvement</i>) làm tăng giá trị cảm nhận.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "According to the third paragraph, why do users of streaming catalogues often leave films unfinished?",
+      "options": [
+        "A. Changing to another option requires almost no commitment.",
+        "B. Film studios have reduced the narrative quality of modern releases.",
+        "C. Brain reward centres stop responding after a brief delay.",
+        "D. Searching through large menus causes severe mental exhaustion."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Người xem dễ bỏ dở phim vì <i>\"walking away carries zero sense of sacrifice\"</i> (bỏ sang lựa chọn khác không mất chi phí/cam kết nào).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "In the fifth paragraph, what distinction does Halvorsen draw?",
+      "options": [
+        "A. between digital platforms designed for commerce and those built for schools",
+        "B. between delays caused by human error and those caused by software bugs",
+        "C. between pointless obstacles and challenges that deepen engagement",
+        "D. between traditional bureaucracy and modern medical administration"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Phân biệt rõ <i>toxic friction</i> (lãng phí thời gian vô ích) và <i>productive friction</i> (chậm lại vừa đủ để kích thích đánh giá và suy ngẫm sâu).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>frictionless design / removing minor obstacles</i> ↔ maximum <b>convenience (F)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>loss of anticipation / period of waiting and planning</i> ↔ joyful <b>expectation (C)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "H",
+      "inputWidth": "70px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>emotional bond between person and outcome</i> ↔ emotional <b>attachment (H)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>investment of attention or manual skill / assemble...</i> ↔ personal <b>effort (A)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>long-term recall / durable memory</i> ↔ long-term <b>retention (E)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4 & 5:</b> Vượt qua khó khăn vừa phải (<i>desirable difficulty / productive friction</i>) giúp củng cố sự bền bỉ/chắc chắn trong tư duy ↔ cognitive <b>resilience (D)</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "People's judgement of an object's worth is influenced by more than its practical usefulness.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Phản bác giả định rằng con người chỉ định giá theo công dụng cuối cùng (<i>final utility</i>); thực tế mức độ tự tay tham gia tạo nên giá trị lớn.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Brain scans show that planning a holiday triggers stronger reward signals than ordering a meal.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Bẫy Cam:</b> Đoạn 3 có nhắc quét não đo tín hiệu phần thưởng trong lúc chờ đợi/lên kế hoạch, và đoạn cũng nhắc bữa ăn nhà hàng, nhưng không hề so sánh giữa lên kế hoạch du lịch với đặt đồ ăn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Automated translation tools help university students retain complex arguments over several days.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Công cụ dịch một chạm tạo ảo giác hiểu bài, nhưng kiểm tra vài ngày sau cho thấy <i>\"very little information has actually settled into durable memory\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Retaining a certain degree of deliberate challenge can make digital life more meaningful.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"preserving small pockets of intentional effort may become essential... to ensure our experiences remain genuinely ours.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

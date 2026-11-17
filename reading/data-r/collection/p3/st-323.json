@@ -1,0 +1,253 @@
+{
+  "title": "Bài sưu tầm 323 - Passage 3: The Unintended Politics of Street Trees",
+  "answers": {
+    "q27": "D",
+    "q28": "G",
+    "q29": "B",
+    "q30": "I",
+    "q31": "E",
+    "q32": "A",
+    "q33": "NO",
+    "q34": "YES",
+    "q35": "NOT GIVEN",
+    "q36": "NO",
+    "q37": "C",
+    "q38": "B",
+    "q39": "D",
+    "q40": "A"
+  },
+  "passageHtml": "<h2>READING PASSAGE 323</h2><h3>The Unintended Politics of Street Trees</h3><p><strong>Paragraph 1.</strong> Over the past decade, mayors from Los Angeles to Milan have unveiled ambitious pledges to plant millions of urban trees. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">On paper, street greenery looks like the rare civic policy without political enemies: trees cool overheated asphalt, absorb stormwater, filter fine exhaust dust, and soften concrete horizons.</span> <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Yet urban geographer Dr. Naomi Alvarez argues that treating trees as purely neutral ecological fixtures obscures deep social fractures.</span> In <em>Canopy and Concrete</em>, she traces why well-funded municipal planting drives frequently stall—or spark fierce local opposition—in the very districts that need shade most.</p><p><strong>Paragraph 2.</strong> The root of the mismatch lies in how city forestry departments allocate saplings. Because municipal budgets rarely cover years of manual watering, pruning, and leaf sweeping, many councils rely on 'resident-request' programmes: <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">free trees are delivered primarily to blocks where property owners sign maintenance pledges.</span> <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\"><span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">In affluent, owner-occupied neighbourhoods, civic associations swiftly organize petitions and secure dense avenues of mature oaks and maples.</span> In lower-income rental quarters, however, absentee landlords seldom bother to apply, while overworked tenants fear being blamed for cracked sidewalks or clogged gutters.</span> As a result, <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">public planting subsidies quietly widen the 'shade gap' between wealthy and disadvantaged streets.</span></p><p><strong>Paragraph 3.</strong> Even when cities bypass request forms and plant directly in underserved districts, local resistance can run surprisingly high. In a three-year survey in Detroit, sociologist Christine Carmichael discovered that nearly a quarter of households offered a free curbside sapling turned it down. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">To municipal foresters, the refusals seemed baffling; to residents, they reflected decades of broken municipal promises.</span> <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Elderly homeowners remembered earlier eras when Dutch elm disease killed thousands of street trees that the city then left rotting for years, creating falling-branch hazards and costly sewer repairs borne privately by residents.</span> <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Without trusted funding for long-term upkeep, a young tree looked less like an environmental gift than an uninvited future liability.</span></p><p><strong>Paragraph 4.</strong> Further tension emerges from what urban planners call 'ecological gentrification'. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">When neglected industrial corridors are transformed into leafy boulevards and shaded pocket parks, surrounding property values climb sharply.</span> <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">While landlords and municipal tax offices welcome the boost, long-term renters often find themselves priced out of the improved neighbourhoods within five years.</span> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Alvarez does not suggest abandoning urban greenery; instead, she calls for 'just-green-enough' planning—combining guaranteed city-funded maintenance, resident participation in choosing non-nuisance species, and <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">rent-stabilization policies</span></span> so that <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">cooling canopies benefit existing communities rather than merely paving the way for wealthier newcomers</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 27–32",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below. Write the correct letter, <b>A–J</b>, in boxes 27–32 on your answer sheet.</i><br><br><b>A.</b> displacement &nbsp;|&nbsp; <b>B.</b> distrust &nbsp;|&nbsp; <b>C.</b> density &nbsp;|&nbsp; <b>D.</b> participation<br><b>E.</b> protection &nbsp;|&nbsp; <b>F.</b> pollution &nbsp;|&nbsp; <b>G.</b> inequality &nbsp;|&nbsp; <b>H.</b> decoration<br><b>I.</b> burden &nbsp;|&nbsp; <b>J.</b> competition",
+      "summaryTitle": "Challenges in Urban Tree Planting",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31",
+        "q32"
+      ],
+      "template": "<p>Although city leaders promote tree planting as universally beneficial, researchers show that distribution methods often depend on local <b>27.</b> {{q27}} in maintenance agreements. Because wealthier residents apply more readily, public planting schemes frequently reinforce geographic <b>28.</b> {{q28}} across urban districts. Even when cities distribute free saplings proactively, deep <b>29.</b> {{q29}} shaped by past neglect can prompt rejections. Without reliable civic upkeep, residents view new trees as a financial <b>30.</b> {{q30}} rather than an asset. Moreover, greener streets can raise rents sharply, making tenant <b>31.</b> {{q31}} essential to prevent the <b>32.</b> {{q32}} of existing low-income households.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 33–36",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 323? In boxes 33–36 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Dựa vào việc chủ nhà ký cam kết chăm sóc và nộp đơn đăng ký → local <b>participation (D)</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Nới rộng khoảng cách bóng mát giữa khu giàu và khu nghèo → geographic <b>inequality (G)</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Phản ánh hàng thập kỷ hứa suông của chính quyền → deep <b>distrust (B)</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "I",
+      "inputWidth": "70px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>uninvited future liability</i> (gánh nặng tài chính tương lai) ↔ financial <b>burden (I)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>rent-stabilization policies</i> nhằm bảo vệ người thuê nhà → tenant <b>protection (E)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>priced out of the improved neighbourhoods</i> (bị đẩy ra khỏi khu ở vì giá cao) ↔ <b>displacement (A)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "In practice, urban tree-planting campaigns rarely encounter opposition from city residents.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1 & 3:</b> Trên giấy tờ tưởng không có phe phản đối (<i>On paper... without political enemies</i>), nhưng thực tế thường vấp phải phản đối gay gắt và 1/4 hộ ở Detroit từ chối trồng.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Demand-based planting policies tend to increase disparities in tree cover between rich and poor areas.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chính sách dựa vào đơn đăng ký làm ngân sách công âm thầm nới rộng khoảng cách bóng râm giữa đường phố giàu và nghèo (<i>widen the 'shade gap'</i>).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Rising property prices around leafy corridors usually lead local governments to spend more on street repairs.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4 (Bẫy từ khóa):</b> Bài có nhắc <i>property values climb</i> và <i>municipal tax offices</i> hưởng lợi từ nguồn thu tăng, nhưng hoàn toàn không nói chính quyền có dùng tiền đó chi nhiều hơn cho sửa chữa đường phố hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Dr. Naomi Alvarez recommends halting tree planting in disadvantaged areas until rents fall.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Alvarez does not suggest abandoning urban greenery; instead, she calls for 'just-green-enough' planning...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What is Dr. Naomi Alvarez's main criticism of conventional urban forestry?",
+      "options": [
+        "A. It chooses tree species that fail to lower summer asphalt temperatures.",
+        "B. It spends too much public funding on pruning wealthy streets.",
+        "C. It ignores the social inequalities embedded in how planting programmes operate.",
+        "D. It forces private landlords to pay fines for damaged pavement tiles."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1 & 2:</b> Coi cây xanh chỉ là hạ tầng trung tính đã che lấp các rạn nứt xã hội sâu sắc trong cách phân bổ và bảo trì.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Why do low-income neighbourhoods receive fewer trees under 'resident-request' schemes?",
+      "options": [
+        "A. Streets in poorer districts lack enough soil space for mature oaks.",
+        "B. Neither absentee owners nor busy tenants are likely to submit applications.",
+        "C. Forestry departments deliberately reject petitions from rental areas.",
+        "D. Tenants must pay an upfront fee before saplings are delivered."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chủ nhà ở xa ít bận tâm đăng ký, còn người thuê quá bận và sợ bị quy trách nhiệm hư hỏng vỉa hè/cống rãnh nên không xin trồng.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "In Detroit, what explained elderly homeowners' reluctance to accept free saplings?",
+      "options": [
+        "A. They preferred fast-growing non-native trees over traditional elms.",
+        "B. They worried that shade would lower the resale value of their houses.",
+        "C. They objected to volunteers entering their yards to water young plants.",
+        "D. Past municipal neglect had previously left them bearing heavy maintenance costs."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chính quyền từng bỏ mặc hàng nghìn cây chết mục nhiều năm sau dịch bệnh, khiến dân phải tự gánh chi phí sửa cống và rủi ro gãy cành.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What does 'just-green-enough' planning aim to achieve?",
+      "options": [
+        "A. environmental improvements paired with safeguards that keep local residents in place",
+        "B. minimal street planting restricted strictly to industrial zones",
+        "C. transferring full ownership of public parks to neighbourhood associations",
+        "D. encouraging wealthier newcomers to subsidize tree care in poorer blocks"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Kết hợp bảo trì bằng ngân sách thành phố, cho dân chọn loài cây và chính sách ổn định giá thuê để cộng đồng hiện tại được hưởng lợi thay vì bị đuổi đi.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    }
+  }
+}

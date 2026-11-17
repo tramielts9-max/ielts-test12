@@ -1,0 +1,266 @@
+{
+  "title": "Bài sưu tầm 330 - Passage 3: The Rise and Limits of Predictive Policing",
+  "answers": {
+    "q27": "YES",
+    "q28": "NO",
+    "q29": "NO",
+    "q30": "NOT GIVEN",
+    "q31": "YES",
+    "q32": "D",
+    "q33": "F",
+    "q34": "A",
+    "q35": "B",
+    "q36": "C",
+    "q37": "B",
+    "q38": "B",
+    "q39": "B",
+    "q40": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 330</h2><h3>The Rise and Limits of Predictive Policing</h3><p><strong>Paragraph 1.</strong> Over the past decade, police departments across North America and Europe have adopted predictive policing software—<span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">algorithms originally adapted from earthquake aftershock models</span> to forecast where and when crimes are most likely to occur. <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">Supporters claim these tools enable cash-strapped forces to deploy officers efficiently rather than reacting only after offences take place.</span> <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Critics, however, warn that algorithmic maps often mistake a reflection of past policing habits for an objective portrait of criminal activity.</span></p><p><strong>Paragraph 2.</strong> The core technical vulnerability lies in historical training data. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\"><span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\"><span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Unlike seismic sensors that passively record natural tremors regardless of where scientists stand, crime databases record only the offences that police actually observe or residents report.</span></span></span> <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">In neighbourhoods that have historically been patrolled more heavily, officers naturally stop more people and log more minor infractions—such as drug possession or trespassing—<span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">even when similar behaviour occurs unnoticed in wealthier, less patrolled districts</span>.</span></p><p><strong>Paragraph 3.</strong> When predictive software ingests these skewed records, it generates a self-reinforcing feedback loop. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">The algorithm flags the same heavily patrolled blocks as high-risk 'hotspots,' prompting commanders to send even more patrol cars there. Those extra patrols inevitably uncover additional minor arrests, which are then fed back into the system as statistical 'proof' that the prediction was accurate.</span> Rather than uncovering hidden patterns, <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">the software risks amplifying old inequalities under a veneer of mathematical neutrality</span>.</p><p><strong>Paragraph 4.</strong> Recognizing these risks, <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">several municipalities have restricted or abandoned predictive crime-mapping tools, shifting instead toward transparent, human-led community audits</span>. Researchers studying these reforms emphasize that technology is not inherently useless in public safety: <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">algorithms can still assist with logistical scheduling or emergency response times</span>. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\"><span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Yet deciding which neighbourhoods deserve heightened police scrutiny remains a social and ethical judgment that mathematical formulas cannot safely make on their own.</span></span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 27–31",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 330? In boxes 27–31 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 32–36",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–G</b>, below. Write the correct letter, <b>A–G</b>, in boxes 32–36 on your answer sheet.</i>",
+      "endings": [
+        "A. historical records reflect enforcement patterns rather than actual crime rates.",
+        "B. extra patrols generate new arrests that confirm the software's original forecast.",
+        "C. public safety decisions involve moral choices beyond statistical calculation.",
+        "D. cash-strapped departments hoped to allocate limited staff more proactively.",
+        "E. software engineers deliberately programmed algorithms to target low-income areas.",
+        "F. natural tremors are detected independently of where observers are stationed.",
+        "G. local communities refused to report emergency incidents to police call centres."
+      ],
+      "questionIds": [
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "Early predictive policing software borrowed mathematical principles from earth science.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"algorithms originally adapted from earthquake aftershock models\"</i> (mô hình dư chấn động đất).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Minor offences like drug possession happen far less frequently in wealthy areas than in heavily patrolled districts.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"even when similar behaviour occurs unnoticed in wealthier, less patrolled districts\"</i> (hành vi tương tự vẫn xảy ra nhưng không bị để ý tới).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Sensors used in earthquake research miss tremors in areas where few scientists live.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"seismic sensors that passively record natural tremors regardless of where scientists stand\"</i> (ghi nhận bất kể nhà khoa học đứng ở đâu).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "Several cities that abandoned predictive policing later experienced a rise in violent crime.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài có nói nhiều thành phố hạn chế/bỏ công cụ dự đoán tội phạm, nhưng hoàn toàn không nhắc tỷ lệ tội phạm bạo lực sau đó tăng hay giảm.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Algorithms can still perform helpful administrative roles within police departments.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"algorithms can still assist with logistical scheduling or emergency response times.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "Police forces initially adopted predictive software because",
+      "finalAnswer": "D",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Giúp lực lượng thiếu ngân sách bố trí nhân lực hiệu quả, chủ động thay vì chỉ phản ứng sau khi tội phạm xảy ra.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Earthquake models differ from crime statistics because",
+      "finalAnswer": "F",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cảm biến địa chấn ghi nhận rung chấn tự nhiên độc lập với vị trí người quan sát.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Crime databases provide an incomplete picture of offending because",
+      "finalAnswer": "A",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Dữ liệu tội phạm chỉ ghi lại những gì cảnh sát đi tuần quan sát hoặc người dân trình báo (phản ánh thói quen tuần tra hơn là tỷ lệ thực).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "A self-reinforcing feedback loop occurs when",
+      "finalAnswer": "B",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Điều thêm xe tuần tra lại phát hiện thêm bắt giữ nhỏ lẻ, rồi nạp ngược vào máy làm bằng chứng thống kê xác nhận dự đoán đúng.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Researchers caution against letting algorithms decide patrol priorities because",
+      "finalAnswer": "C",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Quyết định khu vực nào cần giám sát chặt là phán đoán xã hội và đạo đức vượt quá phép tính toán học.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What reservation do critics express about predictive policing in the first paragraph?",
+      "options": [
+        "A. It is too expensive for police forces with limited budgets.",
+        "B. Its forecasts confuse previous patrol choices with real crime patterns.",
+        "C. It responds too slowly after an offence has already been reported.",
+        "D. Its earthquake-based software frequently crashes during emergencies."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Nhầm lẫn giữa dấu vết thói quen tuần tra cũ với bức tranh khách quan về tội phạm.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Why does the writer compare crime records with seismic measurements?",
+      "options": [
+        "A. to show that earthquakes are harder to predict than human behaviour",
+        "B. to highlight that crime data depends on where observers are looking",
+        "C. to prove that residents report natural disasters more reliably than theft",
+        "D. to explain why wealthier districts install fewer security sensors"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cảm biến động đất không phụ thuộc chỗ nhà khoa học đứng, còn dữ liệu tội phạm phụ thuộc khu vực cảnh sát đứng gác.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "What does the writer mean by 'a veneer of mathematical neutrality'?",
+      "options": [
+        "A. Software engineers are unable to calculate accurate arrest totals.",
+        "B. Biased human decisions appear objective simply because numbers produce them.",
+        "C. Officers ignore computer forecasts when patrolling high-risk blocks.",
+        "D. Statistical models have eliminated unfair treatment in local courts."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nguy cơ khuếch đại bất bình đẳng cũ dưới lớp vỏ bọc 'trung lập toán học' (khiến thiên kiến nhìn như khách quan).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What is the writer’s overall conclusion in the final paragraph?",
+      "options": [
+        "A. Police departments should eliminate all computer software from daily work.",
+        "B. Algorithms can support practical operations but should not replace human oversight.",
+        "C. Community audits have proven less transparent than automated hotspot maps.",
+        "D. Public safety depends mainly on increasing the speed of emergency vehicles."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thuật toán vẫn hỗ trợ xếp lịch hậu cần hay điều phối phản ứng khẩn cấp được, nhưng không thể tự đưa ra phán đoán đạo đức/xã hội thay con người.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

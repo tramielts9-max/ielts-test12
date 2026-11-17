@@ -1,0 +1,265 @@
+{
+  "title": "Bài sưu tầm 321 - Passage 3: The Standard Metre: How the World Agreed on Length",
+  "answers": {
+    "q27": "B",
+    "q28": "D",
+    "q29": "A",
+    "q30": "C",
+    "q31": "D",
+    "q32": "A",
+    "q33": "F",
+    "q34": "C",
+    "q35": "NO",
+    "q36": "YES",
+    "q37": "NOT GIVEN",
+    "q38": "YES",
+    "q39": "NOT GIVEN",
+    "q40": "NO"
+  },
+  "passageHtml": "<h2>READING PASSAGE 321</h2><h3>The Standard Metre: How the World Agreed on Length</h3><p><strong>Paragraph 1.</strong> Before the late eighteenth century, measuring length in Europe was a remarkably local affair. A cloth merchant travelling fifty kilometres from one market town to another might encounter three entirely different definitions of a foot or an ell. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">In France alone, historians estimate that roughly a quarter of a million distinct regional units were in active circulation on the eve of the 1789 Revolution.</span> Rather than being an accidental oversight, <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">this chaotic patchwork suited provincial landlords and feudal magistrates, who quietly altered local grain measures whenever rents fell due or harvests grew thin.</span> <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">Standardization, therefore, was not merely a technical headache; it was a political struggle over who controlled the terms of everyday exchange.</span></p><p><strong>Paragraph 2.</strong> When French revolutionaries swept away royal authority, they promised a clean break with the past—not only in law and taxation, but in how citizens counted and weighed the physical world. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">Seeking a benchmark untainted by kings or local custom, members of the Academy of Sciences turned to the planet itself.</span> In 1791, the committee proposed defining the new unit of length, the metre, as one ten-millionth of the distance from the North Pole to the Equator along the meridian passing through Paris. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Though French delegates initially invited Britain and the young United States to collaborate on the venture, diplomatic friction and war soon left Paris to shoulder the survey alone.</span></p><p><strong>Paragraph 3.</strong> Translating this elegant idea into metal required measuring an actual arc of the Earth stretching from Dunkirk on the English Channel to Barcelona on the Mediterranean coast. Two astronomers, Jean-Baptiste Delambre and Pierre Méchain, set out in opposite directions in 1792 with brass repeating circles and revolutionary passports. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Over the next seven years, the pair endured suspicious villagers who mistook their surveying lanterns for royalist signals, sudden arrests, and the outbreak of war between France and Spain.</span> Worse still, <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">Méchain quietly discovered a tiny discrepancy in his latitude readings near Barcelona. Terrified that admitting an error would discredit the entire project, he concealed the flaw in his notebooks, a private torment that haunted him until his death and skewed the official metre by a fifth of a millimetre.</span></p><p><strong>Paragraph 4.</strong> In 1799, a platinum bar representing the newly calculated length was sealed inside the national archives in Paris. Yet possessing a clean rational standard did not guarantee public acceptance. <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\"><span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Market stallholders and rural carpenters stubbornly clung to their familiar thumbs, cubits, and fathoms, complaining that unfamiliar decimal names sounded needlessly abstract.</span></span> <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">For more than three decades, successive governments issued decrees, fined uncooperative shopkeepers, and even permitted hybrid 'usual measures' that compromised the decimal logic.</span> Only in 1840, after strict classroom instruction trained a new generation from childhood, did the metric system finally take firm root across French daily life.</p><p><strong>Paragraph 5.</strong> Abroad, adoption followed a surprisingly pragmatic pattern. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Countries whose economies depended heavily on cross-border commerce, such as the Low Countries and later Germany, embraced the French bar because unified specifications cut shipping delays and customs disputes.</span> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Meanwhile, the metre itself proved less permanent than its founders had hoped:</span> <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">even carefully guarded platinum-iridium bars expand slightly with warmth and risk microscopic wear during handling.</span> <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">In 1983, physicists severed the unit from physical metal altogether, anchoring the metre to the distance light travels in a vacuum during a tiny fraction of a second</span>—a cosmic constant that no human artisan, war, or shifting climate can ever bend.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 31–34",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below. Write the correct letter, <b>A–F</b>, in boxes 31–34 on your answer sheet.</i>",
+      "endings": [
+        "A. everyday habits proved far harder to legislate away than political regimes.",
+        "B. decimal calculations were too complex for rural schoolteachers to explain.",
+        "C. even the most stable alloys remain vulnerable to subtle environmental shifts.",
+        "D. inconsistencies in regional sizing gave local authorities quiet leverage over trade.",
+        "E. international committees demanded that physical bars be replaced every decade.",
+        "F. state officials temporarily tolerated mixed systems to ease public resistance."
+      ],
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 35–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 321? In boxes 35–40 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q35",
+        "q36",
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "Why does the writer mention a cloth merchant in the first paragraph?",
+      "options": [
+        "A. to criticize the poor quality of goods sold in provincial French towns",
+        "B. to illustrate how fragmented measurement practices complicated commerce",
+        "C. to explain why long-distance trade declined before 1789",
+        "D. to show that rural traders preferred metric units over traditional ones"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Người buôn vải chỉ đi 50 km đã gặp 3 định nghĩa khác nhau cho cùng đơn vị, phản ánh sự phân mảnh của ~250.000 đơn vị vùng miền gây rối cho giao thương.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "What guided the Academy of Sciences when choosing a basis for the new unit?",
+      "options": [
+        "A. a desire to preserve the most reliable royal measuring rods",
+        "B. pressure from European textile guilds for shorter units",
+        "C. calculations borrowed from ancient Greek geographers",
+        "D. the wish to link measurement to a neutral feature of nature"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Seeking a benchmark untainted by kings or local custom, members of the Academy of Sciences turned to the planet itself.\"</i> (chọn chu vi Trái Đất để trung lập, không dính dáng vua chúa hay tập quán vùng).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "What caused the original metre bar to be slightly inaccurate?",
+      "options": [
+        "A. One surveyor hid conflicting figures out of fear for the mission's reputation.",
+        "B. Brass instruments broke during clashes with suspicious villagers.",
+        "C. Revolutionary officials rushed the metalworkers to finish by 1799.",
+        "D. The meridian between Dunkirk and Barcelona shifted after an earthquake."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Méchain phát hiện sai lệch số đo ở Barcelona nhưng sợ mất uy tín cả dự án nên giấu kín trong sổ tay (<i>concealed the flaw... skewed the official metre by a fifth of a millimetre</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "What major change occurred to the definition of the metre in the late twentieth century?",
+      "options": [
+        "A. Scientists returned to surveying Earth's meridian with satellites.",
+        "B. A thicker platinum cylinder replaced the original 1799 model.",
+        "C. Measurement was tied to a physical phenomenon rather than an object.",
+        "D. Countries agreed to accept minor variations in length across climates."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Năm 1983, giới vật lý tách đơn vị khỏi thanh kim loại vật lý, neo vào quãng đường ánh sáng đi trong chân không (hiện tượng vật lý bất biến).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Before the Revolution, uniform measures were resisted partly because",
+      "finalAnswer": "D",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Địa chủ và quan lại địa phương hưởng lợi từ việc tự chỉnh đơn vị đo lường khi thu tô; chuẩn hóa là cuộc đấu tranh quyền kiểm soát giao dịch.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "Early attempts to enforce the metric system among French citizens showed that",
+      "finalAnswer": "A",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Có chuẩn khoa học nhưng dân vẫn bám lấy thói quen đo cũ hàng thập kỷ bất chấp sắc lệnh nhà nước (chỉ đến khi dạy từ tiểu học năm 1840 mới bén rễ).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Because ordinary traders found pure decimal units impractical at first,",
+      "finalAnswer": "F",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Các chính phủ kế tiếp từng phải cho phép dùng các đơn vị lai ghép quen dùng (<i>permitted hybrid 'usual measures'</i>) để xoa dịu phản ứng của dân.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Replicating the metre using physical metal bars proved unsatisfactory because",
+      "finalAnswer": "C",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Ngay cả thanh hợp kim bạch kim-iridi giữ cẩn thận vẫn giãn nở nhẹ theo nhiệt độ và mòn vi mô khi cầm nắm.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "The wide variety of regional measurements in pre-revolutionary France developed purely by chance.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Phủ định trực tiếp: <i>\"Rather than being an accidental oversight, this chaotic patchwork suited provincial landlords...\"</i> (Không phải do tình cờ/sơ suất).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "France originally hoped to carry out the meridian measurement alongside foreign partners.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"French delegates initially invited Britain and the young United States to collaborate on the venture...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Delambre and Méchain lost several months of surveying time because Spanish authorities arrested them.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 (Bẫy từ khóa):</b> Bài có nhắc <i>sudden arrests</i> (bị bắt giữ bất ngờ) và nhắc <i>war between France and Spain</i>, nhưng hoàn toàn không nói việc bị bắt là do chính quyền Tây Ban Nha thực hiện hay làm mất cụ thể bao nhiêu tháng.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Many French workers disliked the vocabulary introduced for the new metric units.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Tiểu thương và thợ mộc phàn nàn rằng tên gọi thập phân lạ lẫm nghe quá trừu tượng (<i>complaining that unfamiliar decimal names sounded needlessly abstract</i>).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "German merchants were generally more enthusiastic about adopting the metre than Dutch merchants.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5 (Bẫy từ khóa):</b> Bài có nhắc cả <i>the Low Countries</i> (Hà Lan/Bỉ) và <i>Germany</i> đều đón nhận thanh mét vì lợi ích thương mại, nhưng không hề so sánh bên nào nhiệt tình hơn bên nào.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "The scientists who designed the 1799 platinum bar expected it to need replacement within a century.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"the metre itself proved less permanent than its founders had hoped\"</i> → Những người sáng lập kỳ vọng nó bền vững lâu dài chứ không dự liệu sẽ phải thay thế.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

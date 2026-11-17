@@ -1,0 +1,262 @@
+{
+  "title": "Bài sưu tầm 324 - Passage 3: The Paradox of Musical Prodigies",
+  "answers": {
+    "q27": "B",
+    "q28": "D",
+    "q29": "A",
+    "q30": "F",
+    "q31": "C",
+    "q32": "H",
+    "q33": "B",
+    "q34": "E",
+    "q35": "A",
+    "q36": "YES",
+    "q37": "NOT GIVEN",
+    "q38": "NO",
+    "q39": "YES",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 324</h2><h3>The Paradox of Musical Prodigies</h3><p><strong>Paragraph 1.</strong> Concert halls have long been captivated by the spectacle of an eight-year-old pianist effortlessly navigating a Chopin nocturne before an audience of seasoned critics. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Yet historical surveys reveal an uncomfortable truth: very few child prodigies go on to reshape the musical landscape as adults.</span> <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">In <em>Beyond Early Brilliance</em>, musicologist Dr. Hannah Lindqvist examines why extraordinary juvenile mastery rarely translates into lasting artistic innovation.</span> The answer, she argues, lies not in a sudden loss of talent, <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">but in a sharp mismatch between the skills rewarded in childhood and those demanded in maturity.</span></p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">Young prodigies excel primarily at faithful reproduction.</span> Blessed with exceptional auditory memory and fine motor coordination, <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">they absorb established scores rapidly and replicate the stylistic nuances of older masters with uncanny accuracy.</span> <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Conservatories and international youth competitions reinforce this habit by awarding prizes for technical precision and fidelity to canonised recordings.</span> However, as Lindqvist notes, <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">imitation is fundamentally conservative:</span> mastering the rules laid down by previous generations trains the young performer to avoid mistakes rather than take aesthetic risks.</p><p><strong>Paragraph 3.</strong> The transition to adulthood confronts the former prodigy with an unsettling psychological shift. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Audiences no longer applaud merely because a performer is young; the novelty of age evaporates, leaving behind a far sterner demand for an original artistic voice.</span> <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">Many celebrated child performers discover that decades of tightly scheduled practice—often orchestrated by ambitious parents or managers—have left them little room for unguided play, boredom, or personal experimentation.</span> <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">When asked to compose or interpret boldly without an instructor's blueprint, some experience acute creative paralysis,</span> quietly retreating into teaching or routine orchestral work.</p><p><strong>Paragraph 4.</strong> Conversely, biographies of revolutionary composers such as Ludwig van Beethoven or the jazz innovator Thelonious Monk tell a notably different story. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">Though unmistakably gifted, neither was celebrated as a polished, error-free child virtuoso;</span> both showed stubborn eccentricities, resisted rigid drills, and spent years wandering across musical boundaries before producing mature breakthroughs. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Crucially, Lindqvist warns educators against treating early fluency as a guarantee of future genius—or dismissing late-blooming adolescents whose messy curiosity resists neat competition rubrics.</span> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">True artistic originality, she concludes, begins only when <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">a musician dares to unlearn perfection</span>.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–29",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–29 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 30–35",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 30–35 on your answer sheet.</i><br><br><b>A.</b> imperfection &nbsp;|&nbsp; <b>B.</b> autonomy &nbsp;|&nbsp; <b>C.</b> imitation<br><b>D.</b> wealth &nbsp;|&nbsp; <b>E.</b> discipline &nbsp;|&nbsp; <b>F.</b> mismatch<br><b>G.</b> exhaustion &nbsp;|&nbsp; <b>H.</b> caution &nbsp;|&nbsp; <b>I.</b> publicity",
+      "summaryTitle": "From Child Prodigy to Adult Artist",
+      "questionIds": [
+        "q30",
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35"
+      ],
+      "template": "<p>Dr. Hannah Lindqvist argues that most child prodigies fail to revolutionize music because of a fundamental <b>30.</b> {{q30}} between childhood praise and adult expectations. Young performers win acclaim through accurate <b>31.</b> {{q31}} of existing works, a habit that encourages technical <b>32.</b> {{q32}} rather than artistic daring. Later, heavily managed training can leave grown musicians struggling when granted sudden creative <b>33.</b> {{q33}} . By contrast, many trailblazing composers resisted strict early <b>34.</b> {{q34}} and embraced experimentation, suggesting that genuine innovation often requires accepting <b>35.</b> {{q35}} .</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 36–39",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 324? In boxes 36–39 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q36",
+        "q37",
+        "q38",
+        "q39"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Question 40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in box 40 on your answer sheet.</i>",
+      "questionIds": [
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "According to Dr. Hannah Lindqvist, why do few musical prodigies transform music in adulthood?",
+      "options": [
+        "A. Their auditory memory deteriorates rapidly after adolescence.",
+        "B. The qualities that bring childhood success differ from those driving adult innovation.",
+        "C. Critics lose interest in classical repertoire once performers grow older.",
+        "D. Physical hand injuries from intense training end most solo careers."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Không phải do mất tài năng, mà do sự lệch pha giữa kỹ năng được tán thưởng lúc nhỏ và kỹ năng cần ở tuổi trưởng thành.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "In the second paragraph, the writer suggests that youth music competitions tend to",
+      "options": [
+        "A. overlook performers with natural motor coordination.",
+        "B. encourage young pianists to compose experimental pieces.",
+        "C. penalize candidates who study older masters too closely.",
+        "D. reward error-free conformity over personal artistic risk."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Các cuộc thi trao giải cho độ chính xác kỹ thuật và bám sát bản thu kinh điển, rèn cho người trẻ tránh lỗi thay vì mạo hiểm thẩm mỹ.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "What problem do some prodigies face when their careers become self-directed?",
+      "options": [
+        "A. Strict early routines have left them unprepared to generate original ideas.",
+        "B. Parents continue to block them from accepting orchestral appointments.",
+        "C. They are barred from teaching inside traditional conservatories.",
+        "D. Concert halls prefer booking younger performers on lower fees."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Hàng thập kỷ tập luyện theo lịch ép sẵn khiến họ thiếu không gian thử nghiệm cá nhân; khi không còn khuôn mẫu của thầy, họ dễ rơi vào tê liệt sáng tạo.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>sharp mismatch between the skills rewarded in childhood and those demanded in maturity</i> ↔ <b>mismatch (F)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>faithful reproduction / replicate the stylistic nuances</i> ↔ accurate <b>imitation (C)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "H",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>avoid mistakes rather than take aesthetic risks</i> ↔ technical <b>caution (H)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>without an instructor's blueprint</i> ↔ creative <b>autonomy (B)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>resisted rigid drills</i> ↔ strict early <b>discipline (E)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>dares to unlearn perfection</i> ↔ accepting <b>imperfection (A)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Only a small minority of child prodigies later become groundbreaking adult musicians.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"very few child prodigies go on to reshape the musical landscape as adults.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Judges at international youth competitions are mostly retired orchestra conductors.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 (Bẫy từ khóa):</b> Bài có nhắc <i>international youth competitions</i> và <i>orchestral work</i> (ở đoạn 3), nhưng hoàn toàn không đề cập thành phần ban giám khảo các cuộc thi trẻ là ai.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Adult audiences evaluate mature performers with the same leniency shown to young prodigies.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Sự mới lạ của tuổi tác biến mất, nhường chỗ cho đòi hỏi khắt khe hơn nhiều về dấu ấn nghệ thuật riêng (<i>leaving behind a far sterner demand</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Educators should avoid assuming that awkward, unpolished teenagers lack major creative potential.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Lindqvist cảnh báo không nên gạt bỏ những thiếu niên nở muộn có sự tò mò lộn xộn không vừa khuôn điểm thi (<i>dismissing late-blooming adolescents whose messy curiosity resists neat competition rubrics</i>).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Which subtitle best summarizes the central idea of Reading Passage 324?",
+      "options": [
+        "A. Why modern conservatories are abolishing competitive music exams",
+        "B. How childhood auditory memory determines lifelong compositional talent",
+        "C. Why early technical perfection can hinder mature musical originality",
+        "D. The financial pressures placed on child performers by concert halls"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "Chủ đề xuyên suốt: Sự hoàn hảo kỹ thuật sớm dựa trên bắt chước dễ kìm hãm tính nguyên bản sáng tạo ở tuổi trưởng thành.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

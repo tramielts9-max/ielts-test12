@@ -1,0 +1,253 @@
+{
+  "title": "Bài sưu tầm 328 - Passage 3: How Translation Shapes What We Call Literature",
+  "answers": {
+    "q27": "B",
+    "q28": "E",
+    "q29": "H",
+    "q30": "C",
+    "q31": "F",
+    "q32": "D",
+    "q33": "YES",
+    "q34": "NOT GIVEN",
+    "q35": "NO",
+    "q36": "NO",
+    "q37": "B",
+    "q38": "C",
+    "q39": "B",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 328</h2><h3>How Translation Shapes What We Call Literature</h3><p><strong>Paragraph 1.</strong> Readers who enjoy Fyodor Dostoevsky or Gabriel García Márquez in English rarely pause to consider that they are not reading the authors' own words, but those of a translator. In <em>The Unseen Craft</em>, literary scholar Elena Rostova observes that <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">for centuries, Western publishing has prized 'transparency'—the illusion that a translated novel was originally written in the target language.</span> <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\"><span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">When a translation reads smoothly, the translator disappears; when a sentence feels unfamiliar, readers blame the translator's lack of skill.</span></span></p><p><strong>Paragraph 2.</strong> Rostova contrasts two opposing philosophies <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">first outlined by nineteenth-century German thinker Friedrich Schleiermacher</span>. The 'domesticating' approach smooths out foreign idioms, cultural references, and unusual rhythms <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">so the book feels comfortably local to the reader</span>. By contrast, <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">'foreignizing' translation deliberately preserves echoes of the source language's structure and <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">cultural distance</span>, reminding readers that they are encountering a voice from another place and time.</span></p><p><strong>Paragraph 3.</strong> In the modern global market, however, <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">economic pressures overwhelmingly favour domestication</span>. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Major publishing houses in London and New York translate a far smaller share of books than publishers in smaller European or Asian markets</span>, and <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">editors often reject manuscripts that sound 'too foreign' to English-speaking buyers.</span> As a result, <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">works from non-Western traditions are frequently trimmed or softened before publication</span>, stripping away local humour and distinct narrative pacing so they fit familiar commercial moulds.</p><p><strong>Paragraph 4.</strong> Rostova argues that this insistence on effortless fluency <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">impoverishes world literature</span>. Reading translated fiction should not feel like looking into a mirror that reflects only one's own habits; it should gently stretch a reader's ear. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\"><span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Encouraging bolder, less sanitized translations does not mean making books unreadable—it means trusting audiences to meet unfamiliar cultures halfway</span></span>, rather than flattening every global voice into a single uniform style.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 27–32",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below. Write the correct letter, <b>A–J</b>, in boxes 27–32 on your answer sheet.</i><br><br><b>A.</b> resistance &nbsp;|&nbsp; <b>B.</b> invisible &nbsp;|&nbsp; <b>C.</b> commercial &nbsp;|&nbsp; <b>D.</b> diversity<br><b>E.</b> approachable &nbsp;|&nbsp; <b>F.</b> altered &nbsp;|&nbsp; <b>G.</b> fluent &nbsp;|&nbsp; <b>H.</b> identity<br><b>I.</b> historical &nbsp;|&nbsp; <b>J.</b> neglect",
+      "summaryTitle": "Two Approaches to Literary Translation",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31",
+        "q32"
+      ],
+      "template": "<p>In English-language publishing, successful translators are often expected to remain <b>27.</b> {{q27}} by producing prose that sounds completely natural. This style, known as domestication, removes unfamiliar cultural details so that foreign texts feel <b>28.</b> {{q28}} to local audiences. Conversely, a foreignizing approach tries to retain the original <b>29.</b> {{q29}} of the source work. Because large publishers prioritize <b>30.</b> {{q30}} appeal, translated books from outside the West are sometimes <b>31.</b> {{q31}} to match domestic expectations. Elena Rostova contends that avoiding such uniform styles enriches literary <b>32.</b> {{q32}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 33–36",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 328? In boxes 33–36 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>the translator disappears</i> ↔ remain <b>invisible (B)</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>feels comfortably local to the reader</i> ↔ feel <b>approachable (E)</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "finalAnswer": "H",
+      "inputWidth": "70px",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>echoes of the source language's structure and cultural distance</i> ↔ original <b>identity (H)</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>economic pressures / commercial moulds</i> ↔ <b>commercial (C)</b> appeal."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>trimmed or softened before publication</i> ↔ <b>altered (F)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>impoverishes world literature / flattening every global voice into a single uniform style</i> ↔ enriches literary <b>diversity (D)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Readers usually notice a translator's work most when the prose feels awkward.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Khi dịch trôi chảy, dịch giả 'biến mất'; khi câu chữ lạ lẫm, độc giả lập tức đổ lỗi cho tay nghề dịch giả.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Friedrich Schleiermacher personally preferred the domesticating method of translation.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chỉ nói Schleiermacher vạch ra 2 trường phái đối lập, hoàn toàn không nêu ông thích trường phái nào hơn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "English-language publishers release a higher proportion of translated books than publishers in smaller countries.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"translate a far smaller share of books than publishers in smaller European or Asian markets\"</i> (tỷ lệ thấp hơn nhiều, không phải cao hơn).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Rostova believes that foreignizing translations are impossible for ordinary readers to enjoy.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"does not mean making books unreadable—it means trusting audiences to meet unfamiliar cultures halfway\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What is meant by 'transparency' in Western publishing in the first paragraph?",
+      "options": [
+        "A. Publishers openly listing every editor who worked on a book",
+        "B. Translations reading as though no language change had occurred",
+        "C. Translators adding footnotes to explain difficult foreign idioms",
+        "D. Authors translating their own novels directly into English"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"the illusion that a translated novel was originally written in the target language.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "How does a 'foreignizing' approach differ from domestication?",
+      "options": [
+        "A. It updates nineteenth-century novels using modern slang.",
+        "B. It removes unusual sentence rhythms to improve clarity.",
+        "C. It keeps traces of the source text's distinct cultural voice.",
+        "D. It translates only the main plot rather than full chapters."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Giữ lại dư âm cấu trúc ngôn ngữ gốc và khoảng cách văn hóa (<i>preserves echoes of the source language's structure and cultural distance</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Why are non-Western manuscripts often modified before English publication?",
+      "options": [
+        "A. Local authors request shorter chapters for digital editions.",
+        "B. Editors worry unfamiliar styles will hurt sales in English markets.",
+        "C. Translators struggle to understand regional humour accurately.",
+        "D. European publishing laws prohibit long descriptive passages."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Biên tập viên thường từ chối bản thảo nghe 'quá ngoại lai' với người mua nói tiếng Anh để ép vào khuôn thương mại quen thuộc.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What is Rostova’s overall recommendation in the final paragraph?",
+      "options": [
+        "A. Readers should learn foreign languages instead of relying on translations.",
+        "B. Literary awards should only be given to domesticated novels.",
+        "C. Publishers and readers should welcome translations that preserve cultural difference.",
+        "D. Translators should avoid working with commercial publishing houses."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Khuyến khích bản dịch táo bạo hơn, tin tưởng độc giả sẵn sàng gặp gỡ các nền văn hóa lạ thay vì san phẳng mọi giọng văn.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

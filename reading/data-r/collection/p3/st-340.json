@@ -1,0 +1,266 @@
+{
+  "title": "Bài sưu tầm 340 - Passage 3: The Myth of the Solitary Genius: How Collaborative Networks Drive Scientific Breakthroughs",
+  "answers": {
+    "q27": "NO",
+    "q28": "YES",
+    "q29": "NOT GIVEN",
+    "q30": "NO",
+    "q31": "YES",
+    "q32": "D",
+    "q33": "F",
+    "q34": "B",
+    "q35": "A",
+    "q36": "E",
+    "q37": "C",
+    "q38": "A",
+    "q39": "D",
+    "q40": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 340</h2><h3>The Myth of the Solitary Genius: How Collaborative Networks Drive Scientific Breakthroughs</h3><p><strong>Paragraph 1.</strong> Popular histories of science love a tidy hero narrative: a lone visionary locks themselves away, experiences a sudden flash of inspiration, and changes the world overnight. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">In <em>Webs of Discovery</em>, sociologist Dr. Hannah Albright argues that this romantic portrait tells us far more about our appetite for dramatic storytelling than about how breakthroughs actually occur.</span> <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">When historians examine patent archives, laboratory notebooks, and private letters, the solitary genius almost always dissolves into a dense network of technicians, critics, rival teams, and overlooked precursors.</span></p><p><strong>Paragraph 2.</strong> Consider Thomas Edison, long celebrated as the archetypal independent inventor behind the incandescent light bulb. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">In truth, over twenty inventors had already produced working incandescent lamps before Edison filed his famous 1879 patent.</span> <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">Edison's real achievement at Menlo Park was establishing one of the world's first industrial research laboratories: he assembled chemists, glassblowers, machinists, and mathematicians to test thousands of filament materials systematically until a commercially viable system emerged.</span> <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">Nor did innovation stop at the laboratory door; municipal engineers and investors played an equally decisive role in building the power grids needed to make electric lighting practical.</span></p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">A similar pattern appears in the phenomenon of 'multiple discovery'—cases where two or more researchers working independently arrive at the same insight almost simultaneously.</span> Calculus, natural selection, and the telephone all emerged in this way. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">When Charles Darwin hesitated for twenty years to publish his theory of evolution, Alfred Russel Wallace sent him a remarkably similar manuscript from Southeast Asia, forcing both works to be presented together in 1858.</span> Rather than representing uncanny coincidence, <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">simultaneous breakthroughs occur when shared scientific instruments, rising literacy, and accumulating evidence make a particular discovery ripe for plucking—a stage scholars call 'the adjacent possible.'</span></p><p><strong>Paragraph 4.</strong> Even accidental breakthroughs depend heavily on collective follow-through. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Alexander Fleming's 1928 observation of mould killing bacteria on a petri dish is rightly remembered, yet Fleming himself struggled for a decade to purify penicillin in stable quantities and eventually set the project aside.</span> <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">It was only in the late 1930s that a multidisciplinary Oxford team led by Howard Florey and Ernst Chain solved the chemical extraction hurdles and organised clinical trials, turning an intriguing laboratory curiosity into a life-saving medicine.</span></p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Albright cautions that clinging to the myth of the lone genius has damaging practical consequences today.</span> <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\"><span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">When prestigious scientific prizes and research grants reward a single famous lead investigator, institutions undervalue the specialised technicians, data curators, and junior researchers whose quiet daily work sustains modern science.</span></span> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Recognising discovery as a collective craft does not diminish individual brilliance; it simply gives credit to the full ecosystem that makes brilliance possible.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 27–31",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 340? In boxes 27–31 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 32–36",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–G</b>, below. Write the correct letter, <b>A–G</b>, in boxes 32–36 on your answer sheet.</i>",
+      "endings": [
+        "A. transformed an unstable observation into a practical medical treatment.",
+        "B. shared pools of knowledge and tools bring several thinkers to the same threshold.",
+        "C. patent courts refused to recognise contributions made by laboratory assistants.",
+        "D. recruited specialists across trades to refine a commercially workable design.",
+        "E. discourage recognition of essential technical staff behind major projects.",
+        "F. unconnected researchers reach identical conclusions at roughly the same moment.",
+        "G. failed to publish their experimental notebooks before rival teams."
+      ],
+      "questionIds": [
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "Dr. Albright believes popular accounts of lone inventors accurately capture how most discoveries happen.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Chân dung thiên tài cô độc phản ánh sở thích kể chuyện kịch tính hơn là cách phát minh thực sự diễn ra (<i>tells us far more about our appetite for dramatic storytelling than about how breakthroughs actually occur</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Earlier researchers had already created functioning electric lamps prior to Edison's 1879 patent.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Hơn 20 nhà phát minh đã tạo ra bóng đèn sợi đốt hoạt động được trước khi Edison nộp bằng sáng chế năm 1879.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Edison frequently disagreed with municipal engineers over how electric power grids should be financed.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Bẫy Cam:</b> Đoạn 2 nhắc cả <i>municipal engineers</i>, <i>investors</i> và <i>power grids</i>, nhưng không có thông tin về bất kỳ mâu thuẫn tài chính nào giữa Edison và họ.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "Alexander Fleming successfully produced stable doses of penicillin for widespread hospital use.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Fleming loay hoay suốt một thập kỷ không tinh chế ổn định được và đành gác dự án lại (<i>struggled... to purify penicillin in stable quantities and eventually set the project aside</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Modern scientific award systems often overlook essential contributors working behind a famous leader.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Các giải thưởng và quỹ chỉ vinh danh một trưởng nhóm nổi tiếng khiến các tổ chức xem nhẹ kỹ thuật viên và nghiên cứu viên trẻ.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "Rather than working in total isolation at Menlo Park, Edison",
+      "finalAnswer": "D",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Edison tập hợp thợ hóa học, thổi thủy tinh, thợ máy và nhà toán học để thử nghiệm có hệ thống ra hệ thống thương mại hóa được.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "The concept of 'multiple discovery' describes situations in which",
+      "finalAnswer": "F",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nhiều nhà nghiên cứu làm việc độc lập cùng đi tới một phát kiến gần như cùng lúc.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Breakthroughs occur almost simultaneously because",
+      "finalAnswer": "B",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Công cụ chung, tri thức và bằng chứng tích lũy đẩy các nhà khoa học cùng tới ngưỡng cửa 'vùng khả dĩ kế cận' (<i>adjacent possible</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Building on Fleming's initial finding, Florey and Chain's group",
+      "finalAnswer": "A",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Nhóm Oxford giải quyết khâu chiết xuất hóa học và thử nghiệm lâm sàng, biến hiện tượng lạ trong phòng lab thành thuốc cứu người.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Award structures centred on single individuals tend to",
+      "finalAnswer": "E",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Giải thưởng trao cho một cá nhân làm giảm sự ghi nhận đối với đội ngũ kỹ thuật viên chuyên môn đứng sau.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What do historical archives reveal according to the first paragraph?",
+      "options": [
+        "A. Famous scientists deliberately concealed letters from their rivals.",
+        "B. Laboratory notebooks are less reliable than official patent filings.",
+        "C. Celebrated breakthroughs almost always relied on wider supporting circles.",
+        "D. Nineteenth-century historians invented the idea of patent protection."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Khi soi hồ sơ bằng sáng chế và sổ tay lab, 'thiên tài cô độc' tan biến thành mạng lưới kỹ thuật viên, người phản biện và nhóm đi trước.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Why does the writer mention Alfred Russel Wallace in the third paragraph?",
+      "options": [
+        "A. to give a concrete instance of independent researchers reaching matching ideas",
+        "B. to argue that Wallace deserved greater historical credit than Charles Darwin",
+        "C. to explain why evolutionary biology progressed faster in Southeast Asia",
+        "D. to show that Darwin rushed into print before gathering sufficient evidence"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Đưa Darwin và Wallace làm ví dụ minh họa cho hiện tượng <i>multiple discovery</i> (hai người độc lập cùng chạm một lý thuyết).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "What concern does Albright express in the final paragraph?",
+      "options": [
+        "A. Junior researchers are leaving universities for industrial laboratories.",
+        "B. Excessive funding is spent on maintaining outdated scientific equipment.",
+        "C. Individual brilliance is no longer valued in modern research teams.",
+        "D. Outdated notions of solo genius distort how modern funding is distributed."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Việc bám víu huyền thoại thiên tài cô độc khiến quỹ tài trợ và giải thưởng đổ dồn vào 1 người, bỏ quên đội ngũ vận hành phía sau.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Which statement best reflects the writer's overall conclusion in Reading Passage 340?",
+      "options": [
+        "A. Individual creativity contributes very little to modern scientific progress.",
+        "B. Viewing science as a teamwork process honours both key thinkers and their networks.",
+        "C. Governments should stop awarding prestigious prizes to university professors.",
+        "D. Accidental discoveries are more valuable than systematic laboratory testing."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5 (câu cuối):</b> Coi phát minh là nỗ lực tập thể không làm giảm giá trị cá nhân xuất sắc, mà ghi nhận đầy đủ cả hệ sinh thái giúp cá nhân đó tỏa sáng.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

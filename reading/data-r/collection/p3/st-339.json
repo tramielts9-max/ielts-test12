@@ -1,0 +1,262 @@
+{
+  "title": "Bài sưu tầm 339 - Passage 3: Beyond Mere Translation: Why Bilingual Brains Think Differently",
+  "answers": {
+    "q27": "B",
+    "q28": "C",
+    "q29": "A",
+    "q30": "E",
+    "q31": "B",
+    "q32": "H",
+    "q33": "A",
+    "q34": "G",
+    "q35": "D",
+    "q36": "NO",
+    "q37": "YES",
+    "q38": "NOT GIVEN",
+    "q39": "YES",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 339</h2><h3>Beyond Mere Translation: Why Bilingual Brains Think Differently</h3><p><strong>Paragraph 1.</strong> Does the language we speak shape the way we perceive reality, or are words merely neutral labels attached to universal thoughts? In the mid-twentieth century, this debate polarised linguistics. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Extreme versions of the Sapir–Whorf hypothesis suggested that language acts as an inescapable prison, making speakers of different tongues fundamentally incapable of grasping certain concepts.</span> <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">When subsequent experiments proved that people easily understand ideas lacking a single-word label in their mother tongue, most cognitive scientists swung to the opposite extreme, dismissing linguistic relativity as a romantic myth.</span></p><p><strong>Paragraph 2.</strong> Yet over the past two decades, controlled laboratory studies have revived a subtler, more empirical middle ground. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\"><span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Rather than asking whether grammar determines what humans <em>can</em> think, researchers now examine how everyday grammar guides what speakers habitually notice.</span></span> Consider spatial description. While English speakers locate objects relative to their own bodies—'to my left' or 'behind the chair'—speakers of Kuuk Thaayorre, an Aboriginal language of northern Australia, rely exclusively on cardinal compass directions. <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">To say 'pass the salt' naturally, a speaker must track whether the shaker lies northeast or southwest of the plate. Even in windowless rooms, Kuuk Thaayorre speakers maintain uncanny compass awareness simply because every sentence demands it.</span></span></p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">Similar attentional habits appear in how languages assign grammatical gender or describe accidents.</span> In Spanish and German, inanimate objects carry masculine or feminine articles—a bridge is feminine in German (<em>die Brücke</em>) yet masculine in Spanish (<em>el puente</em>). <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">When bilingual volunteers were asked in English to list adjectives describing a bridge, German natives disproportionately chose words like 'elegant' and 'slender,' whereas Spanish natives favoured 'sturdy' and 'towering.'</span> Likewise, eye-tracking studies show that English speakers describe accidental spills by naming the agent ('John broke the vase'), whereas Japanese and Spanish speakers more often frame mishaps as passive events ('The vase broke'), making witnesses significantly less likely to recall who caused an unintended accident.</p><p><strong>Paragraph 4.</strong> Equally revealing is what happens inside a single mind fluent in two tongues. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">Bilinguals frequently report feeling like slightly different versions of themselves depending on the language in use—a shift tied to cultural cues and memory networks activated at childhood versus adulthood.</span> <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">In moral psychology experiments led by Dr. Boaz Keysar, bilingual participants confronted classic ethical dilemmas, such as deciding whether to sacrifice one person to save five others.</span> <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\"><span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">When the dilemma was presented in their native tongue, participants experienced visceral hesitation; when the identical scenario appeared in a later-learned second language, they reached utilitarian decisions far more readily.</span></span> <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Because a classroom-learned tongue lacks the early childhood emotional conditioning of a mother tongue, it creates a cooler cognitive buffer.</span></p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Taken together, modern cognitive research shows that language neither locks us inside a conceptual cage nor leaves our mental habits untouched. By gently nudging where our attention settles—and even how intensely we feel—every additional language offers not just new words, but a slightly recalibrated lens on the world.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–29",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–29 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 30–35",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 30–35 on your answer sheet.</i><br><br><b>A.</b> attention &nbsp;|&nbsp; <b>B.</b> restriction &nbsp;|&nbsp; <b>C.</b> translation<br><b>D.</b> detachment &nbsp;|&nbsp; <b>E.</b> vocabulary &nbsp;|&nbsp; <b>F.</b> fluency<br><b>G.</b> identity &nbsp;|&nbsp; <b>H.</b> orientation &nbsp;|&nbsp; <b>I.</b> confusion",
+      "summaryTitle": "How Language Habits Shape Cognition",
+      "questionIds": [
+        "q30",
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35"
+      ],
+      "template": "<p>Modern linguists have moved beyond simply comparing differences in <b>30.</b> {{q30}} across languages, and have also rejected the extreme claim that grammar imposes absolute mental <b>31.</b> {{q31}} . Instead, studies demonstrate how daily speech habits subtly steer perception. For instance, Kuuk Thaayorre speakers maintain constant spatial <b>32.</b> {{q32}} because their language avoids body-centred directions. Similarly, grammatical gender and phrasing patterns direct speakers' <b>33.</b> {{q33}} toward distinct qualities or causes. Furthermore, switching between tongues can subtly shift a bilingual person's sense of <b>34.</b> {{q34}} , and using a second language often produces greater emotional <b>35.</b> {{q35}} during tough moral choices.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 36–39",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 339? In boxes 36–39 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q36",
+        "q37",
+        "q38",
+        "q39"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Question 40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in box 40 on your answer sheet.</i>",
+      "questionIds": [
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "According to the second paragraph, how has modern research into language and thought changed?",
+      "options": [
+        "A. It focuses on proving that Aboriginal languages are older than European ones.",
+        "B. It investigates routine mental focus rather than absolute limits on thinking.",
+        "C. It tests whether people can navigate dark rooms using English phrasing.",
+        "D. It assumes that speakers of different languages possess identical habits."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Không hỏi ngữ pháp quyết định con người *có thể* nghĩ gì nữa, mà xem ngữ pháp hàng ngày dẫn dắt điều người nói thường xuyên chú ý (<i>habitually notice</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "What did the experiment involving the word 'bridge' demonstrate?",
+      "options": [
+        "A. Bilinguals translate noun genders consciously before speaking English.",
+        "B. Spanish speakers possess larger architectural vocabularies than Germans.",
+        "C. Grammatical categories can colour how speakers describe physical objects.",
+        "D. Inanimate objects are given identical gender articles in most languages."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Dù được hỏi bằng tiếng Anh, người Đức chọn tính từ giống cái (<i>elegant, slender</i>) còn người Tây Ban Nha chọn tính từ giống đực (<i>sturdy, towering</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "In Dr. Keysar's experiments, why did participants respond differently to identical moral dilemmas?",
+      "options": [
+        "A. A language acquired later in life carries weaker emotional associations.",
+        "B. Bilingual participants misunderstood complex ethical terms in foreign text.",
+        "C. Childhood languages encourage people to prioritise practical outcomes.",
+        "D. Translating scenarios into a native language slowed down reading speed."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Ngôn ngữ học trên lớp sau này thiếu sự gắn kết cảm xúc từ thuở nhỏ (<i>early childhood emotional conditioning</i>), nên tạo ra khoảng đệm lý trí bình tĩnh hơn.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1 & 2:</b> So sánh từ đơn/từ vựng (<i>single-word label</i>) ↔ <b>vocabulary (E)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Bác bỏ thuyết ngôn ngữ là nhà tù trói buộc tư duy (<i>inescapable prison</i>) ↔ absolute mental <b>restriction (B)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "H",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Theo dõi phương hướng la bàn liên tục (<i>compass awareness</i>) ↔ spatial <b>orientation (H)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>attentional habits</i> ↔ direct speakers' <b>attention (A)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Cảm thấy như những phiên bản khác nhau của bản thân (<i>different versions of themselves</i>) ↔ sense of <b>identity (G)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Khoảng đệm lý trí, ít do dự cảm tính (<i>cooler cognitive buffer</i>) ↔ emotional <b>detachment (D)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "People are unable to grasp a concept unless their native language provides a single word for it.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Các thí nghiệm đã chứng minh con người dễ dàng hiểu những khái niệm không có từ đơn tương ứng trong tiếng mẹ đẻ (<i>easily understand ideas lacking a single-word label</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Kuuk Thaayorre speakers remain aware of compass directions even without visual outdoor cues.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Ngay cả trong phòng không cửa sổ (<i>windowless rooms</i>), họ vẫn duy trì nhận thức chuẩn xác về phương hướng.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Dr. Keysar's moral dilemma study tested a larger number of participants than the bridge adjective study.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Bẫy Cam:</b> Bài nhắc cả hai thí nghiệm của Keysar và thí nghiệm cầu (<i>bridge</i>), nhưng không hề nêu hay so sánh số lượng người tham gia giữa hai nghiên cứu.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Learning a language in an academic setting tends to carry less emotional weight than acquiring one in childhood.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"a classroom-learned tongue lacks the early childhood emotional conditioning of a mother tongue\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Which subtitle best summarises the central argument of Reading Passage 339?",
+      "options": [
+        "A. Why strict linguistic determinism remains the strongest theory of the mind",
+        "B. How grammatical errors interfere with everyday moral decision-making",
+        "C. Why learning multiple languages subtly shifts attention without trapping thought",
+        "D. The historical failure of psychologists to design reliable translation tests"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Luận điểm cân bằng xuyên suốt bài: ngôn ngữ không nhốt ta trong lồng (bỏ cực đoan Sapir-Whorf) nhưng khéo léo điều hướng sự chú ý và cảm xúc.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

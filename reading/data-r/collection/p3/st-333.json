@@ -1,0 +1,253 @@
+{
+  "title": "Bài sưu tầm 333 - Passage 3: Rethinking the Fall of Bronze Age Civilisations",
+  "answers": {
+    "q27": "E",
+    "q28": "B",
+    "q29": "G",
+    "q30": "D",
+    "q31": "I",
+    "q32": "C",
+    "q33": "NO",
+    "q34": "YES",
+    "q35": "NOT GIVEN",
+    "q36": "YES",
+    "q37": "D",
+    "q38": "B",
+    "q39": "A",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 333</h2><h3>Rethinking the Fall of Bronze Age Civilisations</h3><p><strong>Paragraph 1.</strong> Around 1200 BCE, the eastern Mediterranean supported a tightly linked network of wealthy kingdoms—from Mycenae in Greece to the Hittite Empire in Anatolia and New Kingdom Egypt. Kings addressed one another as 'brothers' in diplomatic letters, exchanging tin, copper, ivory, and grain across busy sea lanes. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Yet within roughly fifty years, nearly every major palace outside Egypt was burned, abandoned, or reduced to ruins, ushering in centuries of material decline.</span></span></p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">For generations, historians blamed this sudden collapse on a mysterious wave of seaborne raiders known from Egyptian temple carvings as the 'Sea Peoples'.</span> In the traditional telling, heavily armed migrants swept across the coast, toppling stable empires one by one. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">However, recent excavations suggest those carvings tell only part of the story.</span> <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">In several ruined cities, archaeologists found no trace of foreign weapons, and the 'invaders' portrayed in Egyptian reliefs included families travelling with ox-carts and household goods—looking far more like desperate refugees fleeing hardship than organised conquerors.</span></p><p><strong>Paragraph 3.</strong> Modern climate science has added a crucial piece to the puzzle. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">By analysing ancient pollen trapped in lake sediments and chemical ratios inside cave formations from Cyprus to Syria, researchers uncovered evidence of severe, multi-decade dry spells beginning right before the collapse.</span> Prolonged harvest failure would have hit palace economies hard. <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">Because rulers relied on grain taxes to feed standing armies and skilled craftspeople, empty storehouses quickly sparked food riots, rebellions, and breakdowns in central authority.</span></p><p><strong>Paragraph 4.</strong> Crucially, archaeologist Eric Cline argues that climate stress alone cannot explain why every kingdom fell together. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\"><span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">Making bronze—the metal behind tools and weapons—required mixing local copper with tin imported from as far away as Afghanistan, meaning no single state was truly self-sufficient.</span></span> <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">When pirates or local conflicts severed one maritime corridor, shortages rippled through workshops hundreds of kilometres away.</span> <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Just as a modern supply disruption can stall factories worldwide, deep mutual dependence turned local crises into a shared regional breakdown—what Cline calls a 'systems collapse'.</span></p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\"><span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Baked clay archives unearthed from cities like Ugarit capture the final days in stark detail: urgent letters begging neighbours for grain shipments and warships that never arrived.</span></span> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Rather than searching for a single villain, scholars today view the Late Bronze Age collapse as a sobering warning about complex societies: the very connections that make an international system prosperous can accelerate its fall when multiple pressures strike at once.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 27–32",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below. Write the correct letter, <b>A–J</b>, in boxes 27–32 on your answer sheet.</i><br><br><b>A.</b> isolation &nbsp;|&nbsp; <b>B.</b> drought &nbsp;|&nbsp; <b>C.</b> records &nbsp;|&nbsp; <b>D.</b> fragility &nbsp;|&nbsp; <b>E.</b> invasions<br><b>F.</b> cooperation &nbsp;|&nbsp; <b>G.</b> trade &nbsp;|&nbsp; <b>H.</b> surplus &nbsp;|&nbsp; <b>I.</b> unrest &nbsp;|&nbsp; <b>J.</b> wealth",
+      "summaryTitle": "New Perspectives on an Ancient Collapse",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31",
+        "q32"
+      ],
+      "template": "<p>Earlier scholars generally attributed the end of the Late Bronze Age to sudden foreign <b>27.</b> {{q27}} . While attackers did cause destruction, natural evidence now points to extended periods of <b>28.</b> {{q28}} that ruined harvests and triggered internal <b>31.</b> {{q31}} inside major cities. Furthermore, kingdoms were vulnerable because producing essential goods depended on distant <b>29.</b> {{q29}} routes. According to Eric Cline, this hidden <b>30.</b> {{q30}} meant that trouble in one region rapidly affected neighbouring states, a pattern confirmed by urgent pleas preserved in clay <b>32.</b> {{q32}} from ruined palaces.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 33–36",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 333? In boxes 33–36 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>mysterious wave of seaborne raiders... toppling stable empires</i> ↔ foreign <b>invasions (E)</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>severe, multi-decade dry spells</i> ↔ extended periods of <b>drought (B)</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>tin imported from as far away as Afghanistan... maritime corridor</i> ↔ distant <b>trade (G)</b> routes."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>no single state was truly self-sufficient... local crises into a shared regional breakdown</i> ↔ hidden <b>fragility (D)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "I",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>food riots, rebellions, and breakdowns in central authority</i> ↔ internal <b>unrest (I)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>Baked clay archives... urgent letters</i> ↔ clay <b>records (C)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Every major kingdom in the eastern Mediterranean suffered complete physical destruction around 1200 BCE.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"nearly every major palace outside Egypt was burned, abandoned, or reduced to ruins\"</i> → Ai Cập không bị sụp đổ hoàn toàn như các vương quốc khác.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Egyptian stone carvings do not provide a complete explanation of the Bronze Age collapse.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"recent excavations suggest those carvings tell only part of the story.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Mining expeditions to Afghanistan were financed directly by the rulers of Ugarit.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "Bài có nhắc việc nhập thiếc từ Afghanistan (Đoạn 4) và nhắc đến thành bang Ugarit (Đoạn 5), nhưng không nói Ugarit có trực tiếp bỏ tiền tài trợ các chuyến khai mỏ ở đó hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Written messages from Ugarit show that allies failed to send requested help during the crisis.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"urgent letters begging neighbours for grain shipments and warships that never arrived.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What does the writer emphasize about the Late Bronze Age kingdoms in paragraph 1?",
+      "options": [
+        "A. Their rulers rarely engaged in armed disputes with neighbours.",
+        "B. Their cities survived mainly by storing surplus grain underground.",
+        "C. Their wealth came entirely from taxing local farming villages.",
+        "D. Their economies were closely tied together before their sudden decline."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Nhấn mạnh mạng lưới liên kết chặt chẽ trao đổi thiếc, đồng, ngà voi, ngũ cốc trước khi sụp đổ đồng loạt trong 50 năm (<i>tightly linked network... within roughly fifty years...</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Why does the writer mention ox-carts and household goods in paragraph 2?",
+      "options": [
+        "A. To prove that Sea Peoples introduced new farming techniques.",
+        "B. To suggest that the newcomers included displaced civilians rather than just soldiers.",
+        "C. To show how quickly ruined cities rebuilt their local markets.",
+        "D. To explain why Egyptian forces easily defeated coastal raiders."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Phù điêu vẽ cả gia đình mang theo xe bò và đồ đạc gia dụng — trông giống người tị nạn chạy trốn khó khăn hơn là đội quân xâm lược (<i>desperate refugees fleeing hardship than organised conquerors</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "What comparison does the writer make in the fourth paragraph?",
+      "options": [
+        "A. Ancient bronze workshops were as exposed to supply breaks as today's global industries.",
+        "B. Modern shipping companies face greater piracy risks than Bronze Age merchants.",
+        "C. Contemporary climate change is more severe than ancient Mediterranean droughts.",
+        "D. Present-day governments store larger metal reserves than ancient kings did."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> So sánh trực tiếp việc gián đoạn chuỗi cung ứng thiếc/đồng thời cổ đại với các nhà máy hiện đại ngày nay (<i>Just as a modern supply disruption can stall factories worldwide...</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What is the main lesson scholars draw from the Bronze Age collapse in paragraph 5?",
+      "options": [
+        "A. Isolated communities recover slowly from natural disasters.",
+        "B. Written records are less reliable than physical climate samples.",
+        "C. Tightly integrated networks can spread damage faster when shocks overlap.",
+        "D. Military alliances rarely survive without shared cultural traditions."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chính những mối liên kết tạo ra sự thịnh vượng lại đẩy nhanh sự sụp đổ khi nhiều áp lực ập tới cùng lúc (<i>the very connections that make an international system prosperous can accelerate its fall</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

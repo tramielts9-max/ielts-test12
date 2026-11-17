@@ -1,0 +1,253 @@
+{
+  "title": "Bài sưu tầm 326 - Passage 3: Why Cities Forget Their Rivers: The Politics of Urban Water",
+  "answers": {
+    "q27": "B",
+    "q28": "B",
+    "q29": "C",
+    "q30": "B",
+    "q31": "F",
+    "q32": "B",
+    "q33": "I",
+    "q34": "E",
+    "q35": "C",
+    "q36": "D",
+    "q37": "NO",
+    "q38": "YES",
+    "q39": "NOT GIVEN",
+    "q40": "NO"
+  },
+  "passageHtml": "<h2>READING PASSAGE 326</h2><h3>Why Cities Forget Their Rivers: The Politics of Urban Water</h3><p><strong>Paragraph 1.</strong> Most historic cities grew beside rivers because flowing water supplied drinking wells, carried away waste, and offered cheap transport. By the nineteenth century, however, factory discharge and household sewage had turned many urban streams into <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">sources of epidemic disease</span>. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Rather than cleaning the water, municipal engineers enclosed these waterways inside brick tunnels beneath paved roads</span></span>—so thoroughly that later generations walked to work with no idea that a river still ran below their feet.</p><p><strong>Paragraph 2.</strong> In <em>Buried Waters</em>, urban historian Martin Hall argues that hiding rivers solved an immediate visual problem while creating lasting vulnerability. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">Concrete pipes moved runoff downstream rapidly during ordinary rain, yet left virtually no room when unusually heavy downpours arrived.</span> At the same time, <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">sealing streams underground broke the everyday link between residents and local water cycles</span>, making sudden floods seem like freak accidents rather than the predictable outcome of paving over natural floodplains.</p><p><strong>Paragraph 3.</strong> Over the past two decades, a movement known as 'daylighting'—<span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">uncovering buried channels and restoring open banks</span>—has gained support in cities such as <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Seoul and Zurich</span>. Supporters point out that open green corridors absorb surplus water and <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\"><span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">cool surrounding neighbourhoods during warm summer months</span></span>. Yet Hall notes that daylighting schemes are rarely driven by ecology alone: <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">commercial developers frequently back them because waterfront parks raise nearby property values, <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">sometimes pricing out long-term low-income tenants</span>.</span></p><p><strong>Paragraph 4.</strong> Even when city councils wish to bring hidden streams back into view, underground reality poses steep barriers. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\"><span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Beneath busy streets, old water culverts are tangled with subway lines, fibre-optic cables, and gas mains laid over more than a century. Rerouting these utilities often costs far more than excavating the stream itself.</span></span> Hall concludes that <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">while uncovering every lost waterway is unrealistic</span>, restoring even a small stretch reminds residents that cities still depend on living natural systems.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 31–36",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 31–36 on your answer sheet.</i><br><br><b>A.</b> resistance &nbsp;|&nbsp; <b>B.</b> disconnection &nbsp;|&nbsp; <b>C.</b> housing<br><b>D.</b> infrastructure &nbsp;|&nbsp; <b>E.</b> temperature &nbsp;|&nbsp; <b>F.</b> hazards<br><b>G.</b> wealth &nbsp;|&nbsp; <b>H.</b> awareness &nbsp;|&nbsp; <b>I.</b> restoration",
+      "summaryTitle": "The Rise and Challenge of River Daylighting",
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ],
+      "template": "<p>In the nineteenth century, urban streams became serious health <b>31.</b> {{q31}} due to industrial waste and sewage. Engineers responded by enclosing them underground, which gradually produced a psychological <b>32.</b> {{q32}} between citizens and local waterways. In recent years, several cities have pursued the <b>33.</b> {{q33}} of these hidden rivers through open parks. Besides reducing flood risk, open water helps lower the surrounding <b>34.</b> {{q34}} during warm months. However, rising land values near new parks can threaten affordable <b>35.</b> {{q35}} for existing communities. Furthermore, moving existing underground <b>36.</b> {{q36}} often makes full river recovery too costly.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 37–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 326? In boxes 37–40 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "Why did nineteenth-century city authorities decide to enclose urban rivers?",
+      "options": [
+        "A. to create space beneath roads for underground public transport",
+        "B. to remove polluted water from public view rather than treat it",
+        "C. to prevent industrial factories from drawing river water",
+        "D. to protect historic brick bridges from structural collapse"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Rather than cleaning the water, municipal engineers enclosed these waterways inside brick tunnels...\"</i> (chôn xuống hầm thay vì làm sạch nước).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "According to Martin Hall, covering rivers with concrete channels",
+      "options": [
+        "A. stopped ordinary rainfall from reaching downstream areas.",
+        "B. failed to cope when unusually heavy rain arrived.",
+        "C. forced residents to move away from low-lying floodplains.",
+        "D. made local weather patterns easier for planners to forecast."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Ống bê tông thoát nước nhanh khi mưa bình thường, nhưng gần như không còn sức chứa khi mưa lớn bất thường (<i>left virtually no room when unusually heavy downpours arrived</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "What does Hall observe about 'daylighting' projects in the third paragraph?",
+      "options": [
+        "A. They have faced strong rejection from planners in Seoul and Zurich.",
+        "B. They consistently reduce housing expenses in nearby districts.",
+        "C. Their support often comes from groups seeking financial returns.",
+        "D. Their main objective is to shield low-income tenants from eviction."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Các nhà phát triển bất động sản ủng hộ vì công viên ven sông làm tăng giá trị bất động sản xung quanh (<i>commercial developers frequently back them because waterfront parks raise nearby property values</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "What is the main obstacle to uncovering more buried rivers today?",
+      "options": [
+        "A. declining public interest in green urban spaces",
+        "B. the dense network of modern utility lines beneath streets",
+        "C. legal objections from historic preservation groups",
+        "D. the rising cost of building deeper brick tunnels"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Đường hầm nước đan xen với tuyến tàu điện ngầm, cáp quang, ống gas; chi phí dời hạ tầng này đắt hơn đào sông rất nhiều.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>sources of epidemic disease</i> ↔ health <b>hazards (F)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>broke the everyday link between residents and local water cycles</i> ↔ psychological <b>disconnection (B)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "I",
+      "inputWidth": "70px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>uncovering buried channels and restoring open banks</i> ↔ <b>restoration (I)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>cool surrounding neighbourhoods during warm summer months</i> ↔ lower the surrounding <b>temperature (E)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>pricing out long-term low-income tenants</i> ↔ threaten affordable <b>housing (C)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>subway lines, fibre-optic cables, and gas mains / utilities</i> ↔ underground <b>infrastructure (D)</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Most nineteenth-century engineers preferred cleaning polluted streams rather than covering them.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Rather than cleaning the water, municipal engineers enclosed these waterways...\"</i> (họ chọn lấp kín chứ không làm sạch).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Green spaces created around uncovered rivers can help moderate urban heat.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"open green corridors... cool surrounding neighbourhoods during warm summer months.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Seoul spent more public money on its daylighting scheme than Zurich did.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài có nhắc cả Seoul và Zurich, nhưng hoàn toàn không so sánh thành phố nào chi nhiều tiền hơn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Martin Hall believes it is practical to bring every buried urban river back to the surface.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"while uncovering every lost waterway is unrealistic...\"</i> (trái ngược với practical).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

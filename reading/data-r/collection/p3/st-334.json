@@ -1,0 +1,262 @@
+{
+  "title": "Bài sưu tầm 334 - Passage 3: Why Truly Original Science Is Hard to Spot",
+  "answers": {
+    "q27": "B",
+    "q28": "D",
+    "q29": "A",
+    "q30": "I",
+    "q31": "E",
+    "q32": "F",
+    "q33": "A",
+    "q34": "C",
+    "q35": "B",
+    "q36": "NO",
+    "q37": "YES",
+    "q38": "NOT GIVEN",
+    "q39": "YES",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 334</h2><h3>Why Truly Original Science Is Hard to Spot</h3><p><strong>Paragraph 1.</strong> Ask the public how major scientific discoveries happen, and the answer usually involves a lone genius experiencing a sudden flash of inspiration. Yet historians and sociologists who study research output paint a very different picture. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\"><span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">In an analysis of millions of academic papers, sociologist Dashun Wang found that breakthroughs rarely follow a tidy schedule; fortunate accidents, unexpected side-results, and timing play a much larger part than funding bodies care to admit.</span></span> <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Even more unsettling for policy makers is evidence that the most disruptive ideas often look unpromising—or downright mistaken—when they first appear.</span></p><p><strong>Paragraph 2.</strong> To measure this delayed recognition, researchers track what they call 'sleeping beauties' in scientific literature: studies that sit practically unread for decades before suddenly sparking a wave of citations. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\"><span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">A paper on bacterial immune defence published in the late 1980s attracted little notice for nearly twenty years until a separate laboratory realised those odd genetic repeats could be adapted into the CRISPR gene-editing tool.</span></span> <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">When an idea arrives before supporting instruments or neighbouring fields are ready to use it, its value remains invisible, regardless of how rigorous the initial work is.</span></p><p><strong>Paragraph 3.</strong> Modern funding structures unintentionally make matters worse. <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">When grant committees evaluate proposals, reviewers naturally favour projects whose methods and likely results resemble established consensus.</span></span> <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\"><span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">Proposals that challenge core assumptions face split opinions among referees, and because committees typically demand near-unanimous approval before committing large budgets, bold ventures lose out to safe, incremental studies.</span></span> As physicist Freeman Dyson warned, judging science strictly by short-term predictability rewards tidy bookkeeping at the expense of genuine exploration.</p><p><strong>Paragraph 4.</strong> At the same time, the structure of scientific labour itself is changing. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">A landmark study of twenty million papers and patents revealed that whereas solo authors once produced many major advances, contemporary breakthroughs overwhelmingly emerge from multi-person groups pooling specialised skills.</span> Yet team size introduces a subtle trade-off. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Large consortia excel at developing and testing existing theories thoroughly, whereas smaller, tight-knit groups remain statistically more likely to disrupt a field with an unconventional leap.</span> <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">University departments frequently measure output by counting publications in elite journals, yet those metrics rarely distinguish between steady refinement and genuine conceptual novelty.</span> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">To keep discovery alive, institutions may need to reserve a portion of their budgets for high-uncertainty projects judged by curiosity rather than immediate certainty.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–29",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–29 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 30–35",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 30–35 on your answer sheet.</i><br><br><b>A.</b> risk &nbsp;|&nbsp; <b>B.</b> delay &nbsp;|&nbsp; <b>C.</b> teamwork<br><b>D.</b> funding &nbsp;|&nbsp; <b>E.</b> attention &nbsp;|&nbsp; <b>F.</b> bias<br><b>G.</b> novelty &nbsp;|&nbsp; <b>H.</b> errors &nbsp;|&nbsp; <b>I.</b> luck",
+      "summaryTitle": "Challenges in Recognising and Funding Discovery",
+      "questionIds": [
+        "q30",
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35"
+      ],
+      "template": "<p>Large-scale data shows that <b>30.</b> {{q30}} often plays a bigger part in major discoveries than institutions admit. Pioneering papers sometimes receive little immediate <b>31.</b> {{q31}} , leading to an unavoidable <b>35.</b> {{q35}} before their practical use becomes clear. Meanwhile, peer-review panels often show a <b>32.</b> {{q32}} against unconventional plans because they are reluctant to take a financial <b>33.</b> {{q33}} on uncertain outcomes. Although modern research increasingly depends on large-scale <b>34.</b> {{q34}} , smaller groups still appear more likely to overturn established thinking.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 36–39",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 334? In boxes 36–39 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q36",
+        "q37",
+        "q38",
+        "q39"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Question 40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in box 40 on your answer sheet.</i>",
+      "questionIds": [
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What does Dashun Wang's research suggest about scientific breakthroughs?",
+      "options": [
+        "A. Individual brilliance accounts for almost every major discovery.",
+        "B. Chance events influence outcomes more than grant agencies acknowledge.",
+        "C. Older papers are cited more accurately than modern studies.",
+        "D. Public surveys accurately capture how researchers work."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Tai nạn may mắn và thời điểm đóng vai trò lớn hơn nhiều so với mức các tổ chức tài trợ muốn thừa nhận (<i>fortunate accidents... play a much larger part than funding bodies care to admit</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Why does the writer mention a 1980s paper on bacteria in the second paragraph?",
+      "options": [
+        "A. To show that early gene-editing tools contained serious flaws.",
+        "B. To illustrate how rival laboratories often duplicate each other's work.",
+        "C. To prove that poorly written studies are rightly ignored by peers.",
+        "D. To give an example of research whose importance became clear much later."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Minh họa cho hiện tượng 'sleeping beauties': bài báo nằm im gần 20 năm mới được nhận ra giá trị khi ghép vào công cụ CRISPR.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "According to paragraph 3, why are daring research proposals frequently rejected?",
+      "options": [
+        "A. Scoring systems penalise projects when reviewers disagree.",
+        "B. Committee members lack technical knowledge in new fields.",
+        "C. Innovative projects usually exceed university laboratory space.",
+        "D. Reviewers prefer applicants with longer publication records."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Đề xuất táo bạo gây ý kiến trái chiều giữa các giám khảo, trong khi hội đồng lại đòi hỏi sự đồng thuận gần như tuyệt đối nên bị loại (<i>face split opinions... committees typically demand near-unanimous approval</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "I",
+      "inputWidth": "70px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>fortunate accidents</i> ↔ <b>luck (I)</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>attracted little notice</i> ↔ little immediate <b>attention (E)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>favour projects whose methods... resemble established consensus</i> ↔ show a <b>bias (F)</b> against unconventional plans."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>committing large budgets... bold ventures lose out to safe... studies</i> ↔ take a financial <b>risk (A)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>emerge from multi-person groups pooling specialised skills</i> ↔ large-scale <b>teamwork (C)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>sit practically unread for decades... value remains invisible</i> ↔ unavoidable <b>delay (B)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Genuinely groundbreaking ideas are usually recognised immediately by fellow experts.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Những ý tưởng đột phá nhất lúc mới xuất hiện thường trông kém hứa hẹn hoặc thậm chí bị coi là sai lầm (<i>often look unpromising—or downright mistaken—when they first appear</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Current funding procedures tend to support research that stays close to accepted theories.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Hội đồng thiên vị các dự án giống với đồng thuận sẵn có và an toàn (<i>favour projects whose methods and likely results resemble established consensus</i>).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Smaller research teams publish more papers in elite journals than large consortia.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài có nói về nhóm nhỏ dễ tạo đột phá (<i>smaller, tight-knit groups... disrupt a field</i>) và có nhắc đến việc đếm bài trên tạp chí danh tiếng (<i>counting publications in elite journals</i>), nhưng không nói nhóm nhỏ đăng nhiều bài trên đó hơn nhóm lớn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Large collaborative groups are better suited to expanding known ideas than overturning them.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Large consortia excel at developing and testing existing theories thoroughly, whereas smaller... groups remain statistically more likely to disrupt a field...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Which title best reflects the main message of Reading Passage 334?",
+      "options": [
+        "A. How lone scientists are replacing modern university teams",
+        "B. Why biological discoveries take longer than physics breakthroughs",
+        "C. Why current systems struggle to recognise unconventional research",
+        "D. The rising cost of laboratory equipment in contemporary science"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "Chủ đề xuyên suốt bài: Các cơ chế đánh giá và tài trợ hiện tại khó nhận diện được nghiên cứu đột phá phi truyền thống.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

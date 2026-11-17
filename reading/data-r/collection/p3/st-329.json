@@ -1,0 +1,262 @@
+{
+  "title": "Bài sưu tầm 329 - Passage 3: Measuring Progress Beyond GDP: Why Economic Statistics Miss Everyday Life",
+  "answers": {
+    "q27": "B",
+    "q28": "B",
+    "q29": "B",
+    "q30": "E",
+    "q31": "H",
+    "q32": "F",
+    "q33": "C",
+    "q34": "B",
+    "q35": "D",
+    "q36": "NO",
+    "q37": "NOT GIVEN",
+    "q38": "YES",
+    "q39": "NO",
+    "q40": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 329</h2><h3>Measuring Progress Beyond GDP: Why Economic Statistics Miss Everyday Life</h3><p><strong>Paragraph 1.</strong> Every quarter, financial headlines celebrate or mourn tiny movements in Gross Domestic Product (GDP). Introduced during the Great Depression of the 1930s to help governments track industrial output and war-readiness, GDP simply adds up the monetary value of goods and services bought and sold within a country's borders. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">Ironically, its chief architect, American economist Simon Kuznets, warned the US Congress in 1934 that the welfare of a nation could scarcely be inferred from a measurement of national income.</span></p><p><strong>Paragraph 2.</strong> Kuznets' warning highlights glaring blind spots in how GDP counts value. Because it tracks only paid market transactions, vast amounts of essential social work remain completely invisible. <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\"><span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Preparing family meals, caring for elderly relatives, or volunteering at local schools contribute enormously to community stability, yet register as zero in national accounts.</span></span> <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">Conversely, when a household hires a private caregiver or eats every meal at a restaurant, GDP rises—even though the actual care or nutrition provided may be unchanged.</span></p><p><strong>Paragraph 3.</strong> Even more troubling is GDP’s indifference to environmental destruction and social costs. <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">If a timber company clears an ancient forest, the sale of logs boosts economic growth immediately, while <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">the loss of clean water, soil stability, and future timber reserves is never subtracted</span>. Similarly, <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">an oil spill or a surge in traffic accidents</span> generates spending on cleanup crews, hospital bills, and vehicle repairs—<span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">all of which technically count as economic 'gains.'</span></span></p><p><strong>Paragraph 4.</strong> In response, economists and international bodies have proposed broader indicators—such as the Genuine Progress Indicator (GPI) and <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">New Zealand’s Wellbeing Budget</span>—that factor in unpaid labour, income distribution, and ecological health. Yet replacing GDP has proven politically difficult. <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\"><span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">GDP offers politicians a single, familiar number that is quick to calculate and easy to compare across nations</span>, whereas <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">multi-dimensional indices force governments to confront uncomfortable trade-offs between short-term industrial output and long-term sustainability</span>.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–29",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–29 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 30–35",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 30–35 on your answer sheet.</i><br><br><b>A.</b> invisible &nbsp;|&nbsp; <b>B.</b> straightforward &nbsp;|&nbsp; <b>C.</b> depletion<br><b>D.</b> compromises &nbsp;|&nbsp; <b>E.</b> domestic &nbsp;|&nbsp; <b>F.</b> disasters<br><b>G.</b> temporary &nbsp;|&nbsp; <b>H.</b> inflated &nbsp;|&nbsp; <b>I.</b> reliable",
+      "summaryTitle": "What GDP Overlooks",
+      "questionIds": [
+        "q30",
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35"
+      ],
+      "template": "<p>Originally designed in the 1930s to monitor production, GDP measures only paid exchanges, leaving crucial <b>30.</b> {{q30}} and voluntary labour unrecorded. Furthermore, GDP can appear artificially <b>31.</b> {{q31}} by spending that merely fixes <b>32.</b> {{q32}} such as pollution or road crashes, while ignoring the long-term <b>33.</b> {{q33}} of natural resources. Although alternative frameworks like the Genuine Progress Indicator offer a broader view, governments remain reluctant to abandon GDP because it provides a <b>34.</b> {{q34}} benchmark, whereas wider measures reveal difficult policy <b>35.</b> {{q35}} .</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 36–39",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 329? In boxes 36–39 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q36",
+        "q37",
+        "q38",
+        "q39"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Question 40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in box 40 on your answer sheet.</i>",
+      "questionIds": [
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "Why does the writer mention Simon Kuznets’s 1934 address to the US Congress?",
+      "options": [
+        "A. to show that GDP was originally intended to measure personal happiness",
+        "B. to emphasize that even GDP's creator recognized its limits as a measure of wellbeing",
+        "C. to argue that the Great Depression prevented accurate economic recording",
+        "D. to prove that wartime industrial output was lower than expected"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Chính cha đẻ GDP (Kuznets) đã cảnh báo rằng phúc lợi quốc gia khó có thể suy ra từ thước đo thu nhập quốc dân.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "The example of hiring a private caregiver illustrates how GDP",
+      "options": [
+        "A. underestimates the high cost of professional healthcare services.",
+        "B. treats identical activities differently depending on whether money changes hands.",
+        "C. discourages families from supporting elderly relatives at home.",
+        "D. excludes restaurant spending from official national accounts."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Người nhà tự chăm thì GDP = 0, thuê người chăm thì GDP tăng dù chất lượng chăm sóc không đổi (phụ thuộc việc có trả tiền hay không).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "What flaw in GDP does the third paragraph expose through the examples of logging and oil spills?",
+      "options": [
+        "A. It fails to count jobs created in the forestry sector.",
+        "B. It records repair and extraction revenues without deducting damage.",
+        "C. It exaggerates the long-term financial profits of car manufacturers.",
+        "D. It ignores the immediate cost of emergency hospital treatment."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Tiền bán gỗ và chi phí dọn dẹp/sửa chữa đều cộng vào tăng trưởng, còn tổn thất tài nguyên thiên nhiên không bao giờ bị trừ đi.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>Preparing family meals, caring for elderly relatives</i> ↔ <b>domestic (E)</b> labour."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "H",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>technically count as economic 'gains'</i> ↔ artificially <b>inflated (H)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>an oil spill or a surge in traffic accidents</i> ↔ <b>disasters (F)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>the loss of clean water, soil stability, and future timber reserves</i> ↔ <b>depletion (C)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>a single, familiar number that is quick to calculate and easy to compare</i> ↔ <b>straightforward (B)</b> benchmark."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>uncomfortable trade-offs</i> ↔ policy <b>compromises (D)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Unpaid school volunteering is included in standard GDP calculations if it benefits local families.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"volunteering at local schools... register as zero in national accounts.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "New Zealand was the first country in the world to formally replace GDP with a Wellbeing Budget.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài có nhắc Ngân sách Phúc lợi của New Zealand, nhưng không nói đây là nước đầu tiên hay đã chính thức thay thế hoàn toàn GDP.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Complex wellbeing indices are generally harder to reduce to a single headline figure than GDP.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> GDP cho ra một con số duy nhất dễ tính/so sánh, trong khi các chỉ số đa chiều buộc chính phủ đối diện nhiều đánh đổi phức tạp.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Rising GDP figures always reflect an improvement in a population's overall quality of life.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1 & 3:</b> Sự cố tràn dầu, tai nạn giao thông hay tàn phá rừng đều làm tăng GDP nhưng không cải thiện chất lượng sống.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Which subtitle would be most suitable for Reading Passage 329?",
+      "options": [
+        "A. How Simon Kuznets designed the world's most accurate economic tool",
+        "B. Why unpaid domestic labour is disappearing in modern economies",
+        "C. What national growth figures reveal—and conceal—about human welfare",
+        "D. The complete failure of international environmental agreements"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "Chủ đề xuyên suốt bài: Chỉ số tăng trưởng GDP đo được gì và che khuất những gì về phúc lợi con người.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

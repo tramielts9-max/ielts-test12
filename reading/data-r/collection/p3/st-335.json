@@ -1,0 +1,261 @@
+{
+  "title": "Bài sưu tầm 335 - Passage 3: The Rise of Slow Journalism in an Era of Instant News",
+  "answers": {
+    "q27": "YES",
+    "q28": "NO",
+    "q29": "NOT GIVEN",
+    "q30": "NO",
+    "q31": "YES",
+    "q32": "D",
+    "q33": "B",
+    "q34": "G",
+    "q35": "A",
+    "q36": "E",
+    "q37": "C",
+    "q38": "A",
+    "q39": "D",
+    "q40": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 335</h2><h3>The Rise of Slow Journalism in an Era of Instant News</h3><p><strong>Paragraph 1.</strong> For decades, newsrooms measured success by how rapidly a headline could reach the public. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\"><span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">In an advertising market driven by clicks and breaking-news alerts, publishing a story ten minutes ahead of a rival often mattered more than waiting two days to verify every detail.</span></span> <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\"><span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Yet speed carries an obvious hidden cost: rushed articles rely heavily on official press releases and unverified social-media clips, leaving readers bombarded with updates while understanding very little about why events happened.</span></span></p><p><strong>Paragraph 2.</strong> Out of dissatisfaction with this cycle, a movement known as 'slow journalism' has gained quiet momentum. Rather than chasing every twist of the daily news cycle, slow-journalism outlets publish only a handful of deeply researched investigations each month or quarter. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\"><span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Founders of publications such as <em>Delayed Gratification</em> argue that stepping back until the initial dust settles allows reporters to trace long-term causes, check primary documents, and return to stories long after mainstream cameras have moved on.</span></span></p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\"><span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">Financially, the model breaks away from digital advertising by relying primarily on reader subscriptions.</span></span> <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\">When an outlet's income comes from loyal subscribers rather than fleeting page views, editors no longer need to manufacture outrage or exaggerate minor developments just to attract passing traffic.</span> <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Interestingly, surveys of these subscribers show they are not rejecting fast news altogether; most still skim daily bulletins for practical updates, turning to slow journalism when they want context rather than an instant alert.</span></p><p><strong>Paragraph 4.</strong> Even so, slow journalism faces clear practical limits. <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">Investigative reporting that takes months to complete is expensive, and subscription fees naturally restrict readership to people with both spare income and the patience to read long essays.</span> <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\"><span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Critics also caution that slow outlets risk serving an already well-informed elite while leaving urgent, everyday civic issues—such as local housing disputes or municipal budgets—to cash-strapped regional newsrooms.</span></span> <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">For media scholar Nadia Okafor, the real value of slow journalism is not that it can replace daily reporting, but that it reminds the wider industry that accuracy and perspective still carry commercial worth.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 27–31",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 335? In boxes 27–31 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30",
+        "q31"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 32–36",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–G</b>, below. Write the correct letter, <b>A–G</b>, in boxes 32–36 on your answer sheet.</i>",
+      "endings": [
+        "A. limits access mainly to readers who can afford paid memberships.",
+        "B. uncover underlying causes once early confusion has cleared.",
+        "C. guarantee that daily newspapers stop using press releases.",
+        "D. prioritise being first to publish over thorough fact-checking.",
+        "E. overlook pressing community problems covered by struggling local papers.",
+        "F. persuade advertisers to pay higher rates for long articles.",
+        "G. avoid sensational headlines designed purely to boost click counts."
+      ],
+      "questionIds": [
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 37–40",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 37–40 on your answer sheet.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "Commercial pressure to win online clicks encouraged media outlets to publish before full checks were finished.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Thị trường quảng cáo theo lượt nhấp chuột khiến việc đăng trước đối thủ 10 phút quan trọng hơn chờ 2 ngày xác minh chi tiết (<i>publishing a story ten minutes ahead... often mattered more than waiting two days to verify</i>).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Frequent breaking-news updates help readers gain a deeper grasp of why events occur.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Độc giả bị dội bom tin cập nhật nhưng lại hiểu rất ít về nguyên nhân sự việc (<i>bombarded with updates while understanding very little about why events happened</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Subscribers to slow-journalism magazines pay more per year than readers of traditional newspapers.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 & 4:</b> Bài có nhắc nguồn thu đến từ <i>reader subscriptions</i> và phí này làm hạn chế một số độc giả, nhưng không hề so sánh giá tiền mỗi năm đắt hơn báo truyền thống hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "People who pay for slow journalism rarely look at ordinary daily news reports.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Khảo sát cho thấy phần lớn người đăng ký vẫn đọc lướt tin nhanh hằng ngày (<i>not rejecting fast news altogether; most still skim daily bulletins</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "Nadia Okafor believes slow journalism proves that careful reporting can still succeed financially.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"reminds the wider industry that accuracy and perspective still carry commercial worth.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "News organisations dependent on online advertising frequently",
+      "finalAnswer": "D",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>publishing a story ten minutes ahead... mattered more than waiting two days to verify</i> ↔ <b>D</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Waiting until the early rush of an event passes lets journalists",
+      "finalAnswer": "B",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>stepping back until the initial dust settles allows reporters to trace long-term causes</i> ↔ <b>B</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "Relying directly on paying subscribers helps editors",
+      "finalAnswer": "G",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>no longer need to manufacture outrage or exaggerate minor developments just to attract passing traffic</i> ↔ <b>G</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Funding long investigations through subscriptions",
+      "finalAnswer": "A",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>restrict readership to people with both spare income and the patience...</i> ↔ <b>A</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Critics fear that slow-journalism outlets may",
+      "finalAnswer": "E",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>leaving urgent, everyday civic issues... to cash-strapped regional newsrooms</i> ↔ <b>E</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "What weakness of rapid news coverage is highlighted in the first paragraph?",
+      "options": [
+        "A. Reporters ignore official statements from public agencies.",
+        "B. Rival publishers frequently copy one another's headlines.",
+        "C. Articles often repeat unconfirmed material without explaining causes.",
+        "D. Online readers lose interest after reading short headlines."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Tin vội phụ thuộc vào thông cáo báo chí và clip mạng xã hội chưa kiểm chứng, không giải thích được vì sao sự việc xảy ra.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "What distinguishes publications like Delayed Gratification from daily media?",
+      "options": [
+        "A. They revisit events later to examine deeper evidence and aftermath.",
+        "B. They allow readers to vote on which stories reporters investigate.",
+        "C. They avoid covering political events that change every day.",
+        "D. They employ unpaid volunteers instead of professional editors."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Quay lại câu chuyện sau khi máy quay truyền thông đã rời đi để kiểm tra tài liệu gốc và lần dấu nguyên nhân dài hạn.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Why do subscribers value slow journalism according to paragraph 3?",
+      "options": [
+        "A. It arrives faster than television bulletins.",
+        "B. It offers entertainment without serious political debate.",
+        "C. It includes fewer photographs than commercial magazines.",
+        "D. It provides background understanding that daily updates lack."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Họ vẫn xem tin nhanh hằng ngày, nhưng tìm đến báo chí chậm khi muốn có bối cảnh/chiều sâu (<i>when they want context rather than an instant alert</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "What concern do critics raise in the final paragraph?",
+      "options": [
+        "A. Slow outlets pay regional journalists less than large networks do.",
+        "B. Serving niche audiences could leave everyday local problems under-reported.",
+        "C. Readers rarely finish long investigative articles once they subscribe.",
+        "D. Regional newspapers are copying slow journalism too rapidly."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Lo ngại báo chí chậm phục vụ nhóm độc giả tinh hoa còn các vấn đề dân sự sát sườn hằng ngày bị đẩy lại cho báo địa phương thiếu kinh phí.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

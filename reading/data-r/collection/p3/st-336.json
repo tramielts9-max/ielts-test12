@@ -1,0 +1,266 @@
+{
+  "title": "Bài sưu tầm 336 - Passage 3: The Politics of Punctuality: How Standardised Time Reshaped Modern Life",
+  "answers": {
+    "q27": "C",
+    "q28": "B",
+    "q29": "D",
+    "q30": "A",
+    "q31": "E",
+    "q32": "B",
+    "q33": "F",
+    "q34": "A",
+    "q35": "NO",
+    "q36": "NOT GIVEN",
+    "q37": "YES",
+    "q38": "NO",
+    "q39": "NOT GIVEN",
+    "q40": "YES"
+  },
+  "passageHtml": "<h2>READING PASSAGE 336</h2><h3>The Politics of Punctuality: How Standardised Time Reshaped Modern Life</h3><p><strong>Paragraph 1.</strong> For most of human history, time was a strictly local affair. Before the mid-nineteenth century, <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">every town set its public clocks according to the sun's highest point overhead at midday</span>. Because the Earth rotates continuously, noon in Bristol occurred roughly ten minutes later than noon in London. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">In an agrarian society where goods travelled by horse-drawn wagon or sailing barge, this discrepancy caused no practical inconvenience. Time was experienced not as a rigid grid of equal minutes, but as a flexible rhythm governed by daylight, tides, and seasonal harvests.</span></p><p><strong>Paragraph 2.</strong> It was the rapid expansion of steam railways that turned local time from a harmless quirk into an operational hazard. <span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Train operators attempting to compile national timetables faced a bewildering patchwork of regional clocks. A driver travelling westward had to adjust his pocket watch at almost every major station, and a miscalculation on a single-track line could result in a catastrophic collision.</span> <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">In Britain, major railway companies responded during the 1840s by adopting London time—derived from the Royal Observatory at Greenwich—across their entire networks, regardless of what town hall clocks displayed outside the station gates.</span></p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">Yet persuading ordinary citizens to surrender their solar clocks proved unexpectedly contentious. Many municipal councils fiercely defended 'God's time' against what they dismissed as 'railway time,' viewing the Greenwich standard as an arrogant intrusion by metropolitan authorities.</span> In Exeter, the cathedral clock famously continued to display local solar time for years, forcing bewildered residents to read two sets of hands showing both local and railway minutes. <span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">This resistance faded only after the electric telegraph enabled Greenwich signals to be transmitted instantaneously across the country, allowing post offices, banks, and eventually Parliament to align around a single national benchmark.</span></p><p><strong>Paragraph 4.</strong> In <em>Keeping Watch</em>, social historian Dr. Eleanor Vance argues that standardised time did far more than prevent train crashes: it fundamentally altered how human labour was valued and controlled. <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">In traditional craft workshops, artisans were paid for the completed item rather than the hours spent making it, often taking Mondays off to recover from weekend festivities.</span> Factory owners, having invested heavily in steam-powered machinery that stood idle whenever workers were absent, could not tolerate such irregularity. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\"><span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\">By linking wages directly to clocked hours and sounding factory whistles at fixed intervals, industrialists transformed time from a natural backdrop into a measurable commodity that could be bought, wasted, or stolen.</span></span> <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">As Vance notes, workers quickly adapted to this new logic, shifting their protests away from resisting the clock itself toward demanding shorter shifts and higher hourly rates.</span></p><p><strong>Paragraph 5.</strong> Today, digital networks have pushed temporal standardisation to an extreme that nineteenth-century engineers could scarcely have imagined. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">Synchronised atomic clocks regulate everything from financial trading algorithms to satellite navigation, measuring intervals in billionths of a second.</span> <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Meanwhile, smartphones ensure that employees remain reachable long after leaving their desks, blurring the boundary between paid labour and private rest.</span> <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\"><span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">Vance concludes that while global synchronisation has delivered extraordinary logistical efficiency, it has also normalised a quiet tyranny of the schedule—one in which personal value is routinely measured by constant responsiveness rather than unhurried reflection.</span></span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 31–34",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below. Write the correct letter, <b>A–F</b>, in boxes 31–34 on your answer sheet.</i>",
+      "endings": [
+        "A. precision timing underpins modern economic and positioning systems.",
+        "B. instantaneous communication technology made a unified clock practical nationwide.",
+        "C. rural farmers demanded compensation for lost daylight hours.",
+        "D. municipal councils petitioned Parliament to build new observatories.",
+        "E. transport firms imposed a single reference standard across their own routes.",
+        "F. employers began compensating staff for duration of attendance rather than output."
+      ],
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 35–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 336? In boxes 35–40 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q35",
+        "q36",
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What point does the writer make about pre-industrial communities in the first paragraph?",
+      "options": [
+        "A. They lacked the mechanical skill to build accurate town clocks.",
+        "B. They relied on London merchants to coordinate seasonal trade.",
+        "C. Variations in time between neighbouring regions had little practical impact.",
+        "D. Agricultural workers struggled to judge midday without reliable instruments."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Giữa Bristol và London lệch 10 phút, nhưng trong xã hội nông nghiệp chạy bằng xe ngựa và thuyền buồm thì <i>\"this discrepancy caused no practical inconvenience\"</i>.",
+          "<b>Bẫy nhiễu:</b> A sai vì các thị trấn đều có đồng hồ công cộng; B và D không có thông tin.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "Why did some local authorities oppose the adoption of Greenwich time in the third paragraph?",
+      "options": [
+        "A. They feared electric telegraph wires would damage historic church buildings.",
+        "B. They resented outside interference in long-standing community traditions.",
+        "C. They believed dual-hand clocks were too expensive for ordinary taxpayers.",
+        "D. They argued that railway timetables should be calculated using solar noon."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Các hội đồng địa phương bảo vệ 'giờ của Chúa' và coi giờ Greenwich là <i>\"an arrogant intrusion by metropolitan authorities\"</i> (sự can thiệp trịch thượng từ chính quyền trung ương).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "According to Dr. Vance in the fourth paragraph, how did factory industrialisation change attitudes toward time?",
+      "options": [
+        "A. It allowed skilled artisans greater freedom to arrange weekend leisure.",
+        "B. It reduced financial pressure on employers who owned heavy machinery.",
+        "C. It encouraged workers to measure their productivity by finished goods.",
+        "D. It turned passing minutes into a quantifiable resource tied to pay."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Từ chỗ trả tiền theo sản phẩm, chủ xưởng gắn lương với số giờ bấm công, biến thời gian thành <i>\"a measurable commodity that could be bought, wasted, or stolen\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "What is the writer's main concern in the final paragraph?",
+      "options": [
+        "A. Modern connectivity pressures people into treating availability as a measure of worth.",
+        "B. Satellite navigation systems have become overly dependent on atomic clocks.",
+        "C. Nineteenth-century engineers failed to foresee the collapse of factory discipline.",
+        "D. Financial trading algorithms operate faster than human regulators can monitor."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Đoạn nhắc smartphone làm mờ ranh giới nghỉ ngơi, rồi tổng kết bằng <i>\"quiet tyranny of the schedule... personal value is routinely measured by constant responsiveness\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "text": "To reduce the risk of scheduling accidents, early rail operators",
+      "finalAnswer": "E",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Các công ty đường sắt tự áp dụng giờ London (Greenwich) trên toàn mạng lưới của họ bất chấp đồng hồ thị trấn.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "text": "Public opposition to standardised minutes gradually declined once",
+      "finalAnswer": "B",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Sự phản kháng chỉ tắt dần sau khi điện báo (<i>electric telegraph</i>) giúp truyền tín hiệu giờ Greenwich tức thì toàn quốc.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "text": "Industrial discipline took hold when",
+      "finalAnswer": "F",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chủ nhà máy gắn tiền lương với số giờ có mặt (<i>linking wages directly to clocked hours</i>) thay vì theo sản phẩm làm ra (<i>completed item</i>).",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "text": "In the contemporary world,",
+      "finalAnswer": "A",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Đồng hồ nguyên tử điều phối từ thuật toán tài chính (<i>economic</i>) đến định vị vệ tinh (<i>positioning systems</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "text": "Prior to the nineteenth century, European cities coordinated their public clocks using a shared astronomical table.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Trước giữa thế kỷ 19, mỗi thị trấn tự chỉnh đồng hồ theo mặt trời ngay trên đỉnh đầu tại chỗ mình (<i>strictly local affair... according to the sun's highest point overhead</i>), không hề dùng chung một bảng quy chiếu.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "text": "Passengers travelling on early single-track railways frequently complained about missing onward connections.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Bẫy Cam:</b> Đoạn 2 có nhắc đường sắt đơn (<i>single-track line</i>), lái tàu chỉnh đồng hồ ở ga và nguy cơ va chạm, nhưng hoàn toàn không đề cập việc hành khách phàn nàn bị lỡ chuyến nối.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Before factory work became dominant, skilled workers exercised considerable control over when they rested.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thợ thủ công truyền thống được trả theo món hàng nên thường tự nghỉ cả ngày thứ Hai sau dịp cuối tuần (<i>often taking Mondays off</i>).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "Factory employees spent decades campaigning for a return to traditional piece-rate payment systems.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Công nhân nhanh chóng thích nghi với logic mới và chuyển hướng đấu tranh sang đòi giảm giờ làm và tăng lương theo giờ (<i>demanding shorter shifts and higher hourly rates</i>), chứ không đòi quay lại trả theo món.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Digital smartphones have made office workers less efficient during standard daytime hours.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Bẫy Cam:</b> Đoạn 5 nhắc smartphone khiến nhân viên bị liên lạc ngoài giờ làm, nhưng không có nhận định nào nói năng suất ban ngày của họ giảm đi.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "The obsession with instantaneous scheduling leaves people with less space for unhurried thought.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"constant responsiveness rather than unhurried reflection\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

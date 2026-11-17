@@ -1,0 +1,253 @@
+{
+  "title": "Bài sưu tầm 331 - Passage 3: The Hidden Cost of Having Too Many Options",
+  "answers": {
+    "q27": "C",
+    "q28": "B",
+    "q29": "A",
+    "q30": "D",
+    "q31": "G",
+    "q32": "B",
+    "q33": "E",
+    "q34": "A",
+    "q35": "I",
+    "q36": "C",
+    "q37": "NOT GIVEN",
+    "q38": "NO",
+    "q39": "YES",
+    "q40": "YES"
+  },
+  "passageHtml": "<h2>READING PASSAGE 331</h2><h3>The Hidden Cost of Having Too Many Options</h3><p><strong>Paragraph 1.</strong> For much of the twentieth century, economists and psychologists shared a simple assumption: the more alternatives people have when making a decision, the better off they will be. After all, expanding consumer choice allows individuals to match products more closely to their personal preferences, while also signalling respect for individual autonomy. <span class=\"hl\" id=\"hl-q27\" data-q=\"[Q27]\">In classic retail theory, restricting options was thought to breed frustration, whereas abundant variety was treated as a reliable engine of human wellbeing.</span></p><p><strong>Paragraph 2.</strong> That assumption began to unravel in the late 1990s following a series of field experiments led by psychologist Sheena Iyengar. In her best-known trial at an upscale Californian grocery store, researchers set up tasting booths displaying either six varieties of gourmet jam or twenty-four. <span class=\"hl\" id=\"hl-q28\" data-q=\"[Q28]\">Although the larger display attracted more curious passers-by, shoppers who faced only six jars were roughly ten times more likely to actually purchase one.</span> <span class=\"hl\" id=\"hl-q37\" data-q=\"[Q37]\">Subsequent studies across pension plans, university courses, and online dating platforms revealed a similar pattern: once the number of possibilities crosses a modest threshold, decision-making slows down and many people walk away empty-handed.</span></p><p><strong>Paragraph 3.</strong> Building on this evidence, social psychologist Barry Schwartz coined the phrase 'the paradox of choice' to explain why <span class=\"hl\" id=\"hl-q31\" data-q=\"[Q31]\">expanded personal liberty</span> so often produces anxiety rather than contentment. <span class=\"hl\" id=\"hl-q34\" data-q=\"[Q34]\">Evaluating dozens of competing features demands substantial mental work, turning routine errands into exhausting analytical exercises.</span> More subtly, <span class=\"hl\" id=\"hl-q29\" data-q=\"[Q29]\"><span class=\"hl\" id=\"hl-q32\" data-q=\"[Q32]\">abundant alternatives invite second-guessing after a decision is made. When a shopper buys one pair of jeans out of a hundred, any minor flaw in fit or colour feels like a personal mistake because a better pair almost certainly existed on the shelf.</span></span></p><p><strong>Paragraph 4.</strong> Equally damaging is what Schwartz calls the escalation of standards. <span class=\"hl\" id=\"hl-q33\" data-q=\"[Q33]\">When only two or three styles are available, buyers readily accept minor compromises and judge the outcome against realistic benchmarks. When dozens of versions sit side by side, consumers begin anticipating perfection—and even a genuinely good purchase feels disappointing when it falls short of that imagined ideal.</span> <span class=\"hl\" id=\"hl-q35\" data-q=\"[Q35]\">In this way, endless variety quietly erodes the pleasure people derive from what they finally select.</span> <span class=\"hl\" id=\"hl-q38\" data-q=\"[Q38]\">Interestingly, Schwartz notes that this drop in contentment hits 'maximisers'—people determined to secure the absolute best—far harder than 'satisficers', who stop searching once an option meets their basic criteria.</span></p><p><strong>Paragraph 5.</strong> Not all researchers agree that choice overload is universal, however. Critics point out that when people already know exactly what they want, or when categories are clearly organised by experts, large assortments pose few difficulties. <span class=\"hl\" id=\"hl-q39\" data-q=\"[Q39]\">Even so, designers of public policy and digital services are taking notice.</span> <span class=\"hl\" id=\"hl-q30\" data-q=\"[Q30]\"><span class=\"hl\" id=\"hl-q36\" data-q=\"[Q36]\">Rather than presenting citizens with bewildering menus of healthcare plans or retirement funds, several institutions now set sensible boundaries on initial lists while keeping extra options accessible upon request.</span></span> <span class=\"hl\" id=\"hl-q40\" data-q=\"[Q40]\">As Schwartz concludes, genuine freedom is rarely improved by an infinite menu; it depends on finding the right balance between restriction and openness.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 27–30",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 27–30 on your answer sheet.</i>",
+      "questionIds": [
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 31–36",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 31–36 on your answer sheet.</i><br><br><b>A.</b> effort &nbsp;|&nbsp; <b>B.</b> regret &nbsp;|&nbsp; <b>C.</b> limits<br><b>D.</b> income &nbsp;|&nbsp; <b>E.</b> expectations &nbsp;|&nbsp; <b>F.</b> habits<br><b>G.</b> freedom &nbsp;|&nbsp; <b>H.</b> memory &nbsp;|&nbsp; <b>I.</b> satisfaction",
+      "summaryTitle": "Why Abundant Choice Can Backfire",
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36"
+      ],
+      "template": "<p>According to Barry Schwartz, greater personal <b>31.</b> {{q31}} does not always make people happier. Comparing a vast range of items requires considerable mental <b>34.</b> {{q34}} , and buyers frequently experience <b>32.</b> {{q32}} if their chosen product has slight imperfections. At the same time, seeing so many alternatives raises people's <b>33.</b> {{q33}} , which ultimately reduces overall <b>35.</b> {{q35}} with the final outcome. To prevent this paralysis in areas like finance and healthcare, some organisations now place sensible <b>36.</b> {{q36}} on the choices shown first.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 37–40",
+      "instructions": "<i>Do the following statements agree with the views of the writer in Reading Passage 331? In boxes 37–40 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    }
+  ],
+  "questions": {
+    "q27": {
+      "num": 27,
+      "text": "What point does the writer make about earlier economic thinking in the first paragraph?",
+      "options": [
+        "A. It assumed shoppers preferred brands recommended by experts.",
+        "B. It warned that retail competition could confuse ordinary buyers.",
+        "C. It treated wider selection as directly beneficial to personal happiness.",
+        "D. It argued that limiting variety encouraged people to save money."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q27",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Kinh tế học và tâm lý học trước đây coi sự đa dạng lựa chọn là động lực trực tiếp cho hạnh phúc/phúc lợi (<i>abundant variety was treated as a reliable engine of human wellbeing</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q28": {
+      "num": 28,
+      "text": "What surprised researchers in Sheena Iyengar's grocery store study?",
+      "options": [
+        "A. Shoppers ignored both tasting booths unless staff approached them.",
+        "B. Fewer display items generated a far higher rate of actual sales.",
+        "C. People tasting the larger range bought more expensive flavours.",
+        "D. Crowds around the small table prevented others from sampling."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q28",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bàn lớn thu hút người xem hơn nhưng bàn chỉ có 6 hũ lại có tỷ lệ mua cao gấp ~10 lần (<i>shoppers who faced only six jars were roughly ten times more likely to actually purchase one</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q29": {
+      "num": 29,
+      "text": "Why does buying one item from a huge collection often leave people uneasy, according to paragraph 3?",
+      "options": [
+        "A. They suspect an unselected alternative might have suited them better.",
+        "B. They feel pressured by salespeople into choosing quickly.",
+        "C. They dislike returning to stores where displays change constantly.",
+        "D. They cannot recall which features they originally wanted."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q29",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Dùng ví dụ mua quần jeans: bất kỳ lỗi nhỏ nào cũng khiến người mua tự trách vì tin rằng chắc chắn đã có lựa chọn tốt hơn trên kệ (<i>second-guessing... because a better pair almost certainly existed on the shelf</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q30": {
+      "num": 30,
+      "text": "How are some public institutions responding to the problem of excessive choice?",
+      "options": [
+        "A. By eliminating specialised options for older citizens.",
+        "B. By training customers to compare technical specifications.",
+        "C. By banning private companies from offering complex plans.",
+        "D. By narrowing initial displays while keeping full access available."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q30",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Đặt giới hạn hợp lý ở danh sách ban đầu nhưng vẫn cho xem thêm nếu người dùng yêu cầu (<i>sensible boundaries on initial lists while keeping extra options accessible upon request</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q31": {
+      "num": 31,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q31",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>expanded personal liberty</i> ↔ greater personal <b>freedom (G)</b>."
+        ]
+      }
+    },
+    "q32": {
+      "num": 32,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q32",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>invite second-guessing... feels like a personal mistake</i> ↔ experience <b>regret (B)</b>."
+        ]
+      }
+    },
+    "q33": {
+      "num": 33,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q33",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>escalation of standards / consumers begin anticipating perfection</i> ↔ raises people's <b>expectations (E)</b>."
+        ]
+      }
+    },
+    "q34": {
+      "num": 34,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q34",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>demands substantial mental work</i> ↔ considerable mental <b>effort (A)</b>."
+        ]
+      }
+    },
+    "q35": {
+      "num": 35,
+      "finalAnswer": "I",
+      "inputWidth": "70px",
+      "highlightId": "hl-q35",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>erodes the pleasure people derive</i> ↔ reduces overall <b>satisfaction (I)</b>."
+        ]
+      }
+    },
+    "q36": {
+      "num": 36,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q36",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>set sensible boundaries on initial lists</i> ↔ place sensible <b>limits (C)</b>."
+        ]
+      }
+    },
+    "q37": {
+      "num": 37,
+      "text": "Online dating platforms experience higher drop-out rates due to excess choice than pension schemes do.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q37",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bài có nhắc cả <i>pension plans</i> và <i>online dating platforms</i> đều gặp tình trạng quá tải lựa chọn, nhưng hoàn toàn không so sánh nơi nào có tỷ lệ bỏ cuộc cao hơn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q38": {
+      "num": 38,
+      "text": "People who are willing to settle for a good-enough option suffer most from having too many choices.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q38",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Ngược lại hoàn toàn: nhóm <i>maximisers</i> (muốn thứ tốt nhất) bị ảnh hưởng nặng hơn nhiều so với nhóm <i>satisficers</i> (người chấp nhận mức đủ tốt).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q39": {
+      "num": 39,
+      "text": "Clear organisation of options can reduce the negative effects of large selections.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q39",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Các nhà phê bình chỉ ra khi danh mục được chuyên gia sắp xếp rõ ràng (<i>when categories are clearly organised by experts</i>), số lượng lớn ít gây khó khăn.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q40": {
+      "num": 40,
+      "text": "Giving people unlimited options does not automatically increase their real freedom.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q40",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Câu kết: <i>\"genuine freedom is rarely improved by an infinite menu\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    }
+  }
+}
