@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 121 - Passage 1: The Glass Harmonica: Benjamin Franklin’s Forgotten Instrument",
+  "answers": {
+    "q1": "pitch",
+    "q2": "rod",
+    "q3": "treadle",
+    "q4": "patients",
+    "q5": "ban",
+    "q6": "lead",
+    "q7": "quartz",
+    "q8": "FALSE",
+    "q9": "TRUE",
+    "q10": "NOT GIVEN",
+    "q11": "FALSE",
+    "q12": "TRUE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 121</h2><h3>The Glass Harmonica: Benjamin Franklin’s Forgotten Instrument</h3><p><strong>Paragraph 1.</strong> Long before Benjamin Franklin attended a concert in London in 1761, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">performers across Europe were already coaxing music from rows of upright wine goblets filled with water to different heights.</span> When a musician slid a damp finger around a glass rim, the glass vibrated and produced a clear, ringing note. Yet this early instrument had frustrating drawbacks: tuning dozens of fragile goblets before every show took hours, and <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">the warmth of crowded concert halls caused the water inside to evaporate, steadily altering each glass's <span class=\"kw\">pitch</span></span> during a performance. After watching a Royal Society member demonstrate these musical glasses, Franklin decided not to change the basic sound, but to rebuild the mechanism so a player could perform comfortably.</p><p><strong>Paragraph 2.</strong> Working with London glassblower Charles James, Franklin eliminated the water entirely. Instead of setting glasses upright on a table, he had thirty-seven hollow glass bowls blown in graduated sizes, each tuned accurately by thickness during manufacture. Every bowl had a hole in its base so it could be <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">slipped sideways onto a horizontal iron <span class=\"kw\">rod</span></span>, nested closely inside the next without touching. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">The musician spun the entire row continuously using a foot-operated <span class=\"kw\">treadle</span></span> connected to a heavy flywheel, leaving both hands free to touch the wet spinning edges at once. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">To help players locate notes quickly among so many rotating bowls, Franklin painted the rims in rainbow colours for natural notes and used white and gold for half-tones.</span></p><p><strong>Paragraph 3.</strong> Franklin named his creation the armonica, borrowing from the Italian word for harmony, and considered it the most satisfying invention of his life. Within a decade, enthusiasm spread across European salons. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Both Mozart and Beethoven composed pieces for the instrument, while the young Marie Antoinette took regular lessons.</span> Beyond concert stages, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">the Austrian physician Franz Mesmer incorporated its floating resonance into his therapy sessions to soothe agitated <span class=\"kw\">patients</span></span>. Listeners frequently remarked that the pure, lingering tone seemed to hang in the air without any clear point of origin.</p><p><strong>Paragraph 4.</strong> By the turn of the nineteenth century, however, the instrument's reputation darkened. Rumours circulated in German newspapers claiming that the high vibrations irritated the nervous system, triggered melancholy, and caused musicians to lose their sanity. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Public anxiety grew so intense that several German town councils moved to <span class=\"kw\">ban</span> performances featuring the instrument</span> altogether. Later medical commentators suggested a physical culprit rather than vibration: <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">performers may have absorbed dangerous quantities of <span class=\"kw\">lead</span></span> from the crystal glass and coloured rim paint through wet fingertips. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Nevertheless, modern historians point out that eighteenth-century citizens routinely took in the same toxic metal from glazed kitchenware, wine bottles, and cosmetics, making it impossible to blame the instrument alone.</span></p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">What truly pushed the glass harmonica out of fashion by the 1830s was architectural and musical: larger public auditoriums and louder brass-heavy orchestras simply swallowed its quiet, delicate voice.</span> For more than a century it survived mainly as a museum curiosity. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">In the 1980s, master glassblower Gerhard Finkenbeiner revived the craft using pure <span class=\"kw\">quartz</span> instead of leaded crystal</span>, eliminating any health risk while keeping Franklin's ingenious nested design alive for modern recordings and film scores.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The Glass Harmonica",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Earlier Versions and Franklin's Redesign</b></p><ul><li style=\"margin-bottom: 10px;\">Because liquid evaporated inside warm halls, performers could not keep a steady <b>1.</b> {{q1}} .</li><li style=\"margin-bottom: 10px;\">Franklin mounted bowls sideways along a central metal <b>2.</b> {{q2}} .</li><li style=\"margin-bottom: 10px;\">The spinning bowls were driven by the musician pressing a <b>3.</b> {{q3}} with one foot.</li></ul><p><b>Popularity and Controversy</b></p><ul><li style=\"margin-bottom: 10px;\">A Viennese doctor used the instrument's calming tone to help nervous <b>4.</b> {{q4}} .</li><li style=\"margin-bottom: 10px;\">Fears over mental health led certain German authorities to <b>5.</b> {{q5}} the instrument.</li><li style=\"margin-bottom: 10px;\">Some experts blamed illnesses on toxic <b>6.</b> {{q6}} present in the glass and paint.</li></ul><p><b>Modern Revival</b></p><ul><li style=\"margin-bottom: 10px;\">Contemporary builders use safe, pure <b>7.</b> {{q7}} rather than traditional crystal.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 121?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "pitch",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"the warmth of crowded concert halls caused the water inside to evaporate, steadily altering each glass's pitch\"</i>.",
+          "<b>Từ gây nhiễu:</b> water, warmth, performance. <b>Đáp án:</b> <b>pitch</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "rod",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"slipped sideways onto a horizontal iron rod\"</i> (central metal = horizontal iron).",
+          "<b>Đáp án:</b> <b>rod</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "treadle",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"spun the entire row continuously using a foot-operated treadle\"</i>.",
+          "<b>Từ gây nhiễu:</b> flywheel, bowls. <b>Đáp án:</b> <b>treadle</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "patients",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"soothe agitated patients\"</i> (nervous = agitated).",
+          "<b>Đáp án:</b> <b>patients</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "ban",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"several German town councils moved to ban performances featuring the instrument\"</i>.",
+          "<b>Đáp án:</b> <b>ban</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "lead",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"absorbed dangerous quantities of lead from the crystal glass and coloured rim paint\"</i>.",
+          "<b>Đáp án:</b> <b>lead</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "quartz",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"revived the craft using pure quartz instead of leaded crystal\"</i>.",
+          "<b>Đáp án:</b> <b>quartz</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Benjamin Franklin was the first person to discover that wet glass rims could generate musical tones.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Trước khi Franklin xem trình diễn ở London năm 1761, nghệ sĩ khắp châu Âu đã chơi đàn ly nước từ lâu (<i>performers across Europe were already coaxing music from rows of upright wine goblets</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Visual markings on the glass edges helped musicians distinguish between different notes.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Franklin sơn viền các bát thủy tinh theo màu sắc (<i>painted the rims in rainbow colours... white and gold for half-tones</i>) để người chơi nhận biết nốt nhanh.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Mozart composed more works for the glass harmonica than any other major composer of his era.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài có nhắc cả Mozart và Beethoven đều viết nhạc cho nhạc cụ này, nhưng hoàn toàn không so sánh ai viết nhiều tác phẩm hơn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Modern researchers agree that the glass harmonica was the sole source of lead poisoning among affected musicians.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Sử gia chỉ ra người thế kỷ 18 còn nhiễm chì từ đồ bếp tráng men, chai rượu, mỹ phẩm nên <i>impossible to blame the instrument alone</i> (không thể đổ lỗi riêng cho nhạc cụ).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "The decline of the glass harmonica's popularity was linked to changes in concert venues and orchestra size.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Phòng hòa nhạc lớn hơn (<i>larger public auditoriums</i>) và dàn nhạc kèn đồng ồn ào hơn (<i>louder brass-heavy orchestras</i>) đã át mất tiếng đàn mảnh.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Gerhard Finkenbeiner's modern quartz harmonicas produce a louder sound than Benjamin Franklin's original versions.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bài nhắc Finkenbeiner dùng thạch anh (quartz) thay pha lê chì để loại bỏ rủi ro sức khỏe, không hề so sánh độ to âm thanh với bản của Franklin.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

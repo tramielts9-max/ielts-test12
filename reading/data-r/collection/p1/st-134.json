@@ -1,0 +1,215 @@
+{
+  "title": "Bài sưu tầm 134 - Passage 1: The Wild Leaf: How Tea Cultivation Transformed Assam",
+  "answers": {
+    "q1": "silver",
+    "q2": "seeds",
+    "q3": "monsoon",
+    "q4": "malaria",
+    "q5": "barges",
+    "q6": "railway",
+    "q7": "households",
+    "q8": "FALSE",
+    "q9": "TRUE",
+    "q10": "FALSE",
+    "q11": "NOT GIVEN",
+    "q12": "TRUE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 134</h2><h3>The Wild Leaf: How Tea Cultivation Transformed Assam</h3><p><strong>Paragraph 1.</strong> At the dawn of the nineteenth century, Britain's growing appetite for tea depended entirely on China. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Chinese merchants demanded payment in vast amounts of <span class=\"kw\">silver</span>, draining British reserves</span> and prompting colonial officials to seek a reliable source inside India. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Leading botanists insisted that cool Himalayan slopes offered the only realistic climate, dismissing the hot, swampy plains of Assam in northeastern India as unsuitable.</span></p><p><strong>Paragraph 2.</strong> Yet in 1823, Scottish trader Robert Bruce heard rumours of a native tea tree growing wild in Assam's jungles. A local Singpho chief, Beesa Gam, showed Bruce the wild bushes and <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">gave him dried leaves alongside a handful of <span class=\"kw\">seeds</span></span>. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Bruce died the following year, long before colonial botanists officially confirmed that his specimens belonged to the true tea species.</span></p><p><strong>Paragraph 3.</strong> Even after formal verification in 1834, officials remained suspicious of the wild Indian variety. They imported eighty thousand bushes and skilled processors from China to establish model gardens. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Ironically, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">the delicate Chinese plants withered in Assam’s scorching humidity and violent <span class=\"kw\">monsoon</span> downpours</span>, while the rugged native Assam bush thrived effortlessly.</span></p><p><strong>Paragraph 4.</strong> Turning dense forest into commercial estates demanded enormous labour. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Planters recruited impoverished labourers from central India</span> and put them to work clearing mosquito-ridden wetlands, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">where deadly outbreaks of <span class=\"kw\">malaria</span> routinely devastated newly arrived workforces</span>.</p><p><strong>Paragraph 5.</strong> Moving fragile tea chests out of remote valleys proved equally daunting. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">For decades, harvested crates were loaded onto flat-bottomed wooden <span class=\"kw\">barges</span></span> that drifted slowly down the Brahmaputra River toward Calcutta, exposing leaves to dampness for months. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Transit times only dropped sharply once paddle steamers and a narrow-gauge <span class=\"kw\">railway</span> connected inland plantations directly to coastal ports.</span></p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">By the 1880s, dark, malty Assam tea had overtaken Chinese imports in London's auctions.</span> <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Rising production lowered retail prices</span>, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">turning an aristocratic luxury into an everyday staple inside ordinary British <span class=\"kw\">households</span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The Rise of Assam Tea",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Early search and discovery</b></p><ul><li style=\"margin-bottom:10px;\">Britain looked for an alternative supply because Chinese tea consumed huge quantities of <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:10px;\">A Singpho chief gave Robert Bruce specimen leaves together with <b>2.</b> {{q2}} from wild jungle trees.</li></ul><p><b>Cultivation challenges</b></p><ul><li style=\"margin-bottom:10px;\">Bushes brought from China failed due to Assam's heat and heavy <b>3.</b> {{q3}} rains.</li><li style=\"margin-bottom:10px;\">Early plantation workers clearing wet land frequently fell ill with <b>4.</b> {{q4}} .</li></ul><p><b>Transport and market success</b></p><ul><li style=\"margin-bottom:10px;\">Before modern transport arrived, tea crates travelled downriver aboard wooden <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:10px;\">Shipping delays fell dramatically following the opening of steamship routes and a <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:10px;\">Higher output cut prices, making tea a daily item in working-class British <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "silver",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"demanded payment in vast amounts of silver\"</i> (consumed huge amounts = demanded vast amounts).",
+          "<b>Từ cần điền:</b> <b>silver</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "seeds",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"gave him dried leaves alongside a handful of seeds\"</i>.",
+          "<b>Từ cần điền:</b> <b>seeds</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "monsoon",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"violent monsoon downpours\"</i> (heavy ... rains = violent ... downpours).",
+          "<b>Từ gây nhiễu:</b> humidity.",
+          "<b>Từ cần điền:</b> <b>monsoon</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "malaria",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"outbreaks of malaria routinely devastated newly arrived workforces\"</i>.",
+          "<b>Từ cần điền:</b> <b>malaria</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "barges",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"loaded onto flat-bottomed wooden barges\"</i>.",
+          "<b>Từ gây nhiễu:</b> crates.",
+          "<b>Từ cần điền:</b> <b>barges</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "railway",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"paddle steamers and a narrow-gauge railway\"</i>.",
+          "<b>Từ gây nhiễu:</b> steamers, ports.",
+          "<b>Từ cần điền:</b> <b>railway</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "households",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"everyday staple inside ordinary British households\"</i>.",
+          "<b>Từ cần điền:</b> <b>households</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Leading British botanists immediately recommended Assam as the most promising region for tea.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Các nhà thực vật học hàng đầu cho rằng vùng đồi Himalaya mát mẻ mới khả thi và gạt bỏ Assam vì nóng ẩm.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Robert Bruce did not live to see experts confirm his wild plants were genuine tea.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Bruce died the following year, long before colonial botanists officially confirmed that his specimens belonged to the true tea species.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Tea bushes imported from China adapted more successfully to Assam's soil than native bushes.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Cây trà Trung Quốc bị héo úa trước nắng nóng mưa mùa, trong khi giống bản địa Assam mọc khỏe tự nhiên.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Chinese tea artisans brought to Assam received higher pay than workers recruited from central India.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 & 4:</b> Bài có nhắc tuyển nghệ nhân Trung Quốc và tuyển lao động từ miền Trung Ấn Độ, nhưng hoàn toàn không so sánh tiền lương giữa hai nhóm.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "By the 1880s, Assam tea was selling in larger volumes on the British market than Chinese tea.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"By the 1880s, dark, malty Assam tea had overtaken Chinese imports in London's auctions.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "British drinkers favoured Assam tea primarily because its strong taste mixed well with milk.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Bài mô tả trà Assam đậm vị mạch nha và vượt trà Trung Quốc, nhưng không đề cập việc pha sữa có phải lý do chính khiến người Anh ưa chuộng hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

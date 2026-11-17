@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 128 - Passage 1: John Harrison and the Quest for Longitude",
+  "answers": {
+    "q1": "clocks",
+    "q2": "fleet",
+    "q3": "wood",
+    "q4": "temperature",
+    "q5": "watch",
+    "q6": "commission",
+    "q7": "Parliament",
+    "q8": "TRUE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN",
+    "q11": "FALSE",
+    "q12": "TRUE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 128</h2><h3>John Harrison and the Quest for Longitude</h3><p><strong>Paragraph 1.</strong> For centuries, open-ocean navigation remained perilous because sailors could determine only half of their position. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Measuring latitude—how far north or south a ship stood from the equator—was relatively straightforward by checking the height of the midday sun or the North Star.</span> Measuring longitude—east–west position—proved far harder. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">In theory, captains could calculate longitude by comparing local solar noon against the exact time at a reference port, yet standard pendulum <span class=\"kw\">clocks</span> became useless at sea because pitching waves disrupted their swinging weights.</span></p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">The human cost of this blindness struck Britain brutally in October 1707, when misjudged longitude caused four warships of a British naval <span class=\"kw\">fleet</span> to wreck on rocks off the Isles of Scilly, claiming nearly two thousand lives.</span> Outraged by the disaster, the British government passed the Longitude Act of 1714, offering £20,000—a vast fortune—to anyone who could find a reliable method to determine longitude within half a degree. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">While universities and astronomers dismissed mechanical solutions, a self-taught carpenter from rural Yorkshire named John Harrison, who had never served a formal watchmaking apprenticeship in London, quietly set out to solve the problem.</span></p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Building his earliest mechanisms largely out of seasoned <span class=\"kw\">wood</span>, Harrison carved friction-free gears from tropical lignum vitae, a dense timber rich in natural oils that required no extra lubrication.</span> <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">His first marine timekeeper, H1, passed a return sea trial to Lisbon in 1736, impressing naval officers enough to fund further models.</span> Over the next twenty years, Harrison built H2 and H3, inventing key components along the way. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">To stop metal balance springs from expanding in tropical heat or stiffening in polar cold, he created the bimetallic strip, which automatically compensated for shifts in <span class=\"kw\">temperature</span>.</span></p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Despite steady technical progress, Harrison faced fierce resistance from senior astronomers on the judging panel, notably Nevil Maskelyne, who favoured measuring angles between the moon and stars and regarded mechanical devices with deep scepticism.</span> Realising his heavy machines were still too cumbersome, Harrison abandoned large frames altogether. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">In 1759, he unveiled H4, a revolutionary instrument resembling a large silver pocket <span class=\"kw\">watch</span> powered by a fast-beating balance wheel fitted with tiny diamond bearings.</span></p><p><strong>Paragraph 5.</strong> During an eighty-one-day Atlantic crossing to Jamaica in 1761, H4 lost merely five seconds, easily outperforming the official prize requirement. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Yet the skeptical <span class=\"kw\">commission</span> overseeing the Longitude Prize withheld the full £20,000 reward, arguing that a single successful voyage might have been sheer luck.</span> Harrison was forced to hand over H4 for inspection and construct duplicates. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Only after the elderly clockmaker appealed directly to King George III—who personally tested a fifth model at his private observatory—did <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">Parliament</span></span> finally vote in 1773 to grant him his long-overdue payment.</span></p><p><strong>Paragraph 6.</strong> Harrison died three years later, having transformed maritime safety. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Over subsequent decades, mass-produced marine chronometers became standard equipment on naval expeditions, enabling surveyors to chart distant coastlines with unprecedented precision.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "Solving the Longitude Problem",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Background</b></p><ul><li style=\"margin-bottom:10px;\">Existing <b>1.</b> {{q1}} failed at sea because ocean swells disrupted their swinging mechanisms.</li><li style=\"margin-bottom:10px;\">A major shipwreck involving a naval <b>2.</b> {{q2}} prompted Britain to offer a huge financial reward.</li></ul><p><b>Harrison's Innovations</b></p><ul><li style=\"margin-bottom:10px;\">Harrison built his earliest sea timepieces largely from dense <b>3.</b> {{q3}} that needed no extra oil.</li><li style=\"margin-bottom:10px;\">To keep mechanisms accurate across different climates, he designed a strip that adjusted for shifts in <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">His fourth prototype broke with earlier models by taking the compact form of a pocket <b>5.</b> {{q5}} .</li></ul><p><b>Resistance and Recognition</b></p><ul><li style=\"margin-bottom:10px;\">Even after a successful Atlantic trial, the official <b>6.</b> {{q6}} refused to hand over the complete prize money.</li><li style=\"margin-bottom:10px;\">Following intervention by the monarch, Britain's <b>7.</b> {{q7}} eventually granted Harrison his overdue payment.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "clocks",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...standard pendulum clocks became useless at sea because pitching waves disrupted their swinging weights.\"</i>",
+          "<b>Từ cần điền:</b> <b>clocks</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "fleet",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...four warships of a British naval fleet to wreck on rocks off the Isles of Scilly...\"</i>",
+          "<b>Từ cần điền:</b> <b>fleet</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "wood",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Building his earliest mechanisms largely out of seasoned wood... a dense timber rich in natural oils...\"</i>",
+          "<b>Từ cần điền:</b> <b>wood</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "temperature",
+      "inputWidth": "130px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...bimetallic strip, which automatically compensated for shifts in temperature.\"</i>",
+          "<b>Từ cần điền:</b> <b>temperature</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "watch",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...instrument resembling a large silver pocket watch...\"</i>",
+          "<b>Từ cần điền:</b> <b>watch</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "commission",
+      "inputWidth": "120px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Yet the skeptical commission overseeing the Longitude Prize withheld the full £20,000 reward...\"</i>",
+          "<b>Từ cần điền:</b> <b>commission</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "Parliament",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...did Parliament finally vote in 1773 to grant him his long-overdue payment.\"</i>",
+          "<b>Từ cần điền:</b> <b>Parliament</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Early ocean travellers were able to determine how far north or south they were more reliably than their east–west position.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Đo vĩ độ (bắc–nam) khá dễ dàng, còn đo kinh độ (đông–tây) khó hơn nhiều.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "John Harrison received formal university training in clockmaking in London before entering the Longitude competition.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Ông là thợ mộc tự học (<i>self-taught carpenter</i>), chưa từng qua đào tạo chính quy nghề làm đồng hồ ở London.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Harrison's first marine clock, H1, was damaged during its trial voyage to Lisbon.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Có nhắc H1 vượt qua chuyến thử nghiệm đi Lisbon năm 1736, nhưng không đề cập việc đồng hồ có bị hư hại trong chuyến đi đó hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Astronomers on the Longitude Board agreed from the beginning that mechanical timekeepers were superior to star charts.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Các nhà thiên văn học trong hội đồng ủng hộ phương pháp đo trăng–sao và nghi ngờ mạnh mẽ đồng hồ cơ học.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Before Harrison received his full reward, the King conducted his own check on one of his clocks.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Vua George III tự mình kiểm tra mẫu đồng hồ thứ 5 tại đài thiên văn riêng trước khi Quốc hội duyệt trả tiền.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "By the end of the eighteenth century, pocket chronometers had become affordable for nearly all merchant ship captains.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Chỉ nói đồng hồ hàng hải sản xuất hàng loạt trở thành trang bị chuẩn cho các chuyến thám hiểm hải quân, không đề cập giá cả có rẻ cho hầu hết thuyền trưởng tàu buôn hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

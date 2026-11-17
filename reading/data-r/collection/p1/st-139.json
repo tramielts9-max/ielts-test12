@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 139 - Passage 1: Winged Messengers: The History of Carrier Pigeons",
+  "answers": {
+    "q1": "olive",
+    "q2": "gap",
+    "q3": "stocks",
+    "q4": "microfilm",
+    "q5": "radar",
+    "q6": "landmarks",
+    "q7": "smell",
+    "q8": "FALSE",
+    "q9": "TRUE",
+    "q10": "NOT GIVEN",
+    "q11": "TRUE",
+    "q12": "FALSE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 139</h2><h3>Winged Messengers: The History of Carrier Pigeons</h3><p><strong>Paragraph 1.</strong> Long before electrical cables carried voices across continents, trained homing pigeons served as the fastest long-distance postal network in the world. Unlike ordinary wild birds, domesticated rock doves possess an extraordinary instinct to return to their home loft over hundreds of kilometres of unfamiliar terrain. Ancient Egyptian sailors released pigeons when approaching land to alert coastal ports of arriving cargo. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">In classical Greece, messengers carried the names of victorious athletes from the Olympic Games back to distant cities, often tying tiny <span class=\"kw\">olive</span> branches to the birds' legs to signal triumph.</span></p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Because a pigeon always flies back to a single fixed roost, senders had to transport the birds outward in cages by boat or carriage before releasing them with return notes.</span> In the mid-nineteenth century, businessman Julius Reuter turned this biological quirk into a commercial advantage. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Although telegraph lines were spreading rapidly across Europe in 1850, an unfinished <span class=\"kw\">gap</span> between Aachen in Germany and Brussels in Belgium slowed financial news by half a day.</span> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Reuter hired breeders to fly birds carrying latest prices of European <span class=\"kw\">stocks</span> across the border</span>, outpacing express trains and laying the foundation for his famous news agency.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Pigeons proved equally vital when modern cities were cut off during wartime.</span> During the Siege of Paris in 1870, Prussian forces severed every telegraph wire linking the capital to the outside world. French officials smuggled caged pigeons out of the city in hot-air balloons so messages could be flown back in. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\"><span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">To maximize the limited weight a bird could carry, Parisian photographer René Dagron reduced thousands of handwritten dispatches onto tiny sheets of <span class=\"kw\">microfilm</span></span></span> rolled inside hollow feather quills. Upon arrival in Paris, clerks projected the enlarged film onto white walls and copied down messages for waiting citizens.</p><p><strong>Paragraph 4.</strong> During the First and Second World Wars, armies maintained tens of thousands of messenger birds alongside tanks and aircraft. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Pigeons offered a decisive tactical benefit: unlike radio transmissions, their flight paths could not be intercepted or jammed by enemy electronic equipment.</span> One famous bird, named Cher Ami, flew forty kilometres through heavy artillery fire in 1918 despite a severe leg injury, saving nearly two hundred trapped American soldiers. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">By the 1950s, however, encrypted wireless networks and improved <span class=\"kw\">radar</span> systems gradually rendered animal couriers obsolete in military operations.</span></p><p><strong>Paragraph 5.</strong> Even after retiring from official service, homing pigeons continue to intrigue modern biologists. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Scientists now understand that the birds rely on a dual navigation toolkit rather than a single sense.</span> Over long distances across open countryside, specialized cells near the beak appear to detect subtle variations in Earth’s magnetic field, acting like an internal compass. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Once closer to their home region, however, GPS tracking experiments show that pigeons shift to visual navigation, following familiar highways, rivers, and man-made <span class=\"kw\">landmarks</span>.</span></p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">More surprisingly, field tests in Italy demonstrated that a keen sense of <span class=\"kw\">smell</span> also helps birds map wind-borne odours across unfamiliar regions.</span> When researchers temporarily blocked the birds’ nostrils during release trials away from home, many failed to orient themselves toward their lofts. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Although smartphones have replaced feathered messengers, competitive pigeon racing remains a popular hobby in Europe and Asia today.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "Carrier Pigeons: History and Science",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Ancient and Commercial Use</b></p><ul><li style=\"margin-bottom:10px;\">Ancient Greek messengers attached small <b>1.</b> {{q1}} twigs to birds announcing Olympic victories.</li><li style=\"margin-bottom:10px;\">In 1850, Julius Reuter bridged an incomplete <b>2.</b> {{q2}} in Europe's telegraph network.</li><li style=\"margin-bottom:10px;\">His birds carried timely updates about European <b>3.</b> {{q3}} faster than trains.</li></ul><p><b>Wartime Operations</b></p><ul><li style=\"margin-bottom:10px;\">During the 1870 Siege of Paris, thousands of letters were shrunk onto lightweight <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">Military use declined after advances in encrypted radio and <b>5.</b> {{q5}} during the 1950s.</li></ul><p><b>Biological Navigation</b></p><ul><li style=\"margin-bottom:10px;\">Near home, birds steer using roads, rivers, and recognizable <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:10px;\">Italian experiments revealed that birds also map wind currents using their sense of <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "olive",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...tying tiny olive branches to the birds' legs to signal triumph.\"</i>",
+          "<b>Từ cần điền:</b> <b>olive</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "gap",
+      "inputWidth": "90px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...an unfinished gap between Aachen in Germany and Brussels in Belgium...\"</i>",
+          "<b>Từ cần điền:</b> <b>gap</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "stocks",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...birds carrying latest prices of European stocks across the border...\"</i>",
+          "<b>Từ cần điền:</b> <b>stocks</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "microfilm",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...reduced thousands of handwritten dispatches onto tiny sheets of microfilm...\"</i>",
+          "<b>Từ cần điền:</b> <b>microfilm</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "radar",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...encrypted wireless networks and improved radar systems gradually rendered animal couriers obsolete...\"</i>",
+          "<b>Từ cần điền:</b> <b>radar</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "landmarks",
+      "inputWidth": "120px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...following familiar highways, rivers, and man-made landmarks.\"</i>",
+          "<b>Từ cần điền:</b> <b>landmarks</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "smell",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...a keen sense of smell also helps birds map wind-borne odours...\"</i>",
+          "<b>Từ cần điền:</b> <b>smell</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Trained carrier pigeons could easily be instructed to fly to any unfamiliar destination chosen by their owner.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chim bồ câu chỉ bay về đúng 1 chuồng cố định của nó (<i>always flies back to a single fixed roost</i>), nên muốn gửi thư phải chở chim trong lồng đi trước.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Balloons were used to carry pigeons out of Paris before the birds flew messages back into the city.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Giới chức Pháp bí mật đưa chim bằng khinh khí cầu ra khỏi thành phố đang bị vây rồi thả bay ngược về mang theo tin nhắn.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "René Dagron invented the microfilm projection system specifically for the Siege of Paris.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài có nói Dagron thu nhỏ thư lên vi phim trong cuộc vây hãm Paris và nhân viên chiếu lên tường, nhưng không nói ông phát minh ra hệ thống chiếu đó riêng cho sự kiện này hay đã phát minh từ trước.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "In wartime, pigeons were harder for opposing forces to monitor than radio communications.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Đường bay của chim không thể bị nghe lén hay gây nhiễu bằng thiết bị điện tử như sóng vô tuyến (<i>unlike radio transmissions, their flight paths could not be intercepted or jammed</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Homing pigeons rely exclusively on Earth's magnetic field throughout their entire journey home.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chúng dùng bộ công cụ kết hợp (<i>dual navigation toolkit rather than a single sense</i>): đường xa dùng từ trường, gần nhà dùng mốc thị giác và còn dùng khứu giác.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Pigeon racing competitions attract greater prize money in Asia today than in Europe.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Chỉ nói đua bồ câu vẫn phổ biến ở cả châu Âu và châu Á, hoàn toàn không so sánh tiền thưởng giữa hai khu vực.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "title": "Bài sưu tầm 126 - Passage 1: The Glassmakers of Murano: Secrets of Venetian Crystal",
+  "answers": {
+    "q1": "fires",
+    "q2": "aristocracy",
+    "q3": "impurities",
+    "q4": "mercury",
+    "q5": "engraving",
+    "q6": "casting",
+    "q7": "fuel",
+    "q8": "TRUE",
+    "q9": "NOT GIVEN",
+    "q10": "FALSE",
+    "q11": "NOT GIVEN",
+    "q12": "FALSE",
+    "q13": "TRUE"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 126</h2><h3>The Glassmakers of Murano: Secrets of Venetian Crystal</h3><p><strong>Paragraph 1.</strong> For centuries, Venice owed much of its prosperity to a fragile yet highly profitable craft: glassmaking. By the late thirteenth century, dozens of bustling workshops operated along narrow streets near the city's commercial heart. However, city officials grew increasingly alarmed that <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">glowing furnaces inside crowded timber buildings could spark catastrophic <span class=\"kw\">fires</span> across the densely packed neighbourhoods</span></span>. In 1291, the Great Council issued a decisive decree: every glasshouse was ordered to dismantle its kilns and relocate to Murano, a cluster of small islands across the lagoon roughly two kilometres north of the main city.</p><p><strong>Paragraph 2.</strong> Moving the industry offshore also gave the Venetian state tight control over a lucrative monopoly. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">To protect trade secrets, the Council of Ten strictly forbade master artisans from leaving the republic; any craftsman caught working abroad risked imprisonment or assassination by state agents.</span> Yet confinement on Murano came with remarkable social rewards. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Unlike ordinary tradespeople, senior glassblowers were granted the right to carry swords, were exempt from prosecution by regular city magistrates, and saw their daughters permitted to marry into Venice's wealthy <span class=\"kw\">aristocracy</span>.</span></p><p><strong>Paragraph 3.</strong> The island's golden age began in the 1450s through the experiments of Angelo Barovier. Standard medieval glass carried a cloudy green or brown tinge caused by traces of iron in local sand. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">By adding manganese to roasted coastal plant ash <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">imported from Syria</span>, Barovier neutralised the discolouration left by natural <span class=\"kw\">impurities</span> in the raw materials.</span> The resulting product, dubbed <em>cristallo</em> because it resembled clear mountain rock crystal, captivated Renaissance Europe and turned Murano goblets and decanters into essential status symbols at royal banquets.</p><p><strong>Paragraph 4.</strong> Equally prized were Venetian looking-glasses. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">To manufacture flat mirrors, artisans split open blown cylinders of clear glass on heated iron slabs and backed each pane with a thin sheet of metal foil and liquid <span class=\"kw\">mercury</span>.</span> The reflection was far sharper than earlier polished metal mirrors. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Venetian looking-glasses became so coveted by European monarchs that French finance minister Jean-Baptiste Colbert secretly bribed several Murano craftsmen to defect to Paris in the 1660s, despite heavy threats from Venetian authorities.</span></p><p><strong>Paragraph 5.</strong> By the late seventeenth century, Murano's dominance began to fade as foreign rivals innovated. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Bohemian workshops developed a thicker, potassium-rich crystal suited to deep <span class=\"kw\">engraving</span>, a decorative style that quickly overtook delicate Venetian shapes in northern European markets.</span> At the same time, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">French royal glassworks pioneered a method of <span class=\"kw\">casting</span> molten glass directly onto flat bronze tables</span>, producing mirror sheets larger than any human glassblower could ever shape by breath alone.</span></p><p><strong>Paragraph 6.</strong> Although Venice lost its commercial monopoly, glassmaking never vanished from the lagoon. Today, roughly a hundred studios still operate on Murano, though small family workshops face growing financial pressure. Rising <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">fuel</span></span> bills, environmental regulations, and an influx of cheap imported trinkets have forced many traditional furnaces to shut. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Survival increasingly depends on artistic innovation: several historic studios now invite international sculptors and designers to collaborate with local masters on one-off gallery installations.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "Venetian Glassmaking on Murano",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Relocation and Social Status</b></p><ul><li style=\"margin-bottom:10px;\">Glassmakers were forced to move to an island in the late thirteenth century to reduce the danger of <b>1.</b> {{q1}} in the main city.</li><li style=\"margin-bottom:10px;\">In return for staying on the island, senior craftsmen gained unusual privileges, including marriage ties with the local <b>2.</b> {{q2}} .</li></ul><p><b>Key Technical Achievements</b></p><ul><li style=\"margin-bottom:10px;\">A mid-fifteenth-century innovator produced clear glass by treating sand with imported ash to counter natural <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:10px;\">Artisans produced mirrors by backing flattened panes with a layer of metal foil and <b>4.</b> {{q4}} .</li></ul><p><b>Decline and Modern Industry</b></p><ul><li style=\"margin-bottom:10px;\">Foreign competitors reduced Venetian profits by producing heavier glassware suited to <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:10px;\">Meanwhile, rival French manufacturers developed a technique for <b>6.</b> {{q6}} wide sheets of glass directly.</li><li style=\"margin-bottom:10px;\">Small family studios currently struggle to survive due to imported imitations and high <b>7.</b> {{q7}} costs.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "fires",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...glowing furnaces inside crowded timber buildings could spark catastrophic fires...\"</i>",
+          "<b>Paraphrase:</b> <i>late thirteenth century</i> = 1291; <i>main city</i> = Venice; <i>reduce the danger of</i> = alarmed that... could spark.",
+          "<b>Từ cần điền:</b> <b>fires</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "aristocracy",
+      "inputWidth": "130px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...permitted to marry into Venice's wealthy aristocracy.\"</i>",
+          "<b>Paraphrase:</b> <i>senior craftsmen</i> = senior glassblowers; <i>marriage ties</i> = permitted to marry into.",
+          "<b>Từ cần điền:</b> <b>aristocracy</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "impurities",
+      "inputWidth": "130px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...neutralised the discolouration left by natural impurities in the raw materials.\"</i>",
+          "<b>Paraphrase:</b> <i>mid-fifteenth-century innovator</i> = in the 1450s... Angelo Barovier; <i>counter</i> = neutralised.",
+          "<b>Từ cần điền:</b> <b>impurities</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "mercury",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...backed each pane with a thin sheet of metal foil and liquid mercury.\"</i>",
+          "<b>Paraphrase:</b> <i>backing</i> = backed; <i>layer of metal foil</i> = thin sheet of metal foil.",
+          "<b>Từ cần điền:</b> <b>mercury</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "engraving",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Bohemian workshops developed a thicker, potassium-rich crystal suited to deep engraving...\"</i>",
+          "<b>Paraphrase:</b> <i>heavier glassware</i> = thicker, potassium-rich crystal.",
+          "<b>Từ cần điền:</b> <b>engraving</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "casting",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"French royal glassworks pioneered a method of casting molten glass directly onto flat bronze tables...\"</i>",
+          "<b>Paraphrase:</b> <i>technique</i> = method; <i>wide sheets</i> = larger mirror sheets.",
+          "<b>Từ cần điền:</b> <b>casting</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "fuel",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"Rising fuel bills, environmental regulations, and an influx of cheap imported trinkets...\"</i>",
+          "<b>Paraphrase:</b> <i>imported imitations</i> = imported trinkets; <i>high ... costs</i> = rising ... bills.",
+          "<b>Từ cần điền:</b> <b>fuel</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Before the relocation order, Venetian officials worried that glassmaking could damage nearby wooden properties.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Giới chức lo ngại lò nung trong các tòa nhà gỗ đông đúc có thể gây cháy lớn (<i>glowing furnaces inside crowded timber buildings could spark catastrophic fires</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Barovier was the first craftsman on Murano to import plant ash from the eastern Mediterranean.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài có nhắc Barovier dùng tro thực vật nhập từ Syria (<i>imported from Syria</i>), nhưng hoàn toàn không khẳng định ông là người đầu tiên (<i>the first craftsman</i>) nhập loại tro này.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "In the sixteenth century, skilled glassworkers were encouraged to teach their craft in foreign royal courts.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Ngược lại hoàn toàn: Hội đồng Mười cấm thợ rời nước cộng hòa; ai bị bắt làm việc ở nước ngoài có nguy cơ bị bỏ tù hoặc ám sát.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Murano mirrors were sold at higher prices in France than anywhere else in Europe.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài có nói gương Murano được các quốc vương châu Âu ưa chuộng và bộ trưởng Pháp hối lộ thợ sang Paris, nhưng không có thông tin so sánh giá bán ở Pháp so với nơi khác.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "French factories continued to rely on traditional blowing techniques to make large mirror panes.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Xưởng Pháp tiên phong phương pháp đúc (<i>casting</i>) lên bàn đồng chứ không dùng kỹ thuật thổi thủ công truyền thống.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Some contemporary artists from outside Italy work alongside Murano craftsmen to create modern pieces.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"several historic studios now invite international sculptors and designers to collaborate with local masters on one-off gallery installations.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "title": "Bài sưu tầm 131 - Passage 1: Solving the Longitude Problem: John Harrison and the Marine Chronometer",
+  "answers": {
+    "q1": "altitude",
+    "q2": "temperature",
+    "q3": "oil",
+    "q4": "diamond",
+    "q5": "kilometres",
+    "q6": "replicas",
+    "q7": "charting",
+    "q8": "FALSE",
+    "q9": "NOT GIVEN",
+    "q10": "TRUE",
+    "q11": "FALSE",
+    "q12": "TRUE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 131</h2><h3>Solving the Longitude Problem: John Harrison and the Marine Chronometer</h3><p><strong>Paragraph 1.</strong> For centuries, crossing open oceans remained a gamble with survival. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Captains could readily establish their latitude—their distance north or south of the equator—by <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">measuring the midday <span class=\"kw\">altitude</span> of the sun</span> or checking the angle of the Pole Star at night.</span> Calculating longitude, or east-west position, proved far harder once land disappeared. In 1707, four British warships struck reefs off the Isles of Scilly in thick fog, costing nearly two thousand lives because officers misjudged how far east they had sailed.</p><p><strong>Paragraph 2.</strong> Shaken by the disaster, Parliament passed the Longitude Act of 1714, offering £20,000 for any practical way to find longitude within half a degree on a voyage to the West Indies. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Prominent astronomers such as Edmond Halley backed celestial methods—tracking the moon against distant stars—and doubted any onboard clock could survive <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">the constant rolling of waves, salty moisture, and wide variations in cabin <span class=\"kw\">temperature</span></span>.</span></p><p><strong>Paragraph 3.</strong> Against these academic voices stepped <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">John Harrison, a self-taught village carpenter from Yorkshire with no formal university education</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Conventional brass clockwork required regular coatings of animal <span class=\"kw\">oil</span>, which turned sticky in cold climates</span> and dried out near the equator. Harrison bypassed this flaw in his first sea clock, H1, by crafting gears from tropical hardwood containing natural resin, eliminating lubrication altogether.</p><p><strong>Paragraph 4.</strong> Over twenty years, Harrison built three large sea clocks, yet none felt practical for cramped cabins. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Inspired by pocket watches, he completed H4 in 1759—a compact silver timepiece barely thirteen centimetres across, abandoning the bulky wooden frames of its three predecessors.</span> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">To limit rubbing between moving parts, he fitted miniature jewels, including a cut <span class=\"kw\">diamond</span>, as smooth bearings.</span> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">During an official eighty-one-day sea trial to Jamaica, the timepiece erred by barely five seconds, putting the ship within two <span class=\"kw\">kilometres</span> of the island harbour.</span></p><p><strong>Paragraph 5.</strong> Even then, victory was delayed. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">The Board of Longitude was chaired by Astronomer Royal Nevil Maskelyne, an enthusiastic promoter of the competing lunar-distance system.</span> Claiming H4 might have succeeded by luck, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">the Board withheld half the prize and insisted Harrison surrender his drawings while independent watchmakers built functioning <span class=\"kw\">replicas</span></span> to prove the design could be copied.</p><p><strong>Paragraph 6.</strong> Exhausted and nearly eighty, Harrison appealed to King George III, who tested a fifth watch at Kew Observatory and pressed Parliament to grant a final financial award in 1773. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Soon afterwards, explorer James Cook carried a copy of H4 crafted by Larcum Kendall across the Pacific</span>, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">turning the marine chronometer into an indispensable instrument for accurate ocean <span class=\"kw\">charting</span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "John Harrison and the Longitude Challenge",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Early navigation and doubts</b></p><ul><li style=\"margin-bottom:10px;\">Sailors already knew how to find their north-south position by checking the daytime <b>1.</b> {{q1}} of the sun.</li><li style=\"margin-bottom:10px;\">Leading scholars doubted mechanical clocks could cope with sea movement, damp air, and fluctuations in <b>2.</b> {{q2}} .</li></ul><p><b>Harrison's innovations</b></p><ul><li style=\"margin-bottom:10px;\">Traditional metal mechanisms required a liquid <b>3.</b> {{q3}} that thickened in cold weather.</li><li style=\"margin-bottom:10px;\">To cut down internal friction inside H4, Harrison incorporated a miniature <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">During its transatlantic test, H4 allowed navigators to pinpoint the Jamaican port within a couple of <b>5.</b> {{q5}} .</li></ul><p><b>Resistance and legacy</b></p><ul><li style=\"margin-bottom:10px;\">Before releasing the money, officials required outside craftsmen to build working <b>6.</b> {{q6}} of H4.</li><li style=\"margin-bottom:10px;\">James Cook later depended on a version of the watch when carrying out Pacific <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "altitude",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"measuring the midday altitude of the sun\"</i> (daytime = midday; finding north-south position = establish latitude).",
+          "<b>Từ gây nhiễu:</b> angle, distance.",
+          "<b>Từ cần điền:</b> <b>altitude</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "temperature",
+      "inputWidth": "120px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"wide variations in cabin temperature\"</i> (fluctuations = wide variations; sea movement = rolling of waves; damp air = salty moisture).",
+          "<b>Từ cần điền:</b> <b>temperature</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "oil",
+      "inputWidth": "90px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Conventional brass clockwork required regular coatings of animal oil, which turned sticky in cold climates\"</i> (thickened = turned sticky).",
+          "<b>Từ gây nhiễu:</b> resin, coatings.",
+          "<b>Từ cần điền:</b> <b>oil</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "diamond",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"fitted miniature jewels, including a cut diamond, as smooth bearings\"</i> (cut down internal friction = limit rubbing between moving parts).",
+          "<b>Từ cần điền:</b> <b>diamond</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "kilometres",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"putting the ship within two kilometres of the island harbour\"</i>.",
+          "<b>Từ gây nhiễu:</b> seconds.",
+          "<b>Từ cần điền:</b> <b>kilometres</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "replicas",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"independent watchmakers built functioning replicas\"</i> (outside craftsmen = independent watchmakers).",
+          "<b>Từ gây nhiễu:</b> drawings.",
+          "<b>Từ cần điền:</b> <b>replicas</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "charting",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"indispensable instrument for accurate ocean charting\"</i>.",
+          "<b>Từ cần điền:</b> <b>charting</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Before the eighteenth century, mariners had no reliable method for measuring their north-south position at sea.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Thuyền trưởng hoàn toàn có thể đo vĩ độ (khoảng cách bắc-nam tính từ xích đạo) bằng mặt trời hoặc sao Bắc Đẩu; chỉ kinh độ (đông-tây) mới không đo được.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Edmond Halley personally tested early mechanical timekeepers during voyages to the West Indies.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bài có nhắc Edmond Halley và hành trình tới West Indies, nhưng chỉ nói ông ủng hộ phương pháp thiên văn và nghi ngờ đồng hồ cơ, không nói ông có trực tiếp thử nghiệm chúng trên biển hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Harrison lacked conventional academic qualifications when he began designing marine clocks.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"a self-taught village carpenter from Yorkshire with no formal university education\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "H4 was considerably larger than Harrison's first three marine clocks.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> H4 nhỏ gọn cỡ đồng hồ bỏ túi (13 cm), từ bỏ khung gỗ cồng kềnh của 3 chiếc trước (<i>abandoning the bulky wooden frames of its three predecessors</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "The chairman of the Board of Longitude personally favoured an alternative approach to finding longitude.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chủ tịch Hội đồng là Nevil Maskelyne, người nhiệt tình ủng hộ phương pháp cạnh tranh (<i>an enthusiastic promoter of the competing lunar-distance system</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "James Cook praised Harrison's original H4 watch as superior to Larcum Kendall's copy.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Bài nhắc Cook mang bản sao H4 do Larcum Kendall chế tạo đi Thái Bình Dương, nhưng không hề so sánh chất lượng giữa bản sao và bản gốc H4.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

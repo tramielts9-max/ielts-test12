@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 137 - Passage 1: The Cochineal Insect: From Aztec Crimson to Modern Industry",
+  "answers": {
+    "q1": "cactus",
+    "q2": "brushes",
+    "q3": "secret",
+    "q4": "seeds",
+    "q5": "wool",
+    "q6": "coal",
+    "q7": "cosmetics",
+    "q8": "FALSE",
+    "q9": "TRUE",
+    "q10": "NOT GIVEN",
+    "q11": "TRUE",
+    "q12": "FALSE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 137</h2><h3>The Cochineal Insect: From Aztec Crimson to Modern Industry</h3><p><strong>Paragraph 1.</strong> For over three centuries, the richest red textiles worn by European monarchs and generals owed their brilliance not to a mineral or a plant, but to a tiny parasitic insect from Mexico. Known as cochineal (<em>Dactylopius coccus</em>), the creature spends almost its entire life motionless, feeding on the moisture inside flat <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">cactus</span></span> pads while shielding itself beneath a white waxy coating. To defend against predators, the wingless females accumulate high concentrations of carminic acid, a compound that produces an intense crimson pigment when crushed.</p><p><strong>Paragraph 2.</strong> Long before Europeans reached the Americas, Indigenous farmers in southern Mexico domesticated the insect in carefully tended plantations. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Under Aztec rule, conquered towns were required to send sacks of dried cochineal to the imperial capital each year as regular tax payments, where the dye coloured ceremonial cloaks, murals, and codices.</span> Harvesting was delicate work: <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">workers gently swept the mature insects off the thorny pads using soft <span class=\"kw\">brushes</span></span> made from deer tails before drying them in the sun or over low ovens.</p><p><strong>Paragraph 3.</strong> When Spanish ships carried the first dried batches back to Seville in the 1520s, European dyers quickly recognized that cochineal yielded shades far brighter and longer-lasting than local roots or kermes insects. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">By the seventeenth century, cochineal ranked behind only silver as the most valuable export shipped out of New Spain.</span> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">To protect this lucrative monopoly, Spanish authorities kept the biological origin of the dye a strict <span class=\"kw\">secret</span></span>, banning foreigners from visiting Mexican production districts on pain of death. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">As a result, many European merchants remained convinced for decades that the dried purple grains were actually tiny plant <span class=\"kw\">seeds</span>.</span></p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">In 1777, a French botanist named Nicolas-Joseph Thiéry de Menonville risked imprisonment by travelling in disguise to Oaxaca, where he smuggled living cochineal-covered plants aboard a ship bound for the Caribbean.</span> Although his French colonial plantation ultimately failed, Spanish control weakened after Mexico gained independence in 1821. Soon the Canary Islands became a major producer, helped by an arid climate ideal for host cacti. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Britain's textile mills bought enormous quantities to dye military uniforms and heavy <span class=\"kw\">wool</span></span> garments destined for export.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">The boom ended abruptly in the mid-nineteenth century with the arrival of artificial aniline dyes synthesized from <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">coal</span></span> tar.</span> Because factory-made reds cost a fraction of imported insect pigment and required no agricultural labour, global demand for cochineal collapsed within twenty years. Only small rural communities in Peru and the Canary Islands kept traditional cultivation alive for local weavers and artists.</p><p><strong>Paragraph 6.</strong> Remarkably, cochineal experienced an unexpected revival in the late twentieth century. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">As health regulators restricted several synthetic red colourings after linking them to allergic reactions in consumers</span>, manufacturers turned back to natural carmine. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Today, Peru supplies over eighty percent of the global harvest, which is used widely in fruit yoghurts, juices, and luxury <span class=\"kw\">cosmetics</span> such as lipsticks.</span> <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Because the pigment is derived from insects rather than plants, food companies in many countries are now required to label it explicitly on packaging.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The History and Trade of Cochineal",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Biology and Harvesting</b></p><ul><li style=\"margin-bottom:10px;\">The cochineal insect lives on flat leaves of the <b>1.</b> {{q1}} plant.</li><li style=\"margin-bottom:10px;\">Farmers collected mature insects carefully with soft <b>2.</b> {{q2}} so as not to crush them.</li></ul><p><b>Spanish Trade and Industrial Use</b></p><ul><li style=\"margin-bottom:10px;\">Spain safeguarded its monopoly by treating the insect's true identity as an official <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:10px;\">Foreign buyers mistakenly assumed the dried grains were actually <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">British factories used vast amounts of the dye to colour soldiers' coats and <b>5.</b> {{q5}} cloth.</li></ul><p><b>Decline and Modern Revival</b></p><ul><li style=\"margin-bottom:10px;\">Sales plummeted after chemists invented cheaper reds made from <b>6.</b> {{q6}} tar.</li><li style=\"margin-bottom:10px;\">Today, natural carmine is commonly added to drinks, dairy products, and <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "cactus",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...feeding on the moisture inside flat cactus pads...\"</i>",
+          "<b>Từ cần điền:</b> <b>cactus</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "brushes",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...swept the mature insects off the thorny pads using soft brushes...\"</i>",
+          "<b>Từ cần điền:</b> <b>brushes</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "secret",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...Spanish authorities kept the biological origin of the dye a strict secret...\"</i>",
+          "<b>Từ cần điền:</b> <b>secret</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "seeds",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...many European merchants remained convinced for decades that the dried purple grains were actually tiny plant seeds.\"</i>",
+          "<b>Từ cần điền:</b> <b>seeds</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "wool",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...Britain's textile mills bought enormous quantities to dye military uniforms and heavy wool garments...\"</i>",
+          "<b>Từ cần điền:</b> <b>wool</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "coal",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...artificial aniline dyes synthesized from coal tar.\"</i>",
+          "<b>Từ cần điền:</b> <b>coal</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "cosmetics",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...used widely in fruit yoghurts, juices, and luxury cosmetics such as lipsticks.\"</i>",
+          "<b>Từ cần điền:</b> <b>cosmetics</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The Aztecs were the first civilization to learn how to breed cochineal insects in Mexico.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bài nói nông dân bản địa đã thuần hóa loài này từ trước đó, còn đế chế Aztec thu cống nạp từ các thị trấn bị chinh phục (<i>conquered towns were required to send... to the imperial capital</i>) chứ không phải Aztec là nền văn minh đầu tiên nuôi.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Only one other commodity shipped from Spanish Mexico generated more export revenue than cochineal during the 1600s.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Vào thế kỷ 17, cochineal chỉ đứng sau mỗi bạc (<i>ranked behind only silver as the most valuable export</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Thiéry de Menonville received financial backing from the French king for his expedition to Oaxaca.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Có nhắc nhà thực vật học Pháp lén sang Oaxaca lấy giống mang về thuộc địa Pháp, nhưng hoàn toàn không nhắc chuyến đi có được nhà vua Pháp tài trợ tiền hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "The lower cost of synthetic alternatives led to a rapid decline in cochineal farming.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Thuốc nhuộm nhân tạo rẻ hơn rất nhiều khiến nhu cầu cochineal sụp đổ chỉ trong vòng 20 năm.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Cochineal returned to commercial popularity mainly because it produces brighter shades than artificial food dyes.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Nguyên nhân hồi sinh là do cơ quan y tế siết các phẩm màu tổng hợp gây dị ứng (<i>restricted several synthetic red colourings after linking them to allergic reactions</i>), không phải do màu tươi hơn.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Consumer groups in Peru campaigned for strict rules on how cochineal is listed on food labels.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Có nhắc Peru sản xuất phần lớn và nhắc nhiều nước yêu cầu ghi nhãn rõ, nhưng không đề cập có nhóm người tiêu dùng ở Peru vận động cho quy định ghi nhãn này hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 140 - Passage 1: The Panama Hat: The Misnamed Craft of Ecuador",
+  "answers": {
+    "q1": "shoots",
+    "q2": "sun",
+    "q3": "humidity",
+    "q4": "canal",
+    "q5": "photographs",
+    "q6": "sweat",
+    "q7": "machinery",
+    "q8": "FALSE",
+    "q9": "TRUE",
+    "q10": "NOT GIVEN",
+    "q11": "TRUE",
+    "q12": "NOT GIVEN",
+    "q13": "FALSE"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 140</h2><h3>The Panama Hat: The Misnamed Craft of Ecuador</h3><p><strong>Paragraph 1.</strong> Despite its famous geographical name, the classic woven Panama hat has never been manufactured in Panama. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">For centuries, master weavers along the Pacific coast and Andean valleys of Ecuador have crafted these lightweight sun hats entirely by hand.</span> The confusion arose in the mid-nineteenth century, when prospectors travelling from the eastern United States to the California Gold Rush crossed the narrow Isthmus of Panama by boat and train. Seeking relief from the tropical heat, travellers bought Ecuadorian hats shipped into Panamanian port markets and carried them north, referring to them simply by the place of purchase.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Every authentic hat begins with <em>toquilla</em> straw, harvested from a native palm-like plant (<em>Carludovica palmata</em>) that grows wild in coastal Ecuadorian forests rather than being a true palm.</span> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Harvesters cut unopened young <span class=\"kw\">shoots</span></span> before stripping away the tough outer green skin and splitting the tender inner stalks into thin ribbons. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">These fibres are boiled briefly in large vats to remove natural chlorophyll and then laid outside to dry in the <span class=\"kw\">sun</span></span>, bleaching them to a creamy ivory tone.</p><p><strong>Paragraph 3.</strong> Weaving a fine hat—especially in the renowned town of Montecristi—demands extraordinary patience and environmental precision. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Because dry afternoon winds cause the delicate straw to crack, artisans work mainly at dawn or dusk, when coastal <span class=\"kw\">humidity</span> keeps the fibres supple.</span> A basic commercial hat may be finished in a couple of days, whereas a museum-grade 'superfino' weave, containing hundreds of tightly knotted threads per square inch, can occupy a single weaver for up to six months. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Once the crown and brim are complete, a separate finisher trims stray ends, irons the crown over a wooden mould, and shapes the rim.</span></p><p><strong>Paragraph 4.</strong> The hat’s global fame surged again in 1906 during an international engineering milestone. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">When US President Theodore Roosevelt visited Central America to inspect the construction of the Panama <span class=\"kw\">canal</span></span>, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">newspaper <span class=\"kw\">photographs</span> published around the world captured him wearing a crisp white woven hat.</span> Overnight, demand among fashionable buyers in New York, Paris, and London soared, cementing the misleading name in popular culture forever.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Beyond its elegant appearance, a traditional <em>toquilla</em> hat offers practical advantages in warm climates.</span> The microscopic hollow structure of the natural plant fibres allows trapped body heat to escape easily while blocking harsh ultraviolet rays. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Inside the crown, most hats are fitted with a dark cloth band designed to absorb <span class=\"kw\">sweat</span></span> and prevent salt stains from discolouring the pale straw.</p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">In 2012, UNESCO added traditional Ecuadorian <em>toquilla</em> straw hat weaving to its Intangible Cultural Heritage list, recognizing the craft's deep community roots.</span> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Nevertheless, the trade faces acute economic pressure from mass-produced imitations woven rapidly by industrial <span class=\"kw\">machinery</span> out of paper or synthetic plastic.</span> <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Because younger generations in coastal villages often find factory or city jobs more profitable than spending months hunched over a single hat, master weavers are steadily declining in number.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "Traditional Toquilla Straw Hats",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Harvesting and Preparation</b></p><ul><li style=\"margin-bottom:10px;\">Workers cut young <b>1.</b> {{q1}} from a native Ecuadorian plant before removing the outer layer.</li><li style=\"margin-bottom:10px;\">After boiling, the pale inner fibres are bleached naturally under the <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:10px;\">Weavers work in the early morning or evening so natural <b>3.</b> {{q3}} prevents the straw snapping.</li></ul><p><b>Global Fame and Features</b></p><ul><li style=\"margin-bottom:10px;\">Sales climbed in 1906 when Theodore Roosevelt toured the building site of a major <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">Widely circulated press <b>5.</b> {{q5}} showed the president wearing the hat.</li><li style=\"margin-bottom:10px;\">A fabric strip inside the crown helps soak up <b>6.</b> {{q6}} in hot weather.</li></ul><p><b>Modern Challenges</b></p><ul><li style=\"margin-bottom:10px;\">Handicraft workers struggle to compete with cheap hats produced using <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "shoots",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Harvesters cut unopened young shoots...\"</i>",
+          "<b>Từ cần điền:</b> <b>shoots</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "sun",
+      "inputWidth": "90px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...laid outside to dry in the sun, bleaching them to a creamy ivory tone.\"</i>",
+          "<b>Từ cần điền:</b> <b>sun</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "humidity",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...when coastal humidity keeps the fibres supple.\"</i>",
+          "<b>Từ cần điền:</b> <b>humidity</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "canal",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...inspect the construction of the Panama canal...\"</i>",
+          "<b>Từ cần điền:</b> <b>canal</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "photographs",
+      "inputWidth": "130px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...newspaper photographs published around the world captured him wearing a crisp white woven hat.\"</i>",
+          "<b>Từ cần điền:</b> <b>photographs</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "sweat",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...a dark cloth band designed to absorb sweat...\"</i>",
+          "<b>Từ cần điền:</b> <b>sweat</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "machinery",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...mass-produced imitations woven rapidly by industrial machinery...\"</i>",
+          "<b>Từ cần điền:</b> <b>machinery</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The traditional weaving technique used for Panama hats originated in Panama before spreading to Ecuador.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Loại mũ này chưa từng được sản xuất ở Panama; nghệ nhân ở Ecuador mới là nơi chế tác qua nhiều thế kỷ, tên gọi chỉ do khách đi qua cảng Panama mua về.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "The plant used to make authentic Panama hats is not botanically classified as a palm tree.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cây <em>toquilla</em> trông giống họ cọ (<i>palm-like plant</i>) nhưng không phải cây cọ thực thụ (<i>rather than being a true palm</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Finishers in Montecristi earn higher wages than the weavers who create the straw crown.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Có nhắc việc hoàn thiện do một người khác (<i>separate finisher</i>) thực hiện, nhưng không có thông tin so sánh tiền công giữa thợ hoàn thiện và thợ đan.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Natural toquilla fibres help keep wearers cool while shielding them from sunlight.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Cấu trúc rỗng của sợi giúp thoát nhiệt cơ thể (giữ mát) đồng thời chắn tia cực tím gay gắt.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "UNESCO provides direct financial grants to Ecuadorian villages to preserve hat weaving.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> UNESCO công nhận nghề đan mũ là Di sản Văn hóa Phi vật thể năm 2012, nhưng không đề cập UNESCO có cấp tiền tài trợ trực tiếp cho các làng hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Young people in Ecuadorian villages continue to enter traditional hat weaving in large numbers.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Thế hệ trẻ thấy việc nhà máy/thành phố có lợi hơn nên số lượng nghệ nhân bậc thầy đang suy giảm dần (<i>steadily declining in number</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

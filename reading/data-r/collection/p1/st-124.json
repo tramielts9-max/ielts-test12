@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 124 - Passage 1: The Rise and Fall of the Airship",
+  "answers": {
+    "q1": "propeller",
+    "q2": "framework",
+    "q3": "bullets",
+    "q4": "seasickness",
+    "q5": "controls",
+    "q6": "fire",
+    "q7": "roads",
+    "q8": "FALSE",
+    "q9": "TRUE",
+    "q10": "NOT GIVEN",
+    "q11": "FALSE",
+    "q12": "NOT GIVEN",
+    "q13": "TRUE"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 124</h2><h3>The Rise and Fall of the Airship</h3><p><strong>Paragraph 1.</strong> For more than a century after the Montgolfier brothers sent their first hot-air balloon aloft in 1783, balloonists were prisoners of the wind, unable to steer against air currents. The breakthrough arrived in 1852 when French engineer Henri Giffard built an elongated, cigar-shaped gas bag powered by a lightweight steam engine turning a three-bladed <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">propeller</span></span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Although Giffard successfully guided his craft in calm breezes, his heavy engine could not overcome stronger headwinds</span>, leaving true powered flight still out of reach.</p><p><strong>Paragraph 2.</strong> At the end of the nineteenth century, retired German general Count Ferdinand von Zeppelin introduced a far bolder design. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Instead of relying on internal gas pressure alone to keep a soft balloon inflated, Zeppelin built a rigid <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">framework</span></span> of lightweight aluminium girders housing rows of separate hydrogen cells inside a smooth cloth hull.</span> During the First World War, German Zeppelins flew high above London on night bombing raids. Initially, British fighter planes struggled to bring the giants down because standard rounds merely punctured small holes in the gas cells; only after defenders loaded planes with incendiary <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">bullets</span></span> did the flammable hydrogen become a fatal weakness.</p><p><strong>Paragraph 3.</strong> Following the war, airships entered a brief golden age of luxury travel. In 1929, the <em>Graf Zeppelin</em> completed a celebrated circumnavigation of the globe in twenty-one days, and regular passenger crossings between Germany and South America soon followed. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Passengers dined in wood-panelled lounges and slept in quiet cabins reminiscent of grand ocean liners, enjoying smooth flight free from the <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">seasickness</span></span> that plagued transatlantic ships.</span></p><p><strong>Paragraph 4.</strong> Yet a critical safety dispute hung over the industry. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">German designers recognized that non-flammable helium was far safer than volatile hydrogen, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">but strict American export <span class=\"kw\">controls</span> prevented them from purchasing helium reserves</span></span>, forcing them to continue using hydrogen on their flagship liner, the <em>Hindenburg</em>. Tragedy struck on 6 May 1937: <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">while docking at Lakehurst, New Jersey, the <em>Hindenburg</em> caught <span class=\"kw\">fire</span> and burned to the ground in thirty-four seconds, killing thirty-six of the ninety-seven people on board.</span></span> Captured on live radio and newsreel film, the disaster shattered public faith in passenger airships almost overnight.</p><p><strong>Paragraph 5.</strong> Conventional aeroplanes quickly captured commercial aviation, leaving only small blimps for advertising and aerial camera work. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Recently, however, aerospace engineers have begun testing modern helium hybrid airships designed to transport heavy mining and medical cargo to isolated regions where <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">roads</span></span> and airport runways do not exist.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The Evolution of Airships",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Early Engineering and Wartime Use</b></p><ul><li style=\"margin-bottom: 10px;\">In 1852, Henri Giffard steered a gas craft using a steam-driven <b>1.</b> {{q1}} .</li><li style=\"margin-bottom: 10px;\">Zeppelin's ships kept their shape through an internal metal <b>2.</b> {{q2}} .</li><li style=\"margin-bottom: 10px;\">During wartime raids, defenders eventually destroyed airships with fire-starting <b>3.</b> {{q3}} .</li></ul><p><b>Commercial Age and Collapse</b></p><ul><li style=\"margin-bottom: 10px;\">Travellers appreciated comfortable airship journeys that avoided the <b>4.</b> {{q4}} common on ships.</li><li style=\"margin-bottom: 10px;\">Strict US <b>5.</b> {{q5}} blocked German engineers from obtaining safe helium gas.</li><li style=\"margin-bottom: 10px;\">Public confidence ended abruptly after a fatal <b>6.</b> {{q6}} in New Jersey in 1937.</li></ul><p><b>Modern Applications</b></p><ul><li style=\"margin-bottom: 10px;\">New hybrid models may deliver large loads to remote zones without <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 124?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "propeller",
+      "inputWidth": "120px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"powered by a lightweight steam engine turning a three-bladed propeller\"</i>.",
+          "<b>Đáp án:</b> <b>propeller</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "framework",
+      "inputWidth": "120px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"built a rigid framework of lightweight aluminium girders\"</i>.",
+          "<b>Đáp án:</b> <b>framework</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "bullets",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"loaded planes with incendiary bullets\"</i> (fire-starting = incendiary).",
+          "<b>Đáp án:</b> <b>bullets</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "seasickness",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"free from the seasickness that plagued transatlantic ships\"</i>.",
+          "<b>Đáp án:</b> <b>seasickness</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "controls",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"strict American export controls prevented them from purchasing helium reserves\"</i>.",
+          "<b>Đáp án:</b> <b>controls</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "fire",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"the Hindenburg caught fire and burned to the ground\"</i>.",
+          "<b>Đáp án:</b> <b>fire</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "roads",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"isolated regions where roads and airport runways do not exist\"</i>.",
+          "<b>Đáp án:</b> <b>roads</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Henri Giffard's 1852 airship could fly reliably against strong headwinds.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Động cơ hơi nước nặng của Giffard chỉ điều hướng được trong gió nhẹ, không thắng được gió ngược mạnh (<i>could not overcome stronger headwinds</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Zeppelin airships divided their lifting gas across several internal compartments rather than one large chamber.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Khí hydro được chứa trong nhiều khoang tách biệt (<i>rows of separate hydrogen cells</i>) bên trong bộ khung nhôm.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Ticket prices aboard the Graf Zeppelin were higher than first-class fares on ocean liners.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài có so sánh sự tiện nghi của khoang khí cầu với tàu biển hạng sang, nhưng không hề so sánh giá vé giữa hai loại phương tiện.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "German engineers chose hydrogen for the Hindenburg because they believed it provided safer lift than helium.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Kỹ sư Đức biết rõ heli an toàn hơn nhiều (<i>far safer</i>), họ buộc phải dùng hydro chỉ vì Mỹ kiểm soát xuất khẩu không bán heli.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "The Hindenburg accident caused more passenger fatalities than any previous aviation disaster.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài nêu rõ số người thiệt mạng (36 trên 97 người), nhưng không so sánh với các tai nạn hàng không trước đó.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Modern engineers see potential for airships in delivering bulky equipment to isolated locations.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Các kỹ sư đang thử nghiệm khí cầu lai để chở hàng nặng khai khoáng và y tế tới vùng hẻo lánh không có đường xá.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

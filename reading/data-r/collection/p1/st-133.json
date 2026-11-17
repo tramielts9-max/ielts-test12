@@ -1,0 +1,213 @@
+{
+  "title": "Bài sưu tầm 133 - Passage 1: Mary Anning: The Fossil Hunter of Lyme Regis",
+  "answers": {
+    "q1": "visitors",
+    "q2": "debts",
+    "q3": "dog",
+    "q4": "diagrams",
+    "q5": "forgery",
+    "q6": "journals",
+    "q7": "pension",
+    "q8": "TRUE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN",
+    "q11": "FALSE",
+    "q12": "TRUE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 133</h2><h3>Mary Anning: The Fossil Hunter of Lyme Regis</h3><p><strong>Paragraph 1.</strong> Born in 1799 in the coastal town of Lyme Regis in southern England, Mary Anning grew up in difficult circumstances. Her father, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Richard, was a struggling cabinetmaker who supplemented his modest earnings by gathering strangely shaped stones along unstable sea cliffs</span> and <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">selling them from a street table to wealthy summer <span class=\"kw\">visitors</span></span>.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">When Richard died in 1810, leaving behind unpaid <span class=\"kw\">debts</span> and no savings</span>, his children kept searching the rocky beach for income. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">In 1811, Mary's older brother Joseph spotted a four-foot skull protruding from the shale, and Mary then spent months carefully chiselling out the rest of the skeleton</span>—later named <em>Ichthyosaurus</em>, or 'fish-lizard', by scholars in London.</p><p><strong>Paragraph 3.</strong> Searching the crumbling cliffs after winter storms was hazardous work. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">In 1833, Anning narrowly escaped death when a sudden rockfall killed her loyal terrier <span class=\"kw\">dog</span>, Tray</span>, just metres from where she stood. Yet despite working in freezing rain without formal schooling, she became an extraordinary observer. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">To understand extinct creatures, she dissected modern ocean animals such as squid and fish</span>, and <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">prepared remarkably precise anatomical <span class=\"kw\">diagrams</span> of her discoveries</span>.</p><p><strong>Paragraph 4.</strong> In 1823, Anning uncovered Britain's first complete <em>Plesiosaurus</em>, a marine reptile with an astonishingly long neck. Its proportions seemed so improbable that <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">the renowned French anatomist Georges Cuvier initially declared the specimen a clever <span class=\"kw\">forgery</span></span> assembled from separate animals. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">After inspecting Anning’s detailed notes and sketches, however, Cuvier publicly withdrew his accusation and acknowledged the fossil as genuine.</span></p><p><strong>Paragraph 5.</strong> Five years later, she found Britain's first winged reptile, a pterosaur, and realised that stony lumps known as 'bezoar stones' were actually fossilised faeces that revealed ancient diets. Nevertheless, recognition rarely followed. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">As a working-class woman, Anning was barred from joining the all-male Geological Society of London.</span> <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Wealthy scholars bought her specimens and published descriptions in prestigious <span class=\"kw\">journals</span> while seldom mentioning the woman who had excavated and prepared them.</span></p><p><strong>Paragraph 6.</strong> By the final decade of her life, leading scientists from across Europe travelled to consult Anning at <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">her tiny Lyme Regis fossil shop</span>. In 1838, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">the British Association arranged a modest annual <span class=\"kw\">pension</span> to ease her financial strain</span>. Today, historians regard this self-taught collector as one of the true pioneers of modern paleontology.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The Career of Mary Anning",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Early life in Lyme Regis</b></p><ul><li style=\"margin-bottom:10px;\">Mary's father sold coastal stones to affluent seasonal <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:10px;\">After he passed away, the children hunted along the shore because the household faced unpaid <b>2.</b> {{q2}} .</li></ul><p><b>Methods and major finds</b></p><ul><li style=\"margin-bottom:10px;\">In 1833, a collapsing cliff took the life of Anning's pet <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:10px;\">To interpret ancient creatures, Anning examined modern sea life and drew accurate <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">A leading French scientist first assumed the long-necked reptile was a <b>5.</b> {{q5}} .</li></ul><p><b>Barriers and recognition</b></p><ul><li style=\"margin-bottom:10px;\">Wealthy academics wrote about Anning's fossils in respected <b>6.</b> {{q6}} without crediting her.</li><li style=\"margin-bottom:10px;\">Late in life, Anning received a yearly <b>7.</b> {{q7}} arranged by a national scientific organisation.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "visitors",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"selling them... to wealthy summer visitors\"</i> (affluent seasonal = wealthy summer).",
+          "<b>Từ cần điền:</b> <b>visitors</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "debts",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"leaving behind unpaid debts and no savings\"</i>.",
+          "<b>Từ gây nhiễu:</b> savings, income.",
+          "<b>Từ cần điền:</b> <b>debts</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "dog",
+      "inputWidth": "90px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"a sudden rockfall killed her loyal terrier dog\"</i>.",
+          "<b>Từ cần điền:</b> <b>dog</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "diagrams",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"prepared remarkably precise anatomical diagrams\"</i> (accurate = precise).",
+          "<b>Từ cần điền:</b> <b>diagrams</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "forgery",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"initially declared the specimen a clever forgery\"</i>.",
+          "<b>Từ cần điền:</b> <b>forgery</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "journals",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"published descriptions in prestigious journals\"</i> (respected = prestigious).",
+          "<b>Từ cần điền:</b> <b>journals</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "pension",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"arranged a modest annual pension\"</i> (yearly = annual).",
+          "<b>Từ cần điền:</b> <b>pension</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Collecting fossils was not Richard Anning's primary occupation.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Nghề chính của ông là thợ đóng tủ (<i>cabinetmaker</i>); việc nhặt hóa thạch chỉ để kiếm thêm thu nhập (<i>supplemented his modest earnings</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Mary Anning discovered the entire first Ichthyosaurus skeleton entirely on her own.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Anh trai Joseph là người đầu tiên phát hiện phần hộp sọ dài 4 foot, sau đó Mary mới đục tách phần thân còn lại.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Anning learned how to dissect sea creatures from medical books lent by London scholars.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 & 3:</b> Bài nhắc học giả London và việc Mary tự giải phẫu sinh vật biển hiện đại, nhưng không hề nói cô học kỹ thuật này từ sách y học mượn của họ hay tự mày mò.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Georges Cuvier refused to alter his view of the Plesiosaurus even after inspecting Anning's drawings.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Sau khi xem bản vẽ và ghi chú của Mary, Cuvier đã công khai rút lại cáo buộc giả mạo và công nhận hóa thạch là thật.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "The Geological Society of London excluded female members throughout Anning's lifetime.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"barred from joining the all-male Geological Society of London\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Anning's Lyme Regis shop attracts more modern visitors than the museum displays of her fossils.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Bài nhắc cửa hàng nhỏ ở Lyme Regis khi xưa các học giả đến thăm, không hề so sánh lượng khách tham quan ngày nay.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

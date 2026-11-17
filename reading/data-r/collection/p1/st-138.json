@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 138 - Passage 1: Mary Anning: Pioneer of Fossil Hunting on the Jurassic Coast",
+  "answers": {
+    "q1": "storms",
+    "q2": "tourists",
+    "q3": "brother",
+    "q4": "crocodile",
+    "q5": "drawing",
+    "q6": "credits",
+    "q7": "pension",
+    "q8": "TRUE",
+    "q9": "NOT GIVEN",
+    "q10": "FALSE",
+    "q11": "TRUE",
+    "q12": "FALSE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 138</h2><h3>Mary Anning: Pioneer of Fossil Hunting on the Jurassic Coast</h3><p><strong>Paragraph 1.</strong> Born in 1799 in the coastal town of Lyme Regis in southern England, Mary Anning grew up in an impoverished household where survival depended on ingenuity. Her father, Richard, was a cabinetmaker who supplemented his modest income by gathering fossilized shells along the crumbling limestone cliffs. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Winter <span class=\"kw\">storms</span> regularly triggered landslides along the coast</span>, exposing ancient marine creatures buried for millions of years. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Richard cleaned these 'curiosities' and sold them from a roadside table to passing <span class=\"kw\">tourists</span> visiting the seaside resort.</span></p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">When Mary was only eleven, her father died, leaving the family heavily in debt; from then on, fossil collecting became their sole means of support.</span> Fortunately, Richard had taught Mary how to spot subtle outlines in dark shale and extract delicate bones with small hammers and chisels. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">In 1811, Mary’s older <span class=\"kw\">brother</span> Joseph spotted a massive skull protruding from a cliff face</span>, and over the following months Mary patiently chiselled out the complete five-metre skeleton beneath it.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">At first, local scholars assumed the creature was a fossilized <span class=\"kw\">crocodile</span></span>, since the scientific concept of extinction was still fiercely debated in Britain. Only later did anatomists recognize it as an <em>Ichthyosaurus</em>—a marine reptile unlike any living animal. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">A wealthy local landowner bought the skeleton for twenty-three pounds and arranged for it to be displayed in London.</span> Anning continued scouring the slippery cliffs in all seasons, once narrowly escaping death when a falling rock killed her dog, Tray, beside her.</p><p><strong>Paragraph 4.</strong> In 1823, Anning made an equally astonishing discovery: the first complete skeleton of a long-necked <em>Plesiosaurus</em>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\"><span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">When news reached Paris, the famous French anatomist Georges Cuvier initially suspected the find was a clever forgery until he examined a detailed <span class=\"kw\">drawing</span> sent by Anning herself.</span></span> Convinced by the accurate anatomy of the sketch, Cuvier publicly apologized and acknowledged the specimen as genuine. Five years later, Anning unearthed Britain’s first <em>Pterodactylus</em>—a flying reptile—and accurately identified fossilized coprolites as prehistoric animal droppings, revealing the ancient diet of marine predators.</p><p><strong>Paragraph 5.</strong> Despite her unmatched field expertise, Anning remained an outsider in the formal world of science. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">As a working-class woman, she was barred from joining the Geological Society of London, which did not admit female members until 1904.</span> <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Prominent male geologists frequently purchased her finest fossils and published groundbreaking academic papers on them without giving her written <span class=\"kw\">credits</span></span> for her discoveries or anatomical insights. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Yet her reputation among serious researchers was undeniable: when King Frederick Augustus II of Saxony visited Lyme Regis in 1844, he stopped specifically at her modest shop to purchase a specimen.</span></p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">In her final years, after Anning fell ill with breast cancer, members of the Geological Society raised funds and persuaded the British government to grant her a modest annual <span class=\"kw\">pension</span>.</span> She died in 1847 at the age of forty-seven, largely overlooked by history books for over a century. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">In 2010, however, the Royal Society formally named her among the ten British women who have most profoundly shaped the history of science.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "Mary Anning's Life and Discoveries",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Early Life in Lyme Regis</b></p><ul><li style=\"margin-bottom:10px;\">New fossils were exposed along the cliffs whenever heavy <b>1.</b> {{q1}} caused earth to collapse.</li><li style=\"margin-bottom:10px;\">Richard Anning earned extra money selling fossils to coastal <b>2.</b> {{q2}} .</li></ul><p><b>Major Fossil Finds</b></p><ul><li style=\"margin-bottom:10px;\">In 1811, the skull of an <em>Ichthyosaurus</em> was first noticed by Mary's <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:10px;\">Early observers mistook the large marine skeleton for a prehistoric <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">French expert Georges Cuvier verified the <em>Plesiosaurus</em> after inspecting Anning's <b>5.</b> {{q5}} .</li></ul><p><b>Scientific Recognition</b></p><ul><li style=\"margin-bottom:10px;\">Academic writers often studied her specimens but omitted her name from published <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:10px;\">Late in life, supporters secured a regular government <b>7.</b> {{q7}} to help pay for her care.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "storms",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Winter storms regularly triggered landslides along the coast...\"</i>",
+          "<b>Từ cần điền:</b> <b>storms</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "tourists",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...sold them from a roadside table to passing tourists...\"</i>",
+          "<b>Từ cần điền:</b> <b>tourists</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "brother",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...Mary’s older brother Joseph spotted a massive skull...\"</i>",
+          "<b>Từ cần điền:</b> <b>brother</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "crocodile",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...local scholars assumed the creature was a fossilized crocodile...\"</i>",
+          "<b>Từ cần điền:</b> <b>crocodile</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "drawing",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...until he examined a detailed drawing sent by Anning herself.\"</i>",
+          "<b>Từ cần điền:</b> <b>drawing</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "credits",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...published groundbreaking academic papers on them without giving her written credits...\"</i>",
+          "<b>Từ cần điền:</b> <b>credits</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "pension",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...persuaded the British government to grant her a modest annual pension.\"</i>",
+          "<b>Từ cần điền:</b> <b>pension</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Following the death of her father, Mary's family relied entirely on selling fossils to survive.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Khi cha mất để lại món nợ, săn hóa thạch trở thành nguồn sống duy nhất của gia đình (<i>sole means of support</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "The landowner who bought the Ichthyosaurus later donated it permanently to a public museum in London.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài chỉ nói địa chủ giàu mua bộ xương giá 23 bảng và đưa đi trưng bày ở London (<i>arranged for it to be displayed in London</i>), không nói ông có tặng vĩnh viễn cho bảo tàng công cộng hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Georges Cuvier travelled from Paris to England to verify the authenticity of the Plesiosaurus bones.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Cuvier kiểm chứng qua bản vẽ chi tiết do chính Anning gửi sang chứ không đi từ Paris sang Anh kiểm tra xương thật (<i>examined a detailed drawing sent by Anning herself</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Women were not permitted to become official members of the Geological Society of London during Anning's lifetime.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Hội Địa chất London không nhận thành viên nữ mãi đến năm 1904, trong khi Anning mất năm 1847.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Despite her skill, Anning's fossil shop never attracted customers from outside Britain.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Vua Frederick Augustus II của Saxony (ngoài nước Anh) đã ghé trực tiếp cửa hàng của bà năm 1844 để mua mẫu vật.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "The Royal Society has now funded a permanent memorial statue of Anning in Lyme Regis.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Hội Hoàng gia vinh danh bà vào top 10 nữ khoa học gia tiêu biểu năm 2010, nhưng hoàn toàn không đề cập việc tài trợ tượng đài ở Lyme Regis.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

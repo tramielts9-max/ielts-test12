@@ -1,0 +1,213 @@
+{
+  "title": "Bài sưu tầm 129 - Passage 1: Coober Pedy: The Underground Opal Town of the Outback",
+  "answers": {
+    "q1": "heat",
+    "q2": "soldiers",
+    "q3": "shafts",
+    "q4": "machinery",
+    "q5": "church",
+    "q6": "pipeline",
+    "q7": "holes",
+    "q8": "FALSE",
+    "q9": "TRUE",
+    "q10": "NOT GIVEN",
+    "q11": "FALSE",
+    "q12": "TRUE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 129</h2><h3>Coober Pedy: The Underground Opal Town of the Outback</h3><p><strong>Paragraph 1.</strong> Nearly 850 kilometres north of Adelaide, across the treeless plains of South Australia, sits one of the world's most unusual settlements: Coober Pedy. From a distance, the landscape appears almost uninhabited, dotted only with pale mounds of excavated earth and scattered mining rigs. Yet beneath the red soil lies a thriving community of around 2,500 residents. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The town's modern story began in 1915, when fourteen-year-old Willie Hutchison stumbled upon glittering opal seams while searching for water alongside a gold-prospecting party.</span></p><p><strong>Paragraph 2.</strong> Word of rich gem deposits drew hundreds of fortune-seekers into the harsh outback, where summer shade temperatures routinely exceed 45°C. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Exhausted by dust storms and punishing daytime <span class=\"kw\">heat</span>, early miners began carving living quarters straight into the pale sandstone hillsides.</span> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">The practice was spearheaded by returning <span class=\"kw\">soldiers</span> after the First World War, who drew directly on their experience digging protective trenches in Europe.</span></p><p><strong>Paragraph 3.</strong> Over time, these basic hillside caves evolved into comfortable subterranean homes known locally as 'dugouts'. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Narrow vertical <span class=\"kw\">shafts</span> bored through the rock ceiling draw fresh air downward while allowing stale indoor air to escape, maintaining a remarkably stable temperature of roughly 23°C across all seasons without electric cooling.</span></span> Locals even joke that the stone walls provide effortless soundproofing and shelter from desert flies.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">While early settlers hacked away at soft sandstone using hand picks and small explosive charges, modern residents hire specialized tunnelling <span class=\"kw\">machinery</span> capable of cutting a spacious three-bedroom dwelling in less than two weeks.</span></span> Building upward into the rock also brings unexpected bonuses: anyone wanting an extra bedroom simply excavates further into the wall, and occasionally discovers a valuable pocket of opal while remodelling. Today, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">the underground town includes hotels, bookshops, an art gallery, and even a Serbian Orthodox <span class=\"kw\">church</span> complete with carved stone pillars.</span></p><p><strong>Paragraph 5.</strong> Securing reliable water proved far harder than carving shelter. For decades, residents relied on rainwater tanks and expensive deliveries trucked across hundreds of kilometres of desert. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Today, supplies arrive via a twenty-four-kilometre buried <span class=\"kw\">pipeline</span> tapping brackish groundwater from an ancient underground aquifer, which must pass through a desalination plant before becoming safe to drink.</span></span></p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Although opal mining still anchors local culture, tourism now serves as an equally vital economic pillar.</span> <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Its stark, crater-dotted horizon has doubled as an alien planet in several science-fiction films.</span> Yet visitors are urged to follow warning signs carefully: <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">thousands of unmarked vertical mine <span class=\"kw\">holes</span> remain scattered across the surrounding plains, making off-track wandering genuinely hazardous.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "Life Underground in Coober Pedy",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Origins and Design</b></p><ul><li style=\"margin-bottom:10px;\">First residents dug homes into rock slopes mainly to shelter from extreme daytime <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:10px;\">The earliest subterranean dwellings were inspired by wartime trenches built by former <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:10px;\">Homes stay naturally cool throughout the year thanks to narrow vertical <b>3.</b> {{q3}} that circulate air.</li></ul><p><b>Modern Town and Infrastructure</b></p><ul><li style=\"margin-bottom:10px;\">Nowadays, building a multi-room underground house takes under a fortnight using specialized <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">Today, the town's underground network includes businesses, accommodation, and a local <b>5.</b> {{q5}} carved out of stone.</li><li style=\"margin-bottom:10px;\">Drinking water is now supplied from a distant aquifer via a buried <b>6.</b> {{q6}} and treated to remove salt.</li><li style=\"margin-bottom:10px;\">Tourists are advised to stay on official paths due to dangerous open <b>7.</b> {{q7}} left by past mining.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "heat",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Exhausted by dust storms and punishing daytime heat, early miners began carving living quarters...\"</i>",
+          "<b>Từ cần điền:</b> <b>heat</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "soldiers",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"The practice was spearheaded by returning soldiers after the First World War...\"</i>",
+          "<b>Từ cần điền:</b> <b>soldiers</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "shafts",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Narrow vertical shafts bored through the rock ceiling draw fresh air downward...\"</i>",
+          "<b>Từ cần điền:</b> <b>shafts</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "machinery",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...hire specialized tunnelling machinery capable of cutting a spacious three-bedroom dwelling in less than two weeks.\"</i>",
+          "<b>Paraphrase:</b> <i>under a fortnight</i> = less than two weeks.",
+          "<b>Từ cần điền:</b> <b>machinery</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "church",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...and even a Serbian Orthodox church complete with carved stone pillars.\"</i>",
+          "<b>Từ cần điền:</b> <b>church</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "pipeline",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...via a twenty-four-kilometre buried pipeline tapping brackish groundwater...\"</i>",
+          "<b>Từ cần điền:</b> <b>pipeline</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "holes",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...thousands of unmarked vertical mine holes remain scattered across the surrounding plains...\"</i>",
+          "<b>Từ cần điền:</b> <b>holes</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "A teenage boy discovered opals at Coober Pedy while searching for gold with his father.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Cậu bé 14 tuổi Willie Hutchison tình cờ thấy đá opal khi đang đi tìm nước (<i>searching for water</i>) cùng một đoàn tìm vàng, không phải tự cậu đi tìm vàng với bố.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Indoor temperatures inside underground homes remain remarkably stable across all seasons without electric cooling.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"maintaining a remarkably stable temperature of roughly 23°C across all seasons without electric cooling.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Underground homes in Coober Pedy cost significantly more to construct today than standard surface houses.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Có nhắc việc thuê máy đào làm nhà ngầm trong chưa đầy 2 tuần, nhưng không hề so sánh chi phí xây dựng nhà ngầm đắt hay rẻ hơn nhà trên mặt đất.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "The groundwater pumped into Coober Pedy can be drunk safely straight from the aquifer.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Nước ngầm bị lợ (<i>brackish</i>), bắt buộc phải qua nhà máy khử muối (<i>desalination plant</i>) mới uống an toàn được.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Film crews have used the town's unusual landscape to represent other planets.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"Its stark, crater-dotted horizon has doubled as an alien planet in several science-fiction films.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Mining opals now brings more annual income to Coober Pedy than tourism.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Nêu cả khai thác opal và du lịch đều là trụ cột kinh tế quan trọng, nhưng không so sánh ngành nào mang lại thu nhập hàng năm cao hơn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "title": "Bài sưu tầm 132 - Passage 1: Coober Pedy: Life Beneath the Australian Outback",
+  "answers": {
+    "q1": "water",
+    "q2": "sandstone",
+    "q3": "vents",
+    "q4": "turf",
+    "q5": "suction",
+    "q6": "shafts",
+    "q7": "silence",
+    "q8": "FALSE",
+    "q9": "NOT GIVEN",
+    "q10": "FALSE",
+    "q11": "TRUE",
+    "q12": "TRUE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 132</h2><h3>Coober Pedy: Life Beneath the Australian Outback</h3><p><strong>Paragraph 1.</strong> Across the treeless red plains of South Australia, summer temperatures routinely soar past forty-five degrees Celsius, making outdoor shelter nearly unbearable. Yet beneath this harsh desert sits Coober Pedy, the world's opal capital. The settlement began by chance in 1915, when <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">fourteen-year-old Willie Hutchison wandered from his father's gold-prospecting camp <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">while searching for drinking <span class=\"kw\">water</span></span> and stumbled upon glittering seams of opal instead</span>.</p><p><strong>Paragraph 2.</strong> Word spread quickly, and by 1919 returning soldiers from the First World War flocked to the isolated field. Timber and corrugated iron were expensive to haul across the outback and offered poor protection against blistering days and freezing winter nights. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Taking inspiration from abandoned burrows, the ex-soldiers <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">cut living quarters directly into the pale, soft <span class=\"kw\">sandstone</span> ridges</span>, a practice that inspired the town's local name from an Indigenous phrase meaning 'white man in a hole'.</span></p><p><strong>Paragraph 3.</strong> Known as 'dugouts', these underground homes offer surprising comfort. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Because thick rock walls block extreme external heat, interior rooms stay at a steady twenty-three degrees Celsius all year, sparing residents the heavy electricity bills of mechanical cooling.</span> However, carving into rock requires careful airflow design: <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">builders bore narrow upright <span class=\"kw\">vents</span> straight up to the surface so fresh air circulates continuously</span> and excess humidity escapes.</p><p><strong>Paragraph 4.</strong> Over decades, residents expanded underground life far beyond basic bedrooms, excavating churches, bookshops, and even hotels into the hillsides. Above ground, the dry landscape prevents natural lawns from growing, yet locals still maintain a famous golf course. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">To escape daytime glare, players tee off after sunset using glowing balls</span> and <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">carry a small square of artificial <span class=\"kw\">turf</span> to place beneath each shot across the stony ground</span>.</p><p><strong>Paragraph 5.</strong> Mining itself has evolved dramatically since the era of handheld picks and candles. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Contemporary crews operate truck-mounted <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">suction</span> machines, nicknamed blowers, to draw loose rubble and dust up from deep workings</span>.</span> At the same time, a century of digging has left a treacherous legacy: <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">the surrounding desert is dotted with thousands of unmarked, abandoned mining <span class=\"kw\">shafts</span></span>, posing a serious hazard to careless visitors who wander off marked tracks.</p><p><strong>Paragraph 6.</strong> As shallow opal seams become harder to find and fuel expenses climb, <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">the town increasingly relies on heritage tourism and science-fiction film shoots attracted to its lunar scenery</span>. Even residents who can afford modern surface houses often prefer staying below ground, insisting nothing matches <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">the total <span class=\"kw\">silence</span> and restful sleep</span> found behind solid rock walls.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "Coober Pedy: Australia's Underground Town",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Origins and underground homes</b></p><ul><li style=\"margin-bottom:10px;\">The first opal seam was uncovered accidentally during a search for <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:10px;\">With building timber scarce, early miners carved shelters inside slopes of soft <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:10px;\">To avoid stale air indoors, builders drill narrow vertical <b>3.</b> {{q3}} leading up to ground level.</li></ul><p><b>Leisure and mining hazards</b></p><ul><li style=\"margin-bottom:10px;\">Golfers play across rocky ground using a portable patch of synthetic <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">Modern diggers clear waste soil from tunnels using powerful <b>5.</b> {{q5}} equipment.</li><li style=\"margin-bottom:10px;\">Tourists walking outside town face dangers from unguarded old <b>6.</b> {{q6}} .</li></ul><p><b>Modern outlook</b></p><ul><li style=\"margin-bottom:10px;\">Many locals remain underground because they appreciate the uninterrupted <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "water",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"while looking/searching for drinking water\"</i>.",
+          "<b>Từ gây nhiễu:</b> gold.",
+          "<b>Từ cần điền:</b> <b>water</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "sandstone",
+      "inputWidth": "120px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"cut living quarters directly into the pale, soft sandstone ridges\"</i> (slopes = ridges).",
+          "<b>Từ cần điền:</b> <b>sandstone</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "vents",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"builders bore narrow upright vents straight up to the surface\"</i> (vertical = upright).",
+          "<b>Từ gây nhiễu:</b> air, humidity.",
+          "<b>Từ cần điền:</b> <b>vents</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "turf",
+      "inputWidth": "90px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"carry a small square of artificial turf\"</i> (synthetic = artificial; portable patch = small square).",
+          "<b>Từ gây nhiễu:</b> balls, stony ground.",
+          "<b>Từ cần điền:</b> <b>turf</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "suction",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"operate truck-mounted suction machines... to draw loose rubble and dust up\"</i>.",
+          "<b>Từ gây nhiễu:</b> blowers.",
+          "<b>Từ cần điền:</b> <b>suction</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "shafts",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"thousands of unmarked, abandoned mining shafts\"</i> (unguarded old = unmarked, abandoned).",
+          "<b>Từ gây nhiễu:</b> tracks.",
+          "<b>Từ cần điền:</b> <b>shafts</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "silence",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"nothing matches the total silence and restful sleep\"</i>.",
+          "<b>Từ cần điền:</b> <b>silence</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Willie Hutchison was searching for gold when he came across the first opals at Coober Pedy.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Bố cậu tìm vàng (<i>gold-prospecting camp</i>), còn bản thân Willie đi tìm nước uống (<i>searching for drinking water</i>) thì tình cờ thấy đá opal.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Indigenous Australians actively helped returning soldiers excavate the earliest underground homes.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bài nhắc tên thị trấn bắt nguồn từ cụm từ của người bản địa và nhắc cựu binh đào nhà ngầm, nhưng không nói người bản địa có trực tiếp giúp đào hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Residents in underground homes depend heavily on electric cooling during summer.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Tường đá dày giữ nhiệt độ ổn định 23°C quanh năm, giúp cư dân không tốn tiền điện chạy máy lạnh (<i>sparing residents the heavy electricity bills of mechanical cooling</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Games at Coober Pedy's golf course take place after dark.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"players tee off after sunset using glowing balls\"</i> (chơi sau khi mặt trời lặn với bóng phát sáng).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Modern opal mining relies on specialized machinery to lift waste soil out of underground workings.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Đội khai thác hiện đại dùng máy hút gắn trên xe tải để hút đất đá vụn từ hầm sâu lên.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Income from film productions now exceeds the money generated by opal sales in Coober Pedy.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Bài có nói thị trấn dựa vào du lịch và quay phim khoa học viễn tưởng khi trữ lượng opal giảm, nhưng hoàn toàn không so sánh doanh thu giữa quay phim và bán opal.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

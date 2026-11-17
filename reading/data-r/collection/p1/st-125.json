@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 125 - Passage 1: Coir: The Versatile Fibre of the Coconut Palm",
+  "answers": {
+    "q1": "husk",
+    "q2": "lagoons",
+    "q3": "mallets",
+    "q4": "yarn",
+    "q5": "salt",
+    "q6": "erosion",
+    "q7": "peat",
+    "q8": "TRUE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN",
+    "q11": "TRUE",
+    "q12": "NOT GIVEN",
+    "q13": "FALSE"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 125</h2><h3>Coir: The Versatile Fibre of the Coconut Palm</h3><p><strong>Paragraph 1.</strong> Along tropical coastlines from southern India to Sri Lanka, little of the coconut palm goes to waste. While its water, flesh, and shell dominate food markets, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">the thick, fibrous <span class=\"kw\">husk</span> lying between the smooth outer skin and the hard inner nut</span> yields a remarkably resilient natural material known as coir. Capable of stretching without snapping and unusually rich in woody lignin, coir has served coastal communities for centuries before entering modern global trade.</p><p><strong>Paragraph 2.</strong> Traditional fibre extraction, particularly across Kerala in southern India, is a patient craft shaped by local waterways. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Workers submerge thousands of outer shells in shallow, slow-moving brackish <span class=\"kw\">lagoons</span></span> for up to ten months, a soaking method known as retting. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">During this period, naturally occurring bacteria gradually break down the soft spongy tissues binding the tough strands together.</span> Once softened, the husks are rinsed and <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">beaten manually with wooden <span class=\"kw\">mallets</span> to separate clean golden fibres from the surrounding dust</span>. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Although industrial machines now process coarse fibres rapidly in factories, fine coastal coir still depends heavily on this skilled hand-beating and traditional spinning.</span></p><p><strong>Paragraph 3.</strong> The timing of harvest determines both the colour and strength of the finished product. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Brown coir is taken from fully ripe coconuts and produces stiff, heavy-duty fibres suited for scrubbing brushes, upholstery stuffing, and coarse floor mats. By contrast, white coir comes from unripe green nuts picked earlier in the season</span>; <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">softer and more flexible, these pale threads are spun into smooth <span class=\"kw\">yarn</span> for woven carpets and fishing nets</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Because <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">white coir resists decay from ocean <span class=\"kw\">salt</span></span> far better than hemp or cotton, Arab and European mariners purchased coir rigging from Indian coastal ports for centuries.</span></p><p><strong>Paragraph 4.</strong> In recent decades, environmental engineers have found fresh applications for coir on land. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Woven into thick mesh blankets and rolled logs, coarse coir is laid across steep riverbanks and highway embankments to halt soil <span class=\"kw\">erosion</span> during heavy monsoon rains.</span> <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Unlike plastic netting, these biodegradable mats gradually break down into harmless organic matter once grass and tree roots anchor the hillside firmly.</span></p><p><strong>Paragraph 5.</strong> Even the dusty waste left behind after fibre separation has gained unexpected commercial value. Once piled outside mills as unwanted rubbish, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">fine coconut dust is now washed, dried, and pressed into compact bricks of coco <span class=\"kw\">peat</span>. When watered, each brick expands into a spongy growing medium eagerly adopted by commercial plant nurseries seeking to protect fragile natural wetland bogs.</span></span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "Coir Production and Modern Uses",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Traditional Extraction</b></p><ul><li style=\"margin-bottom: 10px;\">Coir comes from the fibrous <b>1.</b> {{q1}} surrounding the hard inner coconut shell.</li><li style=\"margin-bottom: 10px;\">Shells are soaked for months in coastal <b>2.</b> {{q2}} to soften binding tissues.</li><li style=\"margin-bottom: 10px;\">Workers strike softened shells with wooden <b>3.</b> {{q3}} to free clean fibres.</li></ul><p><b>Types and Properties</b></p><ul><li style=\"margin-bottom: 10px;\">Flexible white coir is twisted into smooth <b>4.</b> {{q4}} for carpets and nets.</li><li style=\"margin-bottom: 10px;\">Sailors valued coir ropes because they withstand damage from <b>5.</b> {{q5}} in seawater.</li></ul><p><b>Modern Environmental Uses</b></p><ul><li style=\"margin-bottom: 10px;\">Woven coir blankets protect sloped earth against rain-driven <b>6.</b> {{q6}} .</li><li style=\"margin-bottom: 10px;\">Leftover dust is compressed into blocks of coco <b>7.</b> {{q7}} for plant nurseries.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 125?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "husk",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"the thick, fibrous husk lying between the smooth outer skin and the hard inner nut\"</i>.",
+          "<b>Đáp án:</b> <b>husk</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "lagoons",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"submerge thousands of outer shells in shallow, slow-moving brackish lagoons\"</i>.",
+          "<b>Đáp án:</b> <b>lagoons</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "mallets",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"beaten manually with wooden mallets to separate clean golden fibres\"</i>.",
+          "<b>Đáp án:</b> <b>mallets</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "yarn",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"these pale threads are spun into smooth yarn for woven carpets and fishing nets\"</i>.",
+          "<b>Đáp án:</b> <b>yarn</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "salt",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"white coir resists decay from ocean salt far better than hemp or cotton\"</i>.",
+          "<b>Đáp án:</b> <b>salt</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "erosion",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"laid across steep riverbanks and highway embankments to halt soil erosion\"</i>.",
+          "<b>Đáp án:</b> <b>erosion</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "peat",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"pressed into compact bricks of coco peat\"</i>.",
+          "<b>Đáp án:</b> <b>peat</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Traditional processing relies on natural microorganisms to loosen the fibres from surrounding tissue.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Trong lúc ngâm, vi khuẩn tự nhiên (<i>naturally occurring bacteria</i>) phân hủy các mô xốp mềm giữ sợi xơ dừa.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "White coir is harvested from coconuts that are older than those used for brown coir.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Ngược lại hoàn toàn: xơ trắng lấy từ dừa xanh chưa chín hái sớm hơn (<i>unripe green nuts picked earlier</i>), còn xơ nâu lấy từ dừa già chín hoàn toàn.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Coir ropes were the primary trading export of Indian coastal ports during historical times.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài chỉ nói thủy thủ Ả Rập và châu Âu mua dây thừng xơ dừa từ các cảng Ấn Độ suốt nhiều thế kỷ, không nói đây có phải mặt hàng xuất khẩu chủ lực nhất hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Coir matting used on slopes eventually breaks down naturally in the environment.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Các tấm thảm phân hủy sinh học này (<i>biodegradable mats</i>) sẽ phân rã thành chất hữu cơ vô hại sau khi rễ cây bám chắc.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Commercial nurseries prefer coconut dust over natural bog moss primarily because it is cheaper to transport.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bài nhắc các vườn ươm dùng gạch xơ dừa nén để bảo vệ vùng đầm lầy rêu than bùn tự nhiên, không hề đề cập yếu tố chi phí vận chuyển.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "All stages of modern coir fibre extraction are now performed entirely by automated machinery.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Dù có máy móc công nghiệp cho xơ thô, loại xơ trắng mịn ven biển vẫn phụ thuộc nhiều vào việc đập tay và xe sợi thủ công (<i>still depends heavily on this skilled hand-beating</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

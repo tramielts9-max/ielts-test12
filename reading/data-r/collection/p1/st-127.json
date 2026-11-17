@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 127 - Passage 1: The Monarch Butterfly: An Epic Across Generations",
+  "answers": {
+    "q1": "toxins",
+    "q2": "daylight",
+    "q3": "magnetism",
+    "q4": "clusters",
+    "q5": "rain",
+    "q6": "generations",
+    "q7": "herbicides",
+    "q8": "TRUE",
+    "q9": "NOT GIVEN",
+    "q10": "FALSE",
+    "q11": "TRUE",
+    "q12": "NOT GIVEN",
+    "q13": "FALSE"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 127</h2><h3>The Monarch Butterfly: An Epic Across Generations</h3><p><strong>Paragraph 1.</strong> Each autumn, millions of monarch butterflies embark on one of the most extraordinary long-distance migrations in the insect world. Weighing less than half a gram, these orange-and-black insects travel up to 4,000 kilometres from southern Canada and the northern United States to a handful of mountain forests in central Mexico. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Their survival during this hazardous journey owes much to what they eat early in life.</span> Female monarchs lay eggs exclusively on milkweed plants, and hatching caterpillars feed solely on milkweed leaves, absorbing bitter chemical compounds known as cardenolides. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">These stored <span class=\"kw\">toxins</span> remain inside the adult butterfly's tissues, making it deeply unpleasant and potentially sickening for birds to eat.</span></p><p><strong>Paragraph 2.</strong> Most summer-born monarchs live for barely five weeks, breeding quickly and dying near their birthplace. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">However, triggered by cooling northern winds and diminishing <span class=\"kw\">daylight</span>, the final autumn generation emerges in a radically different biological state.</span> Its reproductive organs remain temporarily inactive, allowing energy to be diverted into fat reserves for flight. Instead of surviving for weeks, this migratory generation lives up to eight months. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Scientists have discovered that monarchs orient southward using a sun compass tuned by circadian clocks in their antennae, while relying on an internal sensor sensitive to Earth's <span class=\"kw\">magnetism</span> whenever overcast skies hide the sun.</span></span></p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Although millions of butterflies vanished northward and southward every year, their exact winter refuge remained a mystery to researchers until 1975, when Canadian zoologist Fred Urquhart and a network of volunteer taggers traced labelled insects to the high volcanic ridges of Michoacán in Mexico.</span> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">At elevations above 3,000 metres, tens of millions of monarchs drape themselves over oyamel fir trees in dense <span class=\"kw\">clusters</span> that shield the insects against freezing night air.</span></p><p><strong>Paragraph 4.</strong> Even inside this high-altitude shelter, winter weather can prove fatal. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">A dry frost rarely kills resting butterflies, yet soaking winter <span class=\"kw\">rain</span> followed by a sudden drop in temperature can wipe out millions of dormant insects overnight.</span></span> Meanwhile, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">illegal logging along the edges of the protected reserve thins the dense evergreen canopy that normally acts as a blanket over the colonies.</span></p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Unlike migratory birds, no individual monarch completes the full round trip.</span> As spring warmth arrives in March, survivors mate and fly north into Texas and neighbouring states, where females lay eggs on emerging milkweed before dying. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Three or four consecutive <span class=\"kw\">generations</span> must hatch, mature, and push farther north before the summer descendants finally reach the northern United States and Canada.</span> How the distant descendants of autumn migrants locate the exact Mexican hillsides visited by their great-great-grandparents remains an enduring puzzle.</p><p><strong>Paragraph 6.</strong> Over the past two decades, eastern monarch numbers have fallen sharply. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Across North America's agricultural belt, the widespread spraying of <span class=\"kw\">herbicides</span> on modern farm fields has eradicated vast stretches of wild milkweed where females once laid eggs.</span> Conservationists now urge homeowners, schools, and highway agencies to plant native milkweed corridors to keep this multi-generational journey alive.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "Monarch Butterfly Migration",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Biology and Navigation</b></p><ul><li style=\"margin-bottom:10px;\">Young monarchs build up natural <b>1.</b> {{q1}} from their diet to discourage predators.</li><li style=\"margin-bottom:10px;\">Cooler temperatures and decreasing <b>2.</b> {{q2}} signal the final generation to begin travelling south.</li><li style=\"margin-bottom:10px;\">When cloud cover hides the sun, travelling butterflies navigate by detecting the planet's <b>3.</b> {{q3}} .</li></ul><p><b>Wintering and Return Journey</b></p><ul><li style=\"margin-bottom:10px;\">High in the Mexican mountains, monarchs gather in thick <b>4.</b> {{q4}} on evergreen trees to stay warm.</li><li style=\"margin-bottom:10px;\">Colonies are especially vulnerable if freezing weather occurs immediately after heavy <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:10px;\">Completing the return journey north requires several consecutive <b>6.</b> {{q6}} of butterflies.</li></ul><p><b>Modern Threats</b></p><ul><li style=\"margin-bottom:10px;\">Milkweed habitats in farming regions have shrunk largely due to the heavy use of chemical <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "toxins",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"These stored toxins remain inside the adult butterfly's tissues, making it deeply unpleasant... for birds to eat.\"</i>",
+          "<b>Từ cần điền:</b> <b>toxins</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "daylight",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...triggered by cooling northern winds and diminishing daylight...\"</i>",
+          "<b>Từ cần điền:</b> <b>daylight</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "magnetism",
+      "inputWidth": "120px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...relying on an internal sensor sensitive to Earth's magnetism whenever overcast skies hide the sun.\"</i>",
+          "<b>Từ cần điền:</b> <b>magnetism</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "clusters",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...drape themselves over oyamel fir trees in dense clusters that shield the insects against freezing night air.\"</i>",
+          "<b>Từ cần điền:</b> <b>clusters</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "rain",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...soaking winter rain followed by a sudden drop in temperature can wipe out millions...\"</i>",
+          "<b>Từ cần điền:</b> <b>rain</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "generations",
+      "inputWidth": "130px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Three or four consecutive generations must hatch, mature, and push farther north...\"</i>",
+          "<b>Từ cần điền:</b> <b>generations</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "herbicides",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...the widespread spraying of herbicides on modern farm fields has eradicated vast stretches of wild milkweed...\"</i>",
+          "<b>Từ cần điền:</b> <b>herbicides</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Birds avoid eating adult monarch butterflies because of substances the insects obtained before reaching adulthood.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Sâu bướm hấp thụ hợp chất từ cây bông tai (<i>milkweed</i>) và chất độc đó lưu lại trong mô bướm trưởng thành khiến chim không dám ăn.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Local communities in Michoacán receive government payments to protect oyamel fir trees from illegal logging.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Có nhắc đến vùng bảo tồn và nạn chặt phá rừng trái phép (<i>illegal logging</i>), nhưng không hề đề cập việc cộng đồng địa phương nhận tiền trợ cấp chính phủ.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Monarch butterflies rely exclusively on the position of the sun to maintain their southward direction.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Ngoài la bàn mặt trời, khi trời u ám bướm còn dùng cảm biến từ trường Trái Đất (<i>Earth's magnetism</i>), không phải chỉ dựa hoàn toàn (<i>exclusively</i>) vào mặt trời.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Extreme cold alone is less dangerous to resting monarchs than cold combined with moisture.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Băng giá khô hiếm khi gây chết (<i>dry frost rarely kills</i>), nhưng mưa ẩm kèm rét đậm có thể xóa sổ hàng triệu con.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Citizen volunteers tagged more than one million butterflies during Fred Urquhart's research project.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Có nhắc Fred Urquhart và mạng lưới tình nguyện viên gắn thẻ bướm, nhưng không có số liệu cụ thể về số lượng bướm đã gắn thẻ.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Individual butterflies that survive winter in Mexico fly all the way back to Canada the following summer.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Không cá thể nào hoàn thành cả vòng khứ hồi; bướm sống sót đẻ trứng ở miền nam Mỹ rồi chết, cần 3–4 thế hệ nối tiếp mới về tới Canada.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

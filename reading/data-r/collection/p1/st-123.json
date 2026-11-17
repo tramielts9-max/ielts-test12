@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 123 - Passage 1: Maria Sibylla Merian: Pioneer of Insect Illustration",
+  "answers": {
+    "q1": "flowers",
+    "q2": "notebooks",
+    "q3": "mud",
+    "q4": "plants",
+    "q5": "daughter",
+    "q6": "fever",
+    "q7": "decoration",
+    "q8": "FALSE",
+    "q9": "NOT GIVEN",
+    "q10": "TRUE",
+    "q11": "FALSE",
+    "q12": "NOT GIVEN",
+    "q13": "TRUE"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 123</h2><h3>Maria Sibylla Merian: Pioneer of Insect Illustration</h3><p><strong>Paragraph 1.</strong> Born in Frankfurt in 1647, Maria Sibylla Merian grew up inside a busy publishing and artistic household. Following her father's early death, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">she was trained by her stepfather, Jacob Marrel, a painter known for lucrative still-life compositions of <span class=\"kw\">flowers</span></span>. Although Marrel encouraged her to concentrate on commercially popular botanical themes and regarded creeping insects merely as blemishes on petals, the young girl became fascinated by the caterpillars hiding in his studio garden.</span> At thirteen, she began raising silkworms, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">filling thick <span class=\"kw\">notebooks</span> with dated observations and watercolour studies</span> tracing every stage from egg to moth.</p><p><strong>Paragraph 2.</strong> At that time, European science knew remarkably little about insect development. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Most naturalists still assumed that insects emerged spontaneously out of decaying <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">mud</span></span> or rotting meat, rather than hatching from eggs laid by adults.</span> By breeding hundreds of local caterpillars in glass jars, Merian proved that each species followed a precise, predictable metamorphosis. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">In 1679, she published her first illustrated book on European caterpillars in German rather than scholarly Latin, selling copies directly to collectors to finance her studio.</span> Even more unusually, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">instead of drawing dead, pinned insects against blank white pages, she portrayed living creatures perched on the exact <span class=\"kw\">plants</span> they relied upon for food</span>.</p><p><strong>Paragraph 3.</strong> Merian's curiosity deepened after she moved to Amsterdam in 1691 and inspected dried tropical butterflies brought back from Dutch colonies. Realizing that preserved specimens revealed nothing about living habits or larval diets, she took an extraordinary step for a woman of her era. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">In 1699, at the age of fifty-two, she sold many of her own paintings to pay for a transatlantic voyage and sailed for the Dutch colony of Surinam with her younger <span class=\"kw\">daughter</span>, Dorothea.</span> <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Hoping to spend five full years documenting jungle species</span>, the pair set up a base in Paramaribo and ventured into coastal forests with the assistance of enslaved local guides who knew where rare larvae fed.</p><p><strong>Paragraph 4.</strong> Fieldwork in the humid tropics proved physically punishing. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Weakened by a persistent tropical <span class=\"kw\">fever</span>, Merian was forced to cut her expedition short after just twenty-one months and return to Amsterdam.</span></span> Back in the Netherlands, she spent four years turning her field sketches into sixty large copperplate engravings. Published in 1705, <em>Metamorphosis Insectorum Surinamensium</em> astonished European scholars with vivid depictions of tarantulas, army ants, and giant moths interacting in their native habitats.</p><p><strong>Paragraph 5.</strong> Despite early admiration, Merian's scientific standing faded after her death in 1717. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Nineteenth-century male commentators belittled her volumes as mere <span class=\"kw\">decoration</span> for wealthy drawing rooms</span>, even questioning whether a bird-eating spider really existed. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Modern biologists, however, have thoroughly vindicated her accuracy, praising her as a founder of ecological illustration for showing how insects and vegetation depend on one another decades before ecology became an academic field.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "Maria Sibylla Merian",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Early Training and Discoveries</b></p><ul><li style=\"margin-bottom: 10px;\">Her stepfather trained her in painting still-life arrangements of <b>1.</b> {{q1}} .</li><li style=\"margin-bottom: 10px;\">As a teenager, she recorded silkworm growth inside personal <b>2.</b> {{q2}} .</li><li style=\"margin-bottom: 10px;\">Her breeding experiments disproved the idea that insects formed out of <b>3.</b> {{q3}} .</li><li style=\"margin-bottom: 10px;\">Unlike other artists, she showed living insects together with their food <b>4.</b> {{q4}} .</li></ul><p><b>Expedition to Surinam and Legacy</b></p><ul><li style=\"margin-bottom: 10px;\">At fifty-two, she funded her own trip to South America accompanied by her <b>5.</b> {{q5}} .</li><li style=\"margin-bottom: 10px;\">A serious <b>6.</b> {{q6}} forced her to sail back to Europe earlier than planned.</li><li style=\"margin-bottom: 10px;\">In the 1800s, critics dismissed her books as simple <b>7.</b> {{q7}} rather than science.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 123?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "flowers",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"still-life compositions of flowers\"</i>.",
+          "<b>Đáp án:</b> <b>flowers</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "notebooks",
+      "inputWidth": "120px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"filling thick notebooks with dated observations and watercolour studies\"</i>.",
+          "<b>Đáp án:</b> <b>notebooks</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "mud",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"emerged spontaneously out of decaying mud or rotting meat\"</i>.",
+          "<b>Đáp án:</b> <b>mud</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "plants",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"portrayed living creatures perched on the exact plants they relied upon for food\"</i>.",
+          "<b>Đáp án:</b> <b>plants</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "daughter",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"sailed for the Dutch colony of Surinam with her younger daughter, Dorothea\"</i>.",
+          "<b>Đáp án:</b> <b>daughter</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "fever",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Weakened by a persistent tropical fever, Merian was forced to cut her expedition short\"</i>.",
+          "<b>Đáp án:</b> <b>fever</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "decoration",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"belittled her volumes as mere decoration for wealthy drawing rooms\"</i>.",
+          "<b>Đáp án:</b> <b>decoration</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Merian's stepfather encouraged her to focus exclusively on drawing insects rather than botanical subjects.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Bố dượng muốn bà tập trung vẽ chủ đề thực vật (hoa) bán chạy và coi côn trùng chỉ là vết bẩn trên cánh hoa (<i>encouraged her to concentrate on commercially popular botanical themes</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Several European royal courts purchased copies of her 1679 caterpillar book.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bài nói bà xuất bản sách bằng tiếng Đức năm 1679 và bán cho các nhà sưu tầm, nhưng không nhắc đến việc triều đình hoàng gia châu Âu có mua hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Most seventeenth-century experts misunderstood how insects came into existence.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Hầu hết nhà tự nhiên học thời đó tin côn trùng tự sinh ra từ bùn thối hay thịt ôi chứ không phải nở từ trứng.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Merian completed the full five-year fieldwork schedule she had originally planned in Surinam.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 & 4:</b> Bà dự định ở 5 năm (<i>five full years</i>), nhưng bị sốt nhiệt đới buộc phải cắt ngắn chuyến đi chỉ sau 21 tháng (<i>twenty-one months</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Dorothea remained in South America for several months after her mother departed for Europe.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài chỉ nêu Merian phải về Amsterdam sớm sau 21 tháng vì sốt, không nói rõ Dorothea về cùng lúc hay ở lại thêm.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Modern scientists value Merian's drawings for showing how organisms interact with their environment.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Các nhà sinh học hiện đại ca ngợi bà là người tiên phong minh họa sinh thái vì đã thể hiện mối liên hệ phụ thuộc giữa côn trùng và thực vật.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "title": "Bài sưu tầm 130 - Passage 1: The Story of Tea in Britain: From Medicine to National Ritual",
+  "answers": {
+    "q1": "complaints",
+    "q2": "court",
+    "q3": "duty",
+    "q4": "twigs",
+    "q5": "sales",
+    "q6": "captain",
+    "q7": "factories",
+    "q8": "TRUE",
+    "q9": "NOT GIVEN",
+    "q10": "FALSE",
+    "q11": "TRUE",
+    "q12": "NOT GIVEN",
+    "q13": "FALSE"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 130</h2><h3>The Story of Tea in Britain: From Medicine to National Ritual</h3><p><strong>Paragraph 1.</strong> Although tea is now inseparable from British daily life, it arrived in England in the mid-seventeenth century as an exotic curiosity sold only to wealthy Londoners. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In 1657, coffeehouse proprietor Thomas Garway began selling the dried leaves at Garraway's in Exchange Alley, distributing printed leaflets claiming the boiled infusion cured colds, headaches, and common stomach <span class=\"kw\">complaints</span>.</span></span> Sold at staggering prices comparable to fine silver, the drink initially belonged strictly to apothecaries and male commercial clubs.</p><p><strong>Paragraph 2.</strong> Tea entered fashionable aristocratic homes five years later through royal marriage. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">When Portuguese princess Catherine of Braganza wed King Charles II in 1662, she brought chests of loose tea as part of her dowry, quickly establishing tea-drinking as a refined habit across the English <span class=\"kw\">court</span>.</span></span> Wealthy hostesses soon competed to display delicate porcelain teapots and silver caddies imported from East Asia.</p><p><strong>Paragraph 3.</strong> As demand spread beyond the elite during the eighteenth century, the British treasury saw an irresistible source of revenue. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">By 1750, government import <span class=\"kw\">duty</span> frequently exceeded one hundred percent of the leaves' original value, turning England's southern coastline into a hub of nocturnal smuggling.</span> Fast boats slipped across the English Channel under cover of darkness to unload untaxed chests. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Because high tariffs made pure leaves unaffordable, smugglers and dishonest dealers routinely stretched supplies by mixing genuine tea with dried hawthorn <span class=\"kw\">twigs</span>, ash leaves, or toxic copper carbonate used to imitate a fresh green colour.</span></span></p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">The turning point arrived in 1784 with the Commutation Act, when Prime Minister William Pitt slashed import charges from 119 percent to 12.5 percent; black-market smuggling collapsed almost overnight while legal <span class=\"kw\">sales</span> rose dramatically.</span></span> For the first time, ordinary shopkeepers and rural households could purchase unadulterated tea at predictable prices.</p><p><strong>Paragraph 5.</strong> By the mid-nineteenth century, supplying Britain's growing appetite inspired a dramatic revolution in shipbuilding. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">During the 1840s and 1850s, sleek wooden sailing ships known as tea clippers raced across oceans from China to London, because freshness faded at sea and merchants paid generous cash bonuses to whichever vessel's <span class=\"kw\">captain</span> docked first with the new harvest.</span></span></p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">By the late nineteenth century, tea was no longer confined to stately drawing rooms; industrial employers routinely provided midday tea breaks inside bustling <span class=\"kw\">factories</span> to keep workers alert, and sweetened mugs of tea had become an affordable staple in working-class kitchens across the nation.</span></span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "History of Tea in Britain",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Early Adoption</b></p><ul><li style=\"margin-bottom:10px;\">When tea first went on sale in London coffeehouses, leaflets promoted it as a treatment for minor physical <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:10px;\">After a foreign princess married the British monarch, drinking tea quickly gained popularity within the royal <b>2.</b> {{q2}} .</li></ul><p><b>Taxation, Fraud, and Reform</b></p><ul><li style=\"margin-bottom:10px;\">An excessive government <b>3.</b> {{q3}} on imported leaves encouraged widespread smuggling along the coast.</li><li style=\"margin-bottom:10px;\">Unscrupulous sellers increased their margins by bulking out tea with dried plant <b>4.</b> {{q4}} and harmful dyes.</li><li style=\"margin-bottom:10px;\">After import charges were sharply reduced in 1784, illicit trade fell rapidly while official <b>5.</b> {{q5}} rose dramatically.</li></ul><p><b>Trade and Mass Culture</b></p><ul><li style=\"margin-bottom:10px;\">During the 1840s, merchants rewarded the <b>6.</b> {{q6}} of the fastest ship bringing fresh leaves from China.</li><li style=\"margin-bottom:10px;\">By the end of the century, employers supplied tea inside urban <b>7.</b> {{q7}} to help staff stay focused.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "complaints",
+      "inputWidth": "120px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...claiming the boiled infusion cured colds, headaches, and common stomach complaints.\"</i>",
+          "<b>Paraphrase:</b> <i>minor physical complaints</i> = colds, headaches, and common stomach complaints.",
+          "<b>Từ cần điền:</b> <b>complaints</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "court",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...establishing tea-drinking as a refined habit across the English court.\"</i>",
+          "<b>Từ cần điền:</b> <b>court</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "duty",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"By 1750, government import duty frequently exceeded one hundred percent...\"</i>",
+          "<b>Từ cần điền:</b> <b>duty</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "twigs",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...mixing genuine tea with dried hawthorn twigs, ash leaves, or toxic copper carbonate...\"</i>",
+          "<b>Từ cần điền:</b> <b>twigs</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "sales",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...black-market smuggling collapsed almost overnight while legal sales rose dramatically.\"</i>",
+          "<b>Từ cần điền:</b> <b>sales</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "captain",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...merchants paid generous cash bonuses to whichever vessel's captain docked first...\"</i>",
+          "<b>Từ cần điền:</b> <b>captain</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "factories",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...industrial employers routinely provided midday tea breaks inside bustling factories to keep workers alert...\"</i>",
+          "<b>Từ cần điền:</b> <b>factories</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Early advertisements in London claimed tea offered medical benefits.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Tờ rơi quảng cáo của Thomas Garway tuyên bố nước trà chữa cảm lạnh, đau đầu và bệnh dạ dày.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Catherine of Braganza preferred drinking green tea rather than black tea at social gatherings.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Có nhắc công chúa Bồ Đào Nha Catherine mang theo rương trà rời làm của hồi môn và tạo trào lưu uống trà trong triều đình, nhưng không nói bà thích trà xanh hơn trà đen.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Smuggled tea was always safer to drink than tea sold legally by licensed merchants.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Dân buôn lậu và thương lái gian lận thường trộn cành cây khô hoặc đồng cacbonat độc hại (<i>toxic copper carbonate</i>) vào trà, nên không hề an toàn.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Lowering tea tariffs in the late eighteenth century largely ended illegal trade in the product.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Đạo luật năm 1784 cắt giảm thuế nhập khẩu từ 119% xuống 12.5% đã khiến nạn buôn lậu sụp đổ gần như chỉ sau một đêm.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "British ships were slower than American clippers during the tea races of the 1840s.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Có nhắc các tàu clipper đua từ Trung Quốc về London trong thập niên 1840, nhưng không hề so sánh tốc độ giữa tàu Anh và tàu Mỹ.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Tea remained too expensive for industrial labourers in Britain throughout the entire nineteenth century.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Đến cuối thế kỷ 19, trà được phát miễn phí giờ nghỉ trong nhà máy và trở thành thức uống bình dân giá rẻ trong gia đình công nhân.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

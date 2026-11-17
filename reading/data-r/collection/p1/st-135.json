@@ -1,0 +1,215 @@
+{
+  "title": "Bài sưu tầm 135 - Passage 1: From Borrowdale to the Desk: The Making of the Modern Pencil",
+  "answers": {
+    "q1": "sheep",
+    "q2": "moulds",
+    "q3": "fingers",
+    "q4": "clay",
+    "q5": "hardness",
+    "q6": "cedar",
+    "q7": "temperatures",
+    "q8": "TRUE",
+    "q9": "FALSE",
+    "q10": "TRUE",
+    "q11": "NOT GIVEN",
+    "q12": "FALSE",
+    "q13": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 135</h2><h3>From Borrowdale to the Desk: The Making of the Modern Pencil</h3><p><strong>Paragraph 1.</strong> Around 1564, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">a violent storm uprooted an ancient ash tree on a hillside in Borrowdale, northern England, exposing a vein of shiny black mineral beneath its roots</span>. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Local shepherds soon found that chunks of this soft, greasy substance left durable dark marks, and began using them to mark the wool of their <span class=\"kw\">sheep</span>.</span></p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Chemists of the era mistook the deposit for a form of lead—calling it <em>plumbago</em>—though modern science identifies it as graphite, a pure form of carbon.</span> Because Borrowdale held the world's only known solid deposit, the British Crown treated it as a military asset: <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">foundries relied on the heat-resistant mineral to coat the inside of clay <span class=\"kw\">moulds</span> used in casting smooth iron cannonballs</span>.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">To prevent smuggling, Parliament limited mining to six weeks a year and deliberately flooded the tunnels between seasons.</span> Meanwhile, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">early draftsmen wrapped bare graphite sticks in string or leather to stop the brittle core from snapping and staining their <span class=\"kw\">fingers</span></span>, until Italian artisans hollowed out wooden cylinders to encase the lead cleanly.</p><p><strong>Paragraph 4.</strong> When war cut France off from English mines in the 1790s, French chemist Nicolas-Jacques Conté devised an ingenious substitute in 1795. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\"><span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Conté crushed impure German graphite into fine powder, blended it with purified <span class=\"kw\">clay</span> and water, and baked the shaped rods in hot kilns.</span></span> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">By adjusting the mineral ratio, he could precisely control the <span class=\"kw\">hardness</span> of the mark</span>—creating the graded HB scale still stamped on pencils today.</p><p><strong>Paragraph 5.</strong> In the nineteenth century, American factories pioneered mass production using <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">straight-grained eastern red <span class=\"kw\">cedar</span>, whose soft timber shaved cleanly without splintering</span>. In 1858, inventor Hymen Lipman patented a pencil fitted with a built-in rubber eraser, yet <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">the US Supreme Court later invalidated his patent, ruling that merely joining two familiar items did not count as a new invention</span>.</p><p><strong>Paragraph 6.</strong> Despite digital keyboards and screens, global factories still turn out over fourteen billion pencils annually. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">Architects, engineers, and astronauts continue to carry them</span> because <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">ordinary pencils write reliably upside down, on wet paper, and in freezing <span class=\"kw\">temperatures</span> where liquid ink stalls</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "History of the Lead Pencil",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Discovery and early uses</b></p><ul><li style=\"margin-bottom:10px;\">Shepherds in northern England first used the mineral to label their <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:10px;\">British weapon makers valued graphite for lining the inner surfaces of cannonball <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:10px;\">Early artists wrapped bare graphite rods to keep them from breaking and darkening their <b>3.</b> {{q3}} .</li></ul><p><b>Manufacturing breakthroughs</b></p><ul><li style=\"margin-bottom:10px;\">Cut off from English mines, Conté mixed powdered graphite with water and <b>4.</b> {{q4}} before kiln firing.</li><li style=\"margin-bottom:10px;\">Altering the recipe enabled factories to regulate the <b>5.</b> {{q5}} of the pencil tip.</li><li style=\"margin-bottom:10px;\">US makers favoured red <b>6.</b> {{q6}} wood because it sharpened evenly without cracking.</li></ul><p><b>Continued relevance</b></p><ul><li style=\"margin-bottom:10px;\">Professionals still rely on pencils because they work in sub-zero <b>7.</b> {{q7}} that stop ink pens.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "sheep",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"mark the wool of their sheep\"</i> (label = mark).",
+          "<b>Từ gây nhiễu:</b> wool.",
+          "<b>Từ cần điền:</b> <b>sheep</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "moulds",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"coat the inside of clay moulds used in casting smooth iron cannonballs\"</i> (lining the inner surfaces = coat the inside).",
+          "<b>Từ gây nhiễu:</b> foundries.",
+          "<b>Từ cần điền:</b> <b>moulds</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "fingers",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"staining their fingers\"</i> (darkening = staining).",
+          "<b>Từ gây nhiễu:</b> leather, string.",
+          "<b>Từ cần điền:</b> <b>fingers</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "clay",
+      "inputWidth": "90px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"blended it with purified clay and water, and baked... in hot kilns\"</i>.",
+          "<b>Từ cần điền:</b> <b>clay</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "hardness",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"precisely control the hardness of the mark\"</i> (regulate = control).",
+          "<b>Từ cần điền:</b> <b>hardness</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "cedar",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"straight-grained eastern red cedar, whose soft timber shaved cleanly\"</i>.",
+          "<b>Từ cần điền:</b> <b>cedar</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "temperatures",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"in freezing temperatures where liquid ink stalls\"</i> (sub-zero = freezing).",
+          "<b>Từ cần điền:</b> <b>temperatures</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The Borrowdale mineral deposit was uncovered by extreme weather.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Một cơn bão dữ dội bật gốc cây cổ thụ đã làm lộ ra mạch khoáng sản bên dưới (<i>a violent storm uprooted an ancient ash tree... exposing a vein</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Sixteenth-century scientists recognised that the Borrowdale substance contained pure carbon.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Các nhà hóa học thời đó tưởng nhầm là chì (<i>mistook the deposit for a form of lead</i>), chỉ khoa học hiện đại mới xác định là carbon tinh khiết.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "The British government flooded the Borrowdale mine tunnels for most of the year to protect its supply.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nghị viện chỉ cho khai thác 6 tuần/năm và cố tình làm ngập hầm lò suốt thời gian còn lại để chống buôn lậu.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Nicolas-Jacques Conté earned substantial royalties from German pencil makers for his kiln-baking formula.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài nhắc Conté dùng than chì Đức trộn đất sét nung lò, nhưng hoàn toàn không đề cập việc ông có thu tiền bản quyền từ các nhà sản xuất Đức hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Hymen Lipman's patent for a pencil with an attached eraser remained legally protected throughout his lifetime.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Tòa án Tối cao Mỹ sau đó đã hủy bỏ bằng sáng chế của Lipman (<i>invalidated his patent</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Schoolchildren consume more wooden pencils today than professional architects and engineers.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Bài nêu sản lượng toàn cầu trên 14 tỷ bút chì và nhắc kiến trúc sư, kỹ sư vẫn dùng, nhưng không so sánh lượng tiêu thụ của học sinh với giới chuyên môn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

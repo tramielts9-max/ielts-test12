@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 136 - Passage 1: The Glass Harmonica: Benjamin Franklin's Musical Invention",
+  "answers": {
+    "q1": "water",
+    "q2": "evaporation",
+    "q3": "pedal",
+    "q4": "gold",
+    "q5": "volume",
+    "q6": "lead",
+    "q7": "quartz",
+    "q8": "FALSE",
+    "q9": "TRUE",
+    "q10": "NOT GIVEN",
+    "q11": "TRUE",
+    "q12": "NOT GIVEN",
+    "q13": "FALSE"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 136</h2><h3>The Glass Harmonica: Benjamin Franklin's Musical Invention</h3><p><strong>Paragraph 1.</strong> Long before the invention of electronic synthesizers, European audiences were captivated by the ethereal sound of tuned wine glasses. During the 1740s, musicians produced sustained, bell-like notes by rubbing damp fingertips around the rims of goblets <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">containing different amounts of <span class=\"kw\">water</span></span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The Irish performer Richard Pockrich popularized the technique on stages across Britain, though he died in a London fire in 1759 without achieving lasting financial security.</span> Despite the haunting beauty of the music, the setup was notoriously impractical: tuning dozens of fragile glasses took hours before every concert, and <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">evaporation</span> continually altered the pitch</span> during warm indoor performances.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">While living in London in 1761, American statesman and inventor Benjamin Franklin attended a demonstration given by Cambridge scholar Edmund Delaval</span>, who played musical glasses to illustrate acoustic resonance. Franklin was enchanted by the clarity of the tones, which seemed far purer than any stringed or wind instrument he had heard. Yet he immediately recognized the mechanical flaws of upright goblets arranged on a table and began sketching a compact, permanent alternative.</p><p><strong>Paragraph 3.</strong> Working with a skilled London glassblower, Franklin unveiled his redesigned instrument in 1762, naming it the 'armonica' after the Italian word for harmony. Instead of vertical goblets filled with liquid, he commissioned thirty-seven hemispherical glass bowls of graduated sizes, each blown to match a precise musical pitch. These nested bowls were <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">mounted horizontally on an iron rod that a seated musician spun using a foot-operated <span class=\"kw\">pedal</span></span>. Because the bowls rotated continuously, players simply held wet fingers against the moving rims to summon chords effortlessly. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">He coated the edges of the bowls representing sharp and flat notes with <span class=\"kw\">gold</span></span>, while leaving the natural notes clear so performers could navigate the scale at a glance.</p><p><strong>Paragraph 4.</strong> The glass harmonica became an overnight sensation across Europe. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Because the nested bowls occupied only a fraction of the space of a table of separate glasses, the compact wooden case made travelling between cities practical for touring soloists such as Marianne Davies.</span> <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Leading composers including Mozart and Beethoven wrote original chamber works for the instrument</span>, and the young Marie Antoinette took regular lessons in Vienna. Franklin himself declared that of all his inventions, the harmonica brought him the greatest personal satisfaction.</p><p><strong>Paragraph 5.</strong> Yet by the 1830s, the instrument had largely vanished from concert halls. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">As orchestras expanded and moved into grander public venues, its modest <span class=\"kw\">volume</span> could no longer carry clearly to distant rows.</span> Even more damaging was a wave of medical alarm. Several performers suffered trembling hands and nervous exhaustion, prompting speculation that the ringing vibrations overstimulated the brain. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Physicians also suspected that players absorbed toxic <span class=\"kw\">lead</span> from the traditional crystal glass and painted rims through moist fingertips.</span></span> Fearing for their health, musicians abandoned the instrument, and some German towns even restricted public performances.</p><p><strong>Paragraph 6.</strong> For over a century, the glass harmonica remained a museum curiosity until late twentieth-century instrument makers revived the craft. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Contemporary builders construct the nested bowls from pure <span class=\"kw\">quartz</span> rather than leaded crystal</span>, eliminating chemical hazards, and use subtle acid etching instead of metallic paint to mark the notes.</span> Today, the instrument once again appears on international recordings and concert stages, sounding much as it did in Franklin’s London workshop.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The Development of the Glass Harmonica",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Early Musical Glasses</b></p><ul><li style=\"margin-bottom:10px;\">Performers changed the pitch of wine glasses by varying the amount of <b>1.</b> {{q1}} inside each cup.</li><li style=\"margin-bottom:10px;\">Keeping the glasses in tune was difficult because <b>2.</b> {{q2}} gradually altered the sound during shows.</li></ul><p><b>Franklin's 1762 Design</b></p><ul><li style=\"margin-bottom:10px;\">Graduated glass bowls were fitted onto a rod driven by a <b>3.</b> {{q3}} beneath the instrument.</li><li style=\"margin-bottom:10px;\">Sharp and flat notes were marked on the rims using a layer of <b>4.</b> {{q4}} .</li></ul><p><b>Decline and Modern Revival</b></p><ul><li style=\"margin-bottom:10px;\">In grander concert venues, the instrument's quiet <b>5.</b> {{q5}} was hard for audiences to hear.</li><li style=\"margin-bottom:10px;\">Doctors worried that damp skin absorbed harmful <b>6.</b> {{q6}} from the spinning bowls.</li><li style=\"margin-bottom:10px;\">Modern makers avoid health risks by shaping the bowls out of <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 1?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "water",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...goblets containing different amounts of water.\"</i>",
+          "<b>Từ cần điền:</b> <b>water</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "evaporation",
+      "inputWidth": "130px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...evaporation continually altered the pitch during warm indoor performances.\"</i>",
+          "<b>Từ cần điền:</b> <b>evaporation</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "pedal",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...mounted horizontally on an iron rod that a seated musician spun using a foot-operated pedal.\"</i>",
+          "<b>Từ cần điền:</b> <b>pedal</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "gold",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"He coated the edges of the bowls representing sharp and flat notes with gold...\"</i>",
+          "<b>Từ cần điền:</b> <b>gold</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "volume",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...its modest volume could no longer carry clearly to distant rows.\"</i>",
+          "<b>Từ cần điền:</b> <b>volume</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "lead",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...players absorbed toxic lead from the traditional crystal glass...\"</i>",
+          "<b>Từ cần điền:</b> <b>lead</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "quartz",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"Contemporary builders construct the nested bowls from pure quartz...\"</i>",
+          "<b>Từ cần điền:</b> <b>quartz</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Richard Pockrich earned a large fortune from performing with musical glasses in Britain.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Ông lưu diễn ở Anh nhưng mất năm 1759 mà không có được sự ổn định tài chính lâu dài (<i>without achieving lasting financial security</i>) → Trái ngược với kiếm được gia sản lớn.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Franklin's interest in the instrument began after attending a demonstration by a British scholar.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Khi sống ở London (Anh), Franklin dự buổi trình diễn của học giả Cambridge Edmund Delaval và bị mê hoặc bởi âm thanh của nó.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Mozart expressed disappointment with the quiet sound of the glass harmonica when composing for it.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4 & 5:</b> Bài có nhắc Mozart viết nhạc cho nhạc cụ này và ở đoạn sau có nhắc âm lượng của đàn hơi nhỏ, nhưng hoàn toàn không nói Mozart có thất vọng về âm lượng hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "A performer could tour European cities with the glass harmonica more easily than with earlier musical glasses.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Các bát lồng gọn trong hộp gỗ chiếm ít chỗ hơn hẳn bàn ly rời, giúp nghệ sĩ đi lưu diễn giữa các thành phố thuận tiện (<i>made travelling between cities practical for touring soloists</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Nineteenth-century doctors carried out chemical tests on performers' fingertips to confirm lead poisoning.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bác sĩ nghi ngờ người chơi hấp thụ chì qua đầu ngón tay ẩm, nhưng bài không hề nói họ có làm xét nghiệm hóa học lên đầu ngón tay để chứng minh hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "Modern glass harmonicas continue to require a layer of painted metal on the edges to help musicians play.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Thợ hiện đại khắc axit nhẹ thay cho sơn kim loại (<i>use subtle acid etching instead of metallic paint to mark the notes</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

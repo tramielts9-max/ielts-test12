@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 122 - Passage 1: Cinchona: The Bark That Changed Tropical History",
+  "answers": {
+    "q1": "shivering",
+    "q2": "priests",
+    "q3": "seeds",
+    "q4": "trader",
+    "q5": "troops",
+    "q6": "artificial",
+    "q7": "compounds",
+    "q8": "FALSE",
+    "q9": "NOT GIVEN",
+    "q10": "TRUE",
+    "q11": "FALSE",
+    "q12": "NOT GIVEN",
+    "q13": "TRUE"
+  },
+  "passageHtml": "<h2>READING PASSAGE 1 — TEST 122</h2><h3>Cinchona: The Bark That Changed Tropical History</h3><p><strong>Paragraph 1.</strong> High on the misty slopes of the South American Andes grows the cinchona tree, whose bitter bark once reshaped global medicine and colonial politics. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Long before European ships crossed the Atlantic, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">indigenous Quechua healers prepared warm infusions from cinchona bark to calm violent <span class=\"kw\">shivering</span></span> caused by freezing mountain winds, rather than tropical fevers.</span> When Spanish missionaries arrived in Peru in the early seventeenth century, they observed the bark's remarkable muscle-relaxing effect and noticed that it also suppressed the recurring chills of malaria. Samples were soon shipped back to Rome, where malaria regularly plagued marshy districts around the city.</p><p><strong>Paragraph 2.</strong> In Europe, the new medicine quickly became entangled in religious rivalry. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Because Jesuit missionaries coordinated shipments from Peru and distributed the ground bark across European hospitals</span>, the treatment earned the nickname 'Jesuit powder'. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Suspicious Protestant doctors refused to prescribe the remedy simply because it was associated with Catholic <span class=\"kw\">priests</span></span>, even though they lacked any reliable alternative. Acceptance widened only in the 1670s after an English apothecary named Robert Talbor disguised the bitter powder in sweet wine and successfully cured King Charles II of a stubborn fever.</p><p><strong>Paragraph 3.</strong> Demand surged dramatically during the nineteenth century after French chemists isolated the bark's active ingredient, quinine, in 1820. Determined to keep control over a lucrative resource, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\"><span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">newly independent Andean republics banned foreigners from removing living saplings or <span class=\"kw\">seeds</span> from their territory</span>.</span> European imperial powers ignored these laws and launched covert botanical expeditions. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">While British plantations established in southern India struggled with weak, low-yielding tree varieties, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Dutch estates on the island of Java prospered after purchasing hardy seeds from Charles Ledger, an English <span class=\"kw\">trader</span></span> living in Peru</span>. By the 1890s, Java supplied over ninety percent of the world's quinine, with bark concentrations roughly triple those of Indian groves.</span></p><p><strong>Paragraph 4.</strong> Steady access to quinine transformed tropical exploration. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Regular doses of the extracted drug sharply cut fatal malaria outbreaks among European <span class=\"kw\">troops</span></span> and colonial administrators stationed in humid regions of Africa and Asia. In British India, officers masked the intensely bitter medicine by mixing it with carbonated water and sugar—creating early tonic water. Yet this fragile supply chain collapsed during the Second World War when Japanese forces occupied Java in 1942. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Cut off from natural bark, Allied chemists raced to manufacture <span class=\"kw\">artificial</span> substitutes in the laboratory</span>, eventually producing synthetic drugs such as chloroquine.</p><p><strong>Paragraph 5.</strong> For several decades after the war, synthetic medicines pushed natural cinchona plantations into sharp decline. <span class=\"hl\" id=\"hl-q13\" data-q=\"[Q13]\">However, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">widespread parasite resistance to modern pharmaceuticals has prompted scientists to examine the bark's natural <span class=\"kw\">compounds</span></span> once again</span>, demonstrating that an ancient Andean forest remedy still holds lessons for contemporary medicine.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 1–7 on your answer sheet.</i>",
+      "noteTitle": "The History of Cinchona and Quinine",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p><b>Early Use and European Reception</b></p><ul><li style=\"margin-bottom: 10px;\">Andean communities originally used cinchona drinks to ease heavy <b>1.</b> {{q1}} caused by mountain cold.</li><li style=\"margin-bottom: 10px;\">Some doctors in Europe rejected the treatment due to its link with Catholic <b>2.</b> {{q2}} .</li></ul><p><b>Global Cultivation and Colonial Expansion</b></p><ul><li style=\"margin-bottom: 10px;\">Andean governments tried to keep control by forbidding exports of young trees and <b>3.</b> {{q3}} .</li><li style=\"margin-bottom: 10px;\">Dutch farms in Java thrived after buying planting stock from an English <b>4.</b> {{q4}} .</li><li style=\"margin-bottom: 10px;\">Routine quinine doses lowered death rates among foreign <b>5.</b> {{q5}} working in humid climates.</li></ul><p><b>Modern Era</b></p><ul><li style=\"margin-bottom: 10px;\">When Java became inaccessible in the 1940s, researchers created <b>6.</b> {{q6}} replacements.</li><li style=\"margin-bottom: 10px;\">Drug-resistant parasites have renewed scientific interest in the bark's natural <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–13",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 122?<br>In boxes 8–13 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "shivering",
+      "inputWidth": "120px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"calm violent shivering caused by freezing mountain winds\"</i>.",
+          "<b>Đáp án:</b> <b>shivering</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "priests",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"rejected the remedy simply because it was associated with Catholic priests\"</i>.",
+          "<b>Đáp án:</b> <b>priests</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "seeds",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"banned foreigners from removing living saplings or seeds from their territory\"</i>.",
+          "<b>Đáp án:</b> <b>seeds</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "trader",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"purchasing hardy seeds from Charles Ledger, an English trader living in Peru\"</i>.",
+          "<b>Đáp án:</b> <b>trader</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "troops",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"sharply cut fatal malaria outbreaks among European troops and colonial administrators\"</i>.",
+          "<b>Đáp án:</b> <b>troops</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "artificial",
+      "inputWidth": "120px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"raced to manufacture artificial substitutes in the laboratory\"</i>.",
+          "<b>Đáp án:</b> <b>artificial</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "compounds",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"prompted scientists to examine the bark's natural compounds once again\"</i>.",
+          "<b>Đáp án:</b> <b>compounds</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Cinchona bark was originally adopted by Andean communities specifically to treat malaria.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Người Quechua ban đầu dùng để trị chứng run rẩy do gió lạnh vùng núi cao chứ không phải sốt rét nhiệt đới (<i>rather than tropical fevers</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Jesuit missionaries earned greater profits from cinchona bark than from any other South American product.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bài chỉ nói dòng Tên điều phối việc vận chuyển và phân phối bột vỏ cây ở châu Âu, không có thông tin so sánh lợi nhuận với các mặt hàng khác.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Early attempts to grow cinchona outside South America faced legal obstacles.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Các nước vùng Andes ban hành lệnh cấm người nước ngoài mang cây giống hay hạt giống ra khỏi lãnh thổ (<i>banned foreigners... ignored these laws</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "British plantations in India yielded bark with higher quinine levels than Dutch estates in Java.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Ngược lại hoàn toàn: các đồn điền ở Java đạt hàm lượng ký ninh cao gấp khoảng ba lần so với ở Ấn Độ (<i>triple those of Indian groves</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Charles Ledger received a generous financial reward from Dutch authorities for his seeds.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài viết xác nhận người Hà Lan mua hạt giống từ Charles Ledger, nhưng không đề cập số tiền thưởng hay mức giá trả cho ông có hậu hĩnh hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q13": {
+      "num": 13,
+      "text": "The spread of drug-resistant malaria has restored scientific interest in the original plant source.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q13",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Ký sinh trùng kháng thuốc hiện đại khiến giới khoa học quay lại nghiên cứu các hợp chất tự nhiên trong vỏ cây canh-ki-na.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}
