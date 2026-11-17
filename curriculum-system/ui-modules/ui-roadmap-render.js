@@ -1,9 +1,10 @@
 /**
  * curriculum-system/ui-modules/ui-roadmap-render.js
  * MODULE GIAO DIỆN LỘ TRÌNH 5 CHẶNG & ĐIỀU PHỐI AI GEMINI (BẢN FULL ĐẦY ĐỦ 100%)
- * ĐÃ KHÓA CHẾT ĐIỂM BÀI THI THẬT (CHỐNG AI TỰ Ý NÂNG KHỐNG LÊN BAND 5.5)
- * - BẮT BUỘC LẤY ĐÚNG START BAND CỦA BÀI TEST DIAGNOSTIC (KHÔNG ĐỂ AI TỰ ĐỔI)
- * - TỰ ĐỘNG HÓA 1-CLICK: Tự động trích xuất kết quả bài thi Diagnostic sang lộ trình AI
+ * ĐÃ TÍCH HỢP BÓC TÁCH TRỌN GÓI HỒ SƠ ONBOARDING INTAKE 11 CÂU HỎI VÀ ĐỒNG BỘ GIAO DIỆN
+ * - 1-CLICK AUTO EXTRACT: Bóc tách toàn bộ tiền sử học thuật, điểm thi cũ, mục tiêu học sinh đã chọn
+ * - ĐỒNG BỘ DROPDOWN: Tự động gán Target Band học sinh chọn vào ô điều khiển của Giáo viên
+ * - BẮT BUỘC LẤY ĐÚNG START BAND & TARGET BAND (CẤM AI TỰ Ý THAY ĐỔI CON SỐ CỐT LÕI)
  * - HỘP CÁT DRAFT SANDBOX: Bấm "Soạn lại" không bị mất lộ trình cũ, có nút HỦY BỎ an toàn
  * - NÚT XUẤT PDF / IN LỘ TRÌNH: Chuẩn hóa xuất file PDF gửi phụ huynh học sinh
  * - Render 4 thẻ thống kê 3D Duolingo & Danh sách nhiệm vụ học hôm nay
@@ -173,7 +174,7 @@ export class UIRoadmapRenderer {
   }
 
   // =========================================================================
-  // 2. TỰ ĐỘNG HÓA 1-CLICK: TỰ RÚT KẾT QUẢ THI DIAGNOSTIC GẦN NHẤT ĐƯA VÀO AI
+  // 2. TỰ ĐỘNG HÓA 1-CLICK: BÓC TÁCH TRỌN GÓI HỒ SƠ INTAKE 11 CÂU HỎI VÀ ĐỒNG BỘ
   // =========================================================================
   async autoGenerateFromLatestDiagnostic(studentEmail) {
     const targetEmail = (studentEmail || this.context.getActiveWorkingEmail()).toLowerCase().trim();
@@ -187,30 +188,59 @@ export class UIRoadmapRenderer {
     const det = recentDiag.details || {};
     const blueprint = det.blueprintProfile || {};
 
-    // 🔴 KHÓA CHẶT ĐIỂM START BAND THẬT: Lấy chuẩn xác từ kết quả thi của học sinh
-    let extractedBand = "3.5";
+    // 🔴 1. BÓC TÁCH TOÀN BỘ HỒ SƠ ONBOARDING INTAKE ĐÃ ĐƯỢC ĐÓNG GÓI TRONG BÀI THI
+    const intake = det.intakeProfile || recentDiag.intakeProfile || {};
+
+    // 🔴 2. KHÓA CHẶT ĐIỂM START BAND THẬT: Lấy chuẩn xác từ kết quả thi của học sinh
+    let extractedStartBand = "3.5";
     if (recentDiag.score) {
       const m = String(recentDiag.score).match(/Band\s*([0-9.]+)/i) || String(recentDiag.score).match(/([0-9.]+)/);
-      if (m && parseFloat(m[1]) > 0) extractedBand = m[1];
+      if (m && parseFloat(m[1]) > 0) extractedStartBand = m[1];
     } else if (det.officialBand && parseFloat(det.officialBand) > 0) {
-      extractedBand = String(det.officialBand);
+      extractedStartBand = String(det.officialBand);
     } else if (det.potentialBand && parseFloat(det.potentialBand) > 0) {
-      extractedBand = String(det.potentialBand);
+      extractedStartBand = String(det.potentialBand);
     }
 
-    // Tự động đọc Target Band từ dropdown chọn mục tiêu
-    const selectedTarget = document.getElementById('matrixTargetBandSelect')?.value || "7.0";
+    // 🔴 3. LẤY TARGET BAND TỪ HỌC SINH ĐÃ CHỌN & ĐỒNG BỘ LÊN DROPDOWN TRÊN MÀN HÌNH
+    const targetBandChosen = intake.targetBand || recentDiag.targetBand || "7.0";
+    const targetSelectEl = document.getElementById('matrixTargetBandSelect');
+    if (targetSelectEl) {
+      targetSelectEl.value = targetBandChosen;
+    }
+    const startSelectEl = document.getElementById('matrixStartBandSelect');
+    if (startSelectEl) {
+      startSelectEl.value = extractedStartBand;
+    }
 
-    // Tự động tổng hợp dữ liệu bài thi thành bản hồ sơ chuẩn xác
+    // 🔴 4. TỔNG HỢP TOÀN BỘ DỮ LIỆU INTAKE THÀNH BẢN HỒ SƠ HỌC THUẬT SIÊU CHI TIẾT
     const summaryLines = [
-      `[HỒ SƠ HỌC THUẬT TỰ ĐỘNG RÚT TRÍCH TỪ BÀI THI DIAGNOSTIC]`,
+      `[HỒ SƠ TIỀN SỬ HỌC THUẬT & KỲ VỌNG MỤC TIÊU - 1-CLICK AUTO EXTRACT]`,
       `- Học viên: ${targetEmail}`,
-      `- Start Band: ${extractedBand}`,
-      `- Target Band: ${selectedTarget}`,
-      `- Bài thi gốc: ${recentDiag.testTitle || 'Diagnostic Test 1'} (Thời gian làm: ${recentDiag.timeSpent || 'N/A'})`,
+      `- Start Band: ${extractedStartBand} (Điểm thật từ bài test Diagnostic)`,
+      `- Target Band: ${targetBandChosen} (MỤC TIÊU HỌC SINH TỰ CHỌN - BẮT BUỘC PHẢI KHÓA)`,
+      `- Đối tượng học viên: ${intake.studentRole || 'Học sinh Cấp 3'}`,
+      `- Trường đang theo học: ${intake.schoolType || 'Công lập thường'}`,
+      `- ĐTB môn Tiếng Anh: ${intake.schoolEnglishGpa || '6.5 - 7.9'}${intake.schoolExamScore ? ` (Điểm thi chuyển cấp: ${intake.schoolExamScore})` : ''}`,
+      `- Tiền sử thi IELTS: ${intake.priorTesting || 'Chưa từng thi'}`
+    ];
+
+    // Bổ sung chi tiết điểm cũ nếu học sinh có điền
+    if (intake.priorScores && (intake.priorScores.overall || intake.priorScores.listening)) {
+      const p = intake.priorScores;
+      summaryLines.push(`  + Điểm thi cũ đã đạt: Overall ${p.overall || 'N/A'} (L: ${p.listening || 'N/A'}, R: ${p.reading || 'N/A'}, W: ${p.writing || 'N/A'}, S: ${p.speaking || 'N/A'})`);
+    }
+
+    summaryLines.push(
+      `- Kinh nghiệm học IELTS: ${intake.ieltsExperience || 'Mới bắt đầu tìm hiểu'}`,
+      `- Mục đích lấy bằng IELTS: ${intake.purpose || 'Xét tuyển Đại học Top đầu'}`,
+      `- Hạn chót cần bằng (Deadline): ${intake.deadline || '4 - 6 tháng (Chuẩn)'}`,
+      `- Kỹ năng tự ti / sợ nhất: ${intake.fearedSkill || 'Writing (Bí ý tưởng, sợ viết)'}`,
+      `- Quỹ thời gian tự cày BTVN: ${intake.dailyStudyHours || '1.5 tiếng/ngày'}`,
+      `- Bài thi gốc đã làm: ${recentDiag.testTitle || 'Diagnostic Test 1'} (Thời gian làm: ${recentDiag.timeSpent || 'N/A'})`,
       `- Điểm số chi tiết: Ngữ pháp ${det.gScore || 'N/A'}, Nghe ${det.lScore || 'N/A'}, Đọc ${det.rScore || 'N/A'}, Viết Band ${det.wBand || 'N/A'}, Nói Band ${det.sBand || 'N/A'}`,
       `- Điểm tổng hợp chẩn đoán: ${recentDiag.score || det.overallScore || 'N/A'}`
-    ];
+    );
 
     if (Array.isArray(det.gWrongList) && det.gWrongList.length > 0) {
       summaryLines.push(`- Lỗi sai Ngữ pháp: ${det.gWrongList.map(w => `Câu ${w.num} (${w.explanation || w.topic || ''})`).join('; ')}`);
@@ -230,7 +260,7 @@ export class UIRoadmapRenderer {
     if (det.wt2Text) {
       summaryLines.push(`- Bài viết Task 2: ${det.wt2Text}`);
     } else {
-      summaryLines.push(`- Bài viết Task 2: (Học sinh bỏ trắng hoàn toàn 0 từ - Cần đặc trị)`);
+      summaryLines.push(`- Bài viết Task 2: (Học sinh bỏ trắng hoàn toàn 0 từ - Cần đặc trị tâm lý sợ viết)`);
     }
 
     const synthesizedPrompt = summaryLines.join('\n');
@@ -281,11 +311,14 @@ export class UIRoadmapRenderer {
         startB = parseFloat(result.estimated_band);
       }
 
-      // Khóa Target Band theo lựa chọn thực tế của giáo viên hoặc AI
+      // 🔴 KHÓA CHẾT TARGET BAND: Ưu tiên số 1 lấy từ hồ sơ học sinh chọn hoặc dropdown Giáo viên
       let targetB = 7.0;
       const targetMatch = text.match(/Target\s*Band[:\s]*([0-9.]+)/i);
+      const dropdownTarget = document.getElementById('matrixTargetBandSelect')?.value;
       if (targetMatch && parseFloat(targetMatch[1]) > 0) {
         targetB = Math.min(7.5, parseFloat(targetMatch[1]));
+      } else if (dropdownTarget && parseFloat(dropdownTarget) > 0) {
+        targetB = Math.min(7.5, parseFloat(dropdownTarget));
       } else if (!isNaN(parseFloat(result.target_band)) && parseFloat(result.target_band) > 0) {
         targetB = Math.min(7.5, parseFloat(result.target_band));
       }
@@ -470,7 +503,6 @@ export class UIRoadmapRenderer {
       if (diagAttempts.length === 0) return null;
 
       // 🔴 BƯỚC 2: Sắp xếp theo thứ tự thời gian chuẩn xác 100% bằng cách rút trích mili-giây từ ID
-      // (Ví dụ: id = "diag_attempt_1794323657457" -> lấy số 1794323657457)
       const extractTimestamp = (att) => {
         const idMatch = String(att?.id || '').match(/\d{10,15}/);
         if (idMatch) return parseInt(idMatch[0], 10);
