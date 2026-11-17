@@ -1,0 +1,280 @@
+{
+  "title": "Bài sưu tầm 224 - Passage 2: Restoring Europe’s Native Oyster Reefs",
+  "answers": {
+    "q14": "B",
+    "q15": "F",
+    "q16": "D",
+    "q17": "E",
+    "q18": "C",
+    "q19": "B",
+    "q20": "C",
+    "q21": "fees",
+    "q22": "nets",
+    "q23": "credits",
+    "q24": "sinks",
+    "q25": "nitrogen",
+    "q26": "costs"
+  },
+  "passageHtml": "<h2>READING PASSAGE 224</h2><h3>Restoring Europe’s Native Oyster Reefs</h3><p><strong>Paragraph A.</strong> Until the mid-nineteenth century, the European flat oyster (<em>Ostrea edulis</em>) was far more than a coastal delicacy. Across the shallow waters of the North Sea, vast populations of these shellfish grew on top of one another over generations, building solid, three-dimensional reefs that collectively covered an area larger than Wales. By slowing seabed currents and trapping fine particles, these living structures stabilized the ocean floor, sheltered young fish, and filtered huge volumes of murky water every day. However, decades of intensive mechanical dredging, coastal pollution, and parasite outbreaks wiped out roughly ninety-five percent of these reefs within a century, leaving behind flat, shifting plains of bare mud.</p><p><strong>Paragraph B.</strong> Early attempts to bring the shellfish back during the 1980s and 1990s were surprisingly unsuccessful. Conservationists initially assumed that simply releasing millions of hatchery-grown young oysters onto historic fishing grounds would restart reef formation. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">In trial after trial, however, the young shellfish quickly sank into the loose silt and suffocated, or were swept away by winter storms. Marine ecologist Dr. Hannah Lindqvist points out that drifting oyster larvae need a firm, clean surface—ideally the shells of older oysters—before they can settle and grow. Without an existing hard foundation, new arrivals had nothing to anchor to, creating a biological catch-22: reefs could not build up without old shells, yet shells could not accumulate while the seabed remained bare mud.</span></p><p><strong>Paragraph C.</strong> To break this deadlock, coastal engineers and biologists began constructing artificial reef bases. In a pilot project off the Dutch coast, teams lowered grids of limestone boulders and crushed scallop shells onto bare seabed plots before releasing larvae. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Other initiatives experimented with biodegradable lattice frames made from potato-starch waste, which temporarily shield young oysters from hungry crabs and starfish before dissolving cleanly once the shellfish fuse into a self-supporting crust.</span> <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">Monitoring over four years showed survival rates jumping from under five percent on bare mud to nearly sixty percent on prepared mineral beds.</span></p><p><strong>Paragraph D.</strong> Remarkably, researchers soon realized that physical surfaces were only half the battle. In laboratory tanks and sheltered bays, marine biologist Dr. Matteo Conti noticed that free-swimming oyster larvae did not drift at random; instead, they actively swam toward particular underwater soundscapes. Healthy reefs hum with the snapping of pistol shrimp, the low grunts of fish, and the crackling of feeding crabs. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">When Conti’s team placed underwater speakers broadcasting recordings of thriving reefs onto silent, newly laid stone beds, settlement rates doubled compared with identical beds left in silence.</span> <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Acoustic cues, it turns out, act as an underwater beacon guiding drifting larvae home from kilometres away.</span></p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Despite promising field results, scaling restoration from small research plots to hundreds of square kilometres faces tangled regulatory hurdles. Across much of Europe, historical marine laws classify oysters strictly as a commercial fishery resource rather than a protected habitat-forming species. As a result, conservation charities seeking seabed leases for non-harvest restoration frequently encounter the same licensing delays and <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\"><span class=\"kw\">fees</span></span> imposed on profit-making shellfish farms.</span> Furthermore, some commercial trawler associations have lobbied against expanding reef zones, fearing that rocky restoration beds will snag fishing <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\"><span class=\"kw\">nets</span></span> and shrink profitable trawling grounds.</p><p><strong>Paragraph F.</strong> Securing long-term funding presents an equally stubborn barrier. Unlike terrestrial tree-planting schemes, which attract corporate sponsorship through standardized carbon-offset <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\"><span class=\"kw\">credits</span></span>, oyster reefs offer complex ecological returns that resist simple accounting. While oysters lock small amounts of calcium carbonate into their shells, chemical reactions during shell formation simultaneously release carbon dioxide back into seawater, meaning scientists disagree on whether reefs qualify as net carbon <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\"><span class=\"kw\">sinks</span></span>. Consequently, <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">conservationists argue that public financing should reward reefs for their proven ability to strip excess agricultural <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\"><span class=\"kw\">nitrogen</span></span> from coastal waters—a service that reduces toxic algal blooms far more cheaply than upgrading coastal sewage plants.</span></p><p><strong>Paragraph G.</strong> Looking ahead, several North Sea municipalities are testing an approach that embeds oyster restoration directly into coastal flood defences. Rather than pouring vast walls of concrete to resist rising storm surges, Dutch and British planners are placing reef-seeded rock aprons in front of ageing sea dykes. As waves pass over the rough, living oyster ridges, their destructive energy drops measurably before reaching the shore, cutting maintenance <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\"><span class=\"kw\">costs</span></span> on concrete barriers while reviving coastal biodiversity. For ecologists like Lindqvist, the lesson is clear: repairing damaged seas may rely less on isolating nature behind fences than on letting living reefs perform practical civic work.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–18",
+      "instructions": "<i>Reading Passage 224 has seven sections, <b>A–G</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–G</b>, in boxes 14–18 on your answer sheet.</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq_two",
+      "skillTag": "MCQ_TWO",
+      "title": "Questions 19–20",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Write the correct letters in boxes 19 and 20 on your answer sheet.<br><br>Which <b>TWO</b> statements about oyster reef restoration are supported by the passage?</i>",
+      "questionIds": [
+        "q19",
+        "q20"
+      ],
+      "options": [
+        "A. Early attempts in the late twentieth century failed mainly because of severe industrial water pollution.",
+        "B. Artificial mineral beds raised the survival rates of young oysters more than tenfold compared with bare mud.",
+        "C. Broadcasting recorded reef sounds doubled the number of larvae attaching to stone surfaces.",
+        "D. Potato-starch frames are designed to remain permanently on the seabed to reinforce the reef.",
+        "E. All European scientists now agree that oyster reefs absorb more carbon dioxide than they release."
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 21–26",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 21–26 on your answer sheet.</i>",
+      "summaryTitle": "Obstacles to Scaling Up Oyster Restoration",
+      "questionIds": [
+        "q21",
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<p>Expanding restoration beyond small trial sites remains difficult for both legal and economic reasons. In several European countries, current regulations treat oysters purely as a food harvest, forcing non-profit groups seeking seabed access to pay the same <b>21.</b> {{q21}} as commercial operators. Meanwhile, some fishing groups worry that restored rock structures could damage their <b>22.</b> {{q22}} and reduce profitable catches.</p><p>Raising private money is also challenging because, unlike woodland projects, oyster beds do not easily generate tradable <b>23.</b> {{q23}} for corporate sponsors. Researchers remain divided over whether reefs absorb enough greenhouse gas to act as genuine <b>24.</b> {{q24}}, since shell growth also releases CO2. Advocates therefore urge governments to fund reefs for removing excess <b>25.</b> {{q25}} washed off farmland. Encouragingly, some coastal towns are already placing reef-covered rocks beside flood barriers, which lowers repair <b>26.</b> {{q26}} for concrete sea defences while boosting wildlife.</p>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "a biological obstacle that prevented self-recovery even when organisms were reintroduced",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Giải thích vòng luẩn quẩn sinh học (<i>biological catch-22</i>): thả hàu non xuống đáy bùn thất bại vì ấu trùng không có vỏ hàu trưởng thành để bám, nên rạn tự nhiên không thể tự phục hồi.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "a financial comparison between restoring marine beds and building land-based infrastructure",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> So sánh chi phí xử lý nitơ của rạn hàu rẻ hơn nhiều so với nâng cấp nhà máy xử lý nước thải ven bờ (<i>far more cheaply than upgrading coastal sewage plants</i>).",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "evidence that sensory signals from established ecosystems attract young shellfish over long distances",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Thử nghiệm loa phát âm thanh rạn san hô/hàu khỏe mạnh giúp thu hút ấu trùng hàu trôi dạt từ cách xa hàng km (<i>Acoustic cues... guiding drifting larvae home from kilometres away</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "reasons why existing legal frameworks slow down conservation projects",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Luật biển cũ xếp hàu là thủy sản thương mại chứ không phải loài tạo sinh cảnh cần bảo tồn, khiến các tổ chức bảo tồn vướng chậm trễ giấy phép và lệ phí (<i>licensing delays and fees</i>).",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "a method using agricultural byproducts to protect shellfish temporarily from predators",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Dùng khung lưới tự hủy làm từ phụ phẩm tinh bột khoai tây (<i>potato-starch waste</i>) để che chắn tạm thời hàu non khỏi cua và sao biển (<i>temporarily shield young oysters from hungry crabs and starfish</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "B",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Tỷ lệ sống tăng từ dưới 5% trên nền bùn lên gần 60% trên nền đá khoáng nhân tạo (tăng hơn 10 lần — <i>more than tenfold</i>).",
+          "<b>Loại bẫy A, D, E:</b> A sai vì ô nhiễm là nguyên nhân suy giảm quá khứ (Đoạn A), không phải nguyên nhân thất bại thập niên 1980–90; D sai vì khung tinh bột tự tan; E sai vì các nhà khoa học vẫn bất đồng."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "C",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Phát âm thanh rạn khỏe mạnh bằng loa dưới nước làm tỷ lệ bám của ấu trùng tăng gấp đôi (<i>settlement rates doubled</i>).",
+          "<b>Kết luận:</b> Cặp đáp án đúng là <b>B</b> và <b>C</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "fees",
+      "inputWidth": "100px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...encounter the same licensing delays and fees imposed on profit-making shellfish farms.\"</i>",
+          "<b>Paraphrase:</b> <i>commercial operators</i> = <i>profit-making shellfish farms</i>; động từ <i>pay</i> đi với danh từ <b>fees</b> (gây nhiễu gần: <i>delays, leases</i>)."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "nets",
+      "inputWidth": "100px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...fearing that rocky restoration beds will snag fishing nets and shrink profitable trawling grounds.\"</i>",
+          "<b>Paraphrase:</b> <i>damage</i> = <i>snag</i>; bỏ chữ <i>fishing</i> trước chỗ trống để tránh bắt từ khóa mò. Từ cần điền: <b>nets</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": "credits",
+      "inputWidth": "100px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"Unlike terrestrial tree-planting schemes, which attract corporate sponsorship through standardized carbon-offset credits...\"</i>",
+          "<b>Paraphrase:</b> <i>woodland projects</i> = <i>tree-planting schemes</i>; <i>tradable</i> = <i>standardized carbon-offset</i>. Từ cần điền: <b>credits</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "sinks",
+      "inputWidth": "100px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"...meaning scientists disagree on whether reefs qualify as net carbon sinks.\"</i>",
+          "<b>Paraphrase:</b> <i>absorb enough greenhouse gas to act as</i> = <i>qualify as net carbon...</i> (ẩn chữ <i>carbon</i> để chống bắt từ khóa). Từ cần điền: <b>sinks</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "nitrogen",
+      "inputWidth": "110px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"...proven ability to strip excess agricultural nitrogen from coastal waters...\"</i>",
+          "<b>Paraphrase:</b> <i>removing</i> = <i>strip</i>; <i>washed off farmland</i> = <i>agricultural</i>. Từ cần điền: <b>nitrogen</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "costs",
+      "inputWidth": "100px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn G:</b> <i>\"...cutting maintenance costs on concrete barriers while reviving coastal biodiversity.\"</i>",
+          "<b>Paraphrase:</b> <i>lowers repair ___ for concrete sea defences</i> = <i>cutting maintenance costs on concrete barriers</i>. Từ cần điền: <b>costs</b>."
+        ]
+      }
+    }
+  }
+}

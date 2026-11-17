@@ -1,0 +1,280 @@
+{
+  "title": "Bài sưu tầm 228 - Passage 2: The Architecture of Sleep: Why Marine Mammals Rest Half a Brain",
+  "answers": {
+    "q14": "D",
+    "q15": "A",
+    "q16": "F",
+    "q17": "C",
+    "q18": "E",
+    "q19": "B",
+    "q20": "B",
+    "q21": "E",
+    "q22": "eye",
+    "q23": "pod",
+    "q24": "land",
+    "q25": "drowning",
+    "q26": "birds"
+  },
+  "passageHtml": "<h2>READING PASSAGE 228</h2><h3>The Architecture of Sleep: Why Marine Mammals Rest Half a Brain</h3><p><strong>Paragraph A.</strong> For land mammals, sleep requires surrendering awareness of the outside world for hours at a time. Yet for whales and dolphins, falling completely unconscious poses an immediate existential threat. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Unlike fish that extract dissolved oxygen through gills, cetaceans breathe air at the water's surface through a conscious muscular effort; losing total awareness would quickly lead to suffocation or predation in open water.</span></p><p><strong>Paragraph B.</strong> Evolution resolved this dilemma through a remarkable adaptation called unihemispheric slow-wave sleep. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">Brainwave recordings demonstrate that dolphins can put one half of their cerebral cortex into deep, restorative sleep while the opposite hemisphere remains fully awake.</span> <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Each half of the brain controls the opposite <span class=\"kw\">eye</span>, meaning that as one side rests, the corresponding lid closes while the other stays open to scan the water ahead.</span> After roughly two hours, the hemispheres swap roles.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Neuroethologist Dr. Oleg Lyamin tested whether this split-brain state compromises alertness over long stretches. Monitoring bottlenose dolphins continuously for five days, he found they maintained swimming speed and reacted accurately to visual signals without any sign of mental exhaustion.</span> <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Interestingly, dolphins swimming in groups consistently kept the open eye turned toward the rest of the <span class=\"kw\">pod</span>, suggesting that maintaining social contact is as vital as watching for sharks.</span></p><p><strong>Paragraph D.</strong> Not all marine mammals rely on half-brain rest exclusively. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">Northern fur seals display a striking behavioural switch depending on their surroundings: <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">when hauled out safely on <span class=\"kw\">land</span>, they sleep with both brain hemispheres simultaneously just like dogs or humans.</span></span> Once they enter the ocean for months-long foraging trips, however, they float on one side with a flipper paddling slowly, shifting immediately into unihemispheric mode until they return ashore.</p><p><strong>Paragraph E.</strong> Another puzzle concerns rapid eye movement (REM) sleep—the dreaming stage accompanied by temporary muscle paralysis in humans. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Researchers have struggled to detect clear REM signatures in captive dolphins, likely because full-body <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">relaxation at sea would result in <span class=\"kw\">drowning</span></span>.</span> Some biologists suspect brief nocturnal muscle twitches observed in resting whales may represent a compressed substitute for REM, though others argue cetaceans abandoned that stage altogether millions of years ago.</p><p><strong>Paragraph F.</strong> Remarkably, half-brain sleep is not confined to the oceans. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Lightweight brain sensors attached to great frigatebirds crossing the Pacific revealed that they too shut down one hemisphere mid-flight while soaring on thermal updrafts.</span> Yet a crucial difference remains: <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">these airborne <span class=\"kw\">birds</span> snatch less than an hour of total rest per day while aloft, catching up on deep bilateral sleep once they reach an island perch, whereas dolphins operate permanently on split-brain cycles.</span></p><p><strong>Paragraph G.</strong> <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\"><span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">Studying how one half of a dolphin's brain clears cellular waste without halting vital movement has drawn interest from human sleep clinics. While human night-shift workers suffer severe cognitive impairment when forced to stay awake, marine mammals appear to avoid toxin buildup through rhythmic hemispheric alternation.</span></span> Researchers hope that decoding this internal housekeeping mechanism could eventually inspire treatments for chronic sleep deprivation, though translating an aquatic adaptation to human neurology remains a distant goal.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–19",
+      "instructions": "<i>Reading Passage 228 has seven sections, <b>A–G</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–G</b>, in boxes 14–19 on your answer sheet.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18",
+        "q19"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq_two",
+      "skillTag": "MCQ_TWO",
+      "title": "Questions 20–21",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Write the correct letters in boxes 20 and 21 on your answer sheet.</i><br><br>Which <b>TWO</b> claims are made about unihemispheric sleep and human research in Section G?",
+      "options": [
+        "A. Human shift workers already use brief half-brain naps successfully.",
+        "B. Dolphins manage to remove biological waste while remaining partly active.",
+        "C. Marine mammal sleep patterns have already cured severe insomnia in trials.",
+        "D. Halting all physical movement is essential for human brain detoxification.",
+        "E. Adapting this marine mechanism to human medicine is still far from practical use."
+      ],
+      "questionIds": [
+        "q20",
+        "q21"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 22–26",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 22–26 on your answer sheet.</i>",
+      "summaryTitle": "Comparing Sleep Across Species",
+      "questionIds": [
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<p>During unihemispheric sleep, a dolphin rests one side of its brain while keeping the opposite <b>22.</b> {{q22}} open to monitor its surroundings. Experiments showed that dolphins travelling together prefer to face their companions within the <b>23.</b> {{q23}} , highlighting the importance of group cohesion. Unlike dolphins, fur seals alternate between two sleep styles, resting both halves of the brain whenever they are on <b>24.</b> {{q24}} . Meanwhile, cetaceans appear to lack standard dreaming sleep because total muscular paralysis would risk <b>25.</b> {{q25}} . Although certain seabirds share this half-brain ability while flying, those <b>26.</b> {{q26}} sleep far less in the air than they do after landing.</p>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "an animal that alters its sleeping method according to its physical location",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Hải cẩu lông phương Bắc ngủ cả 2 bán cầu khi lên cạn, nhưng chuyển ngay sang ngủ 1 bán cầu khi ra biển.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "the biological reason why total unconsciousness is hazardous for whales",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Cá voi phải chủ động nổi lên thở không khí bằng nỗ lực cơ bắp; mất ý thức hoàn toàn sẽ dẫn tới ngạt thở.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "a comparison showing differences in daily rest duration between flying and swimming species",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Chim cướp biển ngủ chưa tới 1 tiếng mỗi ngày khi bay (rồi ngủ bù khi đậu), khác với cá heo dùng ngủ nửa não vĩnh viễn.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "experimental proof that continuous swimming with split sleep does not impair alertness",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Thí nghiệm 5 ngày liên tục của Dr. Oleg Lyamin cho thấy cá heo giữ nguyên tốc độ và phản xạ tín hiệu thị giác không suy giảm.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "uncertainty over whether a particular stage of sleep exists at all in cetaceans",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Tranh cãi xem các cơn giật cơ ban đêm có phải là dạng REM rút gọn hay cá heo đã bỏ hẳn giai đoạn REM.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "an explanation of how brain measurements reveal simultaneous rest and wakefulness",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"Brainwave recordings demonstrate that dolphins can put one half... into deep, restorative sleep while the opposite hemisphere remains fully awake.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "B",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn G:</b> Cá voi/cá heo đào thải chất thải tế bào qua luân phiên bán cầu mà vẫn duy trì vận động (<i>clears cellular waste without halting vital movement</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b> (trong cặp B, E)."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "E",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn G:</b> <i>\"translating an aquatic adaptation to human neurology remains a distant goal.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>E</b> (trong cặp B, E)."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "eye",
+      "inputWidth": "100px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"Each half of the brain controls the opposite eye... while the other stays open...\"</i>",
+          "<b>Từ cần điền:</b> <b>eye</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": "pod",
+      "inputWidth": "100px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"kept the open eye turned toward the rest of the pod\"</i> (<i>their companions</i> ↔ <i>the rest of</i>).",
+          "<b>Từ cần điền:</b> <b>pod</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "land",
+      "inputWidth": "100px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"when hauled out safely on land, they sleep with both brain hemispheres simultaneously\"</i>.",
+          "<b>Từ cần điền:</b> <b>land</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "drowning",
+      "inputWidth": "110px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"full-body relaxation at sea would result in drowning\"</i> (<i>would risk</i> ↔ <i>would result in</i>).",
+          "<b>Từ cần điền:</b> <b>drowning</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "birds",
+      "inputWidth": "100px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"these airborne birds snatch less than an hour of total rest per day while aloft\"</i> (<i>while flying</i> ↔ <i>while aloft / airborne</i>).",
+          "<b>Từ cần điền:</b> <b>birds</b>."
+        ]
+      }
+    }
+  }
+}

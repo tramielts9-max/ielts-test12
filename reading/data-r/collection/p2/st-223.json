@@ -1,0 +1,276 @@
+{
+  "title": "Bài sưu tầm 223 - Passage 2: Listening to Glaciers: The Acoustics of Melting Ice",
+  "answers": {
+    "q14": "B",
+    "q15": "E",
+    "q16": "A",
+    "q17": "F",
+    "q18": "C",
+    "q19": "D",
+    "q20": "B",
+    "q21": "D",
+    "q22": "bubbles",
+    "q23": "friction",
+    "q24": "meltwater",
+    "q25": "depth",
+    "q26": "satellite"
+  },
+  "passageHtml": "<h2>READING PASSAGE 223</h2><h3>Listening to Glaciers: The Acoustics of Melting Ice</h3><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">High above the polar ice sheets, Earth-observing cameras look down from orbit, tracking where white ice edges retreat year after year. Yet those overhead images reveal little about what happens out of sight—at the freezing boundary where millions of tonnes of ice slide across bedrock or melt inside dark undersea cavities. Drilling boreholes straight down through kilometres of shifting ice is slow, costly, and risky for equipment.</span> To peer beneath the frozen crust without breaking it, glaciologists are increasingly swapping drills for acoustic sensors, turning passive sound recording into a window on ice collapse.</p><p><strong>Paragraph B.</strong> To the untrained ear, a polar fjord sounds deceptively tranquil, broken only by the occasional thunder of an iceberg snapping off a cliff. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">In reality, glacier fronts are among the noisiest natural underwater environments on the planet.</span> <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">As falling snow compresses into glacial ice over centuries, tiny pockets of ancient air become trapped under immense weight. When warm ocean currents eat away at the submerged base of a glacier, those compressed <span class=\"kw\">bubbles</span> burst violently into the sea, producing a steady, high-pitched sizzle louder than heavy rain on a metal roof.</span> By measuring the volume of that crackling chorus, scientists can estimate underwater melting rates far more precisely than surface photos allow.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\"><span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Deeper inland, away from ocean waves, acoustic sensors pick up a very different soundscape: the low, rhythmic groaning of ice grinding across rock. Moving glaciers do not glide effortlessly; basal <span class=\"kw\">friction</span> holds the bottom layer back until built-up tension triggers sudden micro-quakes that jolt the ice forward a few centimetres at a time.</span></span> <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">In summer, when surface <span class=\"kw\">meltwater</span> drains down vertical shafts to the glacier floor, it acts like a lubricant, reducing resistance and causing the deep rumbling signals to spike sharply.</span> Tracking these seismic hums tells researchers almost immediately when a glacier begins accelerating toward the sea.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">In western Greenland, glaciologist Dr. Sofia Lindberg spent four winters deploying a network of acoustic listening posts along the Sermeq Kujalleq fjord.</span> Rather than anchoring delicate recorders directly beside tumbling ice cliffs—where falling blocks routinely crush instruments—<span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">her team moored steel frames at a safe <span class=\"kw\">depth</span> far below the reach of drifting icebergs</span>. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">However, analysing the recordings posed an unexpected hurdle: harsh polar winds and cracking sea ice generated low-frequency background booms that closely resembled glacial movement, while thick winter sea ice prevented supply ships from reaching the sensors for eight months of the year to collect stored data.</span></p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Listening beneath the waves has also revealed a surprising link between glacier noise and Arctic wildlife.</span> In early spring, ringed seals and narwhals congregate just metres away from roaring underwater ice walls. Hydrophone arrays in Svalbard showed that <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">rapidly melting tidewater fronts release plumes of freshwater that stir deep, nutrient-rich layers up to the surface, attracting dense swarms of krill and polar cod—making the noisy glacier face a vital seasonal feeding ground despite the deafening racket.</span></p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Looking forward, polar engineers are pairing underwater microphones with automated <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\"><span class=\"kw\">satellite</span> relays</span> embedded inside drifting surface buoys, allowing melting alerts to reach climate laboratories within hours rather than years.</span> Because <span class=\"hl\" id=\"hl-q26-ref\" data-q=\"[Q26]\">remote orbital imaging alone can overlook hidden undersea erosion</span> until an entire ice shelf suddenly gives way, listening to the hidden creaks and crackles of ice may provide coastal cities with crucial extra warning of future sea-level rise.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–19",
+      "instructions": "<i>Reading Passage 223 has six sections, <b>A–F</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–F</b>, in boxes 14–19 on your answer sheet.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18",
+        "q19"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq_two",
+      "skillTag": "MCQ_TWO",
+      "title": "Questions 20–21",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Write the correct letters in boxes 20 and 21 on your answer sheet.</i><br><br>Which <b>TWO</b> findings or challenges from polar acoustic monitoring are mentioned in the passage?",
+      "options": [
+        "A. Underwater recorders are too fragile to function in sub-zero ocean temperatures.",
+        "B. Frozen ocean surfaces can block researchers from retrieving data for much of the year.",
+        "C. Passing commercial cargo ships create more underwater noise than melting ice cliffs.",
+        "D. Rising plumes near noisy melting glaciers bring prey species closer to the surface for predators.",
+        "E. Acoustic sensors have completely replaced all orbital camera monitoring across Greenland."
+      ],
+      "questionIds": [
+        "q20",
+        "q21"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 22–26",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 22–26 on your answer sheet.</i>",
+      "summaryTitle": "Decoding Ice Movement Through Sound",
+      "questionIds": [
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<p>Researchers measure underwater glacier melt by recording the sharp hissing produced when pressurised air <b>22.</b> {{q22}} escape from dissolving ice. Further inland, sensors capture deep vibrations caused when stone and ice resist one another through basal <b>23.</b> {{q23}} . During warmer months, this movement speeds up after surface <b>24.</b> {{q24}} flows down to reduce resistance against the rock below.</p><p>To prevent passing icebergs from damaging delicate equipment, Dr. Sofia Lindberg secured her listening posts at a protected <b>25.</b> {{q25}} on the seabed. Future stations will transmit findings quickly via <b>26.</b> {{q26}} connections so scientists do not have to rely solely on overhead photographs.</p>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "a reason why melting underwater glacier edges generate unexpectedly intense sound",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Giải thích tuy nghe yên tĩnh nhưng chân sông băng dưới nước cực ồn do hàng triệu bọt khí nén lâu năm vỡ tung khi băng tan.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "an explanation of why marine mammals gather near loud glacial walls",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Hải cẩu và kỳ lân biển tụ tập gần vách băng ồn ào vì dòng nước ngọt tan chảy đẩy dinh dưỡng lên thu hút nhuyễn thể và cá tuyết.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "limitations of existing visual and physical methods for studying hidden ice loss",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Nêu hạn chế của camera vệ tinh (không thấy bên dưới) và khoan băng (chậm, tốn kém, dễ hỏng thiết bị).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "a future system designed to speed up the delivery of warning data to researchers",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Kết hợp micro dưới nước với phao truyền tin vệ tinh tự động để gửi cảnh báo trong vài giờ thay vì chờ nhiều năm.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "an account of how seasonal warming alters the speed of ice sliding over land",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Vào mùa hè nước tan từ bề mặt chảy xuống đáy đóng vai trò chất bôi trơn làm giảm ma sát, khiến sông băng trượt nhanh hơn.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "a practical way of positioning instruments to avoid physical collision with floating ice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Nhóm Lindberg neo khung thép ở độ sâu an toàn nằm dưới tầm va chạm của các tảng băng trôi.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Selection 1 (Questions 20–21)",
+      "finalAnswer": "B",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>thick winter sea ice prevented supply ships from reaching the sensors for eight months of the year to collect stored data</i> ↔ <b>B</b> (Băng biển mùa đông chặn tàu tiếp cận lấy dữ liệu trong phần lớn thời gian năm). (Bẫy: A sai vì hỏng là do băng rơi va đập chứ không phải do nhiệt độ lạnh; C không nhắc tàu thương mại; E sai vì chỉ bổ trợ chứ không thay thế hoàn toàn camera vệ tinh).",
+          "<b>Kết luận:</b> Chọn <b>B</b> (và <b>D</b>)."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Selection 2 (Questions 20–21)",
+      "finalAnswer": "D",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>plumes of freshwater that stir deep, nutrient-rich layers up to the surface, attracting dense swarms of krill and polar cod</i> (thu hút hải cẩu và kỳ lân biển) ↔ <b>D</b>.",
+          "<b>Kết luận:</b> Chọn <b>D</b> (cùng với <b>B</b>)."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "bubbles",
+      "inputWidth": "110px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>pressurised air ... escape</i> = <i>compressed <b>bubbles</b> burst violently</i>.",
+          "<b>Từ cần điền:</b> <b>bubbles</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": "friction",
+      "inputWidth": "110px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>stone and ice resist one another through basal <b>friction</b></i>.",
+          "<b>Từ cần điền:</b> <b>friction</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "meltwater",
+      "inputWidth": "120px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>During warmer months</i> = <i>In summer</i>; <i>surface <b>meltwater</b> drains down</i>.",
+          "<b>Từ cần điền:</b> <b>meltwater</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "depth",
+      "inputWidth": "100px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>secured ... at a protected</i> = <i>moored steel frames at a safe <b>depth</b></i>.",
+          "<b>Từ cần điền:</b> <b>depth</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "satellite",
+      "inputWidth": "120px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>transmit findings quickly via <b>satellite</b> relays</i>.",
+          "<b>Từ cần điền:</b> <b>satellite</b>."
+        ]
+      }
+    }
+  }
+}

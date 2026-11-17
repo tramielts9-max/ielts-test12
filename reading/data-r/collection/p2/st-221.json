@@ -1,0 +1,287 @@
+{
+  "title": "Bài sưu tầm 221 - Passage 2: Restoring Europe's Lost Oyster Reefs",
+  "answers": {
+    "q14": "A",
+    "q15": "C",
+    "q16": "E",
+    "q17": "F",
+    "q18": "limestone",
+    "q19": "shell",
+    "q20": "microphones",
+    "q21": "oxygen",
+    "q22": "C",
+    "q23": "D",
+    "q24": "A",
+    "q25": "B",
+    "q26": "D"
+  },
+  "passageHtml": "<h2>READING PASSAGE 221</h2><h3>Restoring Europe's Lost Oyster Reefs</h3><p><strong>Paragraph A.</strong> For thousands of years, the shallow seabed of the North Sea looked very different from the flat, sandy plains visible to modern divers. Stretching across hundreds of square kilometres off the coasts of Britain, Denmark, and the Netherlands were towering underwater ridges formed by European flat oysters. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">Built up over millennia as generations of shellfish cemented themselves onto the empty cases of their ancestors, these solid reef mounds were tough enough to withstand fierce winter gales. Yet when steam-powered fishing vessels began dragging heavy iron dredges across the seafloor in the late nineteenth century, those ancient formations were scraped bare within barely two human generations.</span> By the 1950s, the reefs had effectively disappeared from Northern European waters, leaving behind shifting mud that few species could anchor to.</p><p><strong>Paragraph B.</strong> Marine ecologists now argue that bringing back these shellfish beds is essential not only for seafood stocks, but for the health of entire coastlines. <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">Dr. Henrik Solberg, a coastal biologist in Oslo, points out that a single adult oyster can pump roughly 150 litres of seawater through its gills every day, trapping suspended silt and excess agricultural nutrients. His historical calculations indicate that nineteenth-century populations were dense enough to clean the water column of an entire coastal bay every few days.</span> Without these living filters, modern estuaries frequently suffer from murky water and seasonal algae blooms that rob deeper layers of life-supporting air.</p><p><strong>Paragraph C.</strong> Rebuilding a reef from scratch, however, is far harder than simply scattering young oysters overboard. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">During their brief free-swimming phase, newly hatched larvae drift through open currents until they locate a firm, clean surface to latch onto; if they settle onto soft, shifting silt, they quickly suffocate.</span> Even when hard rocks are provided, hatchery-raised juveniles frequently refuse to attach. <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Research led by Prof. Claire Beaumont at the University of Plymouth revealed that drifting larvae do not settle at random: they listen for faint crackling noises produced by reef-dwelling crabs and follow subtle chemical trails given off by older oysters already established on the seabed.</span> Bare concrete blocks, lacking both sound and scent, rarely attract new arrivals.</p><p><strong>Paragraph D.</strong> To overcome this barrier, engineers have begun designing reef starters that mimic natural habitats. Off the busy port of Rotterdam, marine researcher Dr. Matteo Conti supervised a three-year pilot along the edge of a major shipping channel. Rather than pouring loose gravel onto the mud, <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Conti's crew lowered heavy recycled <span class=\"kw\">limestone</span> blocks</span> onto the seabed, <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">each coated in a rough paste containing crushed <span class=\"kw\">shell</span> grit</span> to replicate the texture and chemistry of an old reef. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Instead of disturbing the beds with frequent net sweeps, the team mounted underwater <span class=\"kw\">microphones</span> near the test site to monitor returning wildlife by sound alone.</span> After thirty months, <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">water samples taken beside the blocks showed noticeably higher <span class=\"kw\">oxygen</span> levels</span>, while divers counted dozens of juvenile cod sheltering inside the narrow gaps.</p><p><strong>Paragraph E.</strong> Coastal planners are also rethinking how oyster beds protect shorelines from flooding. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">For decades, civil engineers assumed that natural reefs worked like submerged sea walls, physically blocking incoming swells through sheer height. Dr. Nina Lindqvist, who studies coastal wave physics in Gothenburg, has shown that this picture is misleading. In wave-tank experiments, rough, branching oyster clusters gradually drained energy from passing waves through friction inside their porous structure, cutting shore-hitting force by nearly forty percent without requiring towering walls.</span> <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">More importantly, unlike rigid concrete barriers that eventually sit too low as global tides climb, a healthy living bed adds fresh layers each year, rising naturally alongside the sea.</span></p><p><strong>Paragraph F.</strong> Despite encouraging trial results, scaling up restoration across Europe remains painfully slow. Commercial shellfish farms possess the boats and breeding know-how needed for large projects, yet few are willing to bid for government tenders. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Under current marine rules, contractors often face heavy financial penalties if unexpected storms or heatwaves wipe out young stocks, and public funds are frequently withheld until independent audits verify reef survival three to five years later.</span> <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Prof. Beaumont suggests splitting restoration budgets into smaller milestone payments tied to early hatchery output so modest family-run nurseries can participate without risking bankruptcy.</span></p><p><strong>Paragraph G.</strong> Ultimately, scientists warn against treating oyster reefs as a standalone cure for damaged seas. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">Reflecting on his Rotterdam findings, Dr. Conti emphasizes that dropping stone and shells into coastal bays accomplishes very little if polluted runoff from inland farms and untreated city drains continues pouring downstream.</span> Restoring ancient reefs, he notes, can only succeed when governments clean up the rivers that feed the coast.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–17",
+      "instructions": "<i>Reading Passage 221 has seven sections, <b>A–G</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–G</b>, in boxes 14–17 on your answer sheet.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 18–21",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 18–21 on your answer sheet.</i>",
+      "summaryTitle": "Testing Artificial Reef Foundations in Rotterdam",
+      "questionIds": [
+        "q18",
+        "q19",
+        "q20",
+        "q21"
+      ],
+      "template": "<p>Near a busy marine transport route in Rotterdam, Dr. Matteo Conti's team placed heavy slabs made of <b>18.</b> {{q18}} onto the sea floor. Each block was covered with a gritty mixture made from ground <b>19.</b> {{q19}} so that it felt similar to a natural reef surface.</p><p>To track returning marine life without disturbing the habitat, researchers listened for reef sounds using submerged <b>20.</b> {{q20}} . Subsequent measurements showed improved <b>21.</b> {{q21}} concentrations in the surrounding water, along with young fish using the gaps for shelter.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "matching_names",
+      "skillTag": "MATCH_FEATURES",
+      "title": "Questions 22–26",
+      "instructions": "<i>Look at the following statements (Questions 22–26) and the list of researchers below.<br>Match each statement with the correct person, <b>A–D</b>.<br>Write the correct letter, <b>A–D</b>, in boxes 22–26 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>List of Researchers:</b><br><b>A.</b> Dr. Henrik Solberg<br><b>B.</b> Dr. Matteo Conti<br><b>C.</b> Dr. Nina Lindqvist<br><b>D.</b> Prof. Claire Beaumont",
+      "questionIds": [
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "a contrast between the physical toughness of an ancient structure and how fast modern methods erased it",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Đối lập giữa việc các gò rạn đủ cứng cáp tồn tại hàng thiên niên kỷ trước bão mùa đông (<i>tough enough to withstand fierce winter gales</i>) với việc tàu hơi nước cào sạch chúng chỉ trong khoảng hai thế hệ (<i>scraped bare within barely two human generations</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "an explanation of why laboratory-bred young shellfish often fail to settle on bare seabed mud",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Giải thích ấu trùng cần bề mặt cứng và tín hiệu âm thanh/hóa học; nếu rơi xuống bùn mềm sẽ bị ngạt (<i>settle onto soft, shifting silt, they quickly suffocate</i>) và đá trơn thiếu mùi/tiếng động thì không thu hút được chúng.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "a mistaken belief about how marine structures reduce the force of coastal waves",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Các kỹ sư từng hiểu nhầm rằng rạn hàu chắn sóng như tường cứng (<i>assumed that natural reefs worked like submerged sea walls</i>), nhưng Lindqvist chứng minh thực ra chúng tiêu tán năng lượng từ từ qua ma sát trong cấu trúc rỗng.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "financial and legal barriers that discourage private aquaculture firms from joining reef projects",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Nêu rào cản tiền phạt rủi ro thời tiết và việc chậm giải ngân 3–5 năm khiến các trại nuôi thương mại ngại đấu thầu dự án.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "limestone",
+      "inputWidth": "120px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>heavy slabs</i> = <i>blocks</i>; <i>marine transport route</i> = <i>shipping channel</i> → <i>lowered heavy recycled <b>limestone</b> blocks</i>.",
+          "<b>Từ cần điền:</b> <b>limestone</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "shell",
+      "inputWidth": "100px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>ground</i> = <i>crushed</i>; <i>covered with a gritty mixture</i> = <i>coated in a rough paste containing crushed <b>shell</b> grit</i>.",
+          "<b>Từ cần điền:</b> <b>shell</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "microphones",
+      "inputWidth": "130px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>submerged</i> = <i>underwater</i>; <i>listened for reef sounds</i> = <i>monitor returning wildlife by sound alone</i> → <i>mounted underwater <b>microphones</b></i>.",
+          "<b>Từ cần điền:</b> <b>microphones</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "oxygen",
+      "inputWidth": "110px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>improved ... concentrations</i> = <i>noticeably higher <b>oxygen</b> levels</i>.",
+          "<b>Từ cần điền:</b> <b>oxygen</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Living reefs offer a long-term advantage over man-made barriers because they can grow taller when oceans rise.",
+      "options": [
+        "A. Dr. Henrik Solberg",
+        "B. Dr. Matteo Conti",
+        "C. Dr. Nina Lindqvist",
+        "D. Prof. Claire Beaumont"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E (Dr. Nina Lindqvist):</b> <i>unlike rigid concrete barriers... a healthy living bed adds fresh layers each year, rising naturally alongside the sea</i>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Payment schedules should reward early progress so smaller nurseries can afford to join restoration work.",
+      "options": [
+        "A. Dr. Henrik Solberg",
+        "B. Dr. Matteo Conti",
+        "C. Dr. Nina Lindqvist",
+        "D. Prof. Claire Beaumont"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F (Prof. Claire Beaumont):</b> Đề xuất chia ngân sách thành nhiều đợt trả theo tiến độ sớm để các trại giống gia đình quy mô nhỏ không bị kiệt quệ tài chính.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Improving coastal water clarity depends heavily on restoring the sheer density of filter-feeding populations.",
+      "options": [
+        "A. Dr. Henrik Solberg",
+        "B. Dr. Matteo Conti",
+        "C. Dr. Nina Lindqvist",
+        "D. Prof. Claire Beaumont"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B (Dr. Henrik Solberg):</b> Chỉ ra mật độ dày đặc của quần thể hàu thế kỷ 19 đủ sức lọc sạch toàn bộ vịnh biển cứ sau vài ngày.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Local seabed projects will achieve little unless pollution originating further inland is tackled at the same time.",
+      "options": [
+        "A. Dr. Henrik Solberg",
+        "B. Dr. Matteo Conti",
+        "C. Dr. Nina Lindqvist",
+        "D. Prof. Claire Beaumont"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn G (Dr. Matteo Conti):</b> Cảnh báo thả vỏ hàu xuống vịnh sẽ vô ích nếu nước thải nông nghiệp và đô thị từ đất liền vẫn chảy xuống.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Young oysters rely on sensory cues from older members of their species before anchoring themselves.",
+      "options": [
+        "A. Dr. Henrik Solberg",
+        "B. Dr. Matteo Conti",
+        "C. Dr. Nina Lindqvist",
+        "D. Prof. Claire Beaumont"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C (Prof. Claire Beaumont):</b> Chứng minh ấu trùng lần theo âm thanh và dấu vết hóa học từ các cá thể hàu trưởng thành đang sinh sống.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    }
+  }
+}

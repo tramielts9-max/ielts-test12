@@ -1,0 +1,234 @@
+{
+  "title": "Bài sưu tầm 235 - Passage 2: The Paradox of Digital Archiving",
+  "answers": {
+    "q14": "E",
+    "q15": "B",
+    "q16": "H",
+    "q17": "D",
+    "q18": "A",
+    "q19": "NO",
+    "q20": "NOT GIVEN",
+    "q21": "YES",
+    "q22": "NO",
+    "q23": "YES",
+    "q24": "B",
+    "q25": "C",
+    "q26": "A"
+  },
+  "passageHtml": "<h2>READING PASSAGE 235</h2><h3>The Paradox of Digital Archiving: Why Our Oldest Files Are Disappearing</h3><p><strong>Paragraph 1.</strong> Historians can still read clay tax tablets baked in ancient Mesopotamia four thousand years ago using nothing more than daylight and trained eyes. Yet <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">records saved only twenty-five years ago on floppy disks, early compact discs, or retired office software often sit unread in museum vaults today</span>. We live through an unusual historical irony: humanity produces more documents, photographs, and scientific readings each week than entire past centuries combined, yet much of that digital record is fading faster than paper.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">The core weakness of digital storage is rarely the physical disc itself—though cheap magnetic tape and plastic discs do peel and warp in damp storage rooms. Far more damaging is the speed at which reading equipment and software formats go out of fashion.</span> <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\"><span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">Even when a 1990s hard drive spins up without a single scratch, modern laptops lack the cables to plug it in and no longer ship with the programs needed to translate its saved codes into readable text.</span></span> Unlike a printed book, which remains open to anyone who knows the alphabet, a digital file is locked behind layers of forgotten hardware and vanished code.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">To rescue trapped collections, national libraries generally follow one of two paths: migration or emulation.</span> <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Migration involves copying old files onto fresh drives and converting them into newer formats every few years, much like translating a handwritten diary into modern type.</span> The catch is subtle distortion: <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">when an interactive 1990s CD-ROM artwork or complex spreadsheet is converted into a plain modern document, animated menus freeze and hidden calculation formulas vanish</span>. Emulation takes the opposite route, building software that tricks a modern computer into pretending to be an old machine so original programs can still run. While faithful to the original feel, <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">emulators themselves age as operating systems change, leaving archivists maintaining a chain of virtual machines inside newer virtual machines</span>.</p><p><strong>Paragraph 4.</strong> The internet is no safer sanctuary than a dusty filing cabinet. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Surveys of academic journals and court rulings show that roughly a third of web links cited in papers published ten years ago now lead to blank error pages because domains expired or news sites redesigned their folders.</span> <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Non-profit web crawlers capture millions of public pages each day, yet paywalls, password-protected social feeds, and rapidly shifting video streams slip straight past automated nets</span>, leaving vast holes in our record of everyday public debate.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Faced with this quiet vanishing act, major archives are rethinking what preservation really demands.</span> <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Rather than waiting until software dies, museums increasingly demand that digital artists and researchers deposit source files, plain-text notes, and open-standard formats the moment a project finishes.</span> <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Several Arctic vaults have even begun etching vital public code and cultural records onto durable film reels designed to remain readable with a simple magnifying lens for five hundred years—proving that keeping digital memory alive may sometimes mean stepping back from electronics altogether.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–18",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below. Write the correct letter, <b>A–J</b>, in boxes 14–18 on your answer sheet.</i><br><br><b>A.</b> guidelines &nbsp;|&nbsp; <b>B.</b> compatibility &nbsp;|&nbsp; <b>C.</b> privacy &nbsp;|&nbsp; <b>D.</b> reliability<br><b>E.</b> access &nbsp;|&nbsp; <b>F.</b> profit &nbsp;|&nbsp; <b>G.</b> speed &nbsp;|&nbsp; <b>H.</b> format<br><b>I.</b> expense &nbsp;|&nbsp; <b>J.</b> simplicity",
+      "summaryTitle": "The Challenge of Keeping Digital Records Alive",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ],
+      "template": "<p>Despite producing vast volumes of modern data, societies risk losing recent records because stored files soon lose practical <b>14.</b> {{q14}} . The primary obstacle is rarely physical decay, but rapid shifts in hardware and software <b>15.</b> {{q15}} . While transferring data into each new <b>16.</b> {{q16}} preserves basic words, interactive features often break during conversion. Online references suffer from poor <b>17.</b> {{q17}} as older websites vanish or move pages. In response, institutions now enforce stricter submission <b>18.</b> {{q18}} requiring open files from creators early on.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 19–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 235? In boxes 19–23 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Tài liệu lưu cách đây 25 năm thường nằm bất động không đọc được (<i>sit unread</i>) ↔ lose practical <b>access (E)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Máy tính mới thiếu cổng cắm và thiếu phần mềm đọc định dạng cũ ↔ software <b>compatibility (B)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "H",
+      "inputWidth": "70px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chuyển tệp sang định dạng mới (<i>converting them into newer formats</i>) ↔ new <b>format (H)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Khoảng 1/3 đường dẫn học thuật sau 10 năm đều báo lỗi trắng trang ↔ poor <b>reliability (D)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bảo tàng yêu cầu tác giả nộp tệp gốc và định dạng mở ngay khi xong dự án ↔ submission <b>guidelines (A)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "An undamaged magnetic hard drive from the 1990s can easily be read by any modern laptop.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Ngay cả khi ổ cứng thập niên 1990 quay tốt không một vết xước, laptop hiện đại vẫn thiếu dây cáp kết nối và không còn phần mềm giải mã.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "National libraries spend significantly more money on emulation projects than on file migration.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài có nêu 2 hướng là di trú dữ liệu (migration) và giả lập (emulation), nhưng hoàn toàn không đề cập chi phí của hướng nào đắt hơn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Updating old files into simpler modern formats can strip away functional features.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Khi chuyển CD-ROM tương tác hoặc bảng tính phức tạp sang định dạng mới, menu động bị đóng băng và công thức tính toán ẩn biến mất (<i>hidden calculation formulas vanish</i>).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Public web-archiving tools are able to preserve nearly all discussions held on private social platforms.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Công cụ thu thập dữ liệu web bị lọt sạch các nội dung thu phí và bài đăng có mật khẩu (<i>paywalls, password-protected social feeds... slip straight past</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Collecting open-standard files immediately after completion helps prevent future data loss.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Yêu cầu nộp file gốc và định dạng chuẩn mở ngay khi hoàn thành dự án thay vì đợi phần mềm chết mới cứu.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "According to the second paragraph, why do digital records become unreadable so quickly?",
+      "options": [
+        "A. Plastic discs break down faster than low-quality paper.",
+        "B. Reading tools and file formats rapidly become outdated.",
+        "C. Users frequently delete old folders to save storage space.",
+        "D. Damp archive rooms damage metal parts inside computers."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Nguyên nhân gây hại lớn hơn nhiều so với hỏng vật lý là tốc độ lỗi thời của thiết bị đọc và định dạng phần mềm (<i>speed at which reading equipment and software formats go out of fashion</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "What drawback of emulation is highlighted at the end of the third paragraph?",
+      "options": [
+        "A. Emulators permanently alter the layout of scanned books.",
+        "B. Users find old operating systems too slow to operate.",
+        "C. Emulation software itself becomes outdated as newer systems arrive.",
+        "D. Copyright laws forbid libraries from copying original software."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bản thân phần mềm giả lập cũng bị cũ đi khi hệ điều hành thay đổi, buộc người lưu trữ phải chạy chồng nhiều lớp máy ảo.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Why does the writer mention Arctic film reels in the final paragraph?",
+      "options": [
+        "A. to illustrate a non-electronic method designed to survive for centuries",
+        "B. to show that cold weather slows the decay of plastic hard drives",
+        "C. to argue that museums should stop collecting digital photographs",
+        "D. to explain why magnifying lenses are cheaper than web crawlers"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Khắc dữ liệu lên cuộn phim bền bỉ để đọc bằng kính lúp suốt 500 năm chứng minh việc giữ ký ức số đôi khi cần thoát khỏi thiết bị điện tử.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    }
+  }
+}

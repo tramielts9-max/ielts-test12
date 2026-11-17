@@ -1,0 +1,287 @@
+{
+  "title": "Bài sưu tầm 231 - Passage 2: The Quiet Return of Beavers to European Waterways",
+  "answers": {
+    "q14": "C",
+    "q15": "F",
+    "q16": "B",
+    "q17": "E",
+    "q18": "timber",
+    "q19": "soil",
+    "q20": "frogs",
+    "q21": "wells",
+    "q22": "C",
+    "q23": "A",
+    "q24": "D",
+    "q25": "B",
+    "q26": "A"
+  },
+  "passageHtml": "<h2>READING PASSAGE 231</h2><h3>The Quiet Return of Beavers to European Waterways</h3><p><strong>Paragraph A.</strong> For nearly four centuries, the Eurasian beaver was treated as little more than a source of thick winter fur and a scent gland prized by perfume makers. By the early twentieth century, hunting and river drainage had wiped the animal out across almost all of Europe, leaving only tiny pockets along the Elbe, the Rhône, and a few Scandinavian valleys. Over the past two decades, however, quiet reintroduction schemes and strict legal protection have allowed populations to rebound. Today, engineers and hydrologists are paying close attention to what happens when this large rodent resumes building across streams that humans spent generations straightening.</p><p><strong>Paragraph B.</strong> To modern river managers, a beaver dam rarely looks tidy. Unlike concrete flood barriers designed to flush water downstream as rapidly as possible, a network of beaver lodges and leaky branch walls deliberately slows current speed. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Dr. Hannah Lindqvist, who monitors upland streams in southern Sweden, explains that <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">water held behind these modest structures spreads sideways across grassy floodplains instead of racing into town centres during heavy autumn rain</span>.</span> <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">In her three-year survey, peak water heights downstream of beaver territories dropped by nearly a third compared with neighbouring valleys that had been cleared of the animals.</span></p><p><strong>Paragraph C.</strong> Yet the animal’s return has sparked heated arguments in lowland farming districts. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">In eastern Poland, several potato growers recently blamed newly arrived beavers after a shared irrigation pond grew noticeably shallower over two dry summers. Local council inspectors initially assumed the rodents had diverted incoming stream water, yet core samples later showed the basin had actually filled with fine earth washed down from newly ploughed slopes further uphill.</span> Meanwhile, <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">hydrologist Prof. Thomas Reed notes that in flat drainage ditches dug through peat farmland, a single carelessly placed dam really can waterlog tractor tracks and ruin early spring planting</span> if landowners are not helped to install simple overflow pipes.</p><p><strong>Paragraph D.</strong> Field teams studying restored valleys in Devon, south-west England, decided to measure exactly what accumulates behind these natural structures. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Constructed from gnawed <span class=\"kw\">timber</span> and packed mud</span>, each barrier acts as a porous sieve rather than a watertight wall. As murky runoff slows down, <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">the quiet pools capture loose <span class=\"kw\">soil</span> washed off surrounding fields</span>, preventing fertilisers from reaching coastal estuaries. Those calm, sunlit shallows quickly warm up and turn into <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">ideal breeding pools for <span class=\"kw\">frogs</span> and aquatic insects</span>, which in turn feed nesting birds. Equally important, water seeping downward through the pond bed <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">keeps recharging underground <span class=\"kw\">wells</span> during dry summers</span> long after un-dammed brooks have cracked dry.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Wildlife ecologist Dr. Marta Kowalska points out that <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">these wetland patches also serve as natural firebreaks when summer heatwaves dry out surrounding heathland</span>.</span> During a severe July blaze near a nature reserve in Brandenburg, flames scorched dry pine plantations for miles before stopping abruptly along a green, waterlogged strip maintained by a single beaver family. <span class=\"hl\" id=\"hl-q22-b\" data-q=\"[Q22]\">Kowalska argues that maintaining wet valley floors may soon prove cheaper than deploying firefighting helicopters across increasingly dry European summers.</span></p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Even with clear ecological benefits, coexistence depends heavily on practical compromise rather than romantic slogans. In Bavaria, <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">conservation adviser Dr. David Okafor helped establish a rapid-response team of trained volunteers who visit farms within forty-eight hours of a complaint</span>. Instead of trapping the animals, workers slide plastic tubing through dam walls to cap water levels at a safe height or wrap wire mesh around valuable orchard trees.</span> Okafor emphasises that once farmers see damage can be prevented promptly without endless paperwork, hostility towards their aquatic neighbours fades remarkably fast.</p><p><strong>Paragraph G.</strong> Looking ahead, European river agencies face a subtle shift in thinking. For over a century, flood control meant concrete channels, mechanical dredging, and keeping rivers tightly inside straight banks. Allowing a wild mammal to rearrange small headwaters challenges that neat engineering tradition, yet early evidence suggests that a few messy pools upstream may offer far steadier protection than taller walls downstream.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–17",
+      "instructions": "<i>Reading Passage 231 has seven paragraphs, <b>A–G</b>.<br>Which paragraph contains the following information?<br>Write the correct letter, <b>A–G</b>, in boxes 14–17 on your answer sheet.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 18–21",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 18–21 on your answer sheet.</i>",
+      "summaryTitle": "What happens inside a beaver wetland",
+      "questionIds": [
+        "q18",
+        "q19",
+        "q20",
+        "q21"
+      ],
+      "template": "<p>Studies in south-west England show that beaver dams are built out of cut <b>18.</b> {{q18}} and earth, allowing water to pass through gradually. By slowing the current, these ponds trap drifting <b>19.</b> {{q19}} carried from nearby farmland before chemical nutrients can pollute river mouths. The warmer, still margins soon provide safe nurseries for <b>20.</b> {{q20}} and water bugs, while water soaking into the earth sustains local <b>21.</b> {{q21}} throughout periods of drought.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "matching_names",
+      "skillTag": "MATCH_FEATURES",
+      "title": "Questions 22–26",
+      "instructions": "<i>Look at the following statements (Questions 22–26) and the list of specialists below.<br>Match each statement with the correct person, <b>A–D</b>.<br>Write the correct letter, <b>A–D</b>, in boxes 22–26 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>List of Specialists:</b><br><b>A.</b> Dr. Hannah Lindqvist<br><b>B.</b> Prof. Thomas Reed<br><b>C.</b> Dr. Marta Kowalska<br><b>D.</b> Dr. David Okafor",
+      "questionIds": [
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "an example of agricultural workers misidentifying the cause of a drop in available water",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Nông dân trồng khoai tây ở Ba Lan đổ lỗi cho hải ly làm ao tưới cạn đi, nhưng mẫu lõi đất chứng minh ao bị bồi lắng do đất từ ruộng cày phía trên trôi xuống.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "a quick-action system that protects crops and fruit trees without removing beavers",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Đội phản ứng nhanh trong 48 giờ tại Bavaria dùng ống nhựa xả tràn và lưới bọc bảo vệ cây ăn quả (<i>orchard trees</i>) thay vì bắt hải ly.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "an explanation of how beaver barriers redirect excess water away from populated areas",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Nước bị giữ lại tràn ngang ra vùng đồng cỏ ngập lũ thay vì dồn thẳng vào trung tâm thị trấn (<i>town centres</i>) khi mưa lớn.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "evidence that damp ground created by beavers can halt the spread of wildfires",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Đám cháy tháng Bảy tại Brandenburg dừng lại ngay trước dải đất ẩm ướt do một gia đình hải ly duy trì.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "timber",
+      "inputWidth": "110px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"Constructed from gnawed timber and packed mud...\"</i> (cut = gnawed).",
+          "<b>Từ cần điền:</b> <b>timber</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "soil",
+      "inputWidth": "100px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...capture loose soil washed off surrounding fields...\"</i> (drifting = loose).",
+          "<b>Từ cần điền:</b> <b>soil</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "frogs",
+      "inputWidth": "100px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...ideal breeding pools for frogs and aquatic insects...\"</i> (safe nurseries = breeding pools).",
+          "<b>Từ cần điền:</b> <b>frogs</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "wells",
+      "inputWidth": "100px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...keeps recharging underground wells during dry summers...\"</i> (sustains = recharging; periods of drought = dry summers).",
+          "<b>Từ cần điền:</b> <b>wells</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Keeping valleys wet through animal activity could save money on emergency air support.",
+      "options": [
+        "A. Dr. Hannah Lindqvist",
+        "B. Prof. Thomas Reed",
+        "C. Dr. Marta Kowalska",
+        "D. Dr. David Okafor"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E (Dr. Marta Kowalska):</b> <i>\"maintaining wet valley floors may soon prove cheaper than deploying firefighting helicopters...\"</i> (emergency air support = firefighting helicopters).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Delaying river flow forces floodwater onto surrounding land rather than through towns.",
+      "options": [
+        "A. Dr. Hannah Lindqvist",
+        "B. Prof. Thomas Reed",
+        "C. Dr. Marta Kowalska",
+        "D. Dr. David Okafor"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B (Dr. Hannah Lindqvist):</b> Nước tràn ngang ra đồng cỏ ngập lũ thay vì đổ thẳng xuống trung tâm thị trấn.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Fast practical support reduces local anger toward wildlife.",
+      "options": [
+        "A. Dr. Hannah Lindqvist",
+        "B. Prof. Thomas Reed",
+        "C. Dr. Marta Kowalska",
+        "D. Dr. David Okafor"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F (Dr. David Okafor):</b> Nhóm tình nguyện phản ứng trong 48 giờ giúp giảm sự thù địch (<i>hostility fades remarkably fast</i>) của nông dân.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Without simple drainage adjustments, dams in low-lying fields can delay seasonal farm work.",
+      "options": [
+        "A. Dr. Hannah Lindqvist",
+        "B. Prof. Thomas Reed",
+        "C. Dr. Marta Kowalska",
+        "D. Dr. David Okafor"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C (Prof. Thomas Reed):</b> Trên đồng trũng, đập có thể làm úng đường máy kéo và hỏng vụ gieo trồng đầu xuân (<i>ruin early spring planting</i>) nếu không lắp ống xả tràn.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Peak water levels fell noticeably in valleys where beavers were present.",
+      "options": [
+        "A. Dr. Hannah Lindqvist",
+        "B. Prof. Thomas Reed",
+        "C. Dr. Marta Kowalska",
+        "D. Dr. David Okafor"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B (Dr. Hannah Lindqvist):</b> <i>\"peak water heights downstream of beaver territories dropped by nearly a third...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "title": "Bài sưu tầm 233 - Passage 2: The Unexpected Role of Shipwrecks in Ocean Recovery",
+  "answers": {
+    "q14": "C",
+    "q15": "F",
+    "q16": "B",
+    "q17": "E",
+    "q18": "D",
+    "q19": "A",
+    "q20": "B",
+    "q21": "E",
+    "q22": "wood",
+    "q23": "storms",
+    "q24": "currents",
+    "q25": "paint",
+    "q26": "nets"
+  },
+  "passageHtml": "<h2>READING PASSAGE 233</h2><h3>The Unexpected Role of Shipwrecks in Ocean Recovery</h3><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">For decades, maritime authorities viewed sunken vessels largely through two lenses: either as historical time capsules for museum divers or as rusted navigation hazards blocking busy ports.</span> Today, however, marine biologists are looking at those same hulls in a very different light. Across flat, sandy expanses of continental shelf where trawling nets have scraped away natural rock outcrops, sunken ships frequently stand out as the only solid vertical surfaces for miles, acting as unexpected anchors for ocean life.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">When a steel vessel settles on an empty seabed, colonisation unfolds in a predictable sequence. Within weeks, thin layers of microscopic algae and bacteria coat the bare hull, inviting barnacles, tube worms, and soft corals to take root. Once these filter-feeding crusts roughen the metal, small crustaceans move into bolt holes and crevices, drawing shoals of juvenile fish that seek shelter from larger open-water hunters.</span> Within a decade, a single cargo ship can support more fish species per square metre than nearby natural reefs.</p><p><strong>Paragraph C.</strong> Wooden sailing wrecks follow a far more fragile path. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">In sunlit shallow waters, tiny shipworms quickly bore through oak planks, turning proud hulls into low mounds of ballast stones within a human lifetime.</span> <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Yet where oxygen-poor mud covers the lower hull, worms that eat exposed <span class=\"kw\">wood</span> cannot survive</span>, preserving ribs and deck beams for centuries. Off the coast of northern France, divers found that a seventeenth-century wreck buried up to its gunwales still sheltered rare sea fans simply because <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">layers of shifting silt had been shielding hulls from violent <span class=\"kw\">storms</span></span> that tear apart exposed structures nearby.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Beyond offering hiding places, steep metal walls physically reshape local water movement. As deep flows strike the side of a large hull, <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">the obstacle works by diverting deep <span class=\"kw\">currents</span> upward toward sunlit layers</span>, carrying dissolved nutrients that feed tiny drifting plants at the surface.</span> <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">In a recent survey along the North Carolina shelf, researchers tracked tagged reef fish swimming deliberately from wreck to wreck along a hundred-kilometre stretch of barren sand, proving that old vessels serve as vital stepping stones connecting distant populations that would otherwise never meet.</span></p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">Yet scientists warn against treating the seabed as a convenient scrapyard.</span> Many twentieth-century vessels carry slow-leaking fuel bunkers or <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">toxic copper <span class=\"kw\">paint</span> flaking off into surrounding sediment</span>, poisoning shellfish before corals can settle. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Wreckage also snaggs lost commercial gear: <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">tangled fishing <span class=\"kw\">nets</span> draped across jagged railings continue trapping crabs, seabirds, and turtles for years</span> unless volunteer divers cut them free.</span></p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Turning old ships into healthy reefs therefore requires careful preparation before they ever touch the water. In several coastal states, retired ferries and naval vessels are stripped of wiring, drained of oil, scrubbed clean of chemical coatings, and deliberately sunk in mapped zones away from shipping lanes.</span> Where local fishers agree to respect no-trawl buffers around these cleaned sites, fish numbers outside the protected ring soon rise as well, spilling over into commercial waters.</p><p><strong>Paragraph G.</strong> Ultimately, sunken hulls illustrate how adaptable marine ecosystems can be when given a foothold—yet also how thin the margin is between genuine habitat restoration and careless dumping. A vessel that becomes a thriving underwater oasis does so not by accident, but through strict cleaning, thoughtful placement, and shared rules on the surface above.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–19",
+      "instructions": "<i>Reading Passage 233 has seven paragraphs, <b>A–G</b>.<br>Which paragraph contains the following information?<br>Write the correct letter, <b>A–G</b>, in boxes 14–19 on your answer sheet.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18",
+        "q19"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq_two",
+      "skillTag": "MCQ_TWO",
+      "title": "Questions 20–21",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Write the correct letters in boxes 20 and 21 on your answer sheet.</i><br><br>Which <b>TWO</b> points does the writer make about sunken vessels as marine habitats?",
+      "options": [
+        "A. Steel wrecks attract fewer fish species than natural rocky reefs.",
+        "B. Upright ship sides help lift nutrient-rich water closer to the surface.",
+        "C. Wooden ships buried in mud offer no shelter for living creatures.",
+        "D. Commercial trawlers routinely remove lost nets from older wrecks.",
+        "E. Uncleaned hulls can leak harmful substances into the seabed."
+      ],
+      "questionIds": [
+        "q20",
+        "q21"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 22–26",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 22–26 on your answer sheet.</i>",
+      "summaryTitle": "Preservation and Risks of Shipwrecks",
+      "questionIds": [
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<p>While sunlit timber hulls decay rapidly, vessels covered by airless mud resist organisms that consume <b>22.</b> {{q22}}, while deep sand protects them from seasonal <b>23.</b> {{q23}}. Large steel hulls also benefit ocean food chains by pushing cold bottom <b>24.</b> {{q24}} up toward daylight. However, unprepared wrecks pose serious hazards, both from poisonous <b>25.</b> {{q25}} peeling off outer plating and from abandoned <b>26.</b> {{q26}} that keep catching passing wildlife.</p>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "a reason why wooden vessels break down rapidly in well-lit coastal areas",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Ở vùng nước nông có nắng, loài sâu đục gỗ (<i>shipworms</i>) nhanh chóng khoét nát ván gỗ sồi.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "the steps taken to make retired vessels environmentally safe before sinking them",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Tháo dây điện, rút sạch dầu, cọ sạch lớp sơn hóa chất rồi mới đánh chìm có chủ đích.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "the order in which marine organisms settle on a bare metal surface",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Trình tự rõ ràng: tảo và vi khuẩn → hà, giun ống, san hô mềm → giáp xác nhỏ → cá con tìm nơi ẩn náu.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "an ongoing danger to wildlife caused by discarded fishing equipment caught on wrecks",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Lưới đánh cá bị vướng vào lan can tàu đắm tiếp tục bẫy cua, chim biển và rùa suốt nhiều năm.",
+          "<b>Kết luận:</b> Chọn <b>E</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "proof that sunken ships allow marine animals to travel between separated habitats",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Cá được gắn thẻ bơi lần lượt từ xác tàu này sang xác tàu khác qua bãi cát trống 100km (<i>vital stepping stones connecting distant populations</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "a contrast between traditional views of shipwrecks and their modern ecological value",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Trước đây chỉ xem là di tích bảo tàng hoặc chướng ngại vật hàng hải; nay được xem là điểm tựa sinh thái trên đáy biển phẳng.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "B",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Vách kim loại cao đẩy dòng nước sâu mang dinh dưỡng hướng lên tầng mặt có ánh sáng (đáp án <b>B</b>).",
+          "<b>Kết luận:</b> Chọn <b>B</b> (và <b>E</b>)."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "E",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Tàu chưa làm sạch dễ rò rỉ dầu và bong sơn đồng độc hại xuống bùn đáy (đáp án <b>E</b>). <i>Lưu ý:</i> A sai (nhiều loài hơn); C sai (vẫn che chở san hô quạt); D sai (thợ lặn tình nguyện mới cắt lưới).",
+          "<b>Kết luận:</b> Chọn <b>E</b> (và <b>B</b>)."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "wood",
+      "inputWidth": "100px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...worms that eat exposed wood cannot survive...\"</i> (consume = eat).",
+          "<b>Từ cần điền:</b> <b>wood</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": "storms",
+      "inputWidth": "100px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...shielding hulls from violent storms...\"</i> (protects = shielding).",
+          "<b>Từ cần điền:</b> <b>storms</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "currents",
+      "inputWidth": "110px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...diverting deep currents upward toward sunlit layers...\"</i> (pushing = diverting).",
+          "<b>Từ cần điền:</b> <b>currents</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "paint",
+      "inputWidth": "100px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...toxic copper paint flaking off into surrounding sediment...\"</i> (poisonous = toxic; peeling off = flaking off).",
+          "<b>Từ cần điền:</b> <b>paint</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "nets",
+      "inputWidth": "100px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...tangled fishing nets... continue trapping crabs, seabirds, and turtles...\"</i> (catching = trapping).",
+          "<b>Từ cần điền:</b> <b>nets</b>."
+        ]
+      }
+    }
+  }
+}

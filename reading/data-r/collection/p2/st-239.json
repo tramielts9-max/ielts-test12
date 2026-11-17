@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 239 - Passage 2: Designed to Fail? The Economics of Short-Lived Appliances",
+  "answers": {
+    "q14": "TRUE",
+    "q15": "NOT GIVEN",
+    "q16": "TRUE",
+    "q17": "FALSE",
+    "q18": "TRUE",
+    "q19": "plastic",
+    "q20": "technicians",
+    "q21": "updates",
+    "q22": "score",
+    "q23": "parts",
+    "q24": "materials",
+    "q25": "alternatives",
+    "q26": "manuals"
+  },
+  "passageHtml": "<h2>READING PASSAGE 239</h2><h3>Designed to Fail? The Economics of Short-Lived Appliances</h3><p><strong>Paragraph 1.</strong> Ask anyone over sixty about household appliances and they will often recall a refrigerator or washing machine that ran reliably for twenty years. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">Long-term consumer durability surveys bear out those memories: large kitchen machines manufactured in the 1960s and 1970s routinely lasted eighteen to twenty-five years, nearly double the lifespan of comparable models bought today</span>. Rather than passing a solid kettle or mixer down through a family, modern households increasingly treat small electrical goods as temporary items destined for disposal within a few years.</p><p><strong>Paragraph 2.</strong> Critics often accuse corporations of 'planned obsolescence'—deliberately engineering weak points so products break right after warranty coverage expires. Yet industrial economists argue the reality is more complex than secret boardroom plots. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Intense global price competition pressures factories to trim every cent from manufacturing bills, often by <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">replacing machined brass gears with thin <span class=\"kw\">plastic</span> inside motors and hinges</span></span>. Although buyers frequently suspect companies build fragile parts just to force repeat upgrades, manufacturers counter that budget materials simply keep retail prices affordable for ordinary families.</p><p><strong>Paragraph 3.</strong> Even when a single cheap component fails, modern assembly methods frequently make fixing it uneconomic. Instead of fastening outer panels with standard screws, factories increasingly seal batteries and circuit boards behind strong industrial adhesives. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Glued casings block local repair <span class=\"kw\">technicians</span> from opening devices safely without shattering fragile screens or outer shells</span>. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Combine specialized tools with rising workshop labour fees, and a repair estimate frequently exceeds seventy percent of the price of a brand-new machine</span>. Worse still, <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">withholding software <span class=\"kw\">updates</span> after three years can leave perfectly sound tablets unable to run everyday banking or messaging apps</span>.</p><p><strong>Paragraph 4.</strong> In response, European regulators have introduced Right-to-Repair legislation aimed at keeping functioning goods in circulation. <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Under French law, retailers must display a colour-coded repairability <span class=\"kw\">score</span> from one to ten beside laptops, smartphones, and washing machines</span> so shoppers can compare longevity before paying. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Across the European Union, updated directives now oblige producers to stock replacement <span class=\"kw\">parts</span> for up to ten years after a model leaves production</span>. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Even with these rules in place, however, total European electronic waste has continued climbing steadily because enforcement lags behind fast-moving product launches</span>.</p><p><strong>Paragraph 5.</strong> A handful of manufacturers are testing business models that reward durability instead of rapid turnover. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Modular smartphone makers design handsets whose screens, cameras, and batteries clip together with ordinary screws so owners can swap worn pieces at home in minutes</span>. In the commercial laundry sector, <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">some suppliers lease high-efficiency washing machines by the wash cycle rather than selling them outright, retaining legal ownership of the <span class=\"kw\">materials</span> so components can be recovered and rebuilt at end-of-life</span>.</p><p><strong>Paragraph 6.</strong> Still, lasting change depends as much on shopping habits and workshop access as on factory design. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">Even environmentally aware shoppers hesitate to pay extra upfront for modular goods when budget <span class=\"kw\">alternatives</span> sit on the shelf beside them offering identical features today</span>. Meanwhile, <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">independent repair shops complain that withholding diagnostic <span class=\"kw\">manuals</span> and schematic diagrams forces mechanics into slow guesswork on modern circuit boards</span>, showing that longevity requires transparent information as well as sturdier hardware.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 14–18",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 239?<br>In boxes 14–18 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 19–26",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 19–26 on your answer sheet.</i>",
+      "noteTitle": "The Lifespan of Modern Goods",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<p><b>Causes of early disposal</b></p><ul><li style=\"margin-bottom:8px;\">Fierce retail competition pushes factories to swap durable metal parts for cheaper <b>19.</b> {{q19}} inside motors and hinges.</li><li style=\"margin-bottom:8px;\">Sealing batteries inside glued cases blocks independent <b>20.</b> {{q20}} from opening devices safely.</li><li style=\"margin-bottom:8px;\">Manufacturers often stop releasing software <b>21.</b> {{q21}} long before physical hardware wears out.</li></ul><p><b>Policy and design responses</b></p><ul><li style=\"margin-bottom:8px;\">French shops must show a durability <b>22.</b> {{q22}} from one to ten beside electronics prices.</li><li style=\"margin-bottom:8px;\">New European directives mandate keeping spare <b>23.</b> {{q23}} available for ten years after a model leaves production.</li><li style=\"margin-bottom:8px;\">Some appliance makers now lease machines rather than selling them, keeping ownership of the <b>24.</b> {{q24}} at end-of-life.</li></ul><p><b>Barriers to change</b></p><ul><li style=\"margin-bottom:8px;\">Shoppers rarely pay extra upfront for long-lasting goods when budget <b>25.</b> {{q25}} sit right next to them.</li><li style=\"margin-bottom:8px;\">Independent workshops complain that restricted <b>26.</b> {{q26}} make diagnosing modern circuit boards slow and risky.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "Household appliances built in the mid-twentieth century generally lasted longer than comparable models sold today.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Khảo sát xác nhận thiết bị thập niên 1960–1970 bền trung bình 18–25 năm, gần gấp đôi các mẫu tương đương ngày nay.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "Manufacturers intentionally install weak components mainly to force loyal customers to upgrade sooner.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bài nhắc việc người mua nghi ngờ chuyện ép nâng cấp và việc nhà sản xuất cắt giảm chi phí bằng linh kiện rẻ, nhưng không khẳng định ép khách trung thành nâng cấp là động cơ chính thực sự của các hãng.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "Repairing a faulty washing machine often costs nearly as much as buying a replacement.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Công cụ chuyên dụng cộng phí thợ khiến chi phí sửa thường vượt quá 70% giá mua máy mới.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "European Right-to-Repair laws have already cut electronic waste across the continent by half.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Dù có luật, tổng lượng rác thải điện tử ở châu Âu vẫn tiếp tục tăng đều chứ không giảm một nửa.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "Modular smartphones allow owners to replace individual parts using ordinary household tools.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Hãng điện thoại mô-đun dùng ốc vít thông thường để chủ máy tự thay pin, màn hình, camera tại nhà trong vài phút.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "plastic",
+      "inputWidth": "110px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"replacing machined brass gears with thin plastic inside motors and hinges\"</i>.",
+          "<b>Từ cần điền:</b> <b>plastic</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "technicians",
+      "inputWidth": "125px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"block local repair technicians from opening devices safely...\"</i>",
+          "<b>Từ cần điền:</b> <b>technicians</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "updates",
+      "inputWidth": "110px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"withholding software updates after three years...\"</i>",
+          "<b>Từ cần điền:</b> <b>updates</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "score",
+      "inputWidth": "105px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"display a colour-coded repairability score from one to ten...\"</i>",
+          "<b>Từ cần điền:</b> <b>score</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": "parts",
+      "inputWidth": "100px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"oblige producers to stock replacement parts for up to ten years...\"</i>",
+          "<b>Từ cần điền:</b> <b>parts</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "materials",
+      "inputWidth": "120px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"retaining legal ownership of the materials so components can be recovered...\"</i>",
+          "<b>Từ cần điền:</b> <b>materials</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "alternatives",
+      "inputWidth": "125px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"when budget alternatives sit on the shelf beside them...\"</i>",
+          "<b>Từ cần điền:</b> <b>alternatives</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "manuals",
+      "inputWidth": "110px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"withholding diagnostic manuals and schematic diagrams forces mechanics into slow guesswork...\"</i>",
+          "<b>Từ cần điền:</b> <b>manuals</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "title": "Bài sưu tầm 232 - Passage 2: Why Modern Cities Still Struggle With Heat",
+  "answers": {
+    "q14": "D",
+    "q15": "G",
+    "q16": "B",
+    "q17": "I",
+    "q18": "E",
+    "q19": "NO",
+    "q20": "NO",
+    "q21": "NOT GIVEN",
+    "q22": "YES",
+    "q23": "YES",
+    "q24": "C",
+    "q25": "B",
+    "q26": "D"
+  },
+  "passageHtml": "<h2>READING PASSAGE 232</h2><h3>Why Modern Cities Still Struggle With Heat</h3><p><strong>Paragraph 1.</strong> Every July, newspapers in major cities publish dramatic maps showing dark-red patches hovering over downtown business districts while nearby suburbs remain noticeably cooler. Known as the urban heat island effect, this gap is no longer a mild seasonal quirk; during night-time heatwaves, inner neighbourhoods can stay up to five degrees warmer than surrounding farmland, preventing tired bodies from cooling down between sunset and dawn. Yet many municipal authorities still treat extreme heat as an unavoidable weather nuisance rather than a consequence of how streets, roofs, and pavements were chosen and built.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">At the root of the problem lies the simple physics of dark, waterproof building materials. Asphalt roads and black tar roofs soak up sunlight throughout the afternoon and store that energy well into the evening, releasing it slowly like giant brick ovens.</span> <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">At the same time, rainwater runs straight into underground drains instead of lingering in damp soil, denying the city the natural cooling that happens when moisture evaporates from leaves and earth.</span> <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">In older dense districts, tall concrete towers also trap warm exhaust from traffic and air conditioners, keeping street-level air stagnant long after nightfall.</span></p><p><strong>Paragraph 3.</strong> Seeking fast results, several warm-climate cities have turned to pale, sunlight-reflecting paint for rooftops and road surfaces. Early enthusiasm, however, has given way to more cautious assessments. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">In a two-year trial in Phoenix, white roof coatings lowered midday indoor temperatures sharply inside single-storey metal-roofed factories, yet produced barely measurable changes inside older brick warehouses whose thick walls already insulated rooms from overhead sun.</span> Even trickier were experiments with pale road paint: <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\"><span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">while tarmac stayed cooler to the touch, reflected glare bounced onto passing walkers and nearby shopfronts, actually making pedestrians feel hotter at shoulder height</span></span>. <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">City engineers later adjusted the pigment mix for suburban cycle lanes, though pedestrians continued to complain about bright glare on sunny mornings.</span></p><p><strong>Paragraph 4.</strong> Rather than relying purely on clever coatings, urban designers in Singapore, Medellín, and Melbourne have revived an older strategy: putting shade and greenery back into the street grid. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Medellín’s planners linked dozens of narrow riverside parks and shady avenues into continuous 'green corridors' that funnel cooler hillside breezes straight into congested commercial blocks.</span> <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Infrared sensors showed surface temperatures along these planted routes fell by over two degrees within three years, while emergency hospital admissions for heat exhaustion dropped across adjacent districts.</span> Yet trees are no overnight fix: <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">saplings planted in cramped concrete pits often die before their canopies grow wide enough to shade a pavement</span> unless underground pipes and cables are carefully rerouted to give roots room to breathe.</p><p><strong>Paragraph 5.</strong> Ultimately, <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">cooling a warming city is as much a legal and social challenge as a technical one</span>. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Low-income neighbourhoods consistently contain fewer street trees and more wide parking lots than wealthier residential areas</span>, meaning those least able to afford round-the-clock air conditioning endure the highest indoor temperatures. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Forward-looking councils are now rewriting building codes so that new developments must include shaded walkways, cross-breezes, and open water features before planning approval is granted</span>—a quiet admission that modern architecture must relearn lessons traditional builders once took for granted.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–18",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below. Write the correct letter, <b>A–J</b>, in boxes 14–18 on your answer sheet.</i><br><br><b>A.</b> speed &nbsp;|&nbsp; <b>B.</b> pathways &nbsp;|&nbsp; <b>C.</b> expenses &nbsp;|&nbsp; <b>D.</b> surfaces<br><b>E.</b> regulations &nbsp;|&nbsp; <b>F.</b> darkness &nbsp;|&nbsp; <b>G.</b> discomfort &nbsp;|&nbsp; <b>H.</b> roofs<br><b>I.</b> space &nbsp;|&nbsp; <b>J.</b> traffic",
+      "summaryTitle": "Solutions to Urban Overheating",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ],
+      "template": "<p>Cities warm up largely because dark roads and roofs act as heat-storing <b>14.</b> {{q14}} while rain is drained away too quickly. Reflective street coatings can reduce tarmac warmth, yet bouncing sunlight may increase physical <b>15.</b> {{q15}} for people walking nearby. In Medellín, linked green <b>16.</b> {{q16}} successfully draw cool air into crowded districts, though young trees struggle unless buried utilities are moved to leave enough root <b>17.</b> {{q17}} . Consequently, some cities now tighten planning <b>18.</b> {{q18}} so new buildings naturally encourage airflow and shade.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 19–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 232? In boxes 19–23 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>building materials / Asphalt roads and black tar roofs</i> tích nhiệt như lò gạch ↔ heat-storing <b>surfaces (D)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Ánh sáng chói phản xạ làm người đi bộ thấy nóng hơn ở ngang tầm vai ↔ physical <b>discomfort (G)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>'green corridors'</i> (hành lang cây xanh nối công viên và đại lộ) ↔ green <b>pathways (B)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "I",
+      "inputWidth": "70px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Cần dời đường ống để rễ có chỗ phát triển (<i>give roots room to breathe</i>) ↔ enough root <b>space (I)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Viết lại quy chuẩn xây dựng (<i>rewriting building codes</i>) trước khi cấp phép ↔ planning <b>regulations (E)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Mechanical cooling units used inside buildings help prevent warm air from building up in narrow streets.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Các tòa tháp bê tông giữ lại luồng khí thải nóng từ giao thông và máy điều hòa (<i>trap warm exhaust from traffic and air conditioners</i>), tức là làm tích tụ nhiệt chứ không phải ngăn.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Reflective roof paint proved most effective at cooling older, thick-walled brick buildings in Phoenix.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Sơn trắng giảm nhiệt mạnh ở nhà xưởng mái tôn 1 tầng, nhưng hầu như không tạo khác biệt rõ rệt ở nhà kho gạch cũ tường dày (<i>barely measurable changes inside older brick warehouses</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "The modified pigment used on suburban cycle lanes in Phoenix was cheaper to apply than standard white paint.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Có nhắc đến việc kỹ sư điều chỉnh hỗn hợp màu cho làn xe đạp ngoại ô và người đi bộ vẫn phàn nàn về độ chói, nhưng hoàn toàn không đề cập chi phí sơn rẻ hay đắt hơn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Health outcomes in neighbourhoods near Medellín's planted avenues improved after the project was built.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Ca nhập viện cấp cứu vì kiệt sức do nắng nóng giảm xuống ở các khu dân cư liền kề (<i>emergency hospital admissions for heat exhaustion dropped across adjacent districts</i>).",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Residents in poorer city districts often suffer greater heat exposure partly because their streets have less shade.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Khu thu nhập thấp có ít cây đường phố hơn và nhiều bãi đỗ xe rộng hơn, khiến người dân chịu nhiệt độ trong nhà cao nhất.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "In the second paragraph, why does the writer mention stormwater drains?",
+      "options": [
+        "A. to warn that summer storms frequently flood underground tunnels",
+        "B. to show that modern streets require expensive drainage repairs",
+        "C. to explain why cities miss out on cooling from natural evaporation",
+        "D. to prove that suburbs receive far more rainfall than city centres"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Nước mưa chảy thẳng xuống cống ngầm thay vì thấm đất ẩm, làm thành phố mất đi khả năng làm mát tự nhiên từ sự bay hơi (<i>denying the city the natural cooling... when moisture evaporates</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "What unexpected drawback emerged during road-coating tests?",
+      "options": [
+        "A. Painted roads wore out faster under heavy evening traffic.",
+        "B. Light bouncing off the street raised the heat felt by pedestrians.",
+        "C. Nearby shop owners complained that pale roads looked dirty.",
+        "D. Vehicles skidded more easily after brief afternoon showers."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Ánh nắng phản xạ từ mặt đường sơn sáng hắt lên người đi bộ và mặt tiền cửa hàng, làm họ thấy nóng hơn ở ngang tầm vai.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "What is the writer's main conclusion in the final paragraph?",
+      "options": [
+        "A. Air conditioning remains the only reliable defence against heatwaves.",
+        "B. Traditional houses cannot be adapted to modern city density.",
+        "C. Neighbourhood trees should be paid for entirely by private developers.",
+        "D. Solving urban heat requires updating planning laws alongside design changes."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Làm mát đô thị vừa là thách thức pháp lý-xã hội vừa là kỹ thuật; cần viết lại luật xây dựng (<i>rewriting building codes</i>) đi kèm thiết kế lấy gió và bóng râm.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    }
+  }
+}

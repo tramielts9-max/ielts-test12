@@ -1,0 +1,234 @@
+{
+  "title": "Bài sưu tầm 227 - Passage 2: Beyond the Shade: How Urban Trees Really Cool Cities",
+  "answers": {
+    "q14": "C",
+    "q15": "G",
+    "q16": "A",
+    "q17": "F",
+    "q18": "D",
+    "q19": "NO",
+    "q20": "NOT GIVEN",
+    "q21": "YES",
+    "q22": "NO",
+    "q23": "YES",
+    "q24": "B",
+    "q25": "C",
+    "q26": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 227</h2><h3>Beyond the Shade: How Urban Trees Really Cool Cities</h3><p><strong>Paragraph 1.</strong> As summer heatwaves grow fiercer, municipal authorities worldwide are rushing to plant millions of street trees as natural air conditioners. Yet urban forestry researchers warn that treating trees as simple cooling units often disappoints in practice. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\"><span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">In narrow streets lined by tall apartment blocks, a dense, unbroken roof of leaves can actually trap vehicle exhaust and warm air at pavement level rather than letting breezes sweep them away.</span></span> Where and what a city plants matters far more than raw tree numbers.</p><p><strong>Paragraph 2.</strong> Trees lower street temperatures through two distinct processes: casting shade so asphalt absorbs less sunlight, and releasing moisture through tiny pores in their leaves, a process that draws heat from the surrounding air. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">However, during severe dry spells, many species shut these leaf pores tightly to conserve internal water.</span> <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Once evaporation stops, a parched tree cools the air far less effectively, leaving only its shadow to protect pedestrians just when heat stress is highest.</span></p><p><strong>Paragraph 3.</strong> To measure which species perform best, urban ecologist Dr. Amara Okafor tracked daytime and midnight temperatures across twelve European cities. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">She found that leaf brightness plays an unexpectedly large role: pale-green, smooth leaves bounce away far more solar energy than dark, needle-like foliage.</span> <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">Surprisingly, however, parks containing a patchwork of shrubs, grasses, and tall trees cooled surrounding streets more reliably than avenues lined exclusively with one prized shade species.</span></p><p><strong>Paragraph 4.</strong> Equally decisive is what happens out of sight beneath the pavement. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Heavy construction machinery compresses urban soil into a brick-hard layer that starves roots of oxygen and rainwater.</span> <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Roughly forty percent of newly planted street saplings perish within five years—not primarily from summer heat, Okafor notes, but from suffocated roots and winter road salt.</span> <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\"><span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">To break this cycle, several cities now bury load-bearing plastic crates filled with loose soil under sidewalks, giving roots room to spread while still supporting heavy delivery trucks above.</span></span></p><p><strong>Paragraph 5.</strong> Finally, planners are confronting an uncomfortable social pattern. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Thermal satellite maps show that affluent neighbourhoods routinely enjoy twice the tree cover of nearby industrial or low-income districts, where residents face the steepest risks of night-time heatstroke.</span> <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\"><span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Rather than distributing saplings evenly across every ward, progressive councils are now directing funds toward dense, concrete-heavy blocks where elderly residents live alone.</span></span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–18",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below. Write the correct letter, <b>A–J</b>, in boxes 14–18 on your answer sheet.</i><br><br><b>A.</b> compacted &nbsp;|&nbsp; <b>B.</b> uniform &nbsp;|&nbsp; <b>C.</b> drought<br><b>D.</b> vulnerability &nbsp;|&nbsp; <b>E.</b> pollution &nbsp;|&nbsp; <b>F.</b> space<br><b>G.</b> shade &nbsp;|&nbsp; <b>H.</b> humidity &nbsp;|&nbsp; <b>I.</b> wealthy &nbsp;|&nbsp; <b>J.</b> temporary",
+      "summaryTitle": "Practical Limits of City Tree Planting",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ],
+      "template": "<p>Although city trees cool streets by evaporating moisture, many species close their leaf pores during periods of <b>14.</b> {{q14}} to prevent dehydration. When this occurs, pedestrians must rely purely on <b>15.</b> {{q15}} for relief. Underground conditions also limit survival: soil that has been <b>16.</b> {{q16}} by building work prevents roots from absorbing air and water. Engineers address this by installing underground frames beneath pavements that provide adequate <b>17.</b> {{q17}} for root growth without weakening the road surface. In addition, forward-looking cities now allocate planting budgets based on residents' <b>18.</b> {{q18}} to extreme heat rather than dividing resources equally.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 19–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 227? In boxes 19–23 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>severe dry spells</i> (đợt khô hạn nghiêm trọng) ↔ <b>drought (C)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>leaving only its shadow to protect pedestrians</i> ↔ rely purely on <b>shade (G)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>Heavy construction machinery compresses urban soil</i> ↔ soil that has been <b>compacted (A)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>giving roots room to spread</i> ↔ provide adequate <b>space (F)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Dành ngân sách cho khu nhiều bê tông, người cao tuổi sống một mình (nguy cơ sốc nhiệt cao) ↔ residents' <b>vulnerability (D)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Planting a thick canopy of trees along narrow, high-rise streets always improves local air circulation.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Tán lá dày ở phố hẹp nhiều nhà cao tầng có thể giữ lại khí thải và hơi nóng thay vì để gió thổi đi (<i>trap vehicle exhaust and warm air... rather than letting breezes sweep them away</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Dr. Amara Okafor spent more than five years collecting temperature data for her European study.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 & 4:</b> Có nhắc nghiên cứu của Okafor ở 12 thành phố châu Âu và có nhắc mốc \"five years\" (nhưng đó là tỷ lệ cây con chết trong 5 năm ở Đoạn 4), hoàn toàn không nói bà mất bao lâu để thu thập dữ liệu.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Planting a single high-performing tree species is less dependable for street cooling than a mix of vegetation types.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"parks containing a patchwork of shrubs, grasses, and tall trees cooled surrounding streets more reliably than avenues lined exclusively with one prized shade species.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Extreme summer temperatures are the main reason why most young urban trees fail to survive.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"not primarily from summer heat, Okafor notes, but from suffocated roots and winter road salt.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Wealthier urban areas tend to possess substantially more tree coverage than poorer districts.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"affluent neighbourhoods routinely enjoy twice the tree cover of nearby industrial or low-income districts\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Why does the writer mention 'narrow streets lined by tall apartment blocks' in the first paragraph?",
+      "options": [
+        "A. to explain why apartment residents complain about falling leaves",
+        "B. to illustrate how poorly planned greenery can worsen air quality",
+        "C. to show that tall buildings provide enough shade without trees",
+        "D. to argue that city centres lack sufficient space for planting"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Phố hẹp + tán lá kín giữ khí thải xe cộ bên dưới → minh họa việc trồng thiếu tính toán có thể làm tệ hơn chất lượng không khí & tản nhiệt.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "What advantage do underground plastic crates offer according to the fourth paragraph?",
+      "options": [
+        "A. They store winter road salt away from tree trunks.",
+        "B. They eliminate the need for heavy trucks on residential streets.",
+        "C. They protect loose soil for roots while bearing surface traffic.",
+        "D. They pump rainwater directly from nearby rooftops."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"giving roots room to spread while still supporting heavy delivery trucks above.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "What change in municipal planting strategy is described in the final paragraph?",
+      "options": [
+        "A. Councils are replacing parks in wealthy districts with concrete squares.",
+        "B. Funding is increasingly targeted at districts facing the greatest health risk.",
+        "C. Local residents are required to water saplings outside their own homes.",
+        "D. Satellite companies are charging cities less for thermal imagery."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Thay vì chia đều cho mọi phường, chính quyền ưu tiên nơi nhiều bê tông, người già cô đơn có nguy cơ đột quỵ nhiệt cao.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

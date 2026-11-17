@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 229 - Passage 2: Reclaiming the Salt Marsh: Coastal Defence Without Concrete",
+  "answers": {
+    "q14": "FALSE",
+    "q15": "NOT GIVEN",
+    "q16": "TRUE",
+    "q17": "FALSE",
+    "q18": "TRUE",
+    "q19": "foundations",
+    "q20": "railway",
+    "q21": "height",
+    "q22": "roots",
+    "q23": "oxygen",
+    "q24": "woodlands",
+    "q25": "wells",
+    "q26": "fish"
+  },
+  "passageHtml": "<h2>READING PASSAGE 229</h2><h3>Reclaiming the Salt Marsh: Coastal Defence Without Concrete</h3><p><strong>Paragraph 1.</strong> For generations, the standard response to rising tides along populated coastlines was to build taller concrete seawalls. Yet coastal engineers increasingly recognize that rigid barriers carry a hidden structural flaw. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">When powerful storm waves slam into a vertical wall, the reflected energy plunges straight downward, scouring away the protective layer of sand in front of the barrier.</span> <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">Over time, this erosion undermines the wall's <span class=\"kw\">foundations</span>, leading to sudden collapse unless crews repeatedly dump expensive rock armour along the base.</span></p><p><strong>Paragraph 2.</strong> An alternative approach, known as 'managed realignment,' is transforming low-lying shores in eastern England. At Wallasea Island in Essex, engineers deliberately opened gaps in aging earthen embankments to invite tidal seawater back onto former grazing fields. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\"><span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">To raise the sunken land up to tidal level, barges delivered three million tonnes of clay excavated during the construction of a major underground <span class=\"kw\">railway</span> beneath London.</span></span> Within months of flooding, pioneer salt-tolerant plants began colonising the wet mudflats.</p><p><strong>Paragraph 3.</strong> Unlike concrete, a living salt marsh absorbs wave energy gently rather than fighting it head-on. <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">Dense clusters of flexible cordgrass bend beneath incoming surges, reducing wave <span class=\"kw\">height</span> by as much as sixty percent across the first forty metres of vegetation.</span> Equally valuable is the marsh's capacity to adapt to changing conditions. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\"><span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Tangled networks of <span class=\"kw\">roots</span> trap fine silt carried inland by high tides, allowing the marsh floor to rise gradually alongside climbing sea levels</span> without requiring heavy machinery.</span></p><p><strong>Paragraph 4.</strong> Monitoring at Wallasea soon revealed an unexpected climatic bonus. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Because tidal mud remains waterlogged throughout the year, it contains virtually no <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\"><span class=\"kw\">oxygen</span></span>, which slows microbial decay dramatically.</span> Dead plant stems sink into the mud and remain locked underground for centuries rather than releasing carbon dioxide back into the sky. <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">Measured per hectare, healthy coastal marshes store carbon several times faster than mature inland <span class=\"kw\">woodlands</span>.</span></p><p><strong>Paragraph 5.</strong> Despite these ecological gains, breaching old flood banks often triggers local friction. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">Neighbouring arable farmers initially worried that advancing seawater might seep underground and contaminate freshwater <span class=\"kw\">wells</span> used for irrigation.</span> To resolve these concerns, planners constructed secondary drainage ditches along the inland perimeter and compensated landowners for flooded pasture.</p><p><strong>Paragraph 6.</strong> Five years after the embankments were opened, biological surveys confirmed a broader economic payoff. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\"><span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Sheltered creeks winding through the restored marsh quickly filled with juvenile sea bass and other commercial <span class=\"kw\">fish</span>, using the shallow reeds as a nursery safe from deep-water predators.</span></span> For coastal planners, the lesson is clear: working with tidal rhythms can deliver flood safety, carbon storage, and thriving fisheries at a fraction of concrete maintenance costs.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 14–18",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 229?<br>In boxes 14–18 on your answer sheet, write <b>TRUE, FALSE or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 19–26",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 19–26 on your answer sheet.</i>",
+      "noteTitle": "Managed Realignment and Salt Marshes",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<p><b>Limitations of Seawalls & The Wallasea Project</b></p><ul><li style=\"margin-bottom:8px;\">Waves bouncing off vertical concrete walls wash away sand and weaken the structure's <b>19.</b> {{q19}} .</li><li style=\"margin-bottom:8px;\">At Wallasea Island, soil dug from a capital-city <b>20.</b> {{q20}} project was brought by boat to elevate low farmland.</li></ul><p><b>Natural Protection and Carbon Storage</b></p><ul><li style=\"margin-bottom:8px;\">Flexible coastal grasses can cut incoming wave <b>21.</b> {{q21}} by over half within a short distance.</li><li style=\"margin-bottom:8px;\">Interwoven plant <b>22.</b> {{q22}} hold onto incoming mud so the marsh grows higher naturally.</li><li style=\"margin-bottom:8px;\">Flooded soils lack <b>23.</b> {{q23}} , preventing dead vegetation from decomposing rapidly.</li><li style=\"margin-bottom:8px;\">Marshes capture carbon at a significantly quicker rate than established <b>24.</b> {{q24}} inland.</li></ul><p><b>Local Concerns and Ecological Benefits</b></p><ul><li style=\"margin-bottom:8px;\">Farmers nearby feared saltwater could spoil underground <b>25.</b> {{q25}} needed for crops.</li><li style=\"margin-bottom:8px;\">Shallow marsh channels now serve as protective habitats for young commercial <b>26.</b> {{q26}} .</li></ul>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "Vertical concrete seawalls help keep protective beach sand in place during heavy storms.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Sóng đập vào tường bê tông dội ngược xuống dưới, cuốn trôi lớp cát bảo vệ phía trước (<i>scouring away the protective layer of sand</i>).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "Transporting London tunnel clay to Wallasea Island by barge cost less than transporting it by road.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Có nhắc đến việc dùng sà lan (<i>barges</i>) chở đất sét đào từ đường hầm London tới Wallasea, nhưng hoàn toàn không so sánh chi phí giữa đường thủy và đường bộ.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "Salt marshes are able to adjust their elevation naturally without mechanical assistance.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"allowing the marsh floor to rise gradually alongside climbing sea levels without requiring heavy machinery.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "Dead marsh plants decompose rapidly in waterlogged mud, releasing carbon into the air.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bùn ngập nước thiếu oxy làm quá trình phân hủy chậm lại đáng kể, giữ carbon hàng thế kỷ thay vì thải lên trời.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "Restoring tidal wetlands at Wallasea Island yielded commercial fishery benefits within five years.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Sau 5 năm mở đê, khảo sát cho thấy các lạch cạn đầy cá vược con và các loài cá thương mại.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "foundations",
+      "inputWidth": "120px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"undermines the wall's foundations\"</i> (<i>undermines</i> ↔ <i>weaken</i>).",
+          "<b>Từ cần điền:</b> <b>foundations</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "railway",
+      "inputWidth": "110px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"underground railway beneath London\"</i> (<i>London</i> ↔ <i>capital-city</i>).",
+          "<b>Từ cần điền:</b> <b>railway</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "height",
+      "inputWidth": "100px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"reducing wave height by as much as sixty percent\"</i> (<i>sixty percent</i> ↔ <i>over half</i>).",
+          "<b>Từ cần điền:</b> <b>height</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "roots",
+      "inputWidth": "100px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Tangled networks of roots trap fine silt\"</i> (<i>tangled networks</i> ↔ <i>interwoven</i>; <i>silt</i> ↔ <i>mud</i>).",
+          "<b>Từ cần điền:</b> <b>roots</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": "oxygen",
+      "inputWidth": "110px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"contains virtually no oxygen, which slows microbial decay\"</i> (<i>virtually no</i> ↔ <i>lack</i>).",
+          "<b>Từ cần điền:</b> <b>oxygen</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "woodlands",
+      "inputWidth": "120px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"faster than mature inland woodlands\"</i> (<i>mature</i> ↔ <i>established</i>).",
+          "<b>Từ cần điền:</b> <b>woodlands</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "wells",
+      "inputWidth": "100px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"contaminate freshwater wells used for irrigation\"</i> (<i>used for irrigation</i> ↔ <i>needed for crops</i>).",
+          "<b>Từ cần điền:</b> <b>wells</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "fish",
+      "inputWidth": "100px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"juvenile sea bass and other commercial fish\"</i> (<i>juvenile</i> ↔ <i>young</i>).",
+          "<b>Từ cần điền:</b> <b>fish</b>."
+        ]
+      }
+    }
+  }
+}

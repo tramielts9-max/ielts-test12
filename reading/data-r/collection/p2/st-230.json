@@ -1,0 +1,234 @@
+{
+  "title": "Bài sưu tầm 230 - Passage 2: The Price of Pleasure: How Cost Shapes Perceived Quality",
+  "answers": {
+    "q14": "D",
+    "q15": "A",
+    "q16": "G",
+    "q17": "B",
+    "q18": "F",
+    "q19": "NO",
+    "q20": "NOT GIVEN",
+    "q21": "YES",
+    "q22": "NO",
+    "q23": "YES",
+    "q24": "C",
+    "q25": "B",
+    "q26": "C"
+  },
+  "passageHtml": "<h2>READING PASSAGE 230</h2><h3>The Price of Pleasure: How Cost Shapes Perceived Quality</h3><p><strong>Paragraph 1.</strong> Classical economic theory rests on a reassuring assumption: shoppers inspect a product's objective quality first, then decide whether the asking price is fair. Yet behavioural researchers have repeatedly shown that the arrow often runs in reverse. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\"><span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">Rather than acting as a neutral summary of value, a high price tag actively alters how much enjoyment a person derives from the item itself.</span></span></p><p><strong>Paragraph 2.</strong> To verify whether this distortion reflects polite social flattery or genuine sensory change, neuroeconomist Dr. Hilke Plassmann placed volunteers inside a brain scanner while they sampled five wines through tubes. Unknown to the participants, two pairs of samples were chemically identical, differing only in the price flashed on a screen beforehand—for instance, $5 versus $45, or $10 versus $90. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\"><span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">Not only did volunteers rate the supposedly expensive pours higher, but scans revealed heightened activity in the medial orbitofrontal cortex, a region linked to real pleasure. Belief in cost had physically reshaped taste perception.</span></span></p><p><strong>Paragraph 3.</strong> This 'marketing placebo effect' reaches well beyond luxury dining. In a medical trial, volunteers suffering mild electric shocks were given identical pain-relief capsules priced at either $2.50 or a discounted $0.10; <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">eighty-five percent of the full-price group reported noticeable relief, compared with barely sixty percent in the bargain group.</span> However, expectation has clear limits. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\"><span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">Subsequent studies found that seasoned wine critics resisted price illusions far better than casual drinkers, and the effect faded rapidly when volunteers were told beforehand that labels might be misleading.</span></span></p><p><strong>Paragraph 4.</strong> In online retail, similar psychological shortcuts are exploited through artificial urgency rather than high prices alone. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\"><span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">Travel booking platforms frequently flash alerts such as 'only two seats left' or ticking countdown clocks, triggering mild anxiety that cuts short careful price comparison.</span></span> <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Consumer watchdogs auditing major e-commerce portals recently discovered that many countdown timers simply reset to zero when the page was refreshed, exposing fabricated scarcity rather than genuine inventory limits.</span></p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\"><span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Legal scholars note that banning luxury branding altogether would be unrealistic, since social prestige has always formed part of what buyers willingly purchase.</span></span> <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Instead, European regulators are targeting deceptive interface cues, demanding that digital merchants prove stock warnings reflect real warehouse figures before displaying them to hurried shoppers.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–18",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below. Write the correct letter, <b>A–J</b>, in boxes 14–18 on your answer sheet.</i><br><br><b>A.</b> brain &nbsp;|&nbsp; <b>B.</b> comparison &nbsp;|&nbsp; <b>C.</b> honesty<br><b>D.</b> enjoyment &nbsp;|&nbsp; <b>E.</b> budget &nbsp;|&nbsp; <b>F.</b> accuracy<br><b>G.</b> effectiveness &nbsp;|&nbsp; <b>H.</b> duration &nbsp;|&nbsp; <b>I.</b> loyalty &nbsp;|&nbsp; <b>J.</b> suspicion",
+      "summaryTitle": "Expectation and Consumer Judgement",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ],
+      "template": "<p>Contrary to traditional theory, a product's price tag often shapes a buyer's actual <b>14.</b> {{q14}} of using it. Dr. Hilke Plassmann proved that this bias is not merely verbal politeness: when subjects thought a wine was costly, regions of the <b>15.</b> {{q15}} associated with pleasure lit up more strongly. A similar pattern appeared in medical testing, where lowering a painkiller's price reduced its perceived <b>16.</b> {{q16}} . Online platforms employ a related tactic by displaying urgent stock warnings that discourage calm <b>17.</b> {{q17}} among buyers. In response, authorities are requiring retailers to verify the <b>18.</b> {{q18}} of any scarcity claims shown on screen.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 19–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 230? In boxes 19–23 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"alters how much enjoyment a person derives\"</i> ↔ actual <b>enjoyment (D)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"heightened activity in the medial orbitofrontal cortex\"</i> ↔ regions of the <b>brain (A)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Thuốc giảm giá từ $2.50 xuống $0.10 làm tỷ lệ người thấy đỡ đau giảm từ 85% xuống 60% ↔ reduced perceived <b>effectiveness (G)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"cuts short careful price comparison\"</i> ↔ discourage calm <b>comparison (B)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"prove stock warnings reflect real warehouse figures\"</i> ↔ verify the <b>accuracy (F)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Consumers consistently evaluate an item's objective quality before considering its price.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Kinh tế cổ điển giả định vậy nhưng nghiên cứu hành vi chỉ ra chiều ngược lại: giá cao làm thay đổi cả cảm nhận chất lượng.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Professional wine critics scored the five wines identically regardless of the price displayed in Plassmann's scanner experiment.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 & 3:</b> Có nhắc thí nghiệm máy quét của Plassmann và có nhắc giới phê bình rượu chuyên nghiệp ít bị đánh lừa ở các nghiên cứu sau, nhưng không hề nói giới phê bình rượu đã tham gia thử nghiệm máy quét của Plassmann và chấm 5 loại rượu giống hệt nhau.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Warning participants in advance that price tags could be inaccurate weakens the placebo pricing bias.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"the effect faded rapidly when volunteers were told beforehand that labels might be misleading.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Countdown clocks on travel websites always correspond to genuine drops in remaining room availability.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Nhiều đồng hồ đếm ngược tự reset về 0 khi tải lại trang — tức là khan hiếm giả tạo (<i>fabricated scarcity</i>).",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Legal experts consider a complete ban on high-priced status goods to be impractical.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Legal scholars note that banning luxury branding altogether would be unrealistic...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "What was the main purpose of Dr. Hilke Plassmann's brain-scanning experiment?",
+      "options": [
+        "A. to measure how quickly volunteers recognized luxury wine brands",
+        "B. to test whether higher prices encouraged volunteers to lie in surveys",
+        "C. to determine if price expectations altered actual neural pleasure responses",
+        "D. to compare how the brain reacts to cheap versus expensive medicines"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Nhằm kiểm tra xem đó chỉ là lời khen xã giao (<i>polite social flattery</i>) hay thực sự làm thay đổi cảm giác thần kinh (<i>genuine sensory change</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Why do online booking platforms display messages such as 'only two seats left'?",
+      "options": [
+        "A. to inform customers about genuine technical limits on their servers",
+        "B. to rush shoppers into buying before checking competing offers",
+        "C. to reward returning users with last-minute price discounts",
+        "D. to comply with new European consumer transparency standards"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Gây lo lắng nhẹ khiến người mua bỏ qua bước so sánh giá kỹ lưỡng (<i>cuts short careful price comparison</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Which statement best reflects the writer's conclusion in the final paragraph?",
+      "options": [
+        "A. Consumers should stop purchasing luxury brands to avoid cognitive fatigue.",
+        "B. Digital stores should replace countdown clocks with higher fixed prices.",
+        "C. Rules should focus on stopping fake scarcity rather than outlawing prestige pricing.",
+        "D. Professional critics should test all online products before sale."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Cấm hàng xa xỉ là bất khả thi; cơ quan quản lý nhắm vào việc buộc chứng minh cảnh báo hết hàng là thật.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

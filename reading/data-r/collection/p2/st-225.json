@@ -1,0 +1,234 @@
+{
+  "title": "Bài sưu tầm 225 - Passage 2: Cooling the Concrete Jungle: Rethinking Urban Shade",
+  "answers": {
+    "q14": "F",
+    "q15": "B",
+    "q16": "C",
+    "q17": "A",
+    "q18": "G",
+    "q19": "NO",
+    "q20": "NOT GIVEN",
+    "q21": "NO",
+    "q22": "NOT GIVEN",
+    "q23": "YES",
+    "q24": "C",
+    "q25": "A",
+    "q26": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 225</h2><h3>Cooling the Concrete Jungle: Rethinking Urban Shade</h3><p><strong>Paragraph A.</strong> For much of the twentieth century, urban designers treated extreme summer heat primarily as an indoor engineering challenge rather than an outdoor spatial problem. As mechanical air conditioning became cheaper after the 1950s, architects abandoned thick stone walls, shaded courtyards, and narrow pedestrian alleys in favour of sealed glass towers surrounded by wide asphalt roads. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">While air conditioners keep offices comfortable inside, they pump waste heat directly into the street outside, raising evening neighbourhood temperatures by several degrees.</span> Coupled with dark roofs and pavements that absorb solar radiation throughout the afternoon, modern cities trap warmth long after sunset—a phenomenon known as the urban heat island effect.</p><p><strong>Paragraph B.</strong> In response, several municipal governments have turned to 'cool roof' policies, mandating or subsidizing pale, reflective coatings on commercial warehouses and apartment blocks. On paper, the physics looks straightforward: white surfaces bounce sunlight back into space rather than converting it into stored heat. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Satellite measurements in Phoenix and Athens confirmed that <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">widespread reflective roofing can reduce indoor cooling demand by up to fifteen percent during heatwaves</span>.</span> Yet field researchers warn that reflective coatings are no universal remedy. <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">In dense city centres where tall glass buildings sit side by side, bright roof coatings and pale pavements often bounce solar glare sideways into neighbouring windows and onto pedestrians below, unintentionally warming people walking at street level even as roof surfaces stay cooler.</span></p><p><strong>Paragraph C.</strong> Recognizing the limits of reflective materials, urban foresters argue that living vegetation offers a more balanced cooling mechanism. Trees cool cities in two ways: their canopies block direct sunlight before it reaches dark tarmac, and their leaves release moisture into the air through transpiration, a natural process similar to human sweating. However, urban planner Dr. Kenji Takahashi cautions that simply counting newly planted saplings can mislead the public. <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\"><span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">In a five-year audit of municipal tree-planting drives across three European cities, Takahashi found that nearly forty percent of young street trees died within thirty-six months because their roots were cramped inside tiny concrete pits and deprived of rainwater runoff.</span></span> Without redesigning underground soil beds to hold moisture, ambitious tree targets often fail to produce real shade.</p><p><strong>Paragraph D.</strong> Other researchers point out that historic desert cities solved extreme heat centuries ago without relying on electricity or abundant irrigation. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">Traditional districts in Seville, Yazd, and Fez were laid out with <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">winding, narrow lanes flanked by tall, pale-washed buildings that cast shadows across walkways for most of the day</span>.</span> Overhead canvas awnings and sunken inner courtyards created pockets of cool air that settled overnight and lingered well into the afternoon. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Modern zoning laws in many fast-growing cities, however, make it difficult to revive these compact street patterns, since emergency fire trucks and commercial delivery vehicles require wide, straight roadways that leave sidewalks exposed to midday sun.</span></p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">The uneven distribution of urban heat has also turned shade into a sensitive social issue. Thermal mapping across major North American and Australian cities consistently shows that lower-income neighbourhoods tend to be up to five degrees hotter during summer heatwaves than wealthier suburbs just a few kilometres away.</span> Historic planning decisions left poorer districts packed with industrial warehouses, broad highways, and scarce parkland, while affluent areas retained mature tree-lined avenues. <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Crucially, residents in hotter neighbourhoods are also less likely to afford continuous home air conditioning, turning a meteorological pattern into a public health inequality that drives up emergency hospital admissions among elderly residents.</span></p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Rather than relying on any single technology, climate-adaptation specialists increasingly advocate tailored 'shade masterplans' that match cooling tools to each street’s physical layout.</span> In wide commercial corridors where mature trees struggle to survive, lightweight fabric sails and ventilated bus shelters can offer immediate relief for commuters. Elsewhere, replacing impermeable asphalt strips with porous soil trenches allows storm runoff to nourish deeper-rooted shade trees. <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">As urban climatologist Dr. Nadia Al-Mansoor notes, keeping cities livable in a warming century is less about inventing futuristic gadgets than about restoring basic physical principles—blocking sunlight before it strikes stone, and giving streets room to breathe.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–18",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 14–18 on your answer sheet.</i><br><br><b>A.</b> traffic &nbsp;|&nbsp; <b>B.</b> energy &nbsp;|&nbsp; <b>C.</b> survival<br><b>D.</b> reflection &nbsp;|&nbsp; <b>E.</b> shelter &nbsp;|&nbsp; <b>F.</b> design<br><b>G.</b> income &nbsp;|&nbsp; <b>H.</b> maintenance &nbsp;|&nbsp; <b>I.</b> drainage",
+      "summaryTitle": "Early Modern Solutions and Their Limits",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ],
+      "template": "<p>For decades, modern builders relied on indoor mechanical cooling while neglecting traditional outdoor <b>14.</b> {{q14}} that once kept cities comfortable. One modern alternative, painting roofs white, reduces indoor <b>15.</b> {{q15}} use during hot weather. However, in crowded business districts, light bounced off bright surfaces can create extra warmth for people on the ground. Urban trees offer a strong alternative by blocking sunlight and releasing moisture, yet poor underground space and limited water often reduce the <b>16.</b> {{q16}} rate of newly planted saplings. Meanwhile, older passive methods such as narrow shaded alleys are hard to reintroduce today because modern <b>17.</b> {{q17}} demands wider roads. Ultimately, experts warn that unequal access to cooling has become linked to household <b>18.</b> {{q18}}, placing poorer residents at greater health risk.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 19–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 225?<br>In boxes 19–23 on your answer sheet, write:<br><b>YES</b> – if the statement agrees with the claims of the writer<br><b>NO</b> – if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b> – if it is impossible to say what the writer thinks about this</i>",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.<br>Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A & D:</b> Kiến trúc sư hiện đại bỏ rơi sân trong có bóng râm và các ngõ nhỏ hẹp (<i>compact street patterns / laid out with winding, narrow lanes</i>) — tức là thiết kế không gian ngoài trời (<b>design — F</b>)."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Mái nhà phản quang giúp giảm nhu cầu làm mát trong nhà tới 15% (<i>reduce indoor cooling demand</i>) → giảm tiêu thụ năng lượng (<b>energy — B</b>)."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Gần 40% cây non chết trong vòng 36 tháng do hố bê tông quá chật và thiếu nước mưa → làm giảm tỷ lệ sống sót (<b>survival — C</b>)."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Xe cứu hỏa và xe giao hàng thương mại cần đường rộng và thẳng → nhu cầu giao thông hiện đại (<b>traffic — A</b>) đòi hỏi đường lớn."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Các khu dân cư thu nhập thấp nóng hơn tới 5 độ so với khu giàu có → liên quan đến thu nhập hộ gia đình (<b>income — G</b>)."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Air conditioning units help cool building interiors without affecting outdoor street temperatures.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Máy lạnh giữ văn phòng mát bên trong nhưng bơm hơi nóng ra thẳng đường phố, làm tăng nhiệt độ khu dân cư vào buổi tối (<i>pump waste heat directly into the street outside, raising evening neighbourhood temperatures</i>).",
+          "<b>Kết luận:</b> Trái ngược với <i>without affecting outdoor street temperatures</i> → Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Reflective roof policies in Phoenix and Athens proved more expensive to maintain than planting street trees.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B & C:</b> Bài có nhắc đến chính sách mái phản quang ở Phoenix và Athens, đồng thời có bàn về trồng cây đường phố, nhưng hoàn toàn không so sánh chi phí bảo trì giữa hai phương án này.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Dr. Kenji Takahashi’s study showed that the main threat to newly planted city trees was air pollution from nearby roads.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Nghiên cứu của Takahashi chỉ ra nguyên nhân cây chết là rễ bị bó hẹp trong hố bê tông nhỏ và thiếu nước mưa (<i>roots were cramped inside tiny concrete pits and deprived of rainwater runoff</i>), không phải ô nhiễm không khí.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Elderly people living in low-income neighbourhoods experience higher rates of hospital treatment during heatwaves than younger residents in the same areas.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Bài có nhắc khu thu nhập thấp và việc số ca nhập viện cấp cứu ở người cao tuổi tăng lên (<i>drives up emergency hospital admissions among elderly residents</i>), nhưng không so sánh tỷ lệ giữa người già và người trẻ trong cùng khu vực.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Urban planners should match different cooling strategies to the specific layout of each neighbourhood rather than using one standard fix.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Chuyên gia ủng hộ các kế hoạch bóng mát may đo (<i>tailored 'shade masterplans'</i>) khớp công cụ làm mát với bố cục vật lý của từng tuyến phố thay vì dựa vào một công nghệ đơn lẻ.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "What flaw in 'cool roof' schemes does the writer highlight in the second paragraph?",
+      "options": [
+        "A. They lose their bright white colour within a few months of installation.",
+        "B. They fail to lower temperatures inside single-storey commercial buildings.",
+        "C. They can redirect sunlight onto pedestrians and neighbouring glass facades.",
+        "D. They prevent satellite sensors from accurately measuring city heat levels."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Lớp phủ sáng màu hắt ánh nắng sang ngang vào cửa sổ nhà bên cạnh và xuống người đi bộ bên dưới (<i>bounce solar glare sideways into neighbouring windows and onto pedestrians below</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Why does the writer mention historic cities such as Seville, Yazd, and Fez in the fourth paragraph?",
+      "options": [
+        "A. To demonstrate that traditional urban layouts naturally limited daytime sun exposure.",
+        "B. To argue that modern cities should ban commercial delivery vehicles from historic centres.",
+        "C. To show that desert settlements used underground water pipes more effectively than modern towns.",
+        "D. To prove that stone buildings are always cooler than structures shaded by canvas awnings."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Nêu 3 thành phố cổ để minh họa cách quy hoạch đường hẹp ngoằn ngoèo cùng nhà cao giúp đổ bóng che nắng phần lớn thời gian trong ngày (<i>cast shadows across walkways for most of the day</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "What is Dr. Nadia Al-Mansoor’s main point in the final sentence?",
+      "options": [
+        "A. Advanced mechanical cooling systems will soon become unnecessary in warm climates.",
+        "B. Effective urban cooling depends on applying straightforward physical design principles rather than complex inventions.",
+        "C. Municipal authorities should replace all paved roads with open soil trenches.",
+        "D. Private technology companies are best suited to design urban shade masterplans."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Bà nhấn mạnh giữ thành phố mát mẻ không nằm ở việc phát minh thiết bị tối tân mà là khôi phục các nguyên lý vật lý cơ bản (<i>less about inventing futuristic gadgets than about restoring basic physical principles</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

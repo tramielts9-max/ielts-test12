@@ -1,0 +1,212 @@
+{
+  "title": "Bài sưu tầm 234 - Passage 2: When Satellites Count Trees: Promises and Limits of Forest Mapping",
+  "answers": {
+    "q14": "FALSE",
+    "q15": "TRUE",
+    "q16": "NOT GIVEN",
+    "q17": "FALSE",
+    "q18": "TRUE",
+    "q19": "shadows",
+    "q20": "height",
+    "q21": "leaves",
+    "q22": "branches",
+    "q23": "lasers",
+    "q24": "clouds",
+    "q25": "coffee",
+    "q26": "permits"
+  },
+  "passageHtml": "<h2>READING PASSAGE 234</h2><h3>When Satellites Count Trees: Promises and Limits of Forest Mapping</h3><p><strong>Paragraph 1.</strong> Not long ago, estimating how much forest a country was losing each year meant sending survey teams on muddy boots along distant logging roads, counting stumps by hand months after chainsaws had moved on. Over the past fifteen years, open-access orbital cameras have transformed that slow routine into near-instant global monitoring. Within days of a clearing appearing in the Amazon or Southeast Asia, automated software can flag a fresh scar on public dashboards, giving conservation agencies an early glimpse of illegal road-building.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">Yet computer-read satellite pictures are far from infallible, particularly in steep mountain terrain or patchy dryland woods.</span> <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">Automated systems frequently mistake dark <span class=\"kw\">shadows</span> cast by cliffs for dense evergreen canopies</span>, or confuse seasonal leaf-drop with deliberate clearing. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Standard optical cameras also cannot easily measure tree <span class=\"kw\">height</span> from straight above</span>, making a young single-species timber plantation look almost identical on screen to a centuries-old natural forest holding vastly more carbon and wildlife.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Even when a forest canopy appears completely intact from space, quiet damage can be spreading underneath. Selective loggers rarely flatten entire hillsides; instead, crews slip under the green roof to haul out only the oldest, most valuable hardwood trunks.</span> Because standard orbital sensors <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">measure light bouncing off upper <span class=\"kw\">leaves</span></span>, the loss of scattered giant trees often leaves no obvious bare patch. Similarly, <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">slow ground fires creeping through leaf litter can kill saplings hidden beneath thick <span class=\"kw\">branches</span></span> without scorching the uppermost treetops until months later.</p><p><strong>Paragraph 4.</strong> To look beneath that leafy ceiling, researchers increasingly combine orbital snapshots with <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">aircraft equipped with downward-facing <span class=\"kw\">lasers</span></span>, a technique known as airborne LiDAR. Firing hundreds of thousands of brief light pulses per second, these flights build detailed three-dimensional profiles showing every trunk, gap, and fallen log below. Even so, airborne scanning remains too costly for routine weekly checks across entire continents, and <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">conventional optical satellites still cannot penetrate heavy <span class=\"kw\">clouds</span></span> that blanket tropical basins during the long rainy season—precisely when illegal clearing often peaks.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">Because of these blind spots, satellite alerts work best when paired with local rangers walking boundary trails rather than replacing human eyes altogether.</span> <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\"><span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">In Colombia’s Andean valleys, automated detectors kept issuing false alarms over shade-grown <span class=\"kw\">coffee</span> plantations whenever farmers pruned overhanging trees during harvest, forcing officials to rely on local community monitors to confirm what was happening on the ground.</span></span> <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Elsewhere, regional courts now use verified time-stamped imagery to check logging <span class=\"kw\">permits</span></span> when timber companies claim wood came from approved plots. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">Far from rendering fieldwork obsolete, space-age mapping has made local verification more valuable than ever.</span></p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 14–18",
+      "instructions": "<i>Do the following statements agree with the information given in Reading Passage 234?<br>In boxes 14–18 on your answer sheet, write:<br><b>TRUE</b> – if the statement agrees with the information<br><b>FALSE</b> – if the statement contradicts the information<br><b>NOT GIVEN</b> – if there is no information on this</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 19–26",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 19–26 on your answer sheet.</i>",
+      "noteTitle": "Forest Monitoring: Tools and Weaknesses",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "template": "<p><b>Standard Satellite Cameras</b></p><ul><li style=\"margin-bottom:8px;\">Software can misread cliff <b>19.</b> {{q19}} as thick woodland cover.</li><li style=\"margin-bottom:8px;\">Top-down images fail to show vertical tree <b>20.</b> {{q20}}, making new plantations resemble old forests.</li><li style=\"margin-bottom:8px;\">Sensors only capture reflection from top <b>21.</b> {{q21}}, missing targeted cutting below.</li><li style=\"margin-bottom:8px;\">Low fires burn young trees concealed under dense <b>22.</b> {{q22}}.</li></ul><p><b>Airborne Tools and Ground Checks</b></p><ul><li style=\"margin-bottom:8px;\">Planes carrying pulsing <b>23.</b> {{q23}} map 3D forest structure below the canopy.</li><li style=\"margin-bottom:8px;\">Tropical optical sensors are blocked by dense <b>24.</b> {{q24}} in wet months.</li><li style=\"margin-bottom:8px;\">In Colombia, pruning shade trees above <b>25.</b> {{q25}} crops triggered false alerts.</li><li style=\"margin-bottom:8px;\">Dated satellite images help judges verify official harvesting <b>26.</b> {{q26}}.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "Satellite mapping programs perform equally accurately in mountainous areas and flat plains.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Hệ thống không hoàn hảo, đặc biệt kém chính xác ở địa hình núi dốc (<i>steep mountain terrain</i>) vì hay nhầm bóng vách đá với tán rừng.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "Targeted removal of valuable timber can occur without creating gaps visible from orbit.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Đội khai thác chọn lọc chỉ kéo đi những thân gỗ quý rời rạc nên tán rừng nhìn từ trên xuống vẫn nguyên vẹn (<i>leaves no obvious bare patch</i>).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "Operating orbital forest monitoring systems costs national governments less than employing ground rangers.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bài có nhắc cả hệ thống cảnh báo vệ tinh và kiểm lâm viên đi tuần (<i>local rangers</i>), nhưng hoàn toàn không so sánh chi phí vận hành cái nào rẻ hơn.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "Colombian officials stopped using community monitors once automated detectors were installed.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Ngược lại: vì máy báo động giả liên tục nên giới chức buộc phải nhờ người giám sát cộng đồng (<i>forcing officials to rely on local community monitors</i>) xác minh.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "text": "Digital mapping has increased rather than reduced the importance of on-site forest inspection.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Far from rendering fieldwork obsolete, space-age mapping has made local verification more valuable than ever.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "shadows",
+      "inputWidth": "110px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...mistake dark shadows cast by cliffs for dense evergreen canopies...\"</i>",
+          "<b>Từ cần điền:</b> <b>shadows</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "height",
+      "inputWidth": "100px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...cannot easily measure tree height from straight above...\"</i> (Top-down = straight above).",
+          "<b>Từ cần điền:</b> <b>height</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "leaves",
+      "inputWidth": "100px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...measure light bouncing off upper leaves...\"</i> (reflection from top = light bouncing off upper).",
+          "<b>Từ cần điền:</b> <b>leaves</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "finalAnswer": "branches",
+      "inputWidth": "110px",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...kill saplings hidden beneath thick branches...\"</i> (young trees concealed = saplings hidden).",
+          "<b>Từ cần điền:</b> <b>branches</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "finalAnswer": "lasers",
+      "inputWidth": "100px",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...aircraft equipped with downward-facing lasers...\"</i> (Planes carrying = aircraft equipped with).",
+          "<b>Từ cần điền:</b> <b>lasers</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "finalAnswer": "clouds",
+      "inputWidth": "100px",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...cannot penetrate heavy clouds... during the long rainy season...\"</i> (wet months = rainy season).",
+          "<b>Từ cần điền:</b> <b>clouds</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "finalAnswer": "coffee",
+      "inputWidth": "100px",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...false alarms over shade-grown coffee plantations...\"</i>",
+          "<b>Từ cần điền:</b> <b>coffee</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "finalAnswer": "permits",
+      "inputWidth": "110px",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...regional courts now use verified time-stamped imagery to check logging permits...\"</i> (judges = courts).",
+          "<b>Từ cần điền:</b> <b>permits</b>."
+        ]
+      }
+    }
+  }
+}

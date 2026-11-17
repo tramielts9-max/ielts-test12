@@ -1,0 +1,287 @@
+{
+  "title": "Bài sưu tầm 226 - Passage 2: The Hidden Cost of Clean Air: Shipping Fuel and Ocean Warming",
+  "answers": {
+    "q14": "C",
+    "q15": "F",
+    "q16": "A",
+    "q17": "D",
+    "q18": "clouds",
+    "q19": "salt",
+    "q20": "Australia",
+    "q21": "rainfall",
+    "q22": "A",
+    "q23": "D",
+    "q24": "B",
+    "q25": "C",
+    "q26": "B"
+  },
+  "passageHtml": "<h2>READING PASSAGE 226</h2><h3>The Hidden Cost of Clean Air: Shipping Fuel and Ocean Warming</h3><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">In January 2020, international maritime regulations came into force requiring commercial cargo vessels to slash the sulfur content of their bunker fuel by more than eighty percent. The rule was hailed as a major public health triumph, designed to curb acid rain and respiratory illnesses in port cities. Yet within three years, oceanographers noticed an alarming anomaly: surface waters across the North Atlantic warmed at a pace far exceeding historical projections,</span> catching even seasoned climate modellers off guard.</p><p><strong>Paragraph B.</strong> To understand this apparent paradox, scientists turned their attention to 'ship tracks'—long, pale ribbons visible in satellite photographs stretching behind ocean liners. For decades, dirty marine diesel had pumped millions of tonnes of sulfur dioxide into the lower atmosphere. <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">These microscopic particles acted as tiny seeds around which airborne moisture condensed, creating unusually dense, bright <span class=\"kw\">clouds</span></span> that bounced a substantial share of incoming solar radiation back into space. When vessels switched to cleaner fuel, this unintended sunshade rapidly thinned, allowing extra heat to penetrate the ocean surface.</p><p><strong>Paragraph C.</strong> Quantifying that lost cooling effect fell to atmospheric physicist Dr. Hannah Lindqvist. Comparing ten years of satellite records before and after the fuel transition, <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">her team documented a sharp decline in cloud reflectivity concentrated directly over the world's busiest maritime corridors between Europe and North America.</span> <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">'What surprised us was not that the sky darkened slightly, but how quickly the ocean responded,' Lindqvist noted, estimating that cleaner shipping air had roughly doubled the rate of regional warming along those lanes.</span></p><p><strong>Paragraph D.</strong> Not every researcher agrees that fuel rules alone explain the dramatic temperature jump. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Climate statistician Dr. Mateo Silva points out that the 2023 surge coincided with a shifting El Niño pattern in the Pacific and an unusual lull in North African dust storms, which normally scatter sunlight over the Atlantic.</span> <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">'Treating cleaner shipping as the primary culprit risks oversimplifying a tangled web of natural cycles,' Silva argued.</span> <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">He also cautioned that short-term satellite snapshots cannot reliably separate human-driven aerosol changes from multi-decade swings in ocean currents.</span></p><p><strong>Paragraph E.</strong> Even so, the episode has revived interest in a controversial technique known as marine cloud brightening. Rather than burning polluting fuel, engineers propose spraying atomised droplets of ordinary sea <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\"><span class=\"kw\">salt</span></span> upward from autonomous ships to restore cloud reflectivity safely. <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">Off the northeastern coast of <span class=\"kw\">Australia</span>, marine technologist Dr. Kenji Sato led small-scale nozzle tests over the Great Barrier Reef</span> to see whether gentle misting could shield fragile coral from summer bleaching. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">Sato stressed that his trials were purely defensive and temporary, aimed at buying ecosystems time while global emissions fell.</span></p><p><strong>Paragraph F.</strong> Critics, however, fear that tinkering with ocean clouds on a planetary scale could backfire. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">Computer simulations indicate that cooling one stretch of ocean might inadvertently shift atmospheric pressure belts, potentially disrupting seasonal <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\"><span class=\"kw\">rainfall</span></span> across West Africa or the Amazon basin.</span> <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Environmental policy scholar Dr. Nadia Vance warns that no international treaty currently determines who holds the authority to adjust the global thermostat—or who pays compensation if one nation's cooling project triggers drought in another.</span></p><p><strong>Paragraph G.</strong> Ultimately, most climate scientists view the shipping-fuel episode as a sobering reminder rather than an argument for returning to dirty oil. Sulfur pollution had merely hidden part of the warming already locked in by greenhouse gases, acting like a temporary loan that eventually comes due. Cutting carbon output, researchers conclude, remains the only reliable way to stabilize ocean temperatures over the long term.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–17",
+      "instructions": "<i>Reading Passage 226 has seven sections, <b>A–G</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–G</b>, in boxes 14–17 on your answer sheet.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 18–21",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 18–21 on your answer sheet.</i>",
+      "summaryTitle": "How Maritime Emissions Influenced Ocean Temperatures",
+      "questionIds": [
+        "q18",
+        "q19",
+        "q20",
+        "q21"
+      ],
+      "template": "<p>For many years, exhaust from cargo ships helped moisture in the air form unusually bright <b>18.</b> {{q18}} that bounced sunlight back into space. Once stricter fuel standards removed this unintentional shield, sea temperatures began climbing faster. To recreate that cooling effect without toxic pollutants, some researchers are testing sprayers that release fine droplets extracted from marine <b>19.</b> {{q19}} . Early offshore trials near <b>20.</b> {{q20}} were conducted to protect coral habitats during peak summer heat, although sceptics warn that scaling up such interventions could disturb distant <b>21.</b> {{q21}} patterns.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "matching_names",
+      "skillTag": "MATCH_FEATURES",
+      "title": "Questions 22–26",
+      "instructions": "<i>Look at the following statements (Questions 22–26) and the list of researchers below.<br>Match each statement with the correct person, <b>A–D</b>.<br>Write the correct letter, <b>A–D</b>, in boxes 22–26 on your answer sheet.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>List of Researchers:</b><br><b>A.</b> Dr. Hannah Lindqvist<br><b>B.</b> Dr. Mateo Silva<br><b>C.</b> Dr. Kenji Sato<br><b>D.</b> Dr. Nadia Vance",
+      "questionIds": [
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "evidence of a drop in cloud brightness concentrated along specific maritime routes",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"documented a sharp decline in cloud reflectivity concentrated directly over the world's busiest maritime corridors...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "a warning that an artificial cooling method might disturb precipitation elsewhere",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"cooling one stretch of ocean might inadvertently shift atmospheric pressure belts, potentially disrupting seasonal rainfall across West Africa or the Amazon basin.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "the unintended climatic side effect of an anti-pollution rule",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Luật cắt giảm lưu huỳnh giúp giảm ô nhiễm nhưng sau 3 năm nhiệt độ bề mặt Bắc Đại Tây Dương tăng vọt bất thường.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "reasons why a single policy cannot easily be isolated as the sole cause of recent ocean heat",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Nêu các yếu tố tự nhiên đi kèm (El Niño, giảm bão bụi Sahara) khiến việc quy hết cho nhiên liệu tàu là quá đơn giản hóa.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "clouds",
+      "inputWidth": "110px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"creating unusually dense, bright clouds\"</i> (chú ý paraphrase: <i>unusually bright</i> ↔ <i>unusually reflective</i>).",
+          "<b>Từ cần điền:</b> <b>clouds</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "salt",
+      "inputWidth": "100px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"spraying atomised droplets of ordinary sea salt\"</i> (<i>sea</i> được paraphrase thành <i>marine</i> trong câu hỏi).",
+          "<b>Từ cần điền:</b> <b>salt</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "Australia",
+      "inputWidth": "120px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"Off the northeastern coast of Australia, marine technologist Dr. Kenji Sato led small-scale nozzle tests...\"</i> (<i>off the coast of</i> ↔ <i>near</i>).",
+          "<b>Từ cần điền:</b> <b>Australia</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "rainfall",
+      "inputWidth": "110px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"potentially disrupting seasonal rainfall\"</i> (<i>disrupting seasonal</i> ↔ <i>disturb distant ... patterns</i>).",
+          "<b>Từ cần điền:</b> <b>rainfall</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "The speed at which ocean temperatures reacted to cleaner skies was unexpectedly rapid.",
+      "options": [
+        "A. Dr. Hannah Lindqvist",
+        "B. Dr. Mateo Silva",
+        "C. Dr. Kenji Sato",
+        "D. Dr. Nadia Vance"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C (Lindqvist):</b> <i>\"What surprised us was not that the sky darkened slightly, but how quickly the ocean responded...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Clear legal rules are lacking to handle disputes if cloud modification harms another country.",
+      "options": [
+        "A. Dr. Hannah Lindqvist",
+        "B. Dr. Mateo Silva",
+        "C. Dr. Kenji Sato",
+        "D. Dr. Nadia Vance"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F (Vance):</b> <i>\"no international treaty currently determines who holds the authority... or who pays compensation if one nation's cooling project triggers drought in another.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Blaming the fuel policy alone ignores overlapping natural weather phenomena.",
+      "options": [
+        "A. Dr. Hannah Lindqvist",
+        "B. Dr. Mateo Silva",
+        "C. Dr. Kenji Sato",
+        "D. Dr. Nadia Vance"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D (Silva):</b> <i>\"Treating cleaner shipping as the primary culprit risks oversimplifying a tangled web of natural cycles.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Targeted misting should only serve as a short-term measure alongside emissions cuts.",
+      "options": [
+        "A. Dr. Hannah Lindqvist",
+        "B. Dr. Mateo Silva",
+        "C. Dr. Kenji Sato",
+        "D. Dr. Nadia Vance"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E (Sato):</b> <i>\"his trials were purely defensive and temporary, aimed at buying ecosystems time while global emissions fell.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Brief periods of satellite observation are insufficient to distinguish human influence from long-term oceanic cycles.",
+      "options": [
+        "A. Dr. Hannah Lindqvist",
+        "B. Dr. Mateo Silva",
+        "C. Dr. Kenji Sato",
+        "D. Dr. Nadia Vance"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D (Silva):</b> <i>\"short-term satellite snapshots cannot reliably separate human-driven aerosol changes from multi-decade swings in ocean currents.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "title": "Bài sưu tầm 236 - Passage 2: The Hidden Weather of Street Canyons",
+  "answers": {
+    "q14": "D",
+    "q15": "A",
+    "q16": "C",
+    "q17": "F",
+    "q18": "sky",
+    "q19": "traffic",
+    "q20": "pavements",
+    "q21": "pollutants",
+    "q22": "C",
+    "q23": "B",
+    "q24": "D",
+    "q25": "A",
+    "q26": "D"
+  },
+  "passageHtml": "<h2>READING PASSAGE 236</h2><h3>The Hidden Weather of Street Canyons</h3><p><strong>Paragraph A.</strong> On a humid August afternoon, a city’s official weather bulletin might report a tolerable 29 degrees Celsius, yet commuters waiting at a downtown bus stop often feel as though they are standing inside an oven. This mismatch occurs because <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\">standard meteorological stations are deliberately placed in open environments—such as airport runways or elevated flat roofs—far away from the enclosed corridors where people actually walk</span>. Once high-rise blocks flank a narrow road, they form what climate scientists call an urban street canyon, creating a localized climate governed by concrete walls, vehicle heat, and interrupted winds.</p><p><strong>Paragraph B.</strong> Early urban climate models assumed that sunlight bouncing between glass facades was the main culprit behind daytime street heat. However, when atmospheric physicist Dr. Mateo Silva installed miniature thermal sensors at pedestrian height across twelve districts in Madrid, the readings told a more complicated story. <span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">Silva found that early computer simulations had underestimated human-generated warmth:</span> <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\">passing <span class=\"kw\">traffic</span> and building cooling units added almost as much heat as direct sunshine</span> during peak afternoon hours. Even on shaded pavements, warm exhaust plumes lingered whenever wind speeds dropped.</p><p><strong>Paragraph C.</strong> Night-time temperatures revealed an even sharper divide between suburbs and dense commercial centres. While dark asphalt roads do absorb solar energy quickly during the day, geographer Dr. Elena Vance demonstrated that surface colour is only half the problem. <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\"><span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">In measurements across tightly packed residential lanes, Vance showed that what really keeps night-time temperatures elevated is how little open <span class=\"kw\">sky</span> a narrow street can see</span></span>. When tall facades crowd together, <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">warmth radiating upward from stone and brick repeatedly hits neighbouring walls instead of escaping into space</span>, leaving bedrooms stifling long after sunset.</p><p><strong>Paragraph D.</strong> Instinctively, many city councils try to cool hot streets by adding overhead shade canopies or planting dense rows of broad-leaved trees along every kerb. Yet environmental engineer Prof. Kenji Sato warns that poorly planned greenery can backfire. <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\"><span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">In a two-year study of busy shopping avenues in Tokyo, Sato observed that continuous tree canopies lowered midday surface temperatures by three degrees, but simultaneously formed a ceiling that trapped car fumes at breathing height</span></span>. Without upward ventilation, nitrogen dioxide levels beneath the branches rose sharply compared with treeless intersections nearby.</p><p><strong>Paragraph E.</strong> Seeking cooling strategies that avoid blocking airflow, researchers are testing permeable street materials that work with water rather than overhead shade. Civil engineer Dr. Nadia Okafor led trials replacing sealed asphalt sidewalks with <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">light-coloured stone <span class=\"kw\">pavements</span> that soak up overnight rain and release cool vapour throughout the afternoon</span>. <span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">Still, Okafor notes that evaporative stone loses its benefit in stagnant air; gentle horizontal breezes must carry the damp air away for pedestrians to feel cooler.</span> To protect air movement, <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">municipal engineers now run wind-tunnel checks to ensure airborne <span class=\"kw\">pollutants</span> clear within minutes</span> before approving tall developments.</p><p><strong>Paragraph F.</strong> Ultimately, fixing uncomfortable street weather requires rethinking how whole blocks are arranged rather than relying on street furniture alone. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\"><span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Okafor and her colleagues advocate breaking up uniform walls of identical towers with staggered building heights and angled side streets oriented toward prevailing coastal winds</span></span>. When taller structures sit alongside lower terraces, downward eddies scoop fresh air from upper altitudes into crowded alleys below, proving that thoughtful urban geometry can tame heat without sacrificing clean air.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 14–17",
+      "instructions": "<i>Reading Passage 236 has six sections, <b>A–F</b>.<br>Which section contains the following information?<br>Write the correct letter, <b>A–F</b>, in boxes 14–17 on your answer sheet.</i>",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 18–21",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br>Write your answers in boxes 18–21 on your answer sheet.</i>",
+      "summaryTitle": "Microclimates Inside Urban Street Canyons",
+      "questionIds": [
+        "q18",
+        "q19",
+        "q20",
+        "q21"
+      ],
+      "template": "<p>Research into urban street canyons shows that heat behaves very differently there than in open countryside. When tall facades sit close together, they reduce the amount of <b>18.</b> {{q18}} visible from the ground, preventing stored warmth from escaping after sunset. Computer modelling led by Dr. Mateo Silva initially focused on sunlight reflecting off glass, yet field measurements revealed that surrounding <b>19.</b> {{q19}} contributes a surprising share of afternoon heat alongside building air-conditioning.</p><p>To cool dense districts without trapping vehicle exhaust, planners are testing moisture-retaining <b>20.</b> {{q20}} that slowly evaporate water as temperatures climb. Because narrow streets slow down natural wind speed, engineers also verify how quickly <b>21.</b> {{q21}} disperse before approving new high-rise buildings.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "matching_names",
+      "skillTag": "MATCH_FEATURES",
+      "title": "Questions 22–26",
+      "instructions": "<i>Look at the following statements (Questions 22–26) and the list of researchers below.<br>Match each statement with the correct person, <b>A–D</b>.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>List of Researchers:</b><br><b>A.</b> Dr. Mateo Silva<br><b>B.</b> Dr. Elena Vance<br><b>C.</b> Prof. Kenji Sato<br><b>D.</b> Dr. Nadia Okafor",
+      "questionIds": [
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "text": "an example of how an improvement meant to comfort pedestrians worsened air quality nearby",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Việc trồng tán cây dày giúp giảm nhiệt độ bề mặt 3 độ nhưng lại tạo trần giữ khói xe ở tầm thở, làm tăng nitrogen dioxide.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "text": "a reason why official weather reports fail to reflect conditions felt at street level",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Trạm khí tượng đặt ở đường băng sân bay hoặc mái nhà cao thoáng, cách xa hành lang chật hẹp nơi người dân đi bộ.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "text": "a finding that dark surfaces are not the primary driver of night-time warmth in dense districts",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Elena Vance chỉ ra màu mặt đường tối chỉ là một nửa vấn đề; yếu tố giữ nhiệt ban đêm chủ yếu là khoảng trời mở bị thu hẹp.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "text": "a practical change to building layout that helps flush stale air out of a city",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Thay đổi chiều cao so le giữa các tòa nhà và mở ngõ xiên hướng đón gió biển để đưa không khí sạch xuống hẻm phố.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "sky",
+      "inputWidth": "100px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"what really keeps night-time temperatures elevated is how little open sky a narrow street can see.\"</i>",
+          "<b>Từ cần điền:</b> <b>sky</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "finalAnswer": "traffic",
+      "inputWidth": "110px",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"passing traffic and building cooling units added almost as much heat as direct sunshine...\"</i> (building cooling units = air-conditioning).",
+          "<b>Từ cần điền:</b> <b>traffic</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "finalAnswer": "pavements",
+      "inputWidth": "120px",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"light-coloured stone pavements that soak up overnight rain and release cool vapour...\"</i>",
+          "<b>Từ cần điền:</b> <b>pavements</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "finalAnswer": "pollutants",
+      "inputWidth": "120px",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"ensure airborne pollutants clear within minutes...\"</i>",
+          "<b>Từ cần điền:</b> <b>pollutants</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Urban cooling features can unintentionally create health risks if airflow is blocked.",
+      "options": [
+        "A. Dr. Mateo Silva",
+        "B. Dr. Elena Vance",
+        "C. Prof. Kenji Sato",
+        "D. Dr. Nadia Okafor"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D (Prof. Kenji Sato):</b> Cảnh báo tán cây rậm giữ khí thải độc hại ở độ cao người đi bộ.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Surface colour matters less for overnight cooling than the physical geometry of surrounding structures.",
+      "options": [
+        "A. Dr. Mateo Silva",
+        "B. Dr. Elena Vance",
+        "C. Prof. Kenji Sato",
+        "D. Dr. Nadia Okafor"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C (Dr. Elena Vance):</b> Nhấn mạnh chiều cao hẹp của các dãy nhà cản bức xạ nhiệt thoát ra ngoài trời quan trọng hơn màu sắc mặt đường.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Moisture-absorbing street materials must be paired with open air corridors to remain effective.",
+      "options": [
+        "A. Dr. Mateo Silva",
+        "B. Dr. Elena Vance",
+        "C. Prof. Kenji Sato",
+        "D. Dr. Nadia Okafor"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E (Dr. Nadia Okafor):</b> Đá bay hơi mất tác dụng nếu không khí tù đọng; cần gió nhẹ thổi hơi ẩm đi.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "Earlier digital simulations underestimated the warmth generated by human machinery.",
+      "options": [
+        "A. Dr. Mateo Silva",
+        "B. Dr. Elena Vance",
+        "C. Prof. Kenji Sato",
+        "D. Dr. Nadia Okafor"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B (Dr. Mateo Silva):</b> Các mô hình máy tính ban đầu đánh giá thấp nhiệt lượng từ xe cộ và cục nóng điều hòa.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "Replacing uniform blocks with varied roof levels can restore natural ventilation.",
+      "options": [
+        "A. Dr. Mateo Silva",
+        "B. Dr. Elena Vance",
+        "C. Prof. Kenji Sato",
+        "D. Dr. Nadia Okafor"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F (Dr. Nadia Okafor):</b> Đề xuất xây dựng độ cao so le giữa các tòa nhà để dẫn gió tươi xuống phố.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    }
+  }
+}

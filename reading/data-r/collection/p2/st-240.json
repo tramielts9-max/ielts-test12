@@ -1,0 +1,234 @@
+{
+  "title": "Bài sưu tầm 240 - Passage 2: Black Gold of the Amazon: Lessons from Ancient Terra Preta",
+  "answers": {
+    "q14": "D",
+    "q15": "A",
+    "q16": "F",
+    "q17": "E",
+    "q18": "C",
+    "q19": "NO",
+    "q20": "YES",
+    "q21": "NO",
+    "q22": "NO",
+    "q23": "NOT GIVEN",
+    "q24": "B",
+    "q25": "C",
+    "q26": "A"
+  },
+  "passageHtml": "<h2>READING PASSAGE 240</h2><h3>Black Gold of the Amazon: Lessons from Ancient Terra Preta</h3><p><strong>Paragraph 1.</strong> To a casual visitor, the towering biodiversity of the Amazon rainforest suggests remarkably rich earth beneath the trees. Yet agronomists know the opposite is true: typical Amazonian topsoil is pale, acidic, and surprisingly thin because nutrients cycle rapidly inside living vegetation rather than sitting in the ground. <span class=\"hl\" id=\"hl-q19\" data-q=\"[Q19]\"><span class=\"hl\" id=\"hl-q24\" data-q=\"[Q24]\">When farmers practice slash-and-burn clearing to plant open fields, heavy tropical downpours strip remaining minerals away within two or three harvests, forcing growers to clear fresh forest endlessly</span></span>. Scattered across the basin, however, lie striking pockets of deep, coal-black soil known as <em>terra preta</em> that remain fertile even after centuries of cultivation.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q21\" data-q=\"[Q21]\">Early twentieth-century geographers speculated that these fertile islands had formed naturally from volcanic ash washed down the Andes, yet chemical and archaeological digs disproved that theory</span>. Every layer of <em>terra preta</em> contained household fish bones, animal waste, <span class=\"hl\" id=\"hl-q20\" data-q=\"[Q20]\">and thousands of broken ceramic shards that kept heavy clay loose and well aerated</span>. Most importantly, <span class=\"hl\" id=\"hl-q14\" data-q=\"[Q14]\">pre-Columbian communities smouldered wood and crop trimmings in low-oxygen pits to generate large quantities of fine, porous charcoal—known today as biochar</span>.</p><p><strong>Paragraph 3.</strong> Modern soil laboratories have only recently uncovered why biochar outperforms ordinary wood ash. Under an electron microscope, each tiny grain of slow-burned carbon resembles a honeycomb packed with thousands of microscopic tunnels. <span class=\"hl\" id=\"hl-q15\" data-q=\"[Q15]\"><span class=\"hl\" id=\"hl-q25\" data-q=\"[Q25]\">This vast internal surface acts like a magnet for water and soluble plant minerals—such as nitrogen and phosphorus—preventing monsoon rain from washing them beyond root depth while sheltering dense colonies of beneficial microbes inside its pores</span></span>. Furthermore, <span class=\"hl\" id=\"hl-q16\" data-q=\"[Q16]\">the mineral-rich blend neutralizes naturally sour jungle earth, raising soil pH toward levels where staple crops thrive</span>.</p><p><strong>Paragraph 4.</strong> The discovery of engineered soils upended long-standing assumptions about Amazonian history. Because background jungle soils seemed unable to feed dense cities, anthropologists once portrayed the pre-Columbian Amazon as an untouched wilderness supporting only tiny, nomadic bands. <span class=\"hl\" id=\"hl-q17\" data-q=\"[Q17]\">Mapping surveys of <em>terra preta</em> bands along river bluffs revealed an interconnected landscape capable of feeding settled populations of tens of thousands</span>. <span class=\"hl\" id=\"hl-q23\" data-q=\"[Q23]\">Even today, smallholders living near these ancient earthworks routinely harvest stronger cassava and maize crops than neighbours working untreated forest plots a few hundred metres away</span>.</p><p><strong>Paragraph 5.</strong> Hoping to replicate this ancient success, climate scientists and agronomists are testing modern biochar on degraded farmland around the world. Unlike raw compost, which breaks down quickly in warm soil, <span class=\"hl\" id=\"hl-q18\" data-q=\"[Q18]\">biochar locks carbon firmly into solid rings that resist microbial decay for hundreds of years</span>. <span class=\"hl\" id=\"hl-q22\" data-q=\"[Q22]\">Even so, field trials show mixed results: depleted, acidic tropical soils often record sharp yield gains after biochar treatment, whereas already fertile temperate loams show almost no measurable improvement</span>. <span class=\"hl\" id=\"hl-q26\" data-q=\"[Q26]\">Researchers also warn that large-scale biochar projects will backfire environmentally if companies chop down healthy native woodland simply to feed carbon furnaces rather than recycling agricultural waste</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 14–18",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>, in boxes 14–18 on your answer sheet.</i><br><br><b>A.</b> nutrients &nbsp;|&nbsp; <b>B.</b> erosion &nbsp;|&nbsp; <b>C.</b> stability<br><b>D.</b> charcoal &nbsp;|&nbsp; <b>E.</b> population &nbsp;|&nbsp; <b>F.</b> acidity<br><b>G.</b> drainage &nbsp;|&nbsp; <b>H.</b> wildlife &nbsp;|&nbsp; <b>I.</b> fertilizer",
+      "summaryTitle": "The Science Behind Amazonian Dark Earth",
+      "questionIds": [
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18"
+      ],
+      "template": "<p>Although lowland tropical soils typically lose fertility quickly, pockets of dark earth across the Amazon remain productive for centuries. Excavations showed these zones were created deliberately using pottery fragments and slow-burned <b>14.</b> {{q14}} . This porous ingredient traps water and dissolved <b>15.</b> {{q15}} that heavy rain would otherwise wash out of reach, while reducing natural soil <b>16.</b> {{q16}} . Finding such extensive managed fields also forced historians to raise estimates of the basin's ancient <b>17.</b> {{q17}} . Today, scientists value modern biochar both for restoring exhausted soils and for its long-term carbon <b>18.</b> {{q18}} underground.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 19–23",
+      "instructions": "<i>Do the following statements agree with the claims of the writer in Reading Passage 240? In boxes 19–23 on your answer sheet, write <b>YES, NO or NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 24–26",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>. Write the correct letter in boxes 24–26 on your answer sheet.</i>",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26"
+      ]
+    }
+  ],
+  "questions": {
+    "q14": {
+      "num": 14,
+      "finalAnswer": "D",
+      "inputWidth": "70px",
+      "highlightId": "hl-q14",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"smouldered wood and crop trimmings... to generate large quantities of fine, porous charcoal\"</i> ↔ <b>charcoal (D)</b>."
+        ]
+      }
+    },
+    "q15": {
+      "num": 15,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q15",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"soluble plant minerals—such as nitrogen and phosphorus\"</i> ↔ dissolved <b>nutrients (A)</b>."
+        ]
+      }
+    },
+    "q16": {
+      "num": 16,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q16",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"neutralizes naturally sour jungle earth, raising soil pH\"</i> ↔ reducing soil <b>acidity (F)</b>."
+        ]
+      }
+    },
+    "q17": {
+      "num": 17,
+      "finalAnswer": "E",
+      "inputWidth": "70px",
+      "highlightId": "hl-q17",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"capable of feeding settled populations of tens of thousands\"</i> ↔ ancient <b>population (E)</b>."
+        ]
+      }
+    },
+    "q18": {
+      "num": 18,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q18",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"locks carbon firmly into solid rings that resist microbial decay for hundreds of years\"</i> ↔ carbon <b>stability (C)</b>."
+        ]
+      }
+    },
+    "q19": {
+      "num": 19,
+      "text": "Ordinary Amazonian forest soils remain fertile even after trees are cleared for long-term farming.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q19",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Khi chặt đốt làm nương rẫy, mưa lớn rửa trôi hết khoáng chất chỉ sau 2–3 vụ thu hoạch.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q20": {
+      "num": 20,
+      "text": "Broken ceramic fragments mixed into terra preta helped keep the soil structure loose and aerated.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q20",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"broken ceramic shards that kept heavy clay loose and well aerated\"</i>.",
+          "<b>Kết luận:</b> Chọn <b>YES</b>."
+        ]
+      }
+    },
+    "q21": {
+      "num": 21,
+      "text": "Ancient Amazonian farmers imported volcanic ash from the Andes to create terra preta.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q21",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Giả thuyết tro núi lửa từ dãy Andes đã bị bác bỏ; lớp đất được tạo tại chỗ từ xương cá, phân thải, gốm vỡ và than gỗ.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q22": {
+      "num": 22,
+      "text": "Modern commercial biochar always boosts crop yields regardless of the soil type where it is applied.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q22",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Đất nhiệt đới chua bạc màu tăng năng suất rõ rệt, nhưng đất màu mỡ vùng ôn đới hầu như không ghi nhận cải thiện nào.",
+          "<b>Kết luận:</b> Chọn <b>NO</b>."
+        ]
+      }
+    },
+    "q23": {
+      "num": 23,
+      "text": "Indigenous communities in the Amazon still manufacture terra preta using the exact same ritual fires as their ancestors.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q23",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài chỉ nói nông dân hiện nay vẫn canh tác tốt trên các mảnh đất cổ có sẵn, không đề cập họ có đốt lửa nghi lễ tạo đất mới y hệt tổ tiên hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q24": {
+      "num": 24,
+      "text": "Why does the writer mention slash-and-burn agriculture in the first paragraph?",
+      "options": [
+        "A. to criticize ancient tribes for destroying primary rainforest habitats",
+        "B. to illustrate why typical rainforest soil fails to sustain permanent fields",
+        "C. to explain how wood charcoal was originally discovered by European settlers",
+        "D. to show that cassava requires more rainfall than other tropical crops"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q24",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Nêu việc làm nương rẫy chỉ trụ được 2–3 vụ để chứng minh lớp đất rừng thông thường rất nghèo dinh dưỡng và dễ bị rửa trôi.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q25": {
+      "num": 25,
+      "text": "What makes the carbon inside terra preta unusually effective over long periods?",
+      "options": [
+        "A. It dissolves completely during the first rainy season to feed roots immediately.",
+        "B. It prevents earthworms and microorganisms from entering deep soil layers.",
+        "C. Its porous microstructure resists breakdown while sheltering beneficial microbes.",
+        "D. It reflects afternoon sunlight to keep surface roots cool."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q25",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 & 5:</b> Cấu trúc xốp dạng tổ ong vừa giữ nước/khoáng, vừa làm nơi trú ngụ cho vi sinh vật có lợi và chống phân hủy hàng trăm năm.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q26": {
+      "num": 26,
+      "text": "What caution do soil scientists raise in the final paragraph?",
+      "options": [
+        "A. Biochar production must use waste biomass rather than encouraging deforestation.",
+        "B. Biochar breaks down too quickly in warm climates to store carbon.",
+        "C. Temperate farmers should replace all natural compost with ceramic shards.",
+        "D. Modern charcoal furnaces emit more nitrogen than standard fertilizer factories."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q26",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Cảnh báo dự án biochar sẽ phản tác dụng môi trường nếu chặt rừng khỏe mạnh để đốt than thay vì tận dụng phụ phẩm nông nghiệp.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    }
+  }
+}
