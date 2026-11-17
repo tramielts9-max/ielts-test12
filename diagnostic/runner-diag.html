@@ -151,16 +151,249 @@
     .transcript-line {
       padding: 6px 10px; border-radius: 8px; margin-bottom: 4px; transition: background 0.12s ease;
     }
-    .transcript-line:hover { background: #F0F9FF; }
+    .transcript-line:hover { background: #F0FDF4; }
     .time-stamp-tag {
       font-family: monospace; font-size: 11.5px; font-weight: 900; background: #E0F2FE;
       color: #0284C7; padding: 2px 6px; border-radius: 5px; margin-right: 8px; user-select: none;
     }
     .transcript-line .kw { background: #FEF08A; font-weight: 800; padding: 0 4px; border-radius: 4px; }
     .transcript-line.active-audio-line { background: #FEF9C3; border-left: 4px solid #EAB308; }
+
+    /* =========================================================================
+       CSS RIÊNG CHO CỔNG KHẢO SÁT KỲ VỌNG ONBOARDING INTAKE MODAL
+       ========================================================================= */
+    .intake-pill-btn {
+      background: #FFFFFF; border: 2px solid var(--duo-border); border-bottom: 4px solid var(--duo-shadow);
+      border-radius: 12px; padding: 10px 14px; font-size: 13px; font-weight: 800; color: #334155;
+      cursor: pointer; text-align: left; transition: all 0.1s ease; user-select: none;
+    }
+    .intake-pill-btn:hover { border-color: #0284C7; background: #F0F9FF; }
+    .intake-pill-btn.selected {
+      background: #EFF6FF !important; border-color: #0284C7 !important; border-bottom: 4px solid #0369A1 !important;
+      color: #0369A1 !important; box-shadow: 0 2px 8px rgba(2, 132, 199, 0.15);
+    }
+    .intake-pill-btn.selected-band {
+      background: #FEF2F2 !important; border-color: var(--tram-red) !important; border-bottom: 4px solid var(--tram-red-shadow) !important;
+      color: var(--tram-red) !important; font-size: 16px !important; font-weight: 900 !important; text-align: center !important;
+    }
   </style>
 </head>
 <body>
+
+<!-- =========================================================================
+     CỔNG KHẢO SÁT KỲ VỌNG & TIỀN SỬ HỌC THUẬT (1 PHÚT TRƯỚC KHI BẮT ĐẦU TEST)
+     ========================================================================= -->
+<div id="diagOnboardingIntakeModal" style="display: none; position: fixed; inset: 0; z-index: 999999; background: rgba(15, 23, 42, 0.85); backdrop-filter: blur(8px); align-items: center; justify-content: center; padding: 16px;">
+  <div style="background: #FFFFFF; border: 3px solid var(--duo-border); border-bottom: 7px solid var(--duo-shadow); border-radius: 26px; max-width: 760px; width: 100%; max-height: 94vh; display: flex; flex-direction: column; overflow: hidden; box-shadow: 0 25px 50px rgba(0,0,0,0.4);">
+    
+    <!-- HEADER KHẢO SÁT -->
+    <div style="padding: 18px 24px; background: var(--tram-red); color: white; display: flex; justify-content: space-between; align-items: center; border-bottom: 3px solid var(--tram-red-shadow);">
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <span style="font-size: 26px;">🎯</span>
+        <div>
+          <h3 style="margin: 0; font-size: 18px; font-weight: 900; text-transform: uppercase;">
+            THIẾT LẬP MỤC TIÊU & HỒ SƠ HỌC THUẬT (30 GIÂY)
+          </h3>
+          <div style="font-size: 12px; opacity: 0.95; font-weight: 600;">
+            Hệ thống AI sẽ dùng thông tin này để khóa mục tiêu và băm lộ trình 5 chặng chuẩn xác cho em.
+          </div>
+        </div>
+      </div>
+      <span id="intakeStepIndicator" style="background: #FEF08A; color: #854D0E; font-size: 12px; font-weight: 900; padding: 4px 10px; border-radius: 8px;">
+        Bước 1/4
+      </span>
+    </div>
+
+    <!-- NỘI DUNG 4 BƯỚC KHẢO SÁT -->
+    <div style="padding: 24px; overflow-y: auto; flex: 1;" id="intakeModalBody">
+      
+      <!-- BƯỚC 1: HỌC LỰC Ở TRƯỜNG -->
+      <div id="intakeStep_1" class="intake-step-pane">
+        <b style="font-size: 15px; color: var(--tram-red); display: block; margin-bottom: 12px;">
+          📚 1. Bối cảnh học tập hiện tại của em:
+        </b>
+
+        <label style="font-size: 13px; font-weight: 800; color: #1E293B; display: block; margin-bottom: 6px;">Em đang là:</label>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin-bottom: 14px;">
+          <div class="intake-pill-btn selected" onclick="window.selectIntakeOption('studentRole', 'Học sinh Cấp 3', this)">🎓 Cấp 3 (Lớp 10-12)</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('studentRole', 'Học sinh Cấp 2', this)">🎒 Cấp 2 (Lớp 6-9)</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('studentRole', 'Sinh viên Đại học', this)">🏛️ Sinh viên Đại học</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('studentRole', 'Người đi làm', this)">💼 Đã đi làm</div>
+        </div>
+
+        <label style="font-size: 13px; font-weight: 800; color: #1E293B; display: block; margin-bottom: 6px;">Loại hình trường đang theo học:</label>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin-bottom: 14px;">
+          <div class="intake-pill-btn selected" onclick="window.selectIntakeOption('schoolType', 'Trường Công lập thường', this)">🏫 Công lập thường</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('schoolType', 'Trường Chuyên / Lớp chọn', this)">🏆 Trường Chuyên / Chọn</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('schoolType', 'Trường Tư thục / Song ngữ', this)">✨ Tư thục / Song ngữ</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('schoolType', 'Trường Quốc tế 100%', this)">🌍 Quốc tế 100%</div>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
+          <div>
+            <label style="font-size: 13px; font-weight: 800; color: #1E293B; display: block; margin-bottom: 6px;">ĐTB Tiếng Anh kỳ gần nhất:</label>
+            <div style="display: flex; flex-direction: column; gap: 6px;">
+              <div class="intake-pill-btn" onclick="window.selectIntakeOption('schoolEnglishGpa', 'Dưới 6.5', this)">Dưới 6.5</div>
+              <div class="intake-pill-btn selected" onclick="window.selectIntakeOption('schoolEnglishGpa', '6.5 - 7.9', this)">6.5 - 7.9</div>
+              <div class="intake-pill-btn" onclick="window.selectIntakeOption('schoolEnglishGpa', '8.0 - 8.9', this)">8.0 - 8.9</div>
+              <div class="intake-pill-btn" onclick="window.selectIntakeOption('schoolEnglishGpa', '9.0 trở lên', this)">9.0+ (Xuất sắc)</div>
+            </div>
+          </div>
+          <div>
+            <label style="font-size: 13px; font-weight: 800; color: #1E293B; display: block; margin-bottom: 6px;">Điểm thi chuyển cấp / ĐH (nếu có):</label>
+            <input type="text" id="intakeSchoolExamScore" class="diag-input" placeholder="Ví dụ: Vào 10 được 8.5..." style="margin-top: 0; padding: 10px;">
+            <div style="font-size: 11.5px; color: #64748B; margin-top: 6px; font-weight: 600;">(Điền nếu nhớ, không nhớ có thể bỏ trống)</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- BƯỚC 2: TIỀN SỬ IELTS (ĐÃ CẬP NHẬT 3 NÚT & BẢNG 5 Ô ĐIỂM DYNAMIC) -->
+      <div id="intakeStep_2" class="intake-step-pane" style="display: none;">
+        <b style="font-size: 15px; color: var(--tram-red); display: block; margin-bottom: 12px;">
+          📖 2. Tiền sử học và thi IELTS trước đây:
+        </b>
+
+        <label style="font-size: 13px; font-weight: 800; color: #1E293B; display: block; margin-bottom: 6px;">Kinh nghiệm luyện thi IELTS:</label>
+        <div style="display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px;">
+          <div class="intake-pill-btn selected" onclick="window.selectIntakeOption('ieltsExperience', 'Mới bắt đầu tìm hiểu', this)">🌱 Mới bắt đầu tìm hiểu, chưa học IELTS bao giờ</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('ieltsExperience', 'Tự học tài liệu ở nhà', this)">📚 Đã tự học ngữ pháp / từ vựng tại nhà</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('ieltsExperience', 'Đã học 1-2 khóa ở trung tâm khác', this)">🏫 Đã từng học 1-2 khóa tại trung tâm khác</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('ieltsExperience', 'Đang trong giai đoạn luyện đề', this)">🔥 Đang cày đề thi thật (Cambridge / Forecast)</div>
+        </div>
+
+        <label style="font-size: 13px; font-weight: 800; color: #1E293B; display: block; margin-bottom: 6px;">Em đã từng thi thử hoặc thi thật ở đâu chưa?</label>
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 12px;">
+          <div class="intake-pill-btn selected" onclick="window.selectPriorTestingType('Chưa từng thi', this)">
+            ❌ Chưa từng thi
+          </div>
+          <div class="intake-pill-btn" onclick="window.selectPriorTestingType('Thi thử bên ngoài / Trung tâm khác', this)">
+            📝 Đã thi thử bên ngoài
+          </div>
+          <div class="intake-pill-btn" onclick="window.selectPriorTestingType('Thi thật tại IDP / British Council', this)">
+            🎖️ Đã thi thật IDP / BC
+          </div>
+        </div>
+
+        <!-- BẢNG ĐIỀN ĐIỂM DYNAMIC: CHỈ HIỆN KHI BẤM "THI THỬ" HOẶC "THI THẬT" (KHÔNG BẮT BUỘC ĐIỀN ĐỦ) -->
+        <div id="intakePriorScoreBox" style="display: none; background: #FFFDF7; border: 2px dashed #F59E0B; border-radius: 14px; padding: 14px; margin-top: 10px; animation: slideDown 0.2s ease-out;">
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+            <span id="intakeScoreBoxTitle" style="font-size: 12.5px; font-weight: 900; color: #92400E; text-transform: uppercase;">
+              📊 Điểm số đạt được trong lần thi gần nhất:
+            </span>
+          </div>
+
+          <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin-bottom: 8px;">
+            <div>
+              <label style="font-size: 11px; font-weight: 800; color: #64748B; display: block; margin-bottom: 3px; text-align: center;">OVERALL</label>
+              <input type="text" id="intakePriorOverall" class="diag-input" placeholder="VD: 5.5" style="margin-top: 0; padding: 8px; text-align: center; font-weight: 900; color: var(--tram-red);">
+            </div>
+            <div>
+              <label style="font-size: 11px; font-weight: 800; color: #64748B; display: block; margin-bottom: 3px; text-align: center;">LISTENING</label>
+              <input type="text" id="intakePriorLis" class="diag-input" placeholder="VD: 6.0" style="margin-top: 0; padding: 8px; text-align: center; font-weight: 800; color: #0284C7;">
+            </div>
+            <div>
+              <label style="font-size: 11px; font-weight: 800; color: #64748B; display: block; margin-bottom: 3px; text-align: center;">READING</label>
+              <input type="text" id="intakePriorRead" class="diag-input" placeholder="VD: 5.5" style="margin-top: 0; padding: 8px; text-align: center; font-weight: 800; color: var(--tram-red);">
+            </div>
+            <div>
+              <label style="font-size: 11px; font-weight: 800; color: #64748B; display: block; margin-bottom: 3px; text-align: center;">WRITING</label>
+              <input type="text" id="intakePriorWrite" class="diag-input" placeholder="VD: 5.0" style="margin-top: 0; padding: 8px; text-align: center; font-weight: 800; color: #7C3AED;">
+            </div>
+            <div>
+              <label style="font-size: 11px; font-weight: 800; color: #64748B; display: block; margin-bottom: 3px; text-align: center;">SPEAKING</label>
+              <input type="text" id="intakePriorSpeak" class="diag-input" placeholder="VD: 5.0" style="margin-top: 0; padding: 8px; text-align: center; font-weight: 800; color: #D97706;">
+            </div>
+          </div>
+          <div style="font-size: 11.5px; color: #92400E; font-weight: 600;">(Em chỉ cần điền các điểm em nhớ, nếu không nhớ hết có thể để trống và bấm tiếp tục)</div>
+        </div>
+      </div>
+
+      <!-- BƯỚC 3: MỤC TIÊU BAND & DEADLINE (CỐT LÕI) -->
+      <div id="intakeStep_3" class="intake-step-pane" style="display: none;">
+        <b style="font-size: 15px; color: var(--tram-red); display: block; margin-bottom: 6px;">
+          🎯 3. Mục tiêu Band bắt buộc & Hạn chót cần bằng:
+        </b>
+        <p style="font-size: 12.5px; color: #64748B; margin: 0 0 12px 0; font-weight: 700;">
+          Hệ thống sẽ khóa con số này để tính toán chính xác số buổi học và học phí.
+        </p>
+
+        <label style="font-size: 13px; font-weight: 900; color: #1E293B; display: block; margin-bottom: 6px;">
+          MỤC TIÊU OVERALL BAND EM MUỐN ĐẠT: <span style="color: var(--tram-red);">*</span>
+        </label>
+        <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin-bottom: 16px;">
+          <div class="intake-pill-btn intake-pill-band" onclick="window.selectIntakeBand('5.5', this)">5.5</div>
+          <div class="intake-pill-btn intake-pill-band" onclick="window.selectIntakeBand('6.0', this)">6.0</div>
+          <div class="intake-pill-btn intake-pill-band selected-band" onclick="window.selectIntakeBand('6.5', this)">6.5</div>
+          <div class="intake-pill-btn intake-pill-band" onclick="window.selectIntakeBand('7.0', this)">7.0</div>
+          <div class="intake-pill-btn intake-pill-band" onclick="window.selectIntakeBand('7.5+', this)">7.5+</div>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 14px;">
+          <div>
+            <label style="font-size: 13px; font-weight: 800; color: #1E293B; display: block; margin-bottom: 6px;">Mục đích học IELTS chính:</label>
+            <div style="display: flex; flex-direction: column; gap: 6px;">
+              <div class="intake-pill-btn selected" onclick="window.selectIntakeOption('purpose', 'Xét tuyển Đại học Top đầu', this)">🏛️ Xét tuyển Đại học</div>
+              <div class="intake-pill-btn" onclick="window.selectIntakeOption('purpose', 'Săn học bổng / Đi du học', this)">✈️ Săn học bổng / Du học</div>
+              <div class="intake-pill-btn" onclick="window.selectIntakeOption('purpose', 'Tốt nghiệp ĐH / Ra trường', this)">🎓 Chuẩn đầu ra ĐH</div>
+              <div class="intake-pill-btn" onclick="window.selectIntakeOption('purpose', 'Định cư / Công việc', this)">💼 Định cư / Công việc</div>
+            </div>
+          </div>
+          <div>
+            <label style="font-size: 13px; font-weight: 800; color: #1E293B; display: block; margin-bottom: 6px;">Hạn chót em cần bằng:</label>
+            <div style="display: flex; flex-direction: column; gap: 6px;">
+              <div class="intake-pill-btn" onclick="window.selectIntakeOption('deadline', 'Dưới 3 tháng (Cần gấp)', this)">⚡ Gấp: Dưới 3 tháng</div>
+              <div class="intake-pill-btn selected" onclick="window.selectIntakeOption('deadline', '4 - 6 tháng (Chuẩn)', this)">⏳ Tiêu chuẩn: 4 - 6 tháng</div>
+              <div class="intake-pill-btn" onclick="window.selectIntakeOption('deadline', '9 - 12 tháng (Dài hạn)', this)">📅 Dài hạn: 9 - 12 tháng</div>
+              <div class="intake-pill-btn" onclick="window.selectIntakeOption('deadline', 'Chưa có deadline', this)">🌱 Chưa có deadline cụ thể</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- BƯỚC 4: TỬ HUYỆT & THÓI QUEN HỌC -->
+      <div id="intakeStep_4" class="intake-step-pane" style="display: none;">
+        <b style="font-size: 15px; color: var(--tram-red); display: block; margin-bottom: 12px;">
+          ⚡ 4. Kỹ năng sợ nhất & Quỹ thời gian tự cày:
+        </b>
+
+        <label style="font-size: 13px; font-weight: 800; color: #1E293B; display: block; margin-bottom: 6px;">Em tự thấy mình sợ hoặc tự ti nhất môn nào?</label>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 8px; margin-bottom: 16px;">
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('fearedSkill', 'Listening (Nghe trôi băng)', this)">🎧 Listening (Nghe không kịp)</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('fearedSkill', 'Reading (Đọc chậm, từ khó)', this)">📖 Reading (Đọc chậm, nhiều từ mới)</div>
+          <div class="intake-pill-btn selected" onclick="window.selectIntakeOption('fearedSkill', 'Writing (Bí ý tưởng, sợ viết)', this)">✍️ Writing (Bí ý tưởng, sợ sai ngữ pháp)</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('fearedSkill', 'Speaking (Ngại nói, khựng)', this)">🎤 Speaking (Ngại nói, phản xạ chậm)</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('fearedSkill', 'Yếu đều cả 4 kỹ năng', this)">⚠️ Yếu đều cả 4 kỹ năng</div>
+        </div>
+
+        <label style="font-size: 13px; font-weight: 800; color: #1E293B; display: block; margin-bottom: 6px;">Mỗi ngày em có thể dành bao nhiêu tiếng để tự học BTVN ở nhà?</label>
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px;">
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('dailyStudyHours', '1 tiếng/ngày', this)">⏳ ~1 tiếng / ngày</div>
+          <div class="intake-pill-btn selected" onclick="window.selectIntakeOption('dailyStudyHours', '1.5 tiếng/ngày', this)">⚡ 1.5 tiếng (Chuẩn của Trạm)</div>
+          <div class="intake-pill-btn" onclick="window.selectIntakeOption('dailyStudyHours', '2 - 3 tiếng/ngày', this)">🔥 2 - 3 tiếng (Cày tối đa)</div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- FOOTER ĐIỀU HƯỚNG TỪNG BƯỚC -->
+    <div style="padding: 16px 24px; background: #FAF7F2; border-top: 2px solid var(--duo-border); display: flex; justify-content: space-between; align-items: center; gap: 12px;">
+      <button type="button" id="btnIntakePrev" onclick="window.navIntakeStep(-1)" class="btn-3d btn-3d-white" style="display: none; padding: 10px 18px; font-size: 13px;">
+        &larr; Quay lại
+      </button>
+
+      <div style="flex: 1;"></div>
+
+      <button type="button" id="btnIntakeNext" onclick="window.navIntakeStep(1)" class="btn-3d btn-3d-blue" style="padding: 10px 22px; font-size: 13px;">
+        Tiếp theo &rarr;
+      </button>
+
+      <button type="button" id="btnIntakeFinish" onclick="window.finishIntakeAndStartTest()" class="btn-3d btn-3d-red" style="display: none; padding: 12px 26px; font-size: 14px; box-shadow: 0 4px 12px rgba(139, 21, 24, 0.3);">
+        🚀 Xong! Bắt Đầu Tính Giờ Làm Bài Thi &rarr;
+      </button>
+    </div>
+
+  </div>
+</div>
 
 <div class="runner-container">
 
@@ -334,14 +567,14 @@
        ========================================================================= -->
   <div id="section_speaking" class="exam-section-card" style="display: none;">
     
-    <!-- 🔴 KHUNG MOUNT ĐỘNG: NƠI DIAG-SPEAKING.JS TỰ ĐỘNG ĐỔ CÂU HỎI TỪ CÁC FILE JSON MỚI -->
+    <!-- KHUNG MOUNT ĐỘNG NƠI DIAG-SPEAKING.JS TỰ ĐỘNG ĐỔ CÂU HỎI -->
     <div id="speakingQuestionsMount">
       <div style="text-align: center; padding: 36px 20px; font-weight: 800; color: #64748B;">
         ⏳ Đang nạp danh sách câu hỏi Speaking từ hệ thống...
       </div>
     </div>
 
-    <!-- KHU VỰC CỐ ĐỊNH: NÚT NỘP BÀI TỔNG THỂ (TUYỆT ĐỐI KHÔNG BỊ GHI ĐÈ) -->
+    <!-- KHU VỰC CỐ ĐỊNH: NÚT NỘP BÀI TỔNG THỂ -->
     <div style="margin-top: 28px; border-top: 2px dashed #E8E2D8; padding-top: 20px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
       <button type="button" onclick="window.switchSkillSection('writing')" class="btn-3d btn-3d-white">
         &larr; Quay lại Writing
@@ -354,6 +587,143 @@
   </div>
 
 </div>
+
+<!-- LOGIC ĐIỀU KHIỂN CỔNG KHẢO SÁT KỲ VỌNG ONBOARDING -->
+<script>
+  let currentIntakeStep = 1;
+  const intakeAnswers = {
+    studentRole: 'Học sinh Cấp 3',
+    schoolType: 'Trường Công lập thường',
+    schoolEnglishGpa: '6.5 - 7.9',
+    schoolExamScore: '',
+    ieltsExperience: 'Mới bắt đầu tìm hiểu',
+    priorTesting: 'Chưa từng thi',
+    priorScores: {
+      overall: '',
+      listening: '',
+      reading: '',
+      writing: '',
+      speaking: ''
+    },
+    targetBand: '6.5',
+    purpose: 'Xét tuyển Đại học Top đầu',
+    deadline: '4 - 6 tháng (Chuẩn)',
+    fearedSkill: 'Writing (Bí ý tưởng, sợ viết)',
+    dailyStudyHours: '1.5 tiếng/ngày'
+  };
+
+  window.selectIntakeOption = function(key, val, el) {
+    intakeAnswers[key] = val;
+    const parent = el.parentElement;
+    if (parent) {
+      parent.querySelectorAll('.intake-pill-btn').forEach(btn => btn.classList.remove('selected'));
+    }
+    el.classList.add('selected');
+  };
+
+  // HÀM CHỌN 3 NÚT PHÂN LOẠI THI THỬ / THI THẬT & TRƯỢT MỞ BẢNG ĐIỂM
+  window.selectPriorTestingType = function(type, el) {
+    intakeAnswers.priorTesting = type;
+    const parent = el.parentElement;
+    if (parent) {
+      parent.querySelectorAll('.intake-pill-btn').forEach(btn => btn.classList.remove('selected'));
+    }
+    el.classList.add('selected');
+
+    const scoreBox = document.getElementById('intakePriorScoreBox');
+    const boxTitle = document.getElementById('intakeScoreBoxTitle');
+
+    if (scoreBox) {
+      if (type === 'Chưa từng thi') {
+        scoreBox.style.display = 'none';
+      } else {
+        scoreBox.style.display = 'block';
+        if (boxTitle) {
+          boxTitle.innerText = type.includes('IDP')
+            ? '🎖️ Điểm thi thật tại IDP / British Council (lần gần nhất):'
+            : '📝 Điểm thi thử bên ngoài (lần gần nhất):';
+        }
+      }
+    }
+  };
+
+  window.selectIntakeBand = function(bandStr, el) {
+    intakeAnswers.targetBand = bandStr;
+    const parent = el.parentElement;
+    if (parent) {
+      parent.querySelectorAll('.intake-pill-band').forEach(btn => btn.classList.remove('selected-band'));
+    }
+    el.classList.add('selected-band');
+  };
+
+  window.navIntakeStep = function(delta) {
+    currentIntakeStep += delta;
+    if (currentIntakeStep < 1) currentIntakeStep = 1;
+    if (currentIntakeStep > 4) currentIntakeStep = 4;
+
+    for (let i = 1; i <= 4; i++) {
+      const pane = document.getElementById('intakeStep_' + i);
+      if (pane) pane.style.display = (i === currentIntakeStep) ? 'block' : 'none';
+    }
+
+    const indicator = document.getElementById('intakeStepIndicator');
+    if (indicator) indicator.innerText = `Bước ${currentIntakeStep}/4`;
+
+    const btnPrev = document.getElementById('btnIntakePrev');
+    const btnNext = document.getElementById('btnIntakeNext');
+    const btnFinish = document.getElementById('btnIntakeFinish');
+
+    if (btnPrev) btnPrev.style.display = currentIntakeStep > 1 ? 'inline-flex' : 'none';
+    if (btnNext) btnNext.style.display = currentIntakeStep < 4 ? 'inline-flex' : 'none';
+    if (btnFinish) btnFinish.style.display = currentIntakeStep === 4 ? 'inline-flex' : 'none';
+  };
+
+  window.finishIntakeAndStartTest = function() {
+    const scoreInp = document.getElementById('intakeSchoolExamScore');
+    if (scoreInp) intakeAnswers.schoolExamScore = scoreInp.value.trim();
+
+    // Thu thập điểm cũ nếu có (không bắt buộc, để trống vẫn qua mượt mà)
+    intakeAnswers.priorScores = {
+      overall: document.getElementById('intakePriorOverall')?.value?.trim() || '',
+      listening: document.getElementById('intakePriorLis')?.value?.trim() || '',
+      reading: document.getElementById('intakePriorRead')?.value?.trim() || '',
+      writing: document.getElementById('intakePriorWrite')?.value?.trim() || '',
+      speaking: document.getElementById('intakePriorSpeak')?.value?.trim() || ''
+    };
+
+    intakeAnswers.completedAt = new Date().toISOString();
+
+    // Lưu ngay vào localStorage của học sinh để diag-engine bốc khi nộp bài
+    try {
+      localStorage.setItem('ielts_student_intake_profile', JSON.stringify(intakeAnswers));
+      localStorage.setItem('ielts_student_target_band', intakeAnswers.targetBand || '6.5');
+    } catch (e) {}
+
+    const modal = document.getElementById('diagOnboardingIntakeModal');
+    if (modal) modal.style.display = 'none';
+
+    // Bắt đầu kích hoạt đồng hồ đếm giây phòng thi
+    if (window.diagEngine?.snapshotSync?.startTimer) {
+      window.diagEngine.snapshotSync.startTimer();
+    }
+  };
+
+  // Tự động kiểm tra: Nếu vào xem lại bài cũ (có attemptId) thì tuyệt đối KHÔNG hiện popup
+  document.addEventListener('DOMContentLoaded', () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const isReview = !!urlParams.get('attemptId');
+    if (!isReview) {
+      const modal = document.getElementById('diagOnboardingIntakeModal');
+      if (modal) {
+        modal.style.display = 'flex';
+        // Tạm dừng đồng hồ cho đến khi học sinh click Xong
+        if (window.diagEngine?.snapshotSync?.stopTimer) {
+          window.diagEngine.snapshotSync.stopTimer();
+        }
+      }
+    }
+  });
+</script>
 
 <!-- MODULE ĐIỀU KHIỂN CHÍNH -->
 <script type="module" src="js-diag/diag-engine.js"></script>
