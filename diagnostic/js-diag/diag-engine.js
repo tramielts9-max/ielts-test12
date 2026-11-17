@@ -5,6 +5,7 @@
  * - TẬP TRUNG KẾT NỐI 4 MODULE VỆ TINH: SNAPSHOT-SYNC, DRAFT-STORAGE, BAND-CALIBRATOR, RESULT-BANNER
  * - NẠP ĐỘNG 5 KỸ NĂNG: NGỮ PHÁP, LISTENING, READING, WRITING, SPEAKING
  * - BẢO LƯU 100% WEBSPEECH THU ÂM TRỰC TIẾP & REVIEW MODE TỪ CLOUD / LOCAL
+ * - ĐỘT PHÁ MỚI: TỰ ĐỘNG ĐÓNG GÓI HỒ SƠ KHẢO SÁT KỲ VỌNG & TARGET BAND VÀO GÓI TIN NỘP BÀI
  * - ĐẢM BẢO CÁC FILE HTML GỌI VÀO KHÔNG BỊ GÃY BẤT KỲ HÀM WINDOW.* NÀO
  */
 
@@ -176,7 +177,7 @@ class DiagnosticEngineMaster {
       if (sec) sec.style.display = (s === skillKey) ? 'block' : 'none';
     });
     this.currentSkill = skillKey;
-    this.saveLocalDraft(); // Tự động lưu mỗi lần chuyển tab
+    this.saveLocalDraft();
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
@@ -258,7 +259,7 @@ class DiagnosticEngineMaster {
   }
 
   // =========================================================================
-  // 4. CHẤM BÀI TRỰC TIẾP TRÊN GIAO DIỆN & LƯU ĐẦY ĐỦ 2 BẢNG KẾT QUẢ
+  // 4. CHẤM BÀI TRỰC TIẾP TRÊN GIAO DIỆN & LƯU ĐẦY ĐỦ 2 BẢNG KẾT QUẢ + HỒ SƠ INTAKE
   // =========================================================================
   async submitFullExam() {
     if (!confirm("Em có chắc chắn muốn nộp bài thi để hệ thống phân tích câu chữ và xuất 2 bảng điểm (Chuẩn giờ & Toàn diện) không?")) {
@@ -356,7 +357,34 @@ class DiagnosticEngineMaster {
       }
     });
 
-    // 9. ĐÓNG GÓI SNAPSHOT LƯU VÀO LOCAL STORAGE & CLOUD DRIVE
+    // 🔴 9. BẮT TRỌN GÓI HỒ SƠ KHẢO SÁT KỲ VỌNG ONBOARDING INTAKE TỪ BỘ NHỚ LOCAL
+    let intakeProfile = null;
+    try {
+      const rawIntake = localStorage.getItem('ielts_student_intake_profile');
+      if (rawIntake) {
+        intakeProfile = JSON.parse(rawIntake);
+      }
+    } catch (e) {
+      console.warn("[DiagEngine] Lỗi đọc hồ sơ intake profile:", e);
+    }
+
+    // Nếu không có, tạo hồ sơ mặc định phòng thủ an toàn
+    if (!intakeProfile) {
+      intakeProfile = {
+        targetBand: localStorage.getItem('ielts_student_target_band') || "6.5",
+        studentRole: "Học sinh Cấp 3",
+        schoolType: "Trường Công lập thường",
+        schoolEnglishGpa: "6.5 - 7.9",
+        priorTesting: "Chưa từng thi",
+        purpose: "Xét tuyển Đại học Top đầu",
+        deadline: "4 - 6 tháng (Chuẩn)",
+        fearedSkill: "Writing (Bí ý tưởng, sợ viết)",
+        dailyStudyHours: "1.5 tiếng/ngày",
+        completedAt: new Date().toISOString()
+      };
+    }
+
+    // 10. ĐÓNG GÓI SNAPSHOT LƯU VÀO LOCAL STORAGE & CLOUD DRIVE
     const studentEmail = localStorage.getItem('ielts_student_email') || 'guest@gmail.com';
     const studentName = localStorage.getItem('ielts_student_name') || 'Học viên';
     const studentId = localStorage.getItem('tram_student_id') || 'TR-GUEST';
@@ -372,8 +400,13 @@ class DiagnosticEngineMaster {
       timeSpent: `${Math.round(this.timerSeconds / 60)} phút`,
       moduleType: "diagnostic",
       pageUrl: `diagnostic/runner-diag.html?testId=${this.testId}&set=${this.setNum}`,
-      approvalStatus: "pending_admin_approval", // 🔴 CỔNG ADMIN GATE
+      approvalStatus: "pending_admin_approval",
       statusTag: "final_submitted",
+
+      // 🎯 KHÓA CHẶT TARGET BAND VÀ TIỀN SỬ HỌC THUẬT VÀO GÓI TIN BÀI LÀM
+      targetBand: intakeProfile.targetBand || "6.5",
+      intakeProfile: intakeProfile,
+
       details: {
         isOvertime,
         officialBand: snapBandInfo.estimatedBand,
@@ -387,6 +420,11 @@ class DiagnosticEngineMaster {
         wBand: liveWBand.toFixed(1),
         sBand: liveSBand.toFixed(1),
         blueprintProfile: blueprintProfile,
+        
+        // BẢO LƯU TRỌN VẸN HỒ SƠ INTAKE TRONG DETAILS ĐỂ ROADMAP ĐỌC TRỰC TIẾP
+        intakeProfile: intakeProfile,
+        targetBand: intakeProfile.targetBand || "6.5",
+
         grammarSnapshot: liveGrammar.answersSnapshot || {},
         gWrongList: liveGrammar.wrongList || [],
         listeningSnapshot: liveLis.answersSnapshot || {},
@@ -420,10 +458,10 @@ class DiagnosticEngineMaster {
     // DỌN DẸP BẢN NHÁP TẠM TRÊN MÁY HỌC SINH SAU KHI NỘP THÀNH CÔNG
     this.draftStorage.clearLocalDraft();
 
-    // BẮN GÓI TIN HOÀN THÀNH LÊN GOOGLE DRIVE
+    // BẮN GÓI TIN HOÀN THÀNH (ĐÃ CÓ ĐẦY ĐỦ INTAKE PROFILE) LÊN GOOGLE DRIVE
     this.snapshotSync.syncAttemptToCloud(attemptSnapshot, "final_submitted");
 
-    // 10. GỌI AI CHẤM TRỰC TIẾP WRITING & SPEAKING
+    // 11. GỌI AI CHẤM TRỰC TIẾP WRITING & SPEAKING
     diagWritingEngine.evaluateAndRenderInlineAI().then(wRes => {
       if (wRes && this.currentAttemptSnapshot) {
         this.currentAttemptSnapshot.details.wAiFeedback = JSON.stringify(wRes);
