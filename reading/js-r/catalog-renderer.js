@@ -2,7 +2,7 @@
  * reading/js-r/catalog-renderer.js
  * MODULE HIỂN THỊ DANH MỤC 4 PHÂN HỆ READING:
  * 1. Cambridge IELTS (17-21) | 2. Đề Vol (1-8)
- * 3. Bài Sưu Tầm (Full Đề 01-20) | 4. Luyện Theo Kỹ Năng (Chia P1 / P2 / P3)
+ * 3. Bài Sưu Tầm (Full Đề) | 4. Luyện Theo Kỹ Năng (Chia P1 / P2 / P3)
  */
 
 import { getCamTests, getAvailableCamNumbers, getAvailableVolNumbers } from '../data-r/cam-vol-catalog.js';
@@ -262,16 +262,17 @@ function renderCollectionCatalog() {
     `;
   }
 
-  const sets = STATE.manifest.sets;
+  const sets = [...STATE.manifest.sets].sort((a, b) => Number(a?.setId || 0) - Number(b?.setId || 0));
   const passagesMap = STATE.manifest.passages || {};
   const kw = STATE.collectionSearch.trim().toLowerCase();
+  const totalPassagesCount = sets.reduce((sum, s) => sum + [s?.p1, s?.p2, s?.p3].filter(Boolean).length, 0);
 
   const filterBarHtml = `
     <div class="rd-subfilter-bar">
       <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
         <b style="font-size:13.5px; color:#0F766E;">Chọn Bộ Sưu Tầm:</b>
         <select id="collectionSetSelect" class="rd-select-box" onchange="window.setCollectionFilter(this.value)">
-          <option value="ALL" ${STATE.collectionSetFilter === 'ALL' ? 'selected' : ''}>Tất cả 20 bộ (60 bài)</option>
+          <option value="ALL" ${STATE.collectionSetFilter === 'ALL' ? 'selected' : ''}>Tất cả ${sets.length} bộ (${totalPassagesCount} bài)</option>
           ${sets.map(s => `
             <option value="${escapeHtml(s.setId)}" ${STATE.collectionSetFilter === s.setId ? 'selected' : ''}>
               ${escapeHtml(s.title)} (Mã ${escapeHtml(s.p1)} - ${escapeHtml(s.p2)} - ${escapeHtml(s.p3)})
@@ -350,10 +351,12 @@ function renderSkillsCatalog() {
 
   const cfg = getActiveSubsystemsConfig();
   const tree = cfg.skillTree || {};
+  const allPassages = Object.values(STATE.manifest.passages || {});
+  const countByPNum = (n) => allPassages.filter(p => p && Number(p.passageNum) === n).length;
   const passageTabs = [
-    { key: 'p1', num: 1, label: 'Passage 1 (101–120)' },
-    { key: 'p2', num: 2, label: 'Passage 2 (201–220)' },
-    { key: 'p3', num: 3, label: 'Passage 3 (301–320)' }
+    { key: 'p1', num: 1, label: `Passage 1 (${countByPNum(1)} bài)` },
+    { key: 'p2', num: 2, label: `Passage 2 (${countByPNum(2)} bài)` },
+    { key: 'p3', num: 3, label: `Passage 3 (${countByPNum(3)} bài)` }
   ];
 
   const currentTree = tree[STATE.skillPassageKey] || { title: 'Kỹ năng', subtitle: '', skills: [] };
@@ -363,7 +366,6 @@ function renderSkillsCatalog() {
     STATE.selectedSkillTag = enabledSkills[0].tag;
   }
 
-  const allPassages = Object.values(STATE.manifest.passages || {});
   const currentPassageNum = passageTabs.find(t => t.key === STATE.skillPassageKey)?.num || 1;
   const passagesOfLevel = allPassages.filter(p => p && Number(p.passageNum) === currentPassageNum);
 
