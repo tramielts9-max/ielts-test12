@@ -31,8 +31,8 @@ export const DEFAULT_SUBSYSTEMS_CONFIG = {
       enabled: true,
       order: 3,
       label: 'Bài Sưu Tầm (Full Đề)',
-      badgeText: 'Bộ 01 - 20',
-      description: '20 bộ đề sưu tầm (Mã 101–120, 201–220, 301–320) làm Full 3 Passage',
+      badgeText: 'Kho Full Đề',
+      description: 'Kho bộ đề sưu tầm làm Full 3 Passage (mở rộng không giới hạn)',
       accentColor: '#0F766E'
     },
     {
@@ -48,16 +48,16 @@ export const DEFAULT_SUBSYSTEMS_CONFIG = {
 
   skillTree: {
     p1: {
-      title: 'Passage 1 (Mã 101 – 120)',
-      subtitle: 'Luôn gồm 2 dạng nền tảng: Notes Completion & True/False/Not Given',
+      title: 'Passage 1 (Kho Sưu Tầm)',
+      subtitle: 'Các dạng bài nền tảng của Passage 1 (tự động cập nhật khi thêm bộ mới)',
       skills: [
         { tag: 'NOTE_COMP', label: 'Notes Completion (1 word)', enabled: true, order: 1 },
         { tag: 'TFNG', label: 'True / False / Not Given', enabled: true, order: 2 }
       ]
     },
     p2: {
-      title: 'Passage 2 (Mã 201 – 220)',
-      subtitle: 'Phân loại đủ 9 dạng kỹ năng Passage 2 từ bộ đề sưu tầm',
+      title: 'Passage 2 (Kho Sưu Tầm)',
+      subtitle: 'Phân loại đầy đủ các dạng kỹ năng Passage 2 từ kho đề sưu tầm',
       skills: [
         { tag: 'MATCH_INFO', label: 'Matching Information (Tìm đoạn chứa thông tin)', enabled: true, order: 1 },
         { tag: 'MATCH_FEATURES', label: 'Matching Features / People (Nối tên nhà nghiên cứu)', enabled: true, order: 2 },
@@ -71,8 +71,8 @@ export const DEFAULT_SUBSYSTEMS_CONFIG = {
       ]
     },
     p3: {
-      title: 'Passage 3 (Mã 301 – 320)',
-      subtitle: 'Phân loại đủ 4 dạng kỹ năng học thuật nâng cao Passage 3',
+      title: 'Passage 3 (Kho Sưu Tầm)',
+      subtitle: 'Phân loại đầy đủ các dạng kỹ năng học thuật nâng cao Passage 3',
       skills: [
         { tag: 'MCQ', label: 'Multiple Choice (Chọn 1 đáp án A–D & Subtitle)', enabled: true, order: 1 },
         { tag: 'YNNG', label: 'Yes / No / Not Given', enabled: true, order: 2 },
