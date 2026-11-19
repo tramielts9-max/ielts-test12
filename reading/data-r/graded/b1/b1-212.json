@@ -1,0 +1,200 @@
+{
+  "title": "[B1 • Band 5.0] Bài 212: Cracking the Code: The Decipherment of Linear B",
+  "answers": {
+    "q1": "Greek",
+    "q2": "fires",
+    "q3": "cards",
+    "q4": "places",
+    "q5": "barley",
+    "q6": "D",
+    "q7": "B",
+    "q8": "A",
+    "q9": "C",
+    "q10": "B"
+  },
+  "passageHtml": "<h2>PASSAGE 212 (LEVEL B1 • BAND 5.0)</h2><h3>Cracking the Code: The Decipherment of Linear B</h3><p><strong>Paragraph 1.</strong> In the spring of 1900, British archaeologist Sir Arthur Evans began digging at Knossos on the island of Crete. Within days, he uncovered the grand ruins of a Bronze Age palace, along with thousands of baked clay tablets carrying two unknown writing systems. Evans called the older picture-like script Linear A and the younger, sharper script Linear B. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Convinced he had found a separate island culture, Evans firmly insisted that Linear B had zero connection to classical <span class=\"kw\">Greek</span></span>.</p><p><strong>Paragraph 2.</strong> For over forty years, scholars could not read a single line of Linear B. Because the clay tablets were meant only as short-term office notes, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">they survived only when palace <span class=\"kw\">fires</span> accidentally baked the soft clay into hard ceramic</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Progress stalled further because experts had no two-language stone like Egypt's Rosetta Stone to match unknown signs with readable words</span>. Evans passed away in 1941 without ever solving the puzzle.</p><p><strong>Paragraph 3.</strong> The real conceptual breakthrough came from a patient American teacher named Alice Kober at Brooklyn College in the 1940s. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Short on wartime supplies, Kober cut thousands of index <span class=\"kw\">cards</span> from used exam papers to track symbol patterns</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">She noticed groups of signs sharing the same starting symbols but ending differently, showing grammatical endings similar to Latin</span>. Before her early death in 1950, Kober built a mathematical grid proving each Linear B sign stood for a consonant paired with a vowel.</p><p><strong>Paragraph 4.</strong> Young British architect Michael Ventris took up Kober's grid. At first, Ventris agreed with Evans that Linear B was not Greek. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">However, when he tested sound values on known Cretan <span class=\"kw\">places</span> like Knossos and Amnisos, familiar Greek words suddenly appeared</span></span>. On 1 July 1952, Ventris announced on BBC radio that Linear B was an ancient form of Greek written five hundred years before the poet Homer.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Working alongside Cambridge scholar John Chadwick, Ventris confirmed that Linear B recorded Mycenaean Greek</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Rather than heroic stories, the tablets held detailed tax accounts listing quantities of <span class=\"kw\">barley</span>, olive oil, sheep, and bronze weapons</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">They also named Greek gods like Zeus and Athena, pushing verified Greek language history back by more than half a millennium</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "Decoding Linear B",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>Arthur Evans discovered thousands of clay tablets in Crete, though he wrongly denied any link to classical <b>1.</b> {{q1}} . These temporary notes survived only because destructive <b>2.</b> {{q2}} hardened the clay. During the 1940s, Alice Kober recorded symbol patterns on recycled index <b>3.</b> {{q3}} and created a sound grid. Michael Ventris later used her grid to test local Cretan <b>4.</b> {{q4}} , unlocking the script. Once read, the tablets revealed tax lists recording animals, oil, weapons, and <b>5.</b> {{q5}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 6–10",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "Greek",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...zero connection to classical Greek.\"</i>",
+          "<b>Từ cần điền:</b> <b>Greek</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "fires",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...when palace fires accidentally baked the soft clay...\"</i>",
+          "<b>Từ cần điền:</b> <b>fires</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "cards",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...cut thousands of index cards from used exam papers...\"</i>",
+          "<b>Từ cần điền:</b> <b>cards</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "places",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...tested sound values on known Cretan places...\"</i>",
+          "<b>Từ cần điền:</b> <b>places</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "barley",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...listing quantities of barley, olive oil, sheep...\"</i>",
+          "<b>Từ cần điền:</b> <b>barley</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Why did scholars struggle to read Linear B for over forty years?",
+      "options": [
+        "A. All the clay tablets broke into dust after excavation.",
+        "B. The palace ruins were closed to researchers until 1950.",
+        "C. Linear B contained more than ten thousand different pictures.",
+        "D. Experts lacked a two-language key like the Rosetta Stone."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Không có phiến đá song ngữ như Rosetta Stone để đối chiếu.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "What important pattern did Alice Kober notice in Linear B symbols?",
+      "options": [
+        "A. Every tablet started with the name of King Minos.",
+        "B. Word endings changed to show grammar, similar to Latin.",
+        "C. Symbols were written backwards from right to left.",
+        "D. Linear B used exact copies of Egyptian hieroglyphs."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Các từ có phần đầu giống nhau nhưng phần đuôi biến đổi theo ngữ pháp giống tiếng Latin.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "How did Michael Ventris realize Linear B sounded like Greek?",
+      "options": [
+        "A. By applying sound values to local place names in Crete",
+        "B. By discovering a Greek dictionary inside Knossos palace",
+        "C. By comparing Homer's poems with old Etruscan books",
+        "D. By asking local farmers on Crete to read the clay signs"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thử ghép giá trị âm vào tên các địa danh ở đảo Crete như Knossos và Amnisos.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Who worked with Michael Ventris to confirm Linear B was Mycenaean Greek?",
+      "options": [
+        "A. Sir Arthur Evans",
+        "B. Alice Kober",
+        "C. John Chadwick",
+        "D. King Minos"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Working alongside Cambridge scholar John Chadwick...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What major historical change did solving Linear B cause?",
+      "options": [
+        "A. It proved King Minos built the pyramids in Egypt.",
+        "B. It pushed verified Greek language history back by over 500 years.",
+        "C. It showed that ancient Greeks never kept written tax records.",
+        "D. It revealed that Homer wrote his poems in Linear A."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Đẩy lùi lịch sử chữ viết tiếng Hy Lạp được xác thực sớm hơn 500 năm.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

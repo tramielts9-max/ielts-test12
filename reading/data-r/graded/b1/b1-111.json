@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 111: Ambergris: Floating Gold of the Oceans",
+  "answers": {
+    "q1": "saliva",
+    "q2": "intestine",
+    "q3": "white",
+    "q4": "perfumes",
+    "q5": "waste",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "TRUE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 111 (LEVEL B1 • BAND 5.0)</h2><h3>Ambergris: Floating Gold of the Oceans</h3><p><strong>Paragraph 1.</strong> For thousands of years, beach walkers along the Atlantic and Indian Oceans sometimes found a strange, strong-smelling lump washed ashore by waves. Known as ambergris, it looked like weathered wax or hard mud. Before scientists understood its origin, ancient cultures invented magical explanations. Arab merchants believed it rose from underwater springs, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">while Chinese legends claimed it was hardened <span class=\"kw\">saliva</span> from sea dragons</span>. Despite its ugly look, ambergris became a priceless trade item for medicine and luxury scents.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">The true biological source of ambergris was only confirmed in the nineteenth century as commercial whaling expanded</span>. It forms exclusively inside the digestive system of sperm whales, deep-diving hunters that feed mostly on giant squid. While stomach juices easily break down soft squid flesh, hard, sharp squid beaks cannot dissolve. Normally, whales vomit out these beaks; however, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">occasionally sharp pieces move into the lower <span class=\"kw\">intestine</span> and scratch the delicate lining</span>. In response, the whale produces a thick, oily substance to wrap around the sharp beaks, creating a solid mass.</p><p><strong>Paragraph 3.</strong> Although early scientists assumed this blockage always killed the whale, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">modern studies show the lump usually passes out naturally into the sea as waste</span>. Fresh raw ambergris is soft, black, and smells strongly of rotting feces. To become valuable, it must float on the ocean for decades. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Salt water and direct sunlight slowly bleach and harden it, turning the dark mass into a firm, light grey or <span class=\"kw\">white</span> stone</span> with a pleasant, sweet earthy aroma.</p><p><strong>Paragraph 4.</strong> High-grade cured ambergris often sells for over $20,000 per kilogram thanks to a chemical called ambrein. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">While ambrein itself has almost no smell</span>, it binds tightly to delicate flower and citrus oils. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">When used in luxury <span class=\"kw\">perfumes</span>, ambrein prevents scents from evaporating quickly on warm skin</span>, allowing fragrances to last for days. Historical records also mention that King Charles II of England enjoyed eating ambergris grated over breakfast eggs.</p><p><strong>Paragraph 5.</strong> Today, laws governing ambergris vary sharply by country. In the United States, strict wildlife laws forbid owning, buying, or selling any sperm whale product, including lumps found naturally on beaches. Conversely, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">the United Kingdom and the European Union classify washed-up ambergris as <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">natural ocean <span class=\"kw\">waste</span></span>, making private collection and public auction completely legal</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Although chemists have created synthetic substitutes for cheap cosmetics, luxury perfumers insist nothing matches natural ambergris</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Ambergris: Origin, Value and Law",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li>Ancient Chinese stories thought ambergris came from sea dragon <b>1.</b> {{q1}} .</li><li>It forms when sharp squid beaks injure the whale's lower <b>2.</b> {{q2}} .</li><li>Years of ocean sun and salt turn raw black lumps into grey or <b>3.</b> {{q3}} stone.</li><li>Ambrein helps expensive scents last longer in luxury <b>4.</b> {{q4}} .</li><li>In the UK and EU, beach-found ambergris is treated legally as ocean <b>5.</b> {{q5}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "saliva",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...hardened saliva from sea dragons.\"</i>",
+          "<b>Từ cần điền:</b> <b>saliva</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "intestine",
+      "inputWidth": "120px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...move into the lower intestine and scratch the delicate lining.\"</i>",
+          "<b>Từ cần điền:</b> <b>intestine</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "white",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...turning the dark mass into a firm, light grey or white stone...\"</i>",
+          "<b>Từ cần điền:</b> <b>white</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "perfumes",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"When used in luxury perfumes...\"</i>",
+          "<b>Từ cần điền:</b> <b>perfumes</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "waste",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...classify washed-up ambergris as natural ocean waste...\"</i>",
+          "<b>Từ cần điền:</b> <b>waste</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Scientists confirmed where ambergris came from during the nineteenth century.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Nguồn gốc sinh học thật sự được xác nhận vào thế kỷ 19 (<i>nineteenth century</i>).",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Most sperm whales die quickly when ambergris lumps form inside them.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Khối này thường được thải tự nhiên ra biển (<i>passes out naturally</i>), không làm cá chết nhanh.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The chemical compound ambrein has practically no smell of its own.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"While ambrein itself has almost no smell...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Selling beach-found ambergris is strictly illegal in the United Kingdom.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Ở Anh và EU việc nhặt và đấu giá công khai là hoàn toàn hợp pháp (<i>completely legal</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "White ambergris is much easier to spot on sandy beaches than dark stones.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 & 5:</b> Bài có nói màu trắng xám của hổ phách lâu năm nhưng không so sánh độ dễ tìm trên bãi cát.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

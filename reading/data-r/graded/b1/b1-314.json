@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 314: Space and Mind: Architecture & Brain",
+  "answers": {
+    "q1": "health",
+    "q2": "creative",
+    "q3": "details",
+    "q4": "glass",
+    "q5": "doorways",
+    "q6": "YES",
+    "q7": "NO",
+    "q8": "NOT GIVEN",
+    "q9": "NO",
+    "q10": "YES"
+  },
+  "passageHtml": "<h2>PASSAGE 314 (LEVEL B1 • BAND 5.0)</h2><h3>Space and Mind: The Cognitive Ergonomics of Architecture</h3><p><strong>Paragraph 1.</strong> For more than a century, modern architecture followed Louis Sullivan's famous rule: 'form follows function.' Designers treated buildings mainly as practical containers judged by structural strength, heating, and fire safety. However, in <em>Mind in Architecture</em>, cognitive scientist Dr. Colin Ellard shows that this narrow view misses an essential truth: <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">our built surroundings continuously alter human brain activity, hormone levels, and mental <span class=\"kw\">health</span></span></span>.</p><p><strong>Paragraph 2.</strong> Ellard's research field—neuro-architecture—uses body sensors, virtual reality, and brain scans to measure how physical spaces shape thinking. One key discovery concerns ceiling height, known as the 'Cathedral Effect.' <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">In laboratory trials, volunteers placed in rooms with high ceilings (three metres or above) solved <span class=\"kw\">creative</span>, big-picture tasks much more effectively</span></span>. Conversely, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">people working inside rooms with low ceilings paid closer attention to small <span class=\"kw\">details</span> and careful step-by-step calculations</span>.</p><p><strong>Paragraph 3.</strong> Street-level building walls have an equally powerful effect on the human mind. In walking experiments across New York, Berlin, and London, Ellard fitted volunteers with skin sensors and eye-tracking glasses. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">When pedestrians passed long, unbroken <span class=\"kw\">glass</span> fronts or blank concrete walls, their heart rates slowed and skin tests showed deep boredom alongside higher stress hormones</span></span>. By contrast, lively historic streets with varied textures and <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">frequent <span class=\"kw\">doorways</span></span> activated brain areas linked to curiosity and enjoyment.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Ellard warns that for decades, city builders have chosen cheap, identical glass towers that starve human senses. By ignoring how space affects psychology, planners accidentally create lonely, stressed urban communities</span></span>. Buildings are never silent scenery; they actively shape how people think and feel together.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "How Buildings Affect the Human Mind",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>Dr. Colin Ellard demonstrates that physical buildings directly affect brain activity, hormones, and psychological <b>1.</b> {{q1}} . Lab experiments on ceiling height show that tall rooms encourage <b>2.</b> {{q2}} thinking, whereas low ceilings help people focus on tiny <b>3.</b> {{q3}} . In city walking trials, passing plain <b>4.</b> {{q4}} buildings caused boredom and stress, while varied streets with many <b>5.</b> {{q5}} boosted curiosity and happiness.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "health",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...alter human brain activity, hormone levels, and mental health.\"</i>",
+          "<b>Từ cần điền:</b> <b>health</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "creative",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...solved creative, big-picture tasks...\"</i>",
+          "<b>Từ cần điền:</b> <b>creative</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "details",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...paid closer attention to small details...\"</i>",
+          "<b>Từ cần điền:</b> <b>details</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "glass",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...passed long, unbroken glass fronts...\"</i>",
+          "<b>Từ cần điền:</b> <b>glass</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "doorways",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...varied textures and frequent doorways...\"</i>",
+          "<b>Từ cần điền:</b> <b>doorways</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "The buildings we spend time in can influence hormone levels in our bodies.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...continuously alter human brain activity, hormone levels...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Rooms with high ceilings improve performance on careful step-by-step calculations.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Trần cao tốt cho tư duy sáng tạo; trần thấp mới phục vụ tính toán từng bước chi tiết.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Commercial developers regularly hire neuroscientists before designing glass towers.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chỉ nói nhà phát triển chọn tháp kính rẻ tiền, không nhắc họ có thuê nhà thần kinh học hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Walking past blank concrete walls made pedestrians feel excited and energetic.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Người đi bộ cảm thấy chán nản sâu sắc và căng thẳng hơn, không phải hào hứng.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Standardized glass buildings can contribute to loneliness and stress in cities.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...accidentally create lonely, stressed urban communities.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

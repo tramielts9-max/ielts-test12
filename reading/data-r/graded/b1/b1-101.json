@@ -1,0 +1,162 @@
+{
+  "title": "[B1 • Band 5.0] Bài 101: The Antikythera Mechanism",
+  "answers": {
+    "q1": "storm",
+    "q2": "courtyard",
+    "q3": "frame",
+    "q4": "handle",
+    "q5": [
+      "colour",
+      "color"
+    ],
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN",
+    "q9": "FALSE"
+  },
+  "passageHtml": "<h2>READING B1 (BAND 5.0) — BÀI 101</h2><h3>The Antikythera Mechanism</h3><p><strong>Paragraph 1.</strong> In the spring of 1900, a team of Greek sponge divers was sailing back from North Africa when <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">a violent <span class=\"kw\">storm</span> pushed their ship off course</span>. Seeking protection, they dropped anchor near Antikythera, a rocky island between Crete and mainland Greece. Once the wind calmed down, diver Elias Stadiatis put on a bronze helmet and swam down 45 metres to search for sponges. Instead, he returned to the surface shaking with fear, talking about bodies and bronze horses on the seabed. He had accidentally discovered a Roman shipwreck from the first century BCE <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">filled with marble statues and clay jars</span>.</p><p><strong>Paragraph 2.</strong> Over the next nine months, Greek teams worked in deep, dangerous waters to lift the valuable objects from the wreck. Among the items delivered to the National Archaeological Museum in Athens was a dull, hard lump of green bronze covered in sea dirt. For nearly two years, this unattractive piece <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">sat ignored in an outdoor <span class=\"kw\">courtyard</span></span>. In May 1902, archaeologist Valerios Stais noticed that the lump had dried and cracked open, revealing a detailed metal gear with triangular teeth inside. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">At first, scholars rejected the idea that it was ancient</span>, arguing that such clever machinery could not have existed in ancient Greece.</p><p><strong>Paragraph 3.</strong> Later research proved those early doubts wrong. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In the 1950s, British physicist Derek de Solla Price used X-ray photographs to look inside the broken metal pieces</span>. His study showed that the parts belonged to a single portable device <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">originally stored inside a protective wooden <span class=\"kw\">frame</span></span>, roughly the size of a shelf clock. Bronze plates on the outside once held written instructions and calendars. Dated to around 150–100 BCE, the device contained at least thirty interlocking bronze gears <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">driven by a hand-turned <span class=\"kw\">handle</span></span>. Turning it moved the gears to show the changing positions of objects in the sky.</p><p><strong>Paragraph 4.</strong> The front face of the mechanism had two round rings: an inner ring showing the twelve zodiac signs and an outer ring matching the 365-day Egyptian calendar. Pointers marked the daily movements of the sun and moon, while a clever pin-and-slot gear copied the moon's uneven speed across the night sky. On the back of the box, spiral dials tracked a 19-year calendar and an 18-year cycle that could predict future eclipses. Amazingly, the machine could even indicate the hour of an eclipse and <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">the <span class=\"kw\">colour</span> the darkened moon would appear</span>.</p><p><strong>Paragraph 5.</strong> In 2005, an international research team used modern 3D X-ray scanning to <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">examine the fragile remains without damaging them</span>. These high-resolution scans uncovered thousands of tiny Greek letters and hidden instructions that could not be seen with human eyes alone. Most importantly, the scans confirmed that special gears inside the device were built to track the orbits of five planets known at the time: Mercury, Venus, Mars, Jupiter, and Saturn. The Antikythera Mechanism clearly showed that ancient Greek engineering was more than a thousand years ahead of what modern historians previously believed.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "The Antikythera Mechanism (B1)",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:10px;\">The divers anchored near Antikythera to find shelter from a severe <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:10px;\">A corroded metal lump was ignored in a museum <b>2.</b> {{q2}} for almost two years.</li><li style=\"margin-bottom:10px;\">X-ray images showed the device was originally kept in a wooden <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:10px;\">The user moved the internal gears by turning a manual <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">Dials on the back could forecast the timing and <b>5.</b> {{q5}} of future eclipses.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–9",
+      "instructions": "<i>Do the following statements agree with the information given in the passage?<br>Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "storm",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"a violent storm pushed their ship off course. Seeking protection...\"</i> (protection = shelter; violent = severe).",
+          "<b>Từ cần điền:</b> <b>storm</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "courtyard",
+      "inputWidth": "120px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"sat ignored in an outdoor courtyard.\"</i>",
+          "<b>Từ cần điền:</b> <b>courtyard</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "frame",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"originally stored inside a protective wooden frame...\"</i>",
+          "<b>Từ cần điền:</b> <b>frame</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "handle",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"driven by a hand-turned handle.\"</i> (hand-turned = manual).",
+          "<b>Từ cần điền:</b> <b>handle</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": [
+        "colour",
+        "color"
+      ],
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"indicate the hour of an eclipse and the colour the darkened moon would appear.\"</i> (hour = timing).",
+          "<b>Từ cần điền:</b> <b>colour</b> (hoặc <b>color</b>)."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "The shipwreck contained artwork made from stone and clay.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"filled with marble statues and clay jars.\"</i> (marble = một loại đá; clay = đất sét).",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Early scholars agreed immediately that the gear came from ancient Greece.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"At first, scholars rejected the idea that it was ancient...\"</i> → Trái ngược với agreed immediately.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Derek de Solla Price spent more than ten years studying the X-ray photographs.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài chỉ nêu ông bắt đầu nghiên cứu vào thập niên 1950 (<i>In the 1950s...</i>), hoàn toàn không cho biết quá trình nghiên cứu kéo dài hơn 10 năm hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "The 2005 scanning process harmed some of the tiny Greek letters inside the bronze.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"used modern 3D X-ray scanning to examine the fragile remains without damaging them.\"</i> → Không hề làm hư hại.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "title": "[B1 • Band 5.0] Bài 213: Tapping the Earth's Cauldron: Geothermal Energy",
+  "answers": {
+    "q1": "C",
+    "q2": "A",
+    "q3": "D",
+    "q4": "B",
+    "q5": "steam",
+    "q6": "sidewalks",
+    "q7": "stone",
+    "q8": "TRUE",
+    "q9": "NOT GIVEN",
+    "q10": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 213 (LEVEL B1 • BAND 5.0)</h2><h3>Tapping the Earth's Cauldron: The Geothermal Frontier</h3><p><strong>Paragraph 1.</strong> Deep beneath Iceland's volcanic landscape lies an enormous source of clean power. While most nations burn fossil fuels or rely on changeable wind and sunshine, Iceland produces nearly one hundred percent of its electricity and home heat from domestic renewables, mainly geothermal energy. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Located across the Mid-Atlantic Ridge—where two giant tectonic plates slowly pull apart—Iceland sits directly above rising underground magma</span>, turning a once coal-dependent island into an energy pioneer.</p><p><strong>Paragraph 2.</strong> Conventional geothermal power relies on natural underground water cycles. Rainwater seeps through porous volcanic cracks deep into the crust near hot magma chambers. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Although temperatures reach several hundred degrees, intense underground pressure keeps the water from boiling</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">When engineers drill production wells one to three kilometres down, the sudden drop in pressure turns the superheated liquid violently into high-pressure <span class=\"kw\">steam</span></span>, which rises up steel pipes to spin electricity turbines.</p><p><strong>Paragraph 3.</strong> In the capital Reykjavik, geothermal water completely transformed urban life. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In the early 1900s, the city choked under thick smoke from burning soft coal to warm wooden homes</span>. Starting in 1930, city officials built insulated underground pipes delivering natural hot water straight into house radiators, heating over ninety-nine percent of greater Reykjavik today. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Surplus warm water even flows through coiled plastic tubes beneath pavements and <span class=\"kw\">sidewalks</span>, automatically melting winter snow without harmful de-icing salts</span></span>.</p><p><strong>Paragraph 4.</strong> Even clean geothermal extraction brings gas challenges. Deep reservoir water carries dissolved carbon dioxide and hydrogen sulfide, which smells like rotten eggs and irritates lungs. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">To solve this, the Carbfix project at Hellisheidi plant captures waste gases, mixes them into water, and pumps the fluid into porous basalt rock, turning gas permanently into solid white <span class=\"kw\">stone</span> within two years</span></span>.</p><p><strong>Paragraph 5.</strong> Looking ahead, the Iceland Deep Drilling Project (IDDP) is testing even deeper limits. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Instead of standard wells reaching one to three kilometres, IDDP drills nearly five kilometres deep into 'supercritical' zones hotter than 450°C</span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Fluid here carries up to ten times more energy than standard steam, meaning one deep well could match ten normal wells while using far less surface land</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–4",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Geothermal Process in Iceland",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Drilling down lowers pressure and flashes superheated water into <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:8px;\">Warm plastic pipes under <b>6.</b> {{q6}} melt ice cleanly without road salt.</li><li style=\"margin-bottom:8px;\">The Carbfix project turns captured exhaust gases into solid white <b>7.</b> {{q7}} underground.</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "What geological feature explains Iceland's abundant geothermal energy?",
+      "options": [
+        "A. Deep glacial lakes formed during recent ice ages",
+        "B. Heavy seasonal monsoons along coastal mountains",
+        "C. Two tectonic plates separating and bringing magma near the surface",
+        "D. Huge underground deposits of ancient black coal"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Nằm trên sống núi giữa Đại Tây Dương nơi hai mảng kiến tạo tách rời, magma dâng gần mặt đất.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Why doesn't deep underground water boil before engineers drill into it?",
+      "options": [
+        "A. Intense underground pressure stops the water from boiling.",
+        "B. Cold rainwater cools down the magma chambers.",
+        "C. Porous volcanic cracks absorb all the heat instantly.",
+        "D. Thick basalt walls keep the water temperature below 100°C."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...intense underground pressure keeps the water from boiling.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "What extra winter benefit does Reykjavik's excess hot water provide?",
+      "options": [
+        "A. It keeps outdoor swimming pools frozen for skating.",
+        "B. It filters polluted rainwater before it enters rivers.",
+        "C. It warms outdoor greenhouses to export tropical fruit.",
+        "D. It melts snow on walkways without needing chemical salts."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Làm tan tuyết trên vỉa hè tự động mà không cần muối hóa chất.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Why are researchers excited about the IDDP deep-drilling project?",
+      "options": [
+        "A. It eliminates the need for any steel pipes or turbines.",
+        "B. One ultra-deep well could match ten normal wells using less land.",
+        "C. It operates entirely without rainwater seeping underground.",
+        "D. It allows factories to burn soft coal safely indoors."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Một giếng siêu sâu có thể bằng 10 giếng thường và tốn ít diện tích đất bề mặt hơn.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "steam",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...turns the superheated liquid violently into high-pressure steam...\"</i>",
+          "<b>Từ cần điền:</b> <b>steam</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "sidewalks",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...plastic tubes beneath pavements and sidewalks...\"</i>",
+          "<b>Từ cần điền:</b> <b>sidewalks</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "stone",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...turning gas permanently into solid white stone...\"</i>",
+          "<b>Từ cần điền:</b> <b>stone</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Before 1930, Reykjavik experienced heavy air pollution from burning soft coal.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"In the early 1900s, the city choked under thick smoke from burning soft coal...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Most European countries have already copied Iceland's Carbfix stone-storage method.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chỉ mô tả dự án Carbfix tại nhà máy Hellisheidi ở Iceland, không nói các nước châu Âu khác đã sao chép.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "The IDDP boreholes are shallower than standard geothermal wells.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Giếng thường sâu 1–3 km, còn giếng IDDP sâu gần 5 km (sâu hơn chứ không nông hơn).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 206: Nature's Sticky Secret: The Science of Dry Adhesion",
+  "answers": {
+    "q1": "residue",
+    "q2": "weight",
+    "q3": "angle",
+    "q4": "vacuum",
+    "q5": "recycling",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "TRUE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 206 (LEVEL B1 • BAND 5.0)</h2><h3>Nature's Sticky Secret: The Science of Dry Adhesion</h3><p><strong>Paragraph 1.</strong> For more than two thousand years, scientists were puzzled by how geckos climb. Unlike tree frogs, which depend on sticky liquid, or insects that hook tiny claws into rough surfaces, a gecko runs smoothly across wet glass and upside-down ceilings. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Even more amazingly, it wastes no energy and leaves zero chemical <span class=\"kw\">residue</span> behind</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">In earlier centuries, thinkers guessed geckos used suction cups or static electricity, until twenty-first-century electron microscopes finally revealed the real answer</span>.</p><p><strong>Paragraph 2.</strong> Gecko sticking power is purely mechanical and physical. Each toe pad carries millions of microscopic keratin hairs called setae, roughly ten times thinner than a human hair. Each seta splits into hundreds of tiny flat tips called spatulae. When billions of these soft tips touch a wall within less than a nanometre, weak molecular attractions called van der Waals forces pull the surfaces together. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Combined across billions of tips, these forces easily hold fifty times the gecko's body <span class=\"kw\">weight</span></span>.</p><p><strong>Paragraph 3.</strong> However, staying glued permanently to a wall would be useless. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">As engineer Dr. Ronald Fearing explains, gecko adhesion depends completely on foot direction</span>. When the lizard pulls its foot downward and inward, the hairs flatten against the wall and grip tightly. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">The moment the gecko curls its toes upward, the contact <span class=\"kw\">angle</span> changes and the foot comes off instantly</span>, letting the reptile sprint faster than one metre per second up vertical glass.</p><p><strong>Paragraph 4.</strong> Copying this natural wonder in factories proved difficult at first. Early artificial tapes made from silicone wore out quickly because their soft plastic hairs clumped together under pressure. Later, biophysicist Dr. Kellar Autumn solved this by growing dense rows of carbon nanotubes on flexible sheets. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">In lab tests, these patches held heavy loads inside <span class=\"kw\">vacuum</span> chambers</span> and below minus one hundred degrees Celsius—conditions where ordinary chemical glues freeze and snap.</p><p><strong>Paragraph 5.</strong> Dry gecko adhesives now promise breakthroughs across medicine, space, and industry. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Surgical researcher Dr. Maria Delgado created biodegradable gecko tape for internal wounds, avoiding metal staples and stitches that can poke tissue and cause leaks</span>. Meanwhile, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">space engineer Dr. Hiroshi Tanaka built robot arms with gecko pads to catch floating space junk, since suction cups cannot work without air</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Engineers also hope to assemble smartphones with dry tape so parts peel apart easily for clean, zero-waste <span class=\"kw\">recycling</span></span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Gecko Adhesion & Applications",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Geckos climb smooth glass cleanly without leaving any chemical <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">Billions of spatulae together can support 50 times the lizard's body <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">To let go quickly, the gecko curls its toes up and alters the contact <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">Dr. Autumn's nanotube tape worked reliably even inside airless <b>4.</b> {{q4}} chambers.</li><li style=\"margin-bottom:8px;\">Building phones with dry adhesives would allow fast disassembly for clean <b>5.</b> {{q5}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "residue",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...leaves zero chemical residue behind.\"</i>",
+          "<b>Từ cần điền:</b> <b>residue</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "weight",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...hold fifty times the gecko's body weight.\"</i>",
+          "<b>Từ cần điền:</b> <b>weight</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "angle",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...the contact angle changes and the foot comes off instantly...\"</i>",
+          "<b>Từ cần điền:</b> <b>angle</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "vacuum",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...held heavy loads inside vacuum chambers...\"</i>",
+          "<b>Từ cần điền:</b> <b>vacuum</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "recycling",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...peel apart easily for clean, zero-waste recycling.\"</i>",
+          "<b>Từ cần điền:</b> <b>recycling</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Scientists in earlier centuries already knew the real physical reason geckos climb.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Các thế kỷ trước chỉ đoán sai (giác hút, tĩnh điện); mãi đến thế kỷ 21 mới tìm ra sự thật.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Geckos can unhook their feet instantly because their grip depends on foot direction.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...gecko adhesion depends completely on foot direction.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Traditional surgical staples and stitches can sometimes damage tissue and cause leaks.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...metal staples and stitches that can poke tissue and cause leaks.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Suction cups work effectively to grab broken satellites in space.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...suction cups cannot work without air.\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Smartphones made with gecko dry tape are already sold in most European shops.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nói kỹ sư hy vọng sẽ lắp ráp điện thoại bằng băng dính khô (<i>hope to assemble</i>), không nói đã bán ở châu Âu.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

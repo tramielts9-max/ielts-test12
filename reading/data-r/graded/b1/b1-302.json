@@ -1,0 +1,200 @@
+{
+  "title": "[B1 • Band 5.0] Bài 302: Rewiring the Self: Neuroplasticity",
+  "answers": {
+    "q1": "pathways",
+    "q2": "fingers",
+    "q3": "volume",
+    "q4": "addictions",
+    "q5": "energy",
+    "q6": "D",
+    "q7": "B",
+    "q8": "A",
+    "q9": "C",
+    "q10": "B"
+  },
+  "passageHtml": "<h2>PASSAGE 302 (LEVEL B1 • BAND 5.0)</h2><h3>Rewiring the Self: The Nuances of Neuroplasticity</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">For much of the twentieth century, brain science followed a strict rule: the adult brain could not change its physical shape. Medical textbooks taught that after a brief flexible stage in early childhood, the brain hardened like concrete</span>. Once cells died or suffered injury, lost skills were assumed to be gone forever. Over the past thirty years, however, the discovery of neuroplasticity has overturned this view, showing that the brain can continually rebuild its neural <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">pathways</span></span> through learning.</p><p><strong>Paragraph 2.</strong> In her book <em>The Adaptive Mind</em>, biologist Dr. Hannah West describes the early monkey studies of Michael Merzenich in the late 1970s. Working with owl monkeys, Merzenich mapped the brain area that senses touch. When one finger stopped sending signals, he noticed that within weeks, the empty brain space was taken over by signals from neighbouring <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">fingers</span></span>. The brain behaved not like a rigid machine, but like a living ecosystem.</p><p><strong>Paragraph 3.</strong> Later scans of human brains proved this flexibility continues throughout adulthood. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">A famous study by Eleanor Maguire examined London taxi drivers, who spend years memorizing twenty-five thousand city streets. Scans showed these drivers had a significantly larger posterior hippocampus—the brain area used for spatial maps—and its gray matter <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">volume</span></span> matched the number of years spent driving</span>.</p><p><strong>Paragraph 4.</strong> However, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Dr. West criticizes popular self-help books and commercial apps that advertise neuroplasticity as a magical instant cure for depression or slow language learning</span>. She introduces the 'plasticity paradox'. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Because brain connections grow stronger through repetition, the same process also locks in harmful patterns, such as chronic pain, obsessive worries, and chemical <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">addictions</span></span></span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Furthermore, reshaping brain structure requires huge amounts of physical <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">energy</span></span> and focused, disciplined effort—not ten minutes of casual smartphone puzzle games</span>. By separating genuine medical rehabilitation from misleading advertising, Dr. West gives readers a realistic understanding of the human brain.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "Understanding Neuroplasticity",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>Modern research proves the brain can reorganize its neural <b>1.</b> {{q1}} throughout life. In monkey tests, empty touch zones were quickly claimed by neighbouring <b>2.</b> {{q2}} . Similarly, London cabbies showed higher gray matter <b>3.</b> {{q3}} after years of navigation. However, repetition can also strengthen harmful habits and chemical <b>4.</b> {{q4}} . True structural change demands focused effort and lots of physical <b>5.</b> {{q5}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 6–10",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "pathways",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...continually rebuild its neural pathways through learning.\"</i>",
+          "<b>Từ cần điền:</b> <b>pathways</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "fingers",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...taken over by signals from neighbouring fingers.\"</i>",
+          "<b>Từ cần điền:</b> <b>fingers</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "volume",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...its gray matter volume matched the number of years...\"</i>",
+          "<b>Từ cần điền:</b> <b>volume</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "addictions",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...obsessive worries, and chemical addictions.\"</i>",
+          "<b>Từ cần điền:</b> <b>addictions</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "energy",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...requires huge amounts of physical energy...\"</i>",
+          "<b>Từ cần điền:</b> <b>energy</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Why did 20th-century textbooks think brain injury was permanent?",
+      "options": [
+        "A. Doctors had no microscopes to observe live human neurons.",
+        "B. Elderly patients refused to join memory training programs.",
+        "C. Brain damage only affected people during early childhood.",
+        "D. Scientists believed adult brain structure hardened after childhood."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Sách giáo khoa cho rằng não cứng lại như bê tông sau tuổi thơ.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "What did Eleanor Maguire discover about London taxi drivers?",
+      "options": [
+        "A. Their touch sensors were stronger than those of owl monkeys.",
+        "B. Their spatial memory area grew physically larger with driving years.",
+        "C. Driving in heavy traffic reduced their gray matter volume.",
+        "D. Only young drivers could remember twenty-five thousand streets."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Vùng hồi hải mã lớn hơn rõ rệt và tăng tỷ lệ thuận với số năm lái xe.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Why does Dr. Hannah West criticise popular self-help books?",
+      "options": [
+        "A. They exaggerate how quickly apps can cure serious brain problems.",
+        "B. They ignore the early animal experiments of Michael Merzenich.",
+        "C. They discourage readers from studying foreign languages.",
+        "D. They charge schools too much money for medical textbooks."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Phê phán sách và app quảng cáo thổi phồng như thuốc tiên chữa bệnh tức thì.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why are compulsive worries and addictions mentioned in Paragraph 4?",
+      "options": [
+        "A. To argue that smartphone apps cause chemical addictions",
+        "B. To prove that adult brains cannot break any childhood habits",
+        "C. To show that repetition can strengthen harmful brain patterns",
+        "D. To explain why taxi drivers experience high stress at work"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Vì lặp lại củng cố mọi đường dẫn thần kinh, nên cả thói quen có hại cũng bị đóng đinh chặt hơn.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What is the writer's main point in the final paragraph?",
+      "options": [
+        "A. Mobile puzzle games are the cheapest form of hospital therapy.",
+        "B. Real clinical brain rewiring differs greatly from commercial hype.",
+        "C. Scientists still doubt whether adult neurons can ever adapt.",
+        "D. Physical exercise is unnecessary if people focus mentally."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Phân biệt rạch ròi phục hồi y khoa thực sự (cần nỗ lực & năng lượng lớn) với quảng cáo thổi phồng.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

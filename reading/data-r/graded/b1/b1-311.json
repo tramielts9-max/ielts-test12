@@ -1,0 +1,203 @@
+{
+  "title": "[B1 • Band 5.0] Bài 311: The Architecture of Ignorance: Rethinking Scientific Progress",
+  "answers": {
+    "q1": "C",
+    "q2": "A",
+    "q3": "D",
+    "q4": "B",
+    "q5": "passive",
+    "q6": "quantum",
+    "q7": "funding",
+    "q8": "NO",
+    "q9": "YES",
+    "q10": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 311 (LEVEL B1 • BAND 5.0)</h2><h3>The Architecture of Ignorance: Rethinking Scientific Progress</h3><p><strong>Paragraph 1.</strong> Standard school textbooks describe scientific progress as a steady climb toward complete truth. Each generation is shown building neatly upon past discoveries until nature's secrets are fully solved. However, in <em>The Ignorance Ledger</em>, science philosopher Dr. Aris Thorne challenges this tidy story. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">True breakthroughs, he explains, do not merely expand human knowledge; their main result is creating entirely new categories of things we realize we do not know</span>.</p><p><strong>Paragraph 2.</strong> Thorne separates <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">passive</span> ignorance</span> from active, strategic ignorance. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Passive ignorance is simply lacking basic information—the everyday state of an untrained mind</span>. By contrast, strategic ignorance is an advanced awareness produced only by top-level science. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">When physicists discovered <span class=\"kw\">quantum</span> mechanics in the early twentieth century, they did not tidy up classical physics; instead, they broke Newton's predictable rules and revealed vast new mysteries inside the atom</span></span>. Similarly, discovering DNA did not close biology, but exposed the puzzling world of epigenetics.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">A major target of Thorne's criticism is today's obsession with measuring scientists purely through numbers</span>. University ranking committees and research councils judge scholars mostly by counting published papers, citation scores, and quick business profits. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Because agencies demand safe, predictable results, bold studies that challenge old ideas are starved of institutional <span class=\"kw\">funding</span></span></span>, pushing researchers toward dull, low-risk topics.</p><p><strong>Paragraph 4.</strong> In his closing chapters, Thorne urges a deep reform in science education. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Instead of rewarding scholars who claim to hold final answers, universities should celebrate those who design smarter, deeper questions</span></span>. Ignorance is not an embarrassing weakness to hide, Thorne insists; it is the vital fuel that keeps real science moving forward.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–4",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Types of Ignorance and Research Limits",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Simply lacking basic knowledge is called <b>5.</b> {{q5}} ignorance.</li><li style=\"margin-bottom:8px;\">Discovering <b>6.</b> {{q6}} mechanics overturned Newton's predictable rules.</li><li style=\"margin-bottom:8px;\">Bold, risky theories often fail to receive institutional <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 8–10",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "What is Dr. Thorne's main argument in Paragraph 1?",
+      "options": [
+        "A. Science textbooks should be banned from universities.",
+        "B. Modern researchers produce fewer facts than earlier scholars.",
+        "C. Major scientific discoveries reveal brand-new areas of unknown questions.",
+        "D. Ordinary citizens no longer trust laboratory scientists."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Đột phá thật sự tạo ra những hạng mục chưa biết hoàn toàn mới.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "How does Thorne define 'passive ignorance'?",
+      "options": [
+        "A. A simple lack of basic facts found in an untrained mind",
+        "B. A deliberate refusal to read scientific books",
+        "C. A complex state created by quantum physics",
+        "D. A temporary error caused by faulty lab tools"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...simply lacking basic information—the everyday state of an untrained mind.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Why does Thorne criticise research councils in Paragraph 3?",
+      "options": [
+        "A. They publish too many difficult books for students.",
+        "B. They let politicians write university exam papers.",
+        "C. They give most of their money to young undergraduate students.",
+        "D. They judge scientists strictly by paper counts and short-term profits."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chỉ chấm điểm dựa vào số lượng bài báo, trích dẫn và lợi nhuận kinh doanh nhanh.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "What reform does Thorne recommend in the final paragraph?",
+      "options": [
+        "A. Paying higher salaries to university ranking managers",
+        "B. Valuing scientists who ask deeper questions over those claiming final answers",
+        "C. Requiring all researchers to repeat Newton's experiments",
+        "D. Cutting public money for university biology labs"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Nên tôn vinh những người thiết kế được câu hỏi sâu sắc hơn.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "passive",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Passive ignorance is simply lacking basic information...\"</i>",
+          "<b>Từ cần điền:</b> <b>passive</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "quantum",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"When physicists discovered quantum mechanics...\"</i>",
+          "<b>Từ cần điền:</b> <b>quantum</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "funding",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...starved of institutional funding...\"</i>",
+          "<b>Từ cần điền:</b> <b>funding</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Quantum mechanics proved that Newton's classical rules explained every atomic behaviour.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cơ học lượng tử đã phá vỡ quy tắc dự đoán cũ của Newton (<i>broke Newton's predictable rules</i>).",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Academic institutions ought to value researchers who formulate thoughtful questions.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...universities should celebrate those who design smarter, deeper questions.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Private technology firms fund bold science better than government councils do.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài chỉ phê phán quỹ nghiên cứu thích lợi nhuận nhanh, không so sánh quỹ tư nhân với quỹ chính phủ.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

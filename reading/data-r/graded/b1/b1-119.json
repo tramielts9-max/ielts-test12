@@ -1,0 +1,160 @@
+{
+  "title": "[B1 • Band 5.0] Bài 119: The Ginkgo Biloba: The Resilient Living Fossil",
+  "answers": {
+    "q1": "monasteries",
+    "q2": "fire",
+    "q3": "seeds",
+    "q4": "pollution",
+    "q5": "reserves",
+    "q6": "FALSE",
+    "q7": "FALSE",
+    "q8": "TRUE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 119 (LEVEL B1 • BAND 5.0)</h2><h3>The Ginkgo Biloba: The Resilient Living Fossil</h3><p><strong>Paragraph 1.</strong> Recognised by its fan-shaped leaves that turn bright gold each autumn, the ginkgo tree (<em>Ginkgo biloba</em>) is a remarkable botanical survivor. It is the only living member of an ancient group of trees that grew alongside dinosaurs roughly 170 million years ago. While hundreds of related prehistoric plants disappeared during mass extinctions, the ginkgo survived almost unchanged. Modern leaves display the exact same vein patterns found in rock fossils millions of years old, earning it the nickname 'living fossil'.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">By the seventeenth century, European scientists assumed the ginkgo tree had died out completely</span>. That belief ended in 1691 when German physician Engelbert Kaempfer visited Japan and discovered healthy ginkgo trees growing in the <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">courtyards of old Buddhist <span class=\"kw\">monasteries</span></span>. For centuries, Chinese and Japanese monks had carefully protected the trees as symbols of long life and peace. Monks also valued ginkgo timber for building shrines because <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">the wood resisted <span class=\"kw\">fire</span> well during forest blazes</span>.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">In nature, individual ginkgo trees are strictly either male or female</span>. Unlike pine trees that carry cones, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">female trees drop soft yellow <span class=\"kw\">seeds</span> in pairs each autumn</span>. When the fleshy outer skin decays on the ground, it releases strong acids that smell terribly like sour butter or rotting meat. Consequently, city landscapers avoid planting female ginkgos along pavements and choose cloned male trees grown from small cuttings instead.</p><p><strong>Paragraph 4.</strong> Individual ginkgo trees regularly live for over a thousand years thanks to impressive natural defences. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Special chemicals inside their leaves and wood drive away hungry insects and stop fungal rot and bacterial disease</span>. In addition, deep central roots help the trees stand firm during violent storms, while their cells easily <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">survive heavy city air <span class=\"kw\">pollution</span></span> such as ozone and sulphur gases.</p><p><strong>Paragraph 5.</strong> The ginkgo's famous toughness was proved on 6 August 1945, when an atomic bomb exploded over Hiroshima in Japan. The blast burned six mature ginkgo trees standing near temples and destroyed surrounding stone buildings. Yet their underground root systems survived unharmed. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">The very next spring, the scarred trunks grew healthy green buds without any genetic damage</span>. Surprisingly, while millions of cloned ginkgos thrive in cities worldwide, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">wild populations are critically endangered and survive only in small mountain <span class=\"kw\">reserves</span> in China's Zhejiang province</span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "History and Survival of Ginkgo Biloba",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li>In 1691, Kaempfer found living ginkgo trees inside Japanese Buddhist <b>1.</b> {{q1}} .</li><li>Monks used ginkgo wood in shrines because it resisted <b>2.</b> {{q2}} well.</li><li>Female trees drop fleshy yellow <b>3.</b> {{q3}} that smell terrible when they decay.</li><li>Ginkgo cells can tolerate severe urban air <b>4.</b> {{q4}} .</li><li>Wild ginkgos exist today only in isolated mountain <b>5.</b> {{q5}} in China.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "monasteries",
+      "inputWidth": "130px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...courtyards of old Buddhist monasteries.\"</i>"
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "fire",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...the wood resisted fire well...\"</i>"
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "seeds",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...female trees drop soft yellow seeds in pairs...\"</i>"
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "pollution",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...survive heavy city air pollution...\"</i>"
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "reserves",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...small mountain reserves in China's Zhejiang province.\"</i>"
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Ginkgo trees were commonly grown in European gardens throughout the seventeenth century.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Đến thế kỷ 17 các nhà khoa học châu Âu vẫn tưởng cây đã tuyệt chủng hoàn toàn."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Both male and female reproductive parts grow on the same ginkgo tree.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Cây đực và cây cái là các cây riêng biệt (<i>strictly either male or female</i>)."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Natural chemicals inside ginkgo tissues help protect the tree from insect pests.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Hóa chất trong lá và gỗ giúp xua đuổi côn trùng và chống nấm mốc."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "The surviving Hiroshima ginkgos grew severely damaged leaves in the spring after the bomb.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Mùa xuân năm sau cây mọc chồi xanh khỏe mạnh, không bị đột biến hay hư hại di truyền."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Tourists are prohibited by law from visiting the wild ginkgo reserves in Zhejiang province.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bài nói cây hoang dã sống trong khu bảo tồn ở Chiết Giang, không nhắc luật cấm du khách."
+        ]
+      }
+    }
+  }
+}

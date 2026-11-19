@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 106: The Story of Tyrian Purple",
+  "answers": {
+    "q1": "baskets",
+    "q2": "lead",
+    "q3": "stench",
+    "q4": "washing",
+    "q5": "root",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "FALSE",
+    "q9": "NOT GIVEN",
+    "q10": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 106 (LEVEL B1 • BAND 5.0)</h2><h3>The Story of Tyrian Purple</h3><p><strong>Paragraph 1.</strong> Long before modern factories invented synthetic colours, people in the ancient Mediterranean used colour to display wealth and political authority. The most admired dye was Tyrian purple, named after the Phoenician port city of Tyre in today's Lebanon. Unlike common dyes made from plant roots or crushed insects, Tyrian purple was produced through a difficult process using sea snails from two main species. Fabrics coloured with this rare substance became a proud symbol for kings, priests, and powerful rulers across the region.</p><p><strong>Paragraph 2.</strong> Producing Tyrian purple was famously slow and disgusting. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Sailors caught the snails along rocky coastlines by sinking wicker <span class=\"kw\">baskets</span> filled with rotting bait into deep water</span>. Back on land, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">workers carefully cut out a tiny organ inside large snails using sharp knives, while simply crushing smaller shells completely</span>. The collected liquid was soaked in salt water for three days and <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">then heated slowly inside huge <span class=\"kw\">lead</span> containers for ten days</span>. As the mixture boiled, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">rotting snail tissue released a dreadful <span class=\"kw\">stench</span> that spread for miles</span>, forcing towns to keep dye workshops far outside residential neighbourhoods.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Sunlight played an essential chemical role in creating the final colour. When first taken from the sea snails, the liquid appeared entirely clear. However, once clean wool was dipped into the warm bath and dried outdoors, direct sunlight triggered a remarkable reaction</span>. Within minutes, the pale cloth shifted through yellow and bright green before turning into a rich, dark purple. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Because the dye formed a strong chemical bond with the wool fibres instead of merely sitting on top, regular <span class=\"kw\">washing</span> never faded the shade</span>; instead, exposure to sunlight made it even brighter.</p><p><strong>Paragraph 4.</strong> Due to the tiny amount of liquid inside each snail, Tyrian purple carried an astonishing price. Modern tests show that roughly 10,000 snails were required to produce just a single gram of pure dye powder, making purple cloth as valuable as silver or gold. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In Imperial Rome, strict laws controlled who could wear the colour: all-purple robes belonged exclusively to the Emperor, while senior officials could display only a thin purple line along their clothing borders</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Roman officers harshly punished traders who sold cheaper fake purple garments coloured with madder <span class=\"kw\">root</span> or insects</span>.</p><p><strong>Paragraph 5.</strong> The ancient dye industry finally collapsed because of major political wars. After the city of Constantinople fell in 1453, the royal workshops that guarded the dye secrets shut down, and the special knowledge disappeared within decades. Purple clothing remained out of reach for ordinary citizens until 1856, when <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">an eighteen-year-old British chemist named William Henry Perkin accidentally created a synthetic purple dye while searching for a malaria medicine</span>. Today, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">giant piles of ancient discarded snail shells along the Lebanese shoreline still remind visitors of this valuable lost trade</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Production and Laws of Tyrian Purple",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Sea snails were trapped in underwater wicker <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">The snail fluid was simmered in giant containers made of <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">Workshops had to stay outside towns due to the terrible <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">Because the dye bonded with wool fibres, frequent <b>4.</b> {{q4}} did not remove the colour.</li><li style=\"margin-bottom:8px;\">Roman officers punished merchants selling fake purple made from madder <b>5.</b> {{q5}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "baskets",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...by sinking wicker baskets filled with rotting bait...\"</i>",
+          "<b>Từ cần điền:</b> <b>baskets</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "lead",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...heated slowly inside huge lead containers for ten days.\"</i>",
+          "<b>Từ cần điền:</b> <b>lead</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "stench",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...rotting snail tissue released a dreadful stench...\"</i>",
+          "<b>Từ cần điền:</b> <b>stench</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "washing",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...regular washing never faded the shade...\"</i>",
+          "<b>Từ cần điền:</b> <b>washing</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "root",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...coloured with madder root or insects.\"</i>",
+          "<b>Từ cần điền:</b> <b>root</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Workers cut out the tiny dye organ individually from every single small and large snail.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chỉ tách cơ quan từ ốc lớn, còn ốc nhỏ bị nghiền nát toàn bộ (<i>crushing smaller shells completely</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "The snail liquid changed colour only after being placed in direct sunlight outdoors.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chất lỏng ban đầu trong suốt, chỉ đổi màu khi phơi nắng trực tiếp ngoài trời.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Senior Roman officials were permitted to wear robes made completely of Tyrian purple.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chỉ Hoàng đế mới được mặc nguyên áo choàng tím; quan chức cấp cao chỉ được đeo viền tím mảnh.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "William Henry Perkin successfully invented a cure for malaria in 1856.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bài chỉ nói ông tình cờ tạo ra thuốc nhuộm tím khi đang tìm thuốc trị sốt rét, không nói ông có chữa thành công bệnh sốt rét hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Large heaps of old snail shells can still be seen on the coast of Lebanon today.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...giant piles of ancient discarded snail shells along the Lebanese shoreline...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

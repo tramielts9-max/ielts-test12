@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 209: The Deep-Ocean Mining Frontier",
+  "answers": {
+    "q1": "NOT GIVEN",
+    "q2": "FALSE",
+    "q3": "TRUE",
+    "q4": "FALSE",
+    "q5": "TRUE",
+    "q6": "deforestation",
+    "q7": "slurry",
+    "q8": "tuna",
+    "q9": "Jamaica",
+    "q10": "recycling"
+  },
+  "passageHtml": "<h2>PASSAGE 209 (LEVEL B1 • BAND 5.0)</h2><h3>The Deep-Ocean Mining Frontier</h3><p><strong>Paragraph 1.</strong> Four thousand metres beneath the Pacific Ocean lies the Clarion-Clipperton Zone (CCZ), a pitch-black plain stretching five million square kilometres between Hawaii and Mexico. Covering the muddy seabed are trillions of potato-sized mineral lumps called polymetallic nodules. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">These rocks hold more nickel, cobalt, copper, and manganese than all land mines combined—essential materials needed to manufacture batteries for electric vehicles</span>.</p><p><strong>Paragraph 2.</strong> Mining companies argue that gathering loose seabed nodules causes less harm than digging mines on land. Company director Gerard Barron points out that <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">land mining in several countries causes severe <span class=\"kw\">deforestation</span>, child labour, and toxic waste runoff</span>, whereas the deep seabed has no forests to clear or local villages to move. Marine biologists strongly reject this view. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Surveys reveal that more than eighty percent of animals found in the CCZ are brand new to science</span>. Because freezing 1°C water and scarce food force creatures to grow slowly, ecosystems recover poorly. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Furthermore, glass sponges and giant single-celled creatures depend strictly on hard nodule surfaces as their only solid anchor</span>.</p><p><strong>Paragraph 3.</strong> Long-term experiments confirm how fragile deep benthic life is. In 1989, German scientists scraped a three-kilometre seabed strip off the coast of Peru to imitate mining machines. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">When an international team revisited the site in 2019—thirty years later—the scraped tracks still looked fresh, and sessile animal numbers remained eighty-five percent lower than in untouched areas</span>. Beyond seabed scars, giant mining crawlers will pump mud and nodules up to surface ships, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">then discharge millions of gallons of leftover <span class=\"kw\">slurry</span> back into midwater</span>. Ecologist Dr. Diva Amon warns these drifting mud clouds could suffocate jellyfish and carry toxic metals into <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">commercial <span class=\"kw\">tuna</span> and swordfish fisheries</span>.</p><p><strong>Paragraph 4.</strong> Legally, international seabed minerals are managed by the International Seabed Authority (ISA), <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">headquartered in Kingston, <span class=\"kw\">Jamaica</span></span>. While some island states hope mining contracts will bring income, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">a coalition of over twenty-five nations—including France and Germany—demands an immediate pause until deep-sea risks are fully understood</span>. Meanwhile, scientists insist the real answer lies in cobalt-free battery designs and <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">mandatory electronics <span class=\"kw\">recycling</span> worldwide</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–5",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 6–10",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Debate Over Deep-Sea Mining",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Mining supporters note that land mining often causes <b>6.</b> {{q6}} and child labour.</li><li style=\"margin-bottom:8px;\">Production vessels pump leftover muddy <b>7.</b> {{q7}} back into midwater layers.</li><li style=\"margin-bottom:8px;\">Dr. Amon warns toxic heavy metals could enter swordfish and <b>8.</b> {{q8}} fisheries.</li><li style=\"margin-bottom:8px;\">International seabed rules are managed by an agency based in Kingston, <b>9.</b> {{q9}} .</li><li style=\"margin-bottom:8px;\">Scientists recommend cobalt-free batteries and global electronics <b>10.</b> {{q10}} .</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Electric car factories already buy half of their nickel from the Pacific Ocean floor.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Chỉ nêu trữ lượng khoáng sản dưới đáy biển rất lớn để làm pin xe điện, không nói các hãng xe đã mua một nửa từ đáy biển.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Most animals collected in the Clarion-Clipperton Zone were already well known to science.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Hơn 80% loài thu thập được hoàn toàn mới với khoa học (<i>brand new to science</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Certain deep-sea sponges need the hard surfaces of mineral nodules as a place to attach.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...glass sponges... depend strictly on hard nodule surfaces as their only solid anchor.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Thirty years after the 1989 Peru test, seabed animal populations had returned completely to normal.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Sau 30 năm số lượng sinh vật bám vẫn thấp hơn 85% so với vùng chưa bị xáo trộn.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "More than twenty-five countries want to pause ocean mining until risks are clearly understood.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...over twenty-five nations... demands an immediate pause until deep-sea risks are fully understood.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "deforestation",
+      "inputWidth": "130px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...causes severe deforestation, child labour...\"</i>",
+          "<b>Từ cần điền:</b> <b>deforestation</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "slurry",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...discharge millions of gallons of leftover slurry...\"</i>",
+          "<b>Từ cần điền:</b> <b>slurry</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "tuna",
+      "inputWidth": "100px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...commercial tuna and swordfish fisheries.\"</i>",
+          "<b>Từ cần điền:</b> <b>tuna</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "Jamaica",
+      "inputWidth": "110px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...headquartered in Kingston, Jamaica.\"</i>",
+          "<b>Từ cần điền:</b> <b>Jamaica</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "recycling",
+      "inputWidth": "120px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...mandatory electronics recycling worldwide.\"</i>",
+          "<b>Từ cần điền:</b> <b>recycling</b>."
+        ]
+      }
+    }
+  }
+}

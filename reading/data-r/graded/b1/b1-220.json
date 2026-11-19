@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 220: The Demise of the Mental Map",
+  "answers": {
+    "q1": "TRUE",
+    "q2": "FALSE",
+    "q3": "NOT GIVEN",
+    "q4": "TRUE",
+    "q5": "FALSE",
+    "q6": "maps",
+    "q7": "streets",
+    "q8": "arrows",
+    "q9": "disease",
+    "q10": "landmarks"
+  },
+  "passageHtml": "<h2>PASSAGE 220 (LEVEL B1 • BAND 5.0)</h2><h3>The Demise of the Mental Map: Spatial Cognition in the Digital Age</h3><p><strong>Paragraph 1.</strong> For tens of thousands of years, navigating the physical world was an essential survival skill for humans. Whether crossing open plains or sailing across oceans using the stars, our ancestors depended on internal mental <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">maps</span></span> created inside the brain. Over the past twenty years, however, widespread smartphone GPS apps have changed this ancient habit. Instead of studying nearby hills, rivers, and buildings, modern travellers simply obey voice directions without thinking actively about space.</p><p><strong>Paragraph 2.</strong> The brain's navigation control centre is the hippocampus, a seahorse-shaped organ deep inside the brain. In the early 2000s, British neuroscientist Dr. Eleanor Maguire studied the brains of licensed London taxi drivers. To earn a license, drivers must spend three to four years memorizing twenty-five thousand <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">streets</span></span> and thousands of buildings around central London. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Maguire discovered that qualified taxi drivers had a noticeably larger back hippocampus than ordinary adults</span></span>, and its size grew with their years of driving.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Under turn-by-turn GPS guidance, however, brain scans reveal that activity inside the hippocampus and decision-making areas drops sharply</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Unlike real navigation, which requires comparing landmarks and predicting turns, following digital <span class=\"kw\">arrows</span> needs only quick automatic reactions</span>. As a result, users develop 'tunnel vision' and ignore side streets, often becoming completely confused in familiar neighbourhoods if their battery dies.</p><p><strong>Paragraph 4.</strong> Geriatric doctors warn that losing active spatial skills may bring long-term health risks. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Medical studies confirm that the hippocampus is among the first brain parts damaged by Alzheimer's <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\"><span class=\"kw\">disease</span></span>, with spatial confusion often appearing as the earliest warning sign</span>. Because lifelong mental exercise builds brain resilience, relying heavily on GPS could leave ageing brains less protected against memory loss.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">To protect spatial health, psychologists suggest turning off GPS on familiar local roads so the brain must notice <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\"><span class=\"kw\">landmarks</span></span> and estimate distances independently</span>. Meanwhile, software engineers are designing improved navigation apps that give helpful landmark clues—such as 'turn right after the stone cathedral'—or wider overview maps instead of blind turn-by-turn commands.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–5",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 6–10",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "How GPS Affects Human Spatial Memory",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<p>Ancient humans navigated safely by forming mental <b>6.</b> {{q6}} of their surroundings. Dr. Eleanor Maguire proved that London cabbies who memorize thousands of city <b>7.</b> {{q7}} develop a larger hippocampus. Conversely, following screen <b>8.</b> {{q8}} reduces brain activity and creates tunnel vision. Doctors warn that losing spatial exercise may weaken protection against Alzheimer's <b>9.</b> {{q9}} . Therefore, psychologists encourage drivers to switch off GPS locally and engineers are building smarter apps based on visible <b>10.</b> {{q10}} .</p>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Qualified London taxi drivers had a larger back hippocampus than ordinary adults.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...qualified taxi drivers had a noticeably larger back hippocampus than ordinary adults...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Brain scans show that GPS guidance increases activity in the brain's navigation centre.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Hoạt động trong hồi hải mã giảm mạnh (<i>drops sharply</i>) chứ không tăng.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "London taxi drivers scored higher on general mathematics tests than office workers.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chỉ đo kích thước hồi hải mã, không hề nhắc đến bài thi toán.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Spatial confusion is often one of the earliest symptoms of Alzheimer's disease.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...spatial confusion often appearing as the earliest warning sign.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Software engineers plan to ban all digital maps on smartphones in the future.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Kỹ sư đang thiết kế app thông minh hơn dùng mốc địa lý, không phải cấm toàn bộ bản đồ số.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "maps",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...depended on internal mental maps...\"</i>",
+          "<b>Từ cần điền:</b> <b>maps</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "streets",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...memorizing twenty-five thousand streets...\"</i>",
+          "<b>Từ cần điền:</b> <b>streets</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "arrows",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...following digital arrows needs only quick automatic reactions.\"</i>",
+          "<b>Từ cần điền:</b> <b>arrows</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "disease",
+      "inputWidth": "110px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...damaged by Alzheimer's disease...\"</i>",
+          "<b>Từ cần điền:</b> <b>disease</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "landmarks",
+      "inputWidth": "120px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...notice landmarks...\"</i> (và ứng dụng gợi ý theo mốc địa hình).",
+          "<b>Từ cần điền:</b> <b>landmarks</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 113: The Vanilla Orchid: From Mesoamerica to Global Spice",
+  "answers": {
+    "q1": "cacao",
+    "q2": "infertile",
+    "q3": "rostellum",
+    "q4": "bamboo",
+    "q5": "petrochemicals",
+    "q6": "TRUE",
+    "q7": "NOT GIVEN",
+    "q8": "FALSE",
+    "q9": "TRUE",
+    "q10": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 113 (LEVEL B1 • BAND 5.0)</h2><h3>The Vanilla Orchid: From Mesoamerica to Global Spice</h3><p><strong>Paragraph 1.</strong> Growing across the tropical rainforests of Mesoamerica, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">the vanilla orchid is the only member of the large orchid family farmed for human food</span>. Famous worldwide for its sweet aroma, vanilla is the second costliest spice after saffron. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">However, the dark-brown bean sold in shops begins as a long green pod that has no smell at all until it goes through months of careful drying and chemical change</span>.</p><p><strong>Paragraph 2.</strong> For hundreds of years, the Totonac people of eastern Mexico kept vanilla growing as a private local secret. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">In the fifteenth century, the powerful Aztec Empire defeated the Totonacs and forced them to send vanilla crops each year as tribute</span>. The Aztecs named it <em>tlilxochitl</em>, or 'black flower', and mixed it into a sacred royal drink prepared from maize, wild honey, and crushed <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">cacao</span></span> beans.</p><p><strong>Paragraph 3.</strong> Following the Spanish arrival in Mexico in 1519, European sailors brought vanilla vines back to Europe. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">For over three centuries, gardeners in Britain, France, and Belgium grew healthy green vines with pale-yellow blossoms inside warm greenhouses, yet the plants remained completely <span class=\"kw\">infertile</span> and never grew seed pods</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">The reason was physical: inside each blossom, a thin flap called the <span class=\"kw\">rostellum</span></span> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">separated the pollen from the female organ</span>. In Mexico, native stingless bees and hummingbirds knew how to slip past this barrier, whereas European greenhouses lacked these natural helpers.</p><p><strong>Paragraph 4.</strong> The problem was finally solved in 1841 on the French island colony of Réunion in the Indian Ocean. An enslaved twelve-year-old boy named Edmond Albius discovered that a worker could use a sharp piece of <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">bamboo</span></span> and a thumb to lift the protective flap and press sticky pollen onto the female stigma in seconds. This simple technique soon spread to nearby Madagascar, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">which quickly became the global leader and still produces over eighty percent of the world's natural vanilla today</span>.</p><p><strong>Paragraph 5.</strong> Despite modern machinery, natural vanilla farming remains exhausting work. Because every flower opens at sunrise and wilts by midday, workers must inspect fields daily and pollinate each blossom by hand in the early morning. Once pollinated, pods take nine months to ripen before undergoing months of sweating and sun-drying inside wooden boxes. Because this process demands so much manual labour, more than ninety-nine percent of commercial vanilla flavouring today uses artificial vanillin produced from <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">petrochemicals</span></span> or wood waste.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "The Spread and Production of Vanilla",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Aztec royalty drank vanilla mixed with honey, maize, and crushed <b>1.</b> {{q1}} beans.</li><li style=\"margin-bottom:8px;\">For three centuries, European greenhouse plants grew flowers but stayed completely <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">Self-pollination is blocked by a thin internal flap named the <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">Edmond Albius used a sharp splinter of <b>4.</b> {{q4}} to pollinate flowers manually.</li><li style=\"margin-bottom:8px;\">Most supermarket vanilla products rely on synthetic flavour made from wood waste or <b>5.</b> {{q5}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "cacao",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...prepared from maize, wild honey, and crushed cacao beans.\"</i>",
+          "<b>Từ cần điền:</b> <b>cacao</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "infertile",
+      "inputWidth": "120px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...yet the plants remained completely infertile and never grew seed pods.\"</i>",
+          "<b>Từ cần điền:</b> <b>infertile</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "rostellum",
+      "inputWidth": "120px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...a thin flap called the rostellum separated the pollen...\"</i>",
+          "<b>Từ cần điền:</b> <b>rostellum</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "bamboo",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...use a sharp piece of bamboo and a thumb...\"</i>",
+          "<b>Từ cần điền:</b> <b>bamboo</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "petrochemicals",
+      "inputWidth": "145px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...artificial vanillin produced from petrochemicals or wood waste.\"</i>",
+          "<b>Từ cần điền:</b> <b>petrochemicals</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Vanilla is the only member of the orchid family grown as a food crop.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...the only member of the large orchid family farmed for human food.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "The Totonac people originally used vanilla beans as money to buy goods from the Aztecs.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chỉ nói người Totonac bị ép nộp vani làm cống nạp hàng năm (<i>tribute</i>), không nói dùng làm tiền mua hàng.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Vanilla plants grown in European greenhouses failed to produce any flowers.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Cây ở nhà kính châu Âu vẫn ra hoa vàng nhạt (<i>with pale-yellow blossoms</i>), chỉ không đậu quả.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Madagascar currently produces more than eighty percent of the world's natural vanilla.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...still produces over eighty percent of the world's natural vanilla today.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Fresh green vanilla pods have a strong sweet smell immediately after harvest.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Quả xanh ban đầu hoàn toàn không có mùi (<i>has no smell at all</i>) cho tới khi được ủ sấy nhiều tháng.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

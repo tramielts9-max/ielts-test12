@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 105: Saffron: The Golden Threads of History",
+  "answers": {
+    "q1": "medicine",
+    "q2": "corms",
+    "q3": "sunlight",
+    "q4": "mould",
+    "q5": "water",
+    "q6": "FALSE",
+    "q7": "FALSE",
+    "q8": "FALSE",
+    "q9": "NOT GIVEN",
+    "q10": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 105 (LEVEL B1 • BAND 5.0)</h2><h3>Saffron: The Golden Threads of History</h3><p><strong>Paragraph 1.</strong> Known for its honey-like aroma, bright golden colour, and mildly bitter taste, saffron is widely recognised as the world's costliest spice. It is produced from the dried red stigmas of a purple flower called <em>Crocus sativus</em>, which has been grown for over four millennia across the Mediterranean region and Western Asia. Throughout history, ancient societies valued saffron not simply as a flavouring for grand meals. It was also prized as an expensive fabric dye, a pleasant temple incense, and a natural <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">medicine</span> used to treat eye problems and chest fevers</span>.</p><p><strong>Paragraph 2.</strong> The biology of the saffron crocus is unusual compared with its wild relatives. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Because the cultivated plant is genetically sterile, it cannot produce normal seeds or spread naturally across open fields</span>. Therefore, its long-term survival depends entirely on careful human assistance. Farmers grow new crops through a manual process of dividing underground storage bulbs known as <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">corms</span></span>. After digging up mature corms from the earth, growers separate the smaller side shoots and plant them again into dry, well-drained soil. Without this continuous agricultural care, the spice-producing crocus would quickly vanish.</p><p><strong>Paragraph 3.</strong> The high price of saffron is mainly caused by the demanding work required during harvest time. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Each autumn, the plant produces blossoms for a short window lasting only two or three weeks</span>. Field workers must gather the delicate flowers by hand at dawn as soon as the petals open, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">before strong midday <span class=\"kw\">sunlight</span> fades the fragile colour compounds</span>. Since each blossom contains only three thin red stigmas, and mechanical harvesters easily crush the soft plant tissues, automation is impossible. Collecting enough flowers to produce a single kilogram of dried saffron requires picking roughly 150,000 blossoms over forty hours.</p><p><strong>Paragraph 4.</strong> Once removed from the flowers, fresh stigmas go through a precise drying stage. Three natural chemicals create saffron's special qualities: crocin gives its bright yellow-orange colour, picrocrocin provides bitterness, and safranal produces its warm fragrance. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Interestingly, newly picked stigmas carry very little scent until careful heating over charcoal or in warm rooms brings out the aroma</span>. However, drying the threads at excessively high temperatures scorches them and lowers their medical strength. On the other hand, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">leaving too much moisture inside allows harmful <span class=\"kw\">mould</span> to spoil the finished spice</span>.</p><p><strong>Paragraph 5.</strong> Because genuine saffron sells for prices similar to silver or precious stones, fake mixing has been a serious problem since ancient times. Dishonest traders often blended real saffron threads with cheap substitutes like dried marigold petals, beet fibres, or sliced turmeric. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Others sprayed batches with salt <span class=\"kw\">water</span></span> or coated threads with mineral oil to increase their weight. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">In fifteenth-century Europe, the city of Nuremberg introduced strict inspections and punished guilty merchants severely, even burning them publicly beside their fake goods</span>. Today, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">modern laboratory testing protects buyers by checking spice purity before sale</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Saffron Production & Quality",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Historically used for cooking, dyeing fabric, incense, and as a natural <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">Farmers plant pieces of underground bulbs called <b>2.</b> {{q2}} into dry soil.</li><li style=\"margin-bottom:8px;\">Flowers are picked at dawn so strong <b>3.</b> {{q3}} does not fade their colour.</li><li style=\"margin-bottom:8px;\">If threads remain too damp after drying, <b>4.</b> {{q4}} can ruin the product.</li><li style=\"margin-bottom:8px;\">Swindlers sometimes added salt <b>5.</b> {{q5}} to increase shipment weight.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "medicine",
+      "inputWidth": "120px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...a natural medicine used to treat eye problems...\"</i>",
+          "<b>Từ cần điền:</b> <b>medicine</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "corms",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...dividing underground storage bulbs known as corms.\"</i>",
+          "<b>Từ cần điền:</b> <b>corms</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "sunlight",
+      "inputWidth": "120px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...before strong midday sunlight fades the fragile colour compounds.\"</i>",
+          "<b>Từ cần điền:</b> <b>sunlight</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "mould",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...leaving too much moisture inside allows harmful mould to spoil the finished spice.\"</i>",
+          "<b>Từ cần điền:</b> <b>mould</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "water",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Others sprayed batches with salt water...\"</i>",
+          "<b>Từ cần điền:</b> <b>water</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "The saffron crocus is able to reproduce naturally through seeds in wild areas.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...it cannot produce normal seeds or spread naturally across open fields.\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "The flowering season of the saffron plant lasts for about half a year.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Cây chỉ nở hoa trong 2–3 tuần (<i>only two or three weeks</i>), không phải nửa năm.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Freshly picked saffron stigmas smell much stronger than properly dried ones.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Nhụy tươi hầu như không có mùi (<i>newly picked stigmas carry very little scent</i>), phải sấy mới dậy mùi.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Inspectors in fifteenth-century Nuremberg travelled from foreign countries to check saffron quality.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Có nhắc thành phố Nuremberg kiểm tra nghiêm ngặt, nhưng không nói thanh tra đến từ nước ngoài.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Nowadays, scientific laboratory checks are used to confirm that saffron is genuine.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Today, modern laboratory testing protects buyers by checking spice purity before sale.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

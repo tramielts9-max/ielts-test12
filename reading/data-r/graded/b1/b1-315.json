@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 315: The Loom of Reason: Weaving and Early Computing",
+  "answers": {
+    "q1": "FALSE",
+    "q2": "NOT GIVEN",
+    "q3": "TRUE",
+    "q4": "TRUE",
+    "q5": "FALSE",
+    "q6": "weaver",
+    "q7": "cards",
+    "q8": "flowers",
+    "q9": "symbols",
+    "q10": "factories"
+  },
+  "passageHtml": "<h2>PASSAGE 315 (LEVEL B1 • BAND 5.0)</h2><h3>The Loom of Reason: Weaving, Mathematics, and Early Computing</h3><p><strong>Paragraph 1.</strong> Standard textbooks usually place the birth of modern computing in the mid-twentieth century, focusing on wartime codebreakers like Alan Turing and John von Neumann. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">However, historian Dr. Miranda Croft argues in her book <em>The Algorithmic Thread</em> that the intellectual roots of software began much earlier inside nineteenth-century textile workshops</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">The true pioneer of programmable machines was not a military scientist, but a French silk <span class=\"kw\">weaver</span> named Joseph Marie Jacquard</span>.</p><p><strong>Paragraph 2.</strong> Before Jacquard patented his famous loom in 1804, weaving patterned silk cloth was exhausting and unreliable. A young assistant, called a 'draw-boy', had to manually lift hundreds of separate threads while following spoken orders, which caused frequent mistakes. Jacquard automated this job using linked pasteboard <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">cards</span></span>. When a card pressed against metal rods, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">a punched hole let a rod pass through and raise a thread, while solid paper blocked the rod</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">By separating the physical loom from external readable programs, Jacquard effectively invented the split between hardware and software</span>.</p><p><strong>Paragraph 3.</strong> During the 1830s, English inventor Charles Babbage recognised the mathematical power behind Jacquard's design. Leaving behind his simpler Difference Engine, Babbage planned the Analytical Engine—widely viewed as the first general-purpose computer concept. He borrowed Jacquard's punched cards to feed numbers and instructions into his machine. Working with Babbage, mathematician Ada Lovelace made a famous comparison: <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">the Analytical Engine weaves mathematical patterns just as the Jacquard loom weaves <span class=\"kw\">flowers</span> and leaves</span>.</p><p><strong>Paragraph 4.</strong> Lovelace went even further by thinking about what we now call algorithmic logic. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">She realised that if numbers could stand for other <span class=\"kw\">symbols</span>—such as musical notes, alphabet letters, or logical rules—a computer could process any rule-based system beyond pure arithmetic</span></span>. Unfortunately, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Victorian <span class=\"kw\">factories</span> lacked the precision engineering needed to build such delicate metal parts, so neither Babbage nor Lovelace ever completed a working engine</span></span>. Croft concludes that remembering computing's textile roots removes the false barrier between traditional craft and modern science.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–5",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 6–10",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "How Cloth Weaving Inspired Early Computers",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<p>According to Dr. Croft, software concepts began with Joseph Marie Jacquard, a French silk <b>6.</b> {{q6}} . His 1804 loom used chains of punched pasteboard <b>7.</b> {{q7}} to control threads automatically. Later, Charles Babbage adopted this design for his Analytical Engine, which Ada Lovelace compared to a loom weaving <b>8.</b> {{q8}} and leaves. Lovelace understood that computers could handle musical notes, letters, and other <b>9.</b> {{q9}} . However, Victorian <b>10.</b> {{q10}} could not build parts accurately enough to finish the machine.</p>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Dr. Croft agrees that the idea of computer software first appeared in the 1950s.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Bà phản biện rằng nguồn gốc phần mềm bắt đầu từ xưởng dệt thế kỷ 19, sớm hơn nhiều so với thập niên 1950.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Jacquard first learned advanced mathematics at a French university.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1 & 2:</b> Bài chỉ nói ông là thợ dệt lụa ở Pháp, không nhắc tới việc học đại học.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Jacquard's loom separated the physical machine from its external instructions.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...separating the physical loom from external readable programs...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Ada Lovelace saw that computing machines could manipulate more than just numbers.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...process any rule-based system beyond pure arithmetic.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Charles Babbage successfully built a working Analytical Engine before his death.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...neither Babbage nor Lovelace ever completed a working engine.\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "weaver",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...a French silk weaver named Joseph Marie Jacquard.\"</i>",
+          "<b>Từ cần điền:</b> <b>weaver</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "cards",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...automated this job using linked pasteboard cards.\"</i>",
+          "<b>Từ cần điền:</b> <b>cards</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "flowers",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...just as the Jacquard loom weaves flowers and leaves.\"</i>",
+          "<b>Từ cần điền:</b> <b>flowers</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "symbols",
+      "inputWidth": "110px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...stand for other symbols—such as musical notes...\"</i>",
+          "<b>Từ cần điền:</b> <b>symbols</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "factories",
+      "inputWidth": "110px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Victorian factories lacked the precision engineering...\"</i>",
+          "<b>Từ cần điền:</b> <b>factories</b>."
+        ]
+      }
+    }
+  }
+}

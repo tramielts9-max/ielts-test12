@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 301: The Architecture of Ennui: A History of Boredom",
+  "answers": {
+    "q1": "alarm",
+    "q2": "novel",
+    "q3": "seasons",
+    "q4": "entertainment",
+    "q5": "network",
+    "q6": "YES",
+    "q7": "NO",
+    "q8": "NOT GIVEN",
+    "q9": "YES",
+    "q10": "NO"
+  },
+  "passageHtml": "<h2>PASSAGE 301 (LEVEL B1 • BAND 5.0)</h2><h3>The Architecture of Ennui: A History of Boredom</h3><p><strong>Paragraph 1.</strong> In our smartphone age, almost every quiet pause—waiting for a bus, sitting at a clinic, or standing in a queue—is quickly filled by a glowing screen. Modern society often treats boredom as a harmful mental flaw that needs to be removed. Yet in <em>Out of Mind: A Cultural History of Boredom</em>, historian Peter Toohey argues that this fear blinds us to boredom's natural purpose. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Rather than being a useless empty space, boredom is an ancient biological <span class=\"kw\">alarm</span> that pushes us to act</span>.</p><p><strong>Paragraph 2.</strong> Toohey begins by tracing the history of the word itself. Centuries ago, early Christian monks wrote about <em>acedia</em>, a deep spiritual tiredness that made quiet prayer difficult. However, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">the word 'boredom' only became common in English around the mid-nineteenth century, helped by Charles Dickens's 1853 <span class=\"kw\">novel</span> <em>Bleak House</em></span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Dickens used it to describe Lady Dedlock's endless emptiness caused by high wealth and idle luxury</span>. Toohey adds that everyday situational boredom is actually helpful for animals too: when food or interest runs low in one spot, restlessness forces a creature to explore new areas.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Europe's industrial revolution completely changed who experienced boredom</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Unlike farm workers whose jobs shifted naturally with the weather and <span class=\"kw\">seasons</span>, factory employees repeated the same physical motions controlled by machines without using their minds</span>. Boredom stopped belonging only to rich aristocrats and spread across the working class. Soon, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">popular <span class=\"kw\">entertainment</span> businesses such as music halls, cheap adventure magazines, and seaside resorts expanded rapidly to sell relief from boring factory routines</span>.</p><p><strong>Paragraph 4.</strong> In later chapters, Toohey criticises modern psychology for labelling 'boredom proneness' as a medical disorder. While he accepts that long-term boredom can connect with risky, impulsive actions, he warns against treating a normal survival signal like an illness. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Brain scans show that during mild boredom, the brain's default mode <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">network</span></span> switches on</span>. Far from shutting down, the mind quietly links distant memories, sorts out emotional stress, and produces creative ideas.</p><p><strong>Paragraph 5.</strong> Ultimately, Toohey offers a clear warning about modern digital habits. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">By treating every unscheduled minute as an emergency that needs an instant digital distraction on a phone, society risks destroying the mental space where originality and personal reflection grow</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Boredom, Toohey concludes, is not a lack of meaning—it is an urgent invitation to create meaning for ourselves</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "The Evolution and Value of Boredom",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>Historian Peter Toohey argues that boredom works like an ancient biological <b>1.</b> {{q1}} rather than a mental fault. In English, the word became popular in the 1850s through a famous <b>2.</b> {{q2}} written by Charles Dickens. Later, industrial factories separated physical work from thought, unlike farm tasks that changed with the <b>3.</b> {{q3}} . As a result, commercial <b>4.</b> {{q4}} industries grew to fill workers' empty hours. Brain imaging also shows that mild boredom activates the default mode <b>5.</b> {{q5}} , helping the mind build fresh ideas.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "alarm",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...boredom is an ancient biological alarm...\"</i>",
+          "<b>Từ cần điền:</b> <b>alarm</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "novel",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...helped by Charles Dickens's 1853 novel Bleak House.\"</i>",
+          "<b>Từ cần điền:</b> <b>novel</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "seasons",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...shifted naturally with the weather and seasons...\"</i>",
+          "<b>Từ cần điền:</b> <b>seasons</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "entertainment",
+      "inputWidth": "130px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...popular entertainment businesses such as music halls...\"</i>",
+          "<b>Từ cần điền:</b> <b>entertainment</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "network",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...the brain's default mode network switches on.\"</i>",
+          "<b>Từ cần điền:</b> <b>network</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Charles Dickens used boredom in Bleak House to show an aristocratic life of excess.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Miêu tả sự trống rỗng của Lady Dedlock do quá giàu có và nhàn rỗi.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "After industrialization, boredom remained a problem only for wealthy aristocrats.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Boredom stopped belonging only to rich aristocrats and spread across the working class.\"</i>",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Smartphones have helped young artists produce better paintings than earlier generations.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bài chỉ cảnh báo dùng điện thoại quá nhiều giết chết sáng tạo, không nói giúp họa sĩ vẽ đẹp hơn.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Mild boredom lets the brain sort out emotional stress and link memories.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...links distant memories, sorts out emotional stress...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Toohey believes that eliminating all idle moments makes human minds more original.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Trái lại, lấp đầy mọi phút rảnh rỗi có nguy cơ phá hủy nơi nảy sinh sự sáng tạo.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

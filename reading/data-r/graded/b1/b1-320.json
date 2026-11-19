@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 320: The Vertical Frontier: Elevators & Cities",
+  "answers": {
+    "q1": "knee",
+    "q2": "brake",
+    "q3": "steel",
+    "q4": "views",
+    "q5": "garages",
+    "q6": "YES",
+    "q7": "NO",
+    "q8": "YES",
+    "q9": "NOT GIVEN",
+    "q10": "NO"
+  },
+  "passageHtml": "<h2>PASSAGE 320 (LEVEL B1 • BAND 5.0)</h2><h3>The Vertical Frontier: Elevators, Steel, and Urban Stratification</h3><p><strong>Paragraph 1.</strong> Until the middle of the nineteenth century, the height of city buildings was limited by one simple biological barrier: the human <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">knee</span></span>. Even though architects already knew how to build stone towers ten storeys tall, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">ordinary urban buildings rarely rose above five or six floors because climbing higher stairs was physically exhausting</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Top-floor attics were cheap, unwanted rooms rented to servants, poor students, and struggling artists</span>, while wealthy families occupied the prestigious first and second floors near street life.</p><p><strong>Paragraph 2.</strong> This old hierarchy flipped suddenly in May 1854 at the New York Crystal Palace exhibition. Standing on an open lifting platform high above a nervous crowd, inventor Elisha Graves Otis ordered an assistant to cut the main cable. Instead of crashing down, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">the platform dropped just a few inches before Otis's spring-powered safety <span class=\"kw\">brake</span> locked onto toothed rails</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Paired with the new Bessemer <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">steel</span></span> process—which replaced thick stone walls with light metal frames—the safety elevator allowed skyscrapers to climb into the clouds</span>.</p><p><strong>Paragraph 3.</strong> In <em>Up: The Vertical City</em>, urban sociologist Dr. Ronald Kroll explains how elevators turned real estate values upside down. Almost overnight, top floors transformed from miserable attics into prized luxury penthouses. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">High above street dust, foul smells, and loud traffic, upper apartments offered bright sunlight, fresh air, and wide <span class=\"kw\">views</span> of the city</span></span>, while lower floors dropped in status to commercial shops.</p><p><strong>Paragraph 4.</strong> Kroll argues that elevators did more than save tired legs; they reshaped social life. In low-rise cities, rich and poor citizens constantly crossed paths on stairwells and sidewalks. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">In modern skyscraper cities, however, high-speed elevators act as private transit cabins, carrying wealthy elites straight from underground <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">garages</span></span> to cloud-level suites</span>. By removing the physical friction of stairs, Otis's invention also separated the wealthy from everyday public city life.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "How Elevators Transformed Cities",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Before the 1850s, building height was restricted by the limits of the human <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">In 1854, Otis's spring-powered safety <b>2.</b> {{q2}} stopped a platform after its cable was cut.</li><li style=\"margin-bottom:8px;\">Lightweight frames made of <b>3.</b> {{q3}} helped architects build much taller towers.</li><li style=\"margin-bottom:8px;\">Luxury penthouses became popular for fresh air, sunlight, and wide city <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:8px;\">Fast skyscraper elevators move wealthy residents straight from underground <b>5.</b> {{q5}} to top suites.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "knee",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...one simple biological barrier: the human knee.\"</i>",
+          "<b>Từ cần điền:</b> <b>knee</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "brake",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...Otis's spring-powered safety brake locked onto toothed rails.\"</i>",
+          "<b>Từ cần điền:</b> <b>brake</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "steel",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Paired with the new Bessemer steel process...\"</i>",
+          "<b>Từ cần điền:</b> <b>steel</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "views",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...fresh air, and wide views of the city...\"</i>",
+          "<b>Từ cần điền:</b> <b>views</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "garages",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...straight from underground garages to cloud-level suites.\"</i>",
+          "<b>Từ cần điền:</b> <b>garages</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Physical fatigue from climbing stairs prevented early city buildings from exceeding six storeys.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...rarely rose above five or six floors because climbing higher stairs was physically exhausting.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Top-floor attics in pre-industrial cities were reserved exclusively for wealthy families.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Tầng áp mái dành cho người hầu, sinh viên nghèo; giới giàu sống ở tầng 1 và 2.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "New steel-making technology helped make tall skyscrapers possible alongside elevators.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Quy trình thép Bessemer thay thế tường đá dày giúp xây nhà chọc trời.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Dr. Ronald Kroll lives in a low-rise apartment building in New York.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 & 4:</b> Không có thông tin về nơi ở cá nhân của tác giả Kroll.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "High-speed skyscraper elevators encourage rich and poor residents to meet more frequently.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Ngược lại, thang máy tốc độ cao tách biệt người giàu khỏi không gian công cộng và đời sống chung.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

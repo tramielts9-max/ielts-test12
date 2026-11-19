@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 205: The Cognitive Horizons of Deep-Space Missions",
+  "answers": {
+    "q1": "delay",
+    "q2": "sunlight",
+    "q3": "energy",
+    "q4": "instructions",
+    "q5": "typing",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "TRUE",
+    "q9": "NOT GIVEN",
+    "q10": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 205 (LEVEL B1 • BAND 5.0)</h2><h3>The Cognitive Horizons of Deep-Space Missions</h3><p><strong>Paragraph 1.</strong> As space agencies design rockets for future human trips to Mars, medical researchers are studying an equally difficult challenge: protecting the human mind during extreme isolation. A journey to Mars will force four to six astronauts to stay inside a small enclosed home, roughly the size of a shipping container, for nearly three years. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">On the International Space Station (ISS), astronauts can see Earth below and talk to flight controllers almost immediately</span>. On a Mars mission, however, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">radio signals will suffer a communication <span class=\"kw\">delay</span> of up to twenty-two minutes each way</span>, making live conversation impossible.</p><p><strong>Paragraph 2.</strong> To understand how long-term isolation affects human behaviour, scientists study extreme test stations on Earth. One leading example is Concordia Research Station, located on a freezing Antarctic plateau 3,200 metres above sea level. During the nine-month Antarctic winter, outdoor temperatures regularly fall below minus eighty degrees Celsius, and emergency evacuation is impossible. Inside the base, international crews live in an unchanging white world with <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">zero natural <span class=\"kw\">sunlight</span> for four straight months</span>, recycled air, and no smells of plants or rain.</p><p><strong>Paragraph 3.</strong> Careful brain checks at Concordia show clear signs of mental slowdown after three or four months. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Regardless of personal toughness, crew members begin to forget details more easily, take twice as long to solve problems, and feel less emotional</span>. Brainwave recordings reveal an unusual rise in slow theta waves, which normally appear during light sleep or quiet rest. Essentially, when nothing new happens around us, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">the brain lowers its active speed in order to save <span class=\"kw\">energy</span></span>.</p><p><strong>Paragraph 4.</strong> Team relationships also become delicate during long missions. In the first weeks, crews feel united and positive, but minor disagreements over habits, food, and daily chores slowly grow. Psychologist Dr. Alistair Finch explains that astronauts often use a mental habit called 'displacement'. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Instead of arguing with fellow astronauts right beside them—which could hurt teamwork—they push their anger toward mission managers back on Earth</span>. Although this keeps peace inside the cabin, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">crews may start ignoring important navigation <span class=\"kw\">instructions</span> from ground control</span>.</p><p><strong>Paragraph 5.</strong> To protect astronaut mental health, engineers are developing smart support tools. Simple entertainment like watching films fails to reverse sensory boredom. Instead, NASA researchers are testing interactive virtual reality (VR) systems filled with mountain forests, ocean waves, and gentle breezes, which temporarily refresh memory performance. Additionally, engineers are building AI computer helpers inside spacecraft systems. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">By checking small shifts in a crew member's voice, facial expressions, and <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">typing</span> speed</span>, the software can notice early sadness days before the astronaut feels it</span>, quietly adjusting cabin lighting or daily tasks.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Psychological Challenges in Space Isolation",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Mars astronauts cannot hold live chats with Earth due to a 22-minute radio <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">At Concordia Station, crews live without natural <b>2.</b> {{q2}} for four months in a row.</li><li style=\"margin-bottom:8px;\">Under boring sensory conditions, the brain reduces activity to conserve <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">Displacement causes astronauts to resist important <b>4.</b> {{q4}} sent from ground control.</li><li style=\"margin-bottom:8px;\">Smart AI tools check voice tone, facial movement, and <b>5.</b> {{q5}} speed to detect early stress.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "delay",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...suffer a communication delay of up to twenty-two minutes...\"</i>",
+          "<b>Từ cần điền:</b> <b>delay</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "sunlight",
+      "inputWidth": "120px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...zero natural sunlight for four straight months...\"</i>",
+          "<b>Từ cần điền:</b> <b>sunlight</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "energy",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...lowers its active speed in order to save energy.\"</i>",
+          "<b>Từ cần điền:</b> <b>energy</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "instructions",
+      "inputWidth": "130px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...ignoring important navigation instructions from ground control.\"</i>",
+          "<b>Từ cần điền:</b> <b>instructions</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "typing",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...facial expressions, and typing speed...\"</i>",
+          "<b>Từ cần điền:</b> <b>typing</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Crews on the ISS experience the same 22-minute radio delay as future Mars astronauts.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Phi hành gia trên ISS nói chuyện gần như tức thì (<i>talk to flight controllers almost immediately</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "After three to four months, astronauts often take longer to solve problems.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...take twice as long to solve problems...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Displacement helps crew members avoid fighting directly with one another.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thay vì cãi nhau với đồng đội bên cạnh, họ trút bực dọc lên nhóm mặt đất để giữ hòa khí.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Astronauts at Concordia Station grow fresh vegetables indoors during polar winter.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chỉ nói không có mùi cây cối (<i>no smells of plants</i>), không nhắc việc trồng rau trong nhà.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "AI computer tools can spot early stress before astronauts realise it themselves.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...notice early sadness days before the astronaut feels it...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

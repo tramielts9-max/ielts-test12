@@ -1,0 +1,194 @@
+{
+  "title": "[B1 • Band 5.0] Bài 308: The Deep Reader in the Digital Age",
+  "answers": {
+    "q1": "C",
+    "q2": "A",
+    "q3": "D",
+    "q4": "B",
+    "q5": "circuits",
+    "q6": "paper",
+    "q7": "links",
+    "q8": "margin",
+    "q9": "patience",
+    "q10": "opposing"
+  },
+  "passageHtml": "<h2>PASSAGE 308 (LEVEL B1 • BAND 5.0)</h2><h3>The Deep Reader: Cognitive Architecture in the Digital Age</h3><p><strong>Paragraph 1.</strong> Moving from printed books to bright digital screens marks the largest mental change since the invention of the printing press. Every day, adults scroll through thousands of online words on news sites and social networks. However, neuroscientist Dr. Maryanne Wolf argues in <em>Reader, Come Home</em> that digital scanning is not real reading. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Unlike sight or speech, reading is not built into human DNA; our brain has no single 'reading centre'</span>. Instead, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">learning to read forces the brain to link visual, sound, and movement <span class=\"kw\">circuits</span> into a new network</span>.</p><p><strong>Paragraph 2.</strong> Because this reading network is flexible, it shapes itself to match the reading tool we use most. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Reading on <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">paper</span></span> encourages 'deep reading'—slow reflection, logical thinking, and empathy</span>. A physical book's fixed pages and steady layout serve as helpful mental support. Since nothing flashes or shifts on paper, readers can spend their energy questioning ideas and building clear mental pictures.</p><p><strong>Paragraph 3.</strong> Digital screens build a completely different habit called 'information triage'. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Surrounded by clickable <span class=\"kw\">links</span>, pop-ups, and message alerts, the brain's attention stays split</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Eye-tracking experiments prove that screen readers rarely read every full sentence across the page; instead, their eyes follow a fast 'F-shaped' path, reading the first lines and then jumping down the left <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">margin</span></span> to grab isolated words</span>.</p><p><strong>Paragraph 4.</strong> Over time, constant skimming reshapes how we handle difficult writing. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Dr. Wolf warns that readers gradually lose the mental <span class=\"kw\">patience</span> required to unpack long, complicated sentences</span>. University lecturers increasingly report that students feel frustrated when asked to read challenging classic novels or academic essays that demand slow re-reading.</p><p><strong>Paragraph 5.</strong> Even more worryingly, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">this loss of deep reading can harm democratic life</span>. Responsible citizens need to weigh complex arguments, spot misleading language, and <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">feel empathy for <span class=\"kw\">opposing</span> viewpoints</span>—skills trained carefully through deep reading. If society chooses fast digital scrolling over thoughtful reading, independent critical thinking is put at risk.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–4",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–10",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Print Reading vs Screen Reading",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Reading connects visual, sound, and movement <b>5.</b> {{q5}} inside the brain.</li><li style=\"margin-bottom:8px;\">Reading on <b>6.</b> {{q6}} supports deep thinking because its layout remains fixed.</li><li style=\"margin-bottom:8px;\">Digital screens split attention with alerts, pop-ups, and clickable <b>7.</b> {{q7}} .</li><li style=\"margin-bottom:8px;\">Screen readers often scan quickly down the left <b>8.</b> {{q8}} in an 'F' pattern.</li><li style=\"margin-bottom:8px;\">Fast scanning reduces the mental <b>9.</b> {{q9}} needed for dense classic books.</li><li style=\"margin-bottom:8px;\">Deep reading builds empathy for <b>10.</b> {{q10}} viewpoints in public life.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Why is reading different from speaking according to Paragraph 1?",
+      "options": [
+        "A. Reading uses fewer words than daily speech.",
+        "B. Reading takes less mental energy than listening.",
+        "C. Humans are not born with a brain area built solely for reading.",
+        "D. Speech was invented after the first printing press."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Não không có sẵn trung tâm đọc bẩm sinh trong DNA như thị giác hay ngôn ngữ nói.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "What helps physical books encourage 'deep reading'?",
+      "options": [
+        "A. Their fixed layout keeps the mind calm and focused on ideas.",
+        "B. They contain fewer complicated sentences than websites.",
+        "C. Readers can highlight words using pop-up tools.",
+        "D. They force readers to scan rapidly for keywords."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bố cục trang cố định không nhấp nháy giúp dồn năng lượng vào suy ngẫm.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "What do eye-tracking tests show about screen readers?",
+      "options": [
+        "A. They read every paragraph three times carefully.",
+        "B. They focus mostly on the bottom corners of websites.",
+        "C. They remember more facts than paper readers.",
+        "D. They read top lines and skip down the left side for quick bits."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Mắt đi theo hình chữ F, lướt dòng đầu rồi nhảy dọc mép trái.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Why does Dr. Wolf worry about democratic society in Paragraph 5?",
+      "options": [
+        "A. Newspapers are becoming too expensive for students.",
+        "B. Citizens need deep reading skills to judge complex arguments.",
+        "C. Politicians refuse to publish essays on the internet.",
+        "D. Schools have banned all printed books from libraries."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Công dân cần kỹ năng đọc sâu để cân nhắc lập luận phức tạp và nhận ra ngôn từ đánh lừa.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "circuits",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...link visual, sound, and movement circuits...\"</i>",
+          "<b>Từ cần điền:</b> <b>circuits</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "paper",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Reading on paper encourages 'deep reading'...\"</i>",
+          "<b>Từ cần điền:</b> <b>paper</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "links",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...clickable links, pop-ups, and message alerts...\"</i>",
+          "<b>Từ cần điền:</b> <b>links</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "margin",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...jumping down the left margin...\"</i>",
+          "<b>Từ cần điền:</b> <b>margin</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "patience",
+      "inputWidth": "110px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...lose the mental patience required...\"</i>",
+          "<b>Từ cần điền:</b> <b>patience</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "opposing",
+      "inputWidth": "110px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...feel empathy for opposing viewpoints...\"</i>",
+          "<b>Từ cần điền:</b> <b>opposing</b>."
+        ]
+      }
+    }
+  }
+}

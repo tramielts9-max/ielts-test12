@@ -1,0 +1,200 @@
+{
+  "title": "[B1 • Band 5.0] Bài 310: Giants and Dwarfs: Rethinking the Island Rule",
+  "answers": {
+    "q1": "rodents",
+    "q2": "fossils",
+    "q3": "predators",
+    "q4": "food",
+    "q5": "bats",
+    "q6": "B",
+    "q7": "D",
+    "q8": "A",
+    "q9": "C",
+    "q10": "B"
+  },
+  "passageHtml": "<h2>PASSAGE 310 (LEVEL B1 • BAND 5.0)</h2><h3>Giants and Dwarfs: Rethinking the Island Rule</h3><p><strong>Paragraph 1.</strong> When biologist J. Bristol Foster published a study of island mammals in 1964, he pointed out a fascinating pattern. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">On isolated ocean islands, small mainland <span class=\"kw\">rodents</span> frequently evolved into giants, whereas massive animals like elephants and hippos shrank into dwarfs</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Ancient <span class=\"kw\">fossils</span> dug up in the Mediterranean, Southeast Asia, and California's Channel Islands revealed pony-sized mammoths and dog-sized rats</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">For decades, biologists treated 'Foster's Rule' as a neat, universal law of island evolution</span>.</p><p><strong>Paragraph 2.</strong> In her recent book <em>Islands of Time</em>, researcher Dr. Claire Moreau takes a careful look at Foster's classic theory. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Moreau agrees that island isolation has produced amazing evolutionary surprises, yet she argues early scientists tried too quickly to reduce complex nature to a single simple formula</span>. According to Moreau, body size shifts are driven by the balance between freedom from hunters and limited island resources.</p><p><strong>Paragraph 3.</strong> On large continents, small mammals are constantly hunted by hawks and meat-eating mammals, forcing them to stay small and hide in narrow burrows. Once rodents reach an island free of mammalian <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">predators</span></span>, they enjoy 'ecological release': <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">freed from hiding underground, larger bodies win the race for <span class=\"kw\">food</span> and store energy better</span>. Conversely, giant mainland plant-eaters need huge body mass to defend against wolves and big cats. Because tiny islands cannot support big hunting cats, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">those giant plant-eaters no longer need massive armour and shrink to survive on scarce island <span class=\"kw\">food</span></span>.</p><p><strong>Paragraph 4.</strong> However, Moreau's biggest finding challenges the idea that Foster's Rule works everywhere. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">After studying more than two thousand living and extinct island animal groups using modern genetic data, she proved the rule operates unevenly</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">While elephants and certain mice fit the rule well, other groups like carnivores and <span class=\"kw\">bats</span> show no clear size pattern at all</span>.</p><p><strong>Paragraph 5.</strong> Furthermore, Moreau discovered that <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">local weather shifts, steep mountain terrain, and the geological age of an island influence animal size far more than simple land area</span>. Her research offers an important lesson: living nature is too diverse and messy to obey neat human rules.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "Testing Foster's Rule on Islands",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>In 1964, J. Bristol Foster observed that small <b>1.</b> {{q1}} often became giants on islands while elephants shrank. Ancient <b>2.</b> {{q2}} of dwarf mammoths seemed to support this pattern. Dr. Claire Moreau explains that small mammals grow larger on islands without mammalian <b>3.</b> {{q3}} , whereas huge plant-eaters shrink because of scarce <b>4.</b> {{q4}} . However, Moreau found that groups such as carnivores and <b>5.</b> {{q5}} do not follow Foster's Rule consistently.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 6–10",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "rodents",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...small mainland rodents frequently evolved into giants...\"</i>",
+          "<b>Từ cần điền:</b> <b>rodents</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "fossils",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Ancient fossils dug up in the Mediterranean...\"</i>",
+          "<b>Từ cần điền:</b> <b>fossils</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "predators",
+      "inputWidth": "120px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...an island free of mammalian predators...\"</i>",
+          "<b>Từ cần điền:</b> <b>predators</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "food",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...shrink to survive on scarce island food.\"</i>",
+          "<b>Từ cần điền:</b> <b>food</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "bats",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...other groups like carnivores and bats show no clear size pattern...\"</i>",
+          "<b>Từ cần điền:</b> <b>bats</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "How did scientists view Foster's Rule for many decades after 1964?",
+      "options": [
+        "A. As an unproven guess based on fake bones",
+        "B. As a general natural law applying to all islands",
+        "C. As a rule limited strictly to Mediterranean birds",
+        "D. As a temporary effect caused by human farming"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Từng được coi là quy luật phổ quát (<i>neat, universal law</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "What mistake did early biologists make according to Dr. Claire Moreau?",
+      "options": [
+        "A. They ignored elephant fossils found in Southeast Asia.",
+        "B. They focused solely on ocean fish rather than land mammals.",
+        "C. They believed island animals never changed size at all.",
+        "D. They turned complex ecological forces into an overly simple formula."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Vội vàng thu gọn bản chất sinh thái phức tạp thành một công thức đơn giản.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "What advantage does larger size give island rodents when predators are absent?",
+      "options": [
+        "A. Better success at winning food and storing energy",
+        "B. Greater speed for escaping angry hawks",
+        "C. Ability to dig deeper underground tunnels",
+        "D. Higher immunity against freezing ocean winds"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Cơ thể lớn hơn giúp giành thức ăn và tích trữ năng lượng hiệu quả hơn.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "What did Moreau's study of over 2,000 animal populations prove?",
+      "options": [
+        "A. Human hunting caused every island dwarf to die out.",
+        "B. Rodents always shrink when moved to cold islands.",
+        "C. Foster's Rule does not operate reliably across all mammal groups.",
+        "D. Genetic data cannot explain ancient fossil sizes."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chứng minh quy luật này vận hành không đồng đều (<i>operates unevenly</i>) ở mọi nhóm thú.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "According to Paragraph 5, which factors affect body size more than island area?",
+      "options": [
+        "A. Ocean wave height and human fishing boats",
+        "B. Local weather, rugged terrain, and island age",
+        "C. Distance from the nearest desert continent",
+        "D. Number of plant-eating reptiles nearby"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Thời tiết địa phương, địa hình núi dốc và tuổi địa chất của đảo.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

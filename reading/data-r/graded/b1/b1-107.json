@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 107: The Kauri Forests of New Zealand",
+  "answers": {
+    "q1": "canoes",
+    "q2": "masts",
+    "q3": "dams",
+    "q4": "varnishes",
+    "q5": "mud",
+    "q6": "TRUE",
+    "q7": "NOT GIVEN",
+    "q8": "NOT GIVEN",
+    "q9": "TRUE",
+    "q10": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 107 (LEVEL B1 • BAND 5.0)</h2><h3>The Kauri Forests of New Zealand</h3><p><strong>Paragraph 1.</strong> Growing high above the forests of northern New Zealand, the kauri tree is one of the largest and longest-living trees on the planet. Mature kauri trees can reach over fifty metres in height, with thick trunks over five metres wide, and individual trees have survived for more than two millennia. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">For the native Māori people, the giant kauri was a sacred spiritual symbol known as <em>Tāne Mahuta</em>, or Lord of the Forest</span>. Māori builders respected living trees and collected only fallen logs to carve giant ocean-going war <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">canoes</span></span>, while also using tree bark to make dark tattoo pigments.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">The arrival of European settlers in the late eighteenth century changed the future of these forests completely</span>. British naval ships quickly noticed that tall, straight, knot-free kauri trunks were ideal for building strong ship <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">masts</span></span> and wooden poles. Throughout the nineteenth century, a massive timber industry grew across northern New Zealand. Because the enormous logs were far too heavy for bullock teams on steep mountain trails, logging companies constructed huge wooden <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">dams</span></span> across narrow river valleys. Once rainwater filled the space behind a dam, workers blasted the gates open, sending a powerful flood that carried hundreds of logs downstream to coastal mills.</p><p><strong>Paragraph 3.</strong> Alongside timber logging, a huge business developed around kauri gum between the 1870s and 1920s. This hardened ancient resin had leaked from damaged trees over thousands of years and collected inside underground swamps. Thousands of European and Dalmatian immigrants worked as gum-diggers, probing soft wetlands with steel spears and digging up fossilised lumps weighing up to twenty kilograms. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Kauri gum soon became a major New Zealand export, providing a vital ingredient for high-quality <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">varnishes</span></span>, outdoor paints, and linoleum flooring across Europe and North America</span>.</p><p><strong>Paragraph 4.</strong> By the mid-twentieth century, uncontrolled tree cutting and gum digging had wiped out over ninety-five percent of the original kauri forests. Just as new laws began protecting the remaining trees, a deadly new threat appeared in the early 2000s. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Scientists noticed mature trees developing yellow leaves, dying upper branches, and leaking sticky liquid around their lower trunks</span>. Researchers identified the cause as kauri dieback disease, driven by an aggressive soil-living organism.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">This disease is currently incurable and destroys the internal tubes that carry water and nutrients up the tree, slowly starving it to death</span>. Because the tiny spores travel almost entirely inside wet soil particles, walkers along popular forest tracks have become the main way the infection spreads. To protect healthy forests, environmental agencies have placed mandatory cleaning stations at trail entrances, requiring visitors to scrub every trace of <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">mud</span></span> from their footwear and spray disinfectant.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Kauri Uses, Industry and Conservation",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Māori people used fallen logs to build large war <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">The British Navy valued kauri timber for making ship <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">To transport heavy logs out of valleys, loggers built wooden <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">Kauri gum was exported overseas to manufacture quality <b>4.</b> {{q4}} , paints, and flooring.</li><li style=\"margin-bottom:8px;\">Hikers must clean all <b>5.</b> {{q5}} off their boots at forest cleaning stations.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "canoes",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...carve giant ocean-going war canoes...\"</i>",
+          "<b>Từ cần điền:</b> <b>canoes</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "masts",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...building strong ship masts and wooden poles.\"</i>",
+          "<b>Từ cần điền:</b> <b>masts</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "dams",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...constructed huge wooden dams across narrow river valleys.\"</i>",
+          "<b>Từ cần điền:</b> <b>dams</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "varnishes",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...vital ingredient for high-quality varnishes, outdoor paints...\"</i>",
+          "<b>Từ cần điền:</b> <b>varnishes</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "mud",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...scrub every trace of mud from their footwear...\"</i>",
+          "<b>Từ cần điền:</b> <b>mud</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Māori people believed the kauri tree was an important spiritual symbol.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...the giant kauri was a sacred spiritual symbol...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "British naval officers paid Māori leaders before cutting down kauri trees.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bài nói Hải quân Anh khai thác gỗ kauri, không hề nhắc đến việc trả tiền cho thủ lĩnh Māori.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The kauri gum industry ended because factories invented synthetic plastics.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 & 4:</b> Bài nêu giai đoạn bùng nổ 1870s–1920s và tình trạng khai thác cạn kiệt, không nói có phải do nhựa nhân tạo thay thế hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Kauri dieback disease causes leaves to turn yellow and damages the tree trunk.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...developing yellow leaves, dying upper branches, and leaking sticky liquid around their lower trunks.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Scientists are currently testing a successful vaccine to cure kauri dieback.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"This disease is currently incurable...\"</i> → Hiện tại chưa có thuốc chữa.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

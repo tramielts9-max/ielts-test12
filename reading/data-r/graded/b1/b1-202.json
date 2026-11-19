@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 202: Doggerland: The Submerged Heart of Europe",
+  "answers": {
+    "q1": "floods",
+    "q2": "Britain",
+    "q3": "paddles",
+    "q4": "salt",
+    "q5": "data",
+    "q6": "FALSE",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN",
+    "q9": "TRUE",
+    "q10": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 202 (LEVEL B1 • BAND 5.0)</h2><h3>Doggerland: The Submerged Heart of Europe</h3><p><strong>Paragraph 1.</strong> For centuries, fishermen pulling heavy nets across the shallow North Sea returned to port with unusual catches. Mixed among cod and haddock were ancient bones of mammoths, woolly rhinos, and deer, along with bone harpoons. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Until the late twentieth century, experts assumed these objects were merely rubbish washed into the ocean by glacial <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">floods</span></span>. Today, however, modern sea-floor surveys prove that until roughly 8,200 years ago, this area was a dry, fertile landmass</span> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">linking <span class=\"kw\">Britain</span> directly to the Netherlands, Germany, and Denmark</span>. Archaeologists call this lost territory Doggerland.</p><p><strong>Paragraph 2.</strong> Doggerland was shaped around 18,000 years ago when giant Ice Age glaciers melted, creating wide river valleys, freshwater marshes, lagoons, and oak forests. Excavations show that Mesolithic hunter-gatherers lived comfortably here. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Far from facing hunger, local communities enjoyed rich seasonal food supplies including wildfowl, freshwater eels, shellfish, and deer</span>. Objects found on the seabed—such as sharp flint tools, bone needles, and wooden <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">paddles</span></span>—show that residents built clever equipment for water travel and fishing.</p><p><strong>Paragraph 3.</strong> Yet Doggerland could not survive rising oceans. Over thousands of years, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">sea levels climbed steadily at an average pace of nearly one metre per century</span>, flooding low coastal marshes and forcing human groups to move slowly inland toward higher ground. For decades, researchers believed this migration happened peacefully across many generations without sudden danger.</p><p><strong>Paragraph 4.</strong> Recent ocean studies overturned that calm picture. Around 8,150 years ago, a huge underwater landslide off Norway's coast—the Storegga Slide—moved 3,000 cubic kilometres of mud and triggered an enormous tsunami. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">A wall of water up to twenty metres tall struck Doggerland's coastal plains, destroying settlements within hours</span>. Any survivors on high hills found <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">their freshwater supplies ruined by <span class=\"kw\">salt</span></span>. Within a few centuries, rising waters covered the remaining hills and separated Britain from mainland Europe.</p><p><strong>Paragraph 5.</strong> Mapping a drowned country thirty metres beneath shifting mud is extremely hard. Because normal land digging is useless underwater, geophysicist Dr. Vincent Gaffney reused <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">seismic <span class=\"kw\">data</span> originally gathered by oil and gas firms searching for North Sea energy reserves</span></span>. By processing these records with advanced software, his team digitally removed the seabed mud and mapped over 45,000 square kilometres of ancient rivers, lakes, and hills.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "History and Mapping of Doggerland",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Earlier experts mistakenly thought seabed bones were carried there by glacial <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">Doggerland once joined <b>2.</b> {{q2}} directly to continental Europe.</li><li style=\"margin-bottom:8px;\">Recovered wooden <b>3.</b> {{q3}} indicate that residents travelled across water.</li><li style=\"margin-bottom:8px;\">After the tsunami, clean drinking water was contaminated by sea <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:8px;\">Dr. Gaffney created digital maps using seismic <b>5.</b> {{q5}} from energy companies.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "floods",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...washed into the ocean by glacial floods.\"</i>",
+          "<b>Từ cần điền:</b> <b>floods</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "Britain",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...linking Britain directly to the Netherlands, Germany, and Denmark.\"</i>",
+          "<b>Từ cần điền:</b> <b>Britain</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "paddles",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...wooden paddles—show that residents built clever equipment for water travel...\"</i>",
+          "<b>Từ cần điền:</b> <b>paddles</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "salt",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...found their freshwater supplies ruined by salt.\"</i>",
+          "<b>Từ cần điền:</b> <b>salt</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "data",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...reused seismic data originally gathered by oil and gas firms...\"</i>",
+          "<b>Từ cần điền:</b> <b>data</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Until the late 1900s, experts realised Doggerland had once been a populated landmass.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Trước cuối thế kỷ 20, chuyên gia tưởng đó chỉ là rác trôi do lũ băng, chưa biết đó là vùng đất màu mỡ.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Mesolithic communities in Doggerland suffered from constant food shortages.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Far from facing hunger, local communities enjoyed rich seasonal food supplies...\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Sea levels rose at the exact same speed in every single month of the year.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài chỉ nêu tốc độ trung bình gần 1 mét mỗi thế kỷ, không nói tốc độ giống hệt nhau từng tháng trong năm.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "The Storegga Slide tsunami destroyed settlements very quickly.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...destroying settlements within hours.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Oil and gas firms originally collected North Sea data to help archaeologists.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Các công ty thu thập dữ liệu để tìm trữ lượng năng lượng (dầu khí), không phải giúp khảo cổ.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

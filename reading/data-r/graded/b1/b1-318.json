@@ -1,0 +1,200 @@
+{
+  "title": "[B1 • Band 5.0] Bài 318: The Cartography of Silence",
+  "answers": {
+    "q1": "neutral",
+    "q2": "empty",
+    "q3": "memory",
+    "q4": "parcels",
+    "q5": "borders",
+    "q6": "C",
+    "q7": "A",
+    "q8": "D",
+    "q9": "B",
+    "q10": "C"
+  },
+  "passageHtml": "<h2>PASSAGE 318 (LEVEL B1 • BAND 5.0)</h2><h3>The Cartography of Silence: Maps, Erasure, and Colonial Power</h3><p><strong>Paragraph 1.</strong> Most everyday users view maps as accurate, smaller copies of the real world. Whether opening a road atlas or checking a phone app, we trust that printed lines faithfully match real mountains, coastlines, and national boundaries. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">In <em>Paper Territories</em>, historical geographer Dr. Julian Harley challenges this belief, arguing that mapmaking has never been a <span class=\"kw\">neutral</span> science</span></span>. Rather than simply reflecting territory, a map is an active tool of political power that shapes the reality it claims to record.</p><p><strong>Paragraph 2.</strong> Harley studies European imperial expansion from the sixteenth to the nineteenth centuries, when mapmaking led the way for colonial takeover. Before soldiers arrived or farms were built, military surveyors charted the terrain. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Crucially, imperial maps relied on what Harley calls 'systematic silences'. When European surveyors mapped Africa, Australia, and the Americas, they deliberately left out native towns, sacred travel routes, and traditional place names</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">By presenting populated regions as <span class=\"kw\">empty</span> space—known in law as <em>terra nullius</em>—maps visually justified taking the land</span>. Blank spaces did not show ignorance; they erased native existence on paper before conquest even began.</p><p><strong>Paragraph 3.</strong> Colonial mapping also forced foreign ideas onto conquered landscapes. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Traditional indigenous geography was flexible and built around natural landmarks and oral <span class=\"kw\">memory</span></span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Imperial surveyors replaced these living landscapes with rigid geometric grids</span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Using mathematical measuring tools, they divided rich ecosystems into neat rectangular <span class=\"kw\">parcels</span> of private property that could be registered, taxed by colonial offices, and traded in European markets</span>. Maps were designed to turn ancestral land into tradable money.</p><p><strong>Paragraph 4.</strong> In his final chapters, Harley traces how colonial mapmaking still shapes modern politics. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Many contemporary <span class=\"kw\">borders</span> across Africa and the Middle East were drawn by nineteenth-century European diplomats using straight lines and rulers in treaty rooms</span></span>. Because these artificial lines sliced right through ethnic homelands and language communities, they created lasting political instability. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Harley concludes that every map makes an argument: what a mapmaker chooses to leave out is often far more powerful than what appears on the page</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "Maps and Imperial Control",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>Dr. Julian Harley argues that cartography is never a purely <b>1.</b> {{q1}} science. During colonial expansion, European surveyors left out indigenous settlements so that inhabited lands looked like <b>2.</b> {{q2}} space. Unlike native geography rooted in landmarks and oral <b>3.</b> {{q3}} , colonial maps split ecosystems into rectangular <b>4.</b> {{q4}} for taxation and trade. Even today, artificial <b>5.</b> {{q5}} drawn in nineteenth-century treaty rooms continue to fuel regional tension.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 6–10",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "neutral",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...mapmaking has never been a neutral science.\"</i>",
+          "<b>Từ cần điền:</b> <b>neutral</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "empty",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"By presenting populated regions as empty space...\"</i>",
+          "<b>Từ cần điền:</b> <b>empty</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "memory",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...natural landmarks and oral memory.\"</i>",
+          "<b>Từ cần điền:</b> <b>memory</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "parcels",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...neat rectangular parcels of private property...\"</i>",
+          "<b>Từ cần điền:</b> <b>parcels</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "borders",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Many contemporary borders across Africa and the Middle East...\"</i>",
+          "<b>Từ cần điền:</b> <b>borders</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "What is Dr. Harley's main point in the first paragraph?",
+      "options": [
+        "A. Digital map apps are less accurate than paper atlases.",
+        "B. Ancient mapmakers lacked tools to measure mountains.",
+        "C. Maps actively shape political power rather than just showing land.",
+        "D. Coastlines change too quickly for maps to remain useful."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Bản đồ là công cụ quyền lực chính trị chủ động tạo nên thực tại.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "What does Harley mean by 'systematic silences' in Paragraph 2?",
+      "options": [
+        "A. Intentionally leaving indigenous people off colonial maps",
+        "B. Keeping military mapmakers secret from rival empires",
+        "C. Refusing to publish maps of dangerous ocean routes",
+        "D. Forgetting to label newly built European farms"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cố tình bỏ qua làng mạc, tên địa danh bản địa trên bản đồ thuộc địa.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Why did colonial surveyors impose geometric grids onto conquered lands?",
+      "options": [
+        "A. To protect wild animals from commercial hunting",
+        "B. To preserve traditional local hunting boundaries",
+        "C. To make walking between villages faster for settlers",
+        "D. To convert land into taxable, tradable private property"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chia ô chữ nhật để đăng ký sở hữu, thu thuế và mua bán như hàng hóa.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why do many modern borders in Africa and the Middle East cause instability?",
+      "options": [
+        "A. They were destroyed during twentieth-century wars.",
+        "B. They were drawn straight across existing ethnic and language groups.",
+        "C. They follow winding rivers that shift every summer.",
+        "D. They were designed without consulting European diplomats."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Các đường thẳng cắt ngang qua vùng cư trú của các dân tộc và nhóm ngôn ngữ.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What is the writer's final message about maps?",
+      "options": [
+        "A. Modern GPS technology has solved all border disputes.",
+        "B. Printed maps should be replaced by oral stories.",
+        "C. What a map chooses to omit is often as important as what it shows.",
+        "D. Diplomats should stop using rulers when designing cities."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4 (câu cuối):</b> Những gì người vẽ bản đồ cố tình bỏ qua thường có sức nặng hơn cả những gì được vẽ.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

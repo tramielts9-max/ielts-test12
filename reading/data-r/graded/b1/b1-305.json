@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 305: The Chill of History: The Little Ice Age",
+  "answers": {
+    "q1": "TRUE",
+    "q2": "FALSE",
+    "q3": "NOT GIVEN",
+    "q4": "FALSE",
+    "q5": "TRUE",
+    "q6": "villages",
+    "q7": "seasons",
+    "q8": "prices",
+    "q9": "immune",
+    "q10": "canals"
+  },
+  "passageHtml": "<h2>PASSAGE 305 (LEVEL B1 • BAND 5.0)</h2><h3>The Chill of History: Navigating the Little Ice Age</h3><p><strong>Paragraph 1.</strong> Between roughly 1300 and 1850, the Northern Hemisphere entered a prolonged cold era known as the Little Ice Age. Although average global temperatures fell by only 1°C to 1.5°C—far less than a true glacial epoch—the effects on daily life were dramatic. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Advancing alpine glaciers buried Swiss mountain <span class=\"kw\">villages</span></span>, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">while London's River Thames froze thickly enough for citizens to host winter 'frost fairs' right on the ice</span>. Persistent cold rains destroyed crops and sparked waves of hunger across Europe and Asia.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">In <em>The Frigid Century</em>, climatologist Dr. Raymond Douglas bridges the gap between history and climate science. Traditional historians blamed seventeenth-century crises—such as the Thirty Years' War and the collapse of China's Ming Dynasty—purely on human politics, greed, and bad leadership</span>. By combining polar ice-core data, tree-ring measurements, and old harvest records, Douglas demonstrates that cooling acted as a powerful 'threat multiplier', pushing already unstable states past the breaking point.</p><p><strong>Paragraph 3.</strong> The crisis hit pre-industrial societies primarily through farming. During the coldest decades of the 1600s—which matched the Maunder Minimum, a period of unusually weak sunspot activity—<span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">growing <span class=\"kw\">seasons</span> shrank by up to four weeks</span>. Cold, soaked springs rotted seeds underground, dry summers stunted grain, and early autumn frosts ruined crops before harvest. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Food <span class=\"kw\">prices</span> soared rapidly</span>, and <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">widespread malnutrition weakened people's <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\"><span class=\"kw\">immune</span> systems</span>, opening the door to deadly outbreaks of typhus and plague</span>.</p><p><strong>Paragraph 4.</strong> Still, Douglas carefully rejects simple environmental determinism—the idea that weather alone decides human history. Instead, identical climate shocks caused wildly different results depending on how societies were organised. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Strict, unequal empires like Muscovite Russia and Ottoman Anatolia suffered violent peasant rebellions and state breakdown</span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">The Dutch Republic, by contrast, thrived during the Little Ice Age through smart adaptation. Using strong merchant fleets and wide trade links, Dutch traders imported grain from the Baltic region, drained wetlands effectively, and <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">turned frozen <span class=\"kw\">canals</span> into smooth winter highways for skates and cargo sleds</span></span>. Climate does not write human destiny, Douglas concludes; rather, it exposes which institutions are strong and which are fragile.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–5",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 6–10",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Agriculture & Societal Responses",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Expanding glaciers in the Alps destroyed Swiss mountain <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">During the 1600s, farming growing <b>7.</b> {{q7}} became shorter by up to four weeks.</li><li style=\"margin-bottom:8px;\">Crop failures caused grain <b>8.</b> {{q8}} to jump dramatically.</li><li style=\"margin-bottom:8px;\">Hunger damaged human <b>9.</b> {{q9}} systems, leading to severe plagues.</li><li style=\"margin-bottom:8px;\">The Dutch used frozen <b>10.</b> {{q10}} as fast winter roads for sleds and skates.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "People in London held public winter events on the frozen surface of the River Thames.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Người dân London tổ chức các hội chợ băng giá (<i>frost fairs</i>) ngay trên mặt sông đóng băng.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Traditional historians always viewed cold weather as the main cause of the Ming Dynasty's fall.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Các sử gia truyền thống trước đây chỉ đổ lỗi hoàn toàn cho chính trị và lãnh đạo tồi, không phải thời tiết.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Severe starvation directly caused typhus bacteria to mutate into new genetic forms.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài chỉ nói suy dinh dưỡng làm yếu hệ miễn dịch tạo điều kiện dịch bệnh lây lan, không nói gây đột biến gen vi khuẩn.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Strict, unequal empires like Muscovite Russia resisted the climate crisis better than the Dutch.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4 & 5:</b> Nga và Ottoman bị bạo loạn sụp đổ, còn Cộng hòa Hà Lan lại thích nghi phát triển.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "The Dutch Republic imported grain from the Baltic region to overcome cold harvests.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...Dutch traders imported grain from the Baltic region...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "villages",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...buried Swiss mountain villages...\"</i>",
+          "<b>Từ cần điền:</b> <b>villages</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "seasons",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...growing seasons shrank by up to four weeks.\"</i>",
+          "<b>Từ cần điền:</b> <b>seasons</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "prices",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Food prices soared rapidly...\"</i>",
+          "<b>Từ cần điền:</b> <b>prices</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "immune",
+      "inputWidth": "110px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...weakened people's immune systems...\"</i>",
+          "<b>Từ cần điền:</b> <b>immune</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "canals",
+      "inputWidth": "110px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...turned frozen canals into smooth winter highways...\"</i>",
+          "<b>Từ cần điền:</b> <b>canals</b>."
+        ]
+      }
+    }
+  }
+}

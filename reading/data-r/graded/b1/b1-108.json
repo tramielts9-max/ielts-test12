@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 108: The Antikythera Mechanism",
+  "answers": {
+    "q1": "shelter",
+    "q2": "block",
+    "q3": "astrolabe",
+    "q4": "crank",
+    "q5": "games",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "FALSE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 108 (LEVEL B1 • BAND 5.0)</h2><h3>The Antikythera Mechanism</h3><p><strong>Paragraph 1.</strong> In spring 1900, Greek sponge divers returning from North Africa ran into a violent storm and dropped anchor for <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">shelter</span></span> beside the tiny island of Antikythera. When the winds calmed, diver Elias Stadiatis descended forty-five metres to explore the seabed. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Instead of sponges, he swam back up terrified, babbling about a seabed covered with corpses and bronze monsters</span>. Without realising it, he had discovered the wreckage of a large first-century BCE Roman ship packed with Greek statues, glassware, and fine pottery.</p><p><strong>Paragraph 2.</strong> Over the next twelve months, Greek naval ships and divers carried out a major underwater rescue operation. Among the rescued items sent to the National Archaeological Museum in Athens was an ordinary-looking green <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">block</span></span> of corroded bronze and hardened wood. For months, this rusty lump sat ignored in the museum yard until May 1902, when it dried out and cracked open. Archaeologist Valerios Stais spotted a finely cut gear wheel with tiny triangular teeth buried inside. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">The find shocked historians, who believed complex gear machines were not invented until medieval Europe in the fourteenth century</span>. Many experts claimed the gear came from a modern sailor's <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">astrolabe</span></span> dropped centuries later.</p><p><strong>Paragraph 3.</strong> The true nature of the Antikythera Mechanism remained unknown until the 1970s, when British physicist Derek de Solla Price examined the fragments with X-ray imaging. Price proved that the device was actually an advanced astronomical computer containing at least thirty gear wheels driven by a single hand <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">crank</span></span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">By turning this handle, an operator could track the movements of the Sun, the Moon, and the five planets known in ancient times</span> on dials mounted on the front casing.</p><p><strong>Paragraph 4.</strong> In 2005, an international team brought an eight-tonne X-ray scanner to Athens to inspect the corroded bronze in fine detail. Three-dimensional images revealed thousands of tiny Greek letters engraved on inner plates, confirming complex dials on the back casing. One dial tracked the nineteen-year calendar cycle, while another predicted lunar eclipses, showing the exact hour, direction, and even the expected colour of the darkened moon. A smaller dial recorded the four-year schedule of ancient Greek athletic <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">games</span></span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Ancient writers such as the Roman orator Cicero had described a bronze planetarium built by Archimedes in the third century BCE, showing that Greek engineers possessed remarkable mechanical skill</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Sadly, this knowledge vanished when the Roman Empire collapsed, leaving Europe with no comparable machine for more than one thousand years</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Discovery and Functions of the Mechanism",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Divers discovered the Roman wreck while seeking <b>1.</b> {{q1}} from a violent storm.</li><li style=\"margin-bottom:8px;\">The artifact was ignored at first because it looked like a rusty <b>2.</b> {{q2}} of metal and wood.</li><li style=\"margin-bottom:8px;\">Doubting scholars thought the gear belonged to a later ship's <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">The machine's thirty gears were powered by turning one manual <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:8px;\">A small back dial displayed the dates of Greek athletic <b>5.</b> {{q5}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "shelter",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...dropped anchor for shelter beside the tiny island...\"</i>",
+          "<b>Từ cần điền:</b> <b>shelter</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "block",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...an ordinary-looking green block of corroded bronze...\"</i>",
+          "<b>Từ cần điền:</b> <b>block</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "astrolabe",
+      "inputWidth": "120px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...came from a modern sailor's astrolabe...\"</i>",
+          "<b>Từ cần điền:</b> <b>astrolabe</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "crank",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...driven by a single hand crank.\"</i>",
+          "<b>Từ cần điền:</b> <b>crank</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "games",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...schedule of ancient Greek athletic games.\"</i>",
+          "<b>Từ cần điền:</b> <b>games</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Elias Stadiatis immediately recognised the shipwreck as a sunken Roman trading vessel.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Ông hoảng sợ tưởng thấy xác chết và quái vật (<i>Without realising it...</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Early historians believed complex geared machines were invented long after ancient Greece.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Giới sử học tin rằng máy bánh răng phức tạp mãi đến châu Âu thế kỷ 14 mới xuất hiện.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The Antikythera Mechanism tracked the orbits of all eight planets known today.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chỉ theo dõi 5 hành tinh được biết đến thời cổ đại (<i>five planets known in ancient times</i>), không phải cả 8 hành tinh hiện đại.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Inscriptions inside the device proved that the mathematician Archimedes built it.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Cicero chỉ nhắc đến cỗ máy tương tự của Archimedes để minh họa trình độ cơ khí Hy Lạp, không có chữ khắc chứng minh Archimedes chế tạo cỗ máy này.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "The Antikythera Mechanism is currently on loan to a museum in London.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Toàn bài:</b> Không có thông tin nói cỗ máy đang được cho bảo tàng London mượn.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

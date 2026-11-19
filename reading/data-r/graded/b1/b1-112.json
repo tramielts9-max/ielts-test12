@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 112: The Terracotta Army of Xi'an",
+  "answers": {
+    "q1": "drought",
+    "q2": "legs",
+    "q3": "name",
+    "q4": "lacquer",
+    "q5": "alkaline",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "FALSE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 112 (LEVEL B1 • BAND 5.0)</h2><h3>The Terracotta Army of Xi'an</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">In March 1974, during a severe <span class=\"kw\">drought</span> in Shaanxi province, northern China</span>, a group of farmers began digging a water well east of Mount Li. Several metres down, their shovels hit baked clay, followed by life-sized terracotta heads and bronze spear tips. Without realising it, the farmers had found the outer edge of the massive burial complex built for Qin Shi Huang, China's first emperor, who died in 210 BCE.</p><p><strong>Paragraph 2.</strong> Archaeological excavations later uncovered an enormous underground complex covering roughly 56 square kilometres across four main pits. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Pit 1, the largest hall, contains an estimated 6,000 clay soldiers alongside forty wooden chariots</span>, arranged in military rows facing eastward against potential spiritual attacks from rival states. The figures display distinct military roles, from kneeling archers to commanding generals.</p><p><strong>Paragraph 3.</strong> Building this vast clay army required smart industrial organisation. Workers baked local clay in huge underground ovens above 900 degrees Celsius. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">To keep the heavy statues balanced, builders made solid clay <span class=\"kw\">legs</span></span>, while upper bodies and heads were constructed hollow. Rather than making identical copies from a single face mould, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">sculptors carved individual ears, mustaches, hairstyles, and expressions by hand so no two soldiers looked alike</span>. To enforce strict quality, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">each master worker stamped his personal <span class=\"kw\">name</span> into the wet clay before firing</span>.</p><p><strong>Paragraph 4.</strong> Although modern visitors see monotone grey statues, every warrior originally wore brilliant colours: red, green, blue, and synthetic Han purple. Sadly, the figures had lain in wet earth for two thousand years. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">When dug out into dry air, the underlying <span class=\"kw\">lacquer</span> dried out in seconds, destroying the bright paint within four minutes</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Consequently, major digging paused until scientists developed special moisture-saving sprays</span>.</p><p><strong>Paragraph 5.</strong> The warriors were armed with real bronze weapons, including arrows and double-edged swords, which remained amazingly sharp and rust-free. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Early researchers guessed Qin craftsmen had coated blades with anti-rust chromium, but modern scanning tests disproved this idea: tiny chromium traces simply came from tree varnish on nearby wooden cases</span>. Instead, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">the weapons survived thanks to the surrounding earth, whose <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">alkaline</span> chemistry and tightly packed clay blocked air and water</span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Discovery and Construction",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li>Farmers discovered the tomb during a serious <b>1.</b> {{q1}} in 1974.</li><li>Artisans built solid clay <b>2.</b> {{q2}} to keep the tall figures stable.</li><li>Workers pressed their <b>3.</b> {{q3}} into wet clay for quality inspection.</li><li>Bright paint peeled rapidly when the <b>4.</b> {{q4}} underneath lost moisture.</li><li>Bronze weapons avoided rust because of dense clay and <b>5.</b> {{q5}} soil chemistry.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "drought",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...during a severe drought in Shaanxi province...\"</i>",
+          "<b>Từ cần điền:</b> <b>drought</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "legs",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...builders made solid clay legs...\"</i>",
+          "<b>Từ cần điền:</b> <b>legs</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "name",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...stamped his personal name into the wet clay...\"</i>",
+          "<b>Từ cần điền:</b> <b>name</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "lacquer",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...the underlying lacquer dried out in seconds...\"</i>",
+          "<b>Từ cần điền:</b> <b>lacquer</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "alkaline",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...whose alkaline chemistry and tightly packed clay...\"</i>",
+          "<b>Từ cần điền:</b> <b>alkaline</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Pit 1 holds more wooden chariots than human terracotta soldiers.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Hầm 1 có khoảng 6.000 lính và chỉ 40 chiến xa gỗ.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "No two excavated terracotta warriors look completely identical.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...so no two soldiers looked alike.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Excavations continued smoothly without stopping even when paint peeled off.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Việc khai quật lớn phải tạm dừng (<i>major digging paused</i>) để chờ công nghệ giữ ẩm.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Modern lab scans confirmed that Qin workers intentionally plated swords with chromium.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Các thử nghiệm hiện đại đã bác bỏ giả thuyết này (<i>disproved this idea</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Several terracotta statues were damaged while being transported to foreign museums.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4 & 5:</b> Không hề nhắc việc tượng bị hư hại khi vận chuyển đi bảo tàng nước ngoài.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

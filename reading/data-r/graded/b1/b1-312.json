@@ -1,0 +1,194 @@
+{
+  "title": "[B1 • Band 5.0] Bài 312: The Singing Hominin: Roots of Melody",
+  "answers": {
+    "q1": "C",
+    "q2": "A",
+    "q3": "D",
+    "q4": "B",
+    "q5": "speech",
+    "q6": "pleasure",
+    "q7": "babies",
+    "q8": "gestures",
+    "q9": "facts",
+    "q10": "glue"
+  },
+  "passageHtml": "<h2>PASSAGE 312 (LEVEL B1 • BAND 5.0)</h2><h3>The Singing Hominin: The Evolutionary Roots of Melody</h3><p><strong>Paragraph 1.</strong> For centuries, many European thinkers treated music as a pleasant decoration invented long after humans began speaking. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">In 1871, however, Charles Darwin proposed a bold alternative: musical singing actually came before clear <span class=\"kw\">speech</span></span>, serving to attract mates much like birdsong. Despite Darwin's view, most twentieth-century scientists viewed music as a secondary accident. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Psychologist Steven Pinker famously described music as 'auditory cheesecake'—something enjoyable that activates <span class=\"kw\">pleasure</span> centres in the brain without helping humans survive</span></span>.</p><p><strong>Paragraph 2.</strong> In his book <em>The Singing Neanderthal</em>, archaeologist Dr. Steven Mithen strongly disagrees with this view. He points out that music exists in every human society and connects deeply with brain biology. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">Babies</span> react to musical pitch and rhythm several months before they grasp the grammar of spoken sentences</span></span>. Across all cultures, parents instinctively use exaggerated musical tones—known as 'motherese'—to soothe upset infants. Furthermore, brain scans confirm that music activates ancient deep brain networks responsible for emotion and social trust.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Mithen suggests that both language and music grew out of a shared early communication system he calls <em>Hmmmmm</em>. Before humans invented separate nouns and verbs, ancestors such as Neanderthals communicated through rhythmic, melodic calls paired with <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">hand and body <span class=\"kw\">gestures</span></span></span>. Instead of stating isolated pieces of information, each musical call expressed a complete emotional message. These melodic signals helped bands coordinate group hunting, calm angry arguments, and keep members loyal to the group.</p><p><strong>Paragraph 4.</strong> Over time, modern humans developed symbolic thinking, which allowed continuous vocal calls to break apart into distinct spoken words. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">As a result, language specialised in sharing clear <span class=\"kw\">facts</span> and practical information, while music remained master of emotion and group closeness</span></span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Mithen concludes that music was never a biological accident; rather, it served as vital social <span class=\"kw\">glue</span> that enabled early humans to form large, cooperative communities</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–4",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 5–10",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "How Music Shaped Early Human Communities",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<p>Charles Darwin suggested in 1871 that musical singing developed earlier than spoken <b>5.</b> {{q5}} . However, scientist Steven Pinker called music 'auditory cheesecake', arguing it brings <b>6.</b> {{q6}} without offering survival benefits. Dr. Steven Mithen rejects this claim, noting that <b>7.</b> {{q7}} respond to musical pitch before learning grammar. He believes Neanderthals used melodic calls and physical <b>8.</b> {{q8}} to manage hunting and reduce conflict. Later, language focused on sharing <b>9.</b> {{q9}} , while music continued acting as social <b>10.</b> {{q10}} for human tribes.</p>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "What does Steven Pinker mean by calling music 'auditory cheesecake'?",
+      "options": [
+        "A. Music helps young children learn vocabulary faster.",
+        "B. Music was invented by ancient cooks during festivals.",
+        "C. Music is pleasant to hear but unnecessary for survival.",
+        "D. Music relies on the newest parts of the human brain."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Nhạc mang lại khoái cảm nhưng không giúp ích cho sinh tồn (<i>without helping humans survive</i>).",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "What evidence from infants does Dr. Mithen mention in the second paragraph?",
+      "options": [
+        "A. Infants respond to musical tone before understanding grammar.",
+        "B. Infants from different nations prefer completely different rhythms.",
+        "C. Infants only calm down when listening to musical instruments.",
+        "D. Infants learn nouns and verbs before noticing parental voice tones."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Trẻ sơ sinh phản ứng với cao độ và nhịp điệu vài tháng trước khi hiểu ngữ pháp.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "How did Neanderthals use the Hmmmmm system according to the third paragraph?",
+      "options": [
+        "A. By writing simple symbols on cave stones",
+        "B. By dividing long sentences into separate nouns",
+        "C. By imitating bird calls only during summer hunting",
+        "D. By combining whole melodic calls with physical movements"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Họ dùng tiếng gọi du dương trọn vẹn kết hợp cử chỉ cơ thể.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "According to the final paragraph, how do modern language and music differ?",
+      "options": [
+        "A. Language is learned later in life than musical singing.",
+        "B. Language focuses on factual data while music governs emotions.",
+        "C. Music requires modern symbolic thought while language does not.",
+        "D. Language replaced music completely inside large cities."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Ngôn ngữ chuyên truyền đạt sự thật, còn âm nhạc giữ vai trò kết nối cảm xúc và xã hội.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "speech",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...came before clear speech...\"</i>",
+          "<b>Từ cần điền:</b> <b>speech</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "pleasure",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...activates pleasure centres in the brain...\"</i>",
+          "<b>Từ cần điền:</b> <b>pleasure</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "babies",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Babies react to musical pitch and rhythm...\"</i>",
+          "<b>Từ cần điền:</b> <b>babies</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "gestures",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...paired with hand and body gestures.\"</i>",
+          "<b>Từ cần điền:</b> <b>gestures</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "facts",
+      "inputWidth": "100px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...specialised in sharing clear facts...\"</i>",
+          "<b>Từ cần điền:</b> <b>facts</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "glue",
+      "inputWidth": "100px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...served as vital social glue...\"</i>",
+          "<b>Từ cần điền:</b> <b>glue</b>."
+        ]
+      }
+    }
+  }
+}

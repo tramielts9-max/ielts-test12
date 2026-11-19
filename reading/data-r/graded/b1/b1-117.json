@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 117: The Dodo: Re-evaluating an Extinct Icon",
+  "answers": {
+    "q1": "beak",
+    "q2": "tameness",
+    "q3": "meat",
+    "q4": "egg",
+    "q5": "swamp",
+    "q6": "FALSE",
+    "q7": "FALSE",
+    "q8": "TRUE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 117 (LEVEL B1 • BAND 5.0)</h2><h3>The Dodo: Re-evaluating an Extinct Icon</h3><p><strong>Paragraph 1.</strong> For more than three centuries, popular stories described the dodo as an oversized, clumsy, and foolish bird doomed by its own body. However, modern science and high-resolution bone scanning have completely overturned this Victorian myth. New evidence shows that the dodo was actually an active, muscular creature perfectly suited to its isolated island ecosystem.</p><p><strong>Paragraph 2.</strong> Found exclusively on the volcanic island of Mauritius in the Indian Ocean, the dodo evolved from ancient fruit-eating pigeons that arrived about twenty-six million years ago. Because the island had zero land predators, losing the ability to fly saved huge amounts of energy. The bird developed strong leg bones and thick toe pads for running across rough forest paths, while <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">a heavy, hooked <span class=\"kw\">beak</span> helped it defend itself and crack hard forest nuts</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Brain scans also reveal that the dodo's brain size matched that of modern pigeons</span>, supported by an enlarged smell centre for locating fallen fruit.</p><p><strong>Paragraph 3.</strong> The dodo's sudden disaster began in September 1598, when Dutch ships anchored at Mauritius for fresh food. Having evolved without ground enemies, dodos possessed <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">a behaviour called island <span class=\"kw\">tameness</span></span>, meaning they felt no instinctive fear of large strangers. Sailors could simply walk up and grab them by hand. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Despite this easy capture, Dutch crews called it the 'disgusting bird' because <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">its tough, oily <span class=\"kw\">meat</span></span> required hours of boiling with cabbage just to become slightly edible</span>.</p><p><strong>Paragraph 4.</strong> Historical evidence proves that human hunting alone did not wipe out the species. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The true catastrophe came from foreign mammals brought accidentally or intentionally by European ships, including pigs, black rats, dogs, and monkeys</span>. Because dodos had never faced ground raiders, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">females laid only one large <span class=\"kw\">egg</span> at a time in simple floor nests</span>. While adult birds fought off humans bravely, pigs dug up eggs and rats devoured helpless chicks.</p><p><strong>Paragraph 5.</strong> Within one hundred years of human arrival, the dodo vanished, with the final individuals likely dying around 1681. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Sadly, European naturalists only realised the bird was extinct long after the last survivor had gone</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">True physical understanding remained hidden until 1865, when schoolteacher George Clark dug thousands of preserved bones from a wet Mauritian <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">swamp</span></span></span>, allowing modern researchers to build accurate digital models showing a surprisingly lean, upright runner.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Biology and Extinction of the Dodo",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">A strong hooked <b>1.</b> {{q1}} enabled the bird to crack open forest nuts.</li><li style=\"margin-bottom:8px;\">Lack of fear toward sailors resulted from a trait named island <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">Sailors disliked the bird's tough and oily <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">Each female laid just a single <b>4.</b> {{q4}} in vulnerable ground nests.</li><li style=\"margin-bottom:8px;\">Modern models rely on bones excavated from a Mauritius <b>5.</b> {{q5}} in 1865.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "beak",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...a heavy, hooked beak helped it defend itself and crack hard forest nuts.\"</i>",
+          "<b>Từ cần điền:</b> <b>beak</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "tameness",
+      "inputWidth": "120px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...a behaviour called island tameness...\"</i>",
+          "<b>Từ cần điền:</b> <b>tameness</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "meat",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...its tough, oily meat required hours of boiling...\"</i>",
+          "<b>Từ cần điền:</b> <b>meat</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "egg",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...females laid only one large egg at a time...\"</i>",
+          "<b>Từ cần điền:</b> <b>egg</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "swamp",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...dug thousands of preserved bones from a wet Mauritian swamp...\"</i>",
+          "<b>Từ cần điền:</b> <b>swamp</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "The dodo had a much smaller brain for its body size than living pigeons.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Kích thước não của dodo tương đương bồ câu hiện đại (<i>matched that of modern pigeons</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Dutch crews hunted dodos primarily to supply commercial meat markets in Europe.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Thủy thủ bắt ăn tại chỗ nhưng chê thịt dở, không hề bán về châu Âu.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Introduced animals such as pigs and monkeys played a greater role in extinction than hunting.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Săn bắn không phải nguyên nhân chính; thảm họa thật sự đến từ thú ngoại lai trên tàu châu Âu.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "European scientists started a conservation project before the final dodos vanished.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Giới khoa học chỉ nhận ra chim đã tuyệt chủng rất lâu sau khi con cuối cùng biến mất.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "George Clark was paid by the Mauritian government to drain the swamp in 1865.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nói thầy giáo George Clark đào được xương ở đầm lầy, không nhắc được chính phủ trả tiền rút nước.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

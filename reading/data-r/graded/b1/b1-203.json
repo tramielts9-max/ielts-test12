@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 203: The Revival of Acoustic Ecology",
+  "answers": {
+    "q1": "scent",
+    "q2": "wind",
+    "q3": "logging",
+    "q4": "humidity",
+    "q5": "decades",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "FALSE",
+    "q9": "FALSE",
+    "q10": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 203 (LEVEL B1 • BAND 5.0)</h2><h3>The Revival of Acoustic Ecology</h3><p><strong>Paragraph 1.</strong> For decades, biologists counted wild animals mainly through visual methods like camera traps, binoculars, and drones. However, visual methods have serious weaknesses: creatures hide inside dense foliage, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">avoid human <span class=\"kw\">scent</span></span>, or remain active only at night. Today, soundscape ecology offers a smarter approach by listening to an entire habitat's audio signature—from chirping crickets to howling monkeys—which reveals forest health far better than sight alone.</p><p><strong>Paragraph 2.</strong> Acoustic researchers divide natural soundscapes into three parts: animal sounds, non-living weather noises such as rain, thunder, and <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">wind</span></span>, and human machine noise. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">In undisturbed jungles, different species evolved to call at separate sound frequencies and times so they do not block each other's signals</span>. When humans cut down trees, this delicate acoustic balance collapses and the forest grows strangely silent.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">This acoustic revolution relies on low-cost, weather-resistant recorders called ARUs attached to tree trunks</span>. Yet a dozen recorders in one park can collect 30,000 hours of sound in a single season—far too much for humans to check manually. To solve this, Dr. Julian Rivera created SoundID software using machine learning. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Instead of naming every single animal species, SoundID measures overall sound variety</span>. In Peru, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">areas hit by <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">illegal <span class=\"kw\">logging</span></span>—which satellite photos failed to spot beneath thick leaves—showed immediate drops in sound variety within 48 hours</span>.</p><p><strong>Paragraph 4.</strong> Despite its success, field recording faces tough technical difficulties. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">High tropical <span class=\"kw\">humidity</span> and tiny fungal spores slowly damage sensitive microphone parts</span>, requiring costly repairs. Heavy monsoon downpours also drown out quiet animal calls for days, while loud highway engines near cities mask wildlife signals and trick detection software into reporting empty habitats.</p><p><strong>Paragraph 5.</strong> Even so, sound monitoring proves vital in judging forest recovery. In Costa Rica, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">replanted woods looked fully grown within seven years</span>, yet their soundscapes <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">remained poor for nearly two <span class=\"kw\">decades</span></span>. Specialist birds and insects only returned once fallen logs decayed and lower bushes grew back. As Dr. Bernie Krause explains, while a photograph freezes one moment, a soundscape tells the living story of an ecosystem over time.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Acoustic Ecology Methods and Findings",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Visual surveys often fail because wild animals avoid human <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">Natural weather noises include rain, thunder, and <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">In Peru, SoundID software quickly detected drops in sound variety after illegal <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">Microphones in tropical jungles break down because of fungal spores and high <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:8px;\">In Costa Rica, replanted forests sounded empty for almost two <b>5.</b> {{q5}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "scent",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...creatures hide inside dense foliage, avoid human scent...\"</i>",
+          "<b>Từ cần điền:</b> <b>scent</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "wind",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...non-living weather noises such as rain, thunder, and wind...\"</i>",
+          "<b>Từ cần điền:</b> <b>wind</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "logging",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...areas hit by illegal logging... showed immediate drops...\"</i>",
+          "<b>Từ cần điền:</b> <b>logging</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "humidity",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"High tropical humidity and tiny fungal spores slowly damage sensitive microphone parts...\"</i>",
+          "<b>Từ cần điền:</b> <b>humidity</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "decades",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...remained poor for nearly two decades.\"</i>",
+          "<b>Từ cần điền:</b> <b>decades</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "In healthy forests, different animal species use separate sound frequencies to avoid blocking each other.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Các loài tiến hóa để phát âm ở các tần số và khung giờ riêng biệt.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Autonomous recording units (ARUs) are far too expensive for research teams to buy.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Máy ARU có chi phí thấp (<i>low-cost</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Dr. Julian Rivera's SoundID software tries to identify the exact name of every single animal species.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Instead of naming every single animal species, SoundID measures overall sound variety.\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Satellite photographs easily spotted illegal tree cutting under the thick Peruvian forest canopy.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Ảnh vệ tinh đã không phát hiện được (<i>satellite photos failed to spot</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Replanted forests in Costa Rica looked visually mature after seven years.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...replanted woods looked fully grown within seven years...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

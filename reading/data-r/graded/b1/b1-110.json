@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 110: The Kakapo: New Zealand's Night Parrot",
+  "answers": {
+    "q1": "camouflage",
+    "q2": "fruit",
+    "q3": "odour",
+    "q4": "transmitter",
+    "q5": "population",
+    "q6": "FALSE",
+    "q7": "NOT GIVEN",
+    "q8": "TRUE",
+    "q9": "NOT GIVEN",
+    "q10": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 110 (LEVEL B1 • BAND 5.0)</h2><h3>The Kakapo: New Zealand's Night Parrot</h3><p><strong>Paragraph 1.</strong> Living inside the thick native forests of New Zealand, the kakapo is one of the world's strangest birds. It is both the only flightless parrot and the heaviest, with adult males weighing up to four kilograms. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Because no native land mammals existed there for millions of years, the kakapo evolved to search for plants on the ground at night</span>. When frightened by danger, the bird freezes completely still and <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">uses its moss-green and brown feathers as <span class=\"kw\">camouflage</span> among ferns</span>, hoping flying eagles will not notice it.</p><p><strong>Paragraph 2.</strong> Unlike most parrots that form steady pairs, kakapos follow an unusual mating system. During breeding seasons, males climb to hilltops, dig shallow bowls in the earth, and produce deep booming calls that travel for kilometres across valleys. However, they only breed every two to four years, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">only when rimu trees produce large amounts of <span class=\"kw\">fruit</span></span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">The female raises her chicks on this calcium-rich food during fruiting seasons</span>.</p><p><strong>Paragraph 3.</strong> Although freezing protected the kakapo from ancient hunting birds, it became useless when Polynesian and European settlers introduced dogs, cats, stoats, and rats. These mammals hunt mainly by smell rather than sight. Sadly, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">the kakapo gives off a sweet body <span class=\"kw\">odour</span> similar to honey</span>, making nests easy for cats and rats to track down. Combined with forest clearing, this predation pushed the species close to extinction by the 1970s.</p><p><strong>Paragraph 4.</strong> Hope returned in 1977 when rangers discovered roughly two hundred kakapos on remote Stewart Island. However, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">feral cats were hunting the remaining birds so fast that they faced complete extinction within ten years</span>. Between 1980 and 1992, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">conservation teams captured every survivor and relocated them to three small offshore islands that had been cleared of all hunting mammals</span>.</p><p><strong>Paragraph 5.</strong> On these safe island homes, scientists launched an intensive rescue programme. Biologists <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">fitted every bird with a tiny radio <span class=\"kw\">transmitter</span> on its back</span> to track its movements, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">and provided special food supplements during poor fruiting years</span>. Genetic researchers also mapped DNA to guide artificial breeding. From a dangerous low in 1995, when <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">the global kakapo <span class=\"kw\">population</span> dropped to only 51 birds</span>, numbers have steadily risen past 250 today.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Survival and Rescue of the Kakapo",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li>When threatened, the bird stays motionless and relies on its feathers for <b>1.</b> {{q1}} .</li><li>Breeding happens only in years when rimu trees yield plenty of <b>2.</b> {{q2}} .</li><li>Introduced predators tracked nests easily because of the bird's sweet <b>3.</b> {{q3}} .</li><li>Each rescued bird carries a small radio <b>4.</b> {{q4}} so scientists can monitor it.</li><li>In 1995, the total world <b>5.</b> {{q5}} fell to just 51 birds before recovering.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "camouflage",
+      "inputWidth": "120px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...uses its moss-green and brown feathers as camouflage...\"</i>",
+          "<b>Từ cần điền:</b> <b>camouflage</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "fruit",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...when rimu trees produce large amounts of fruit.\"</i>",
+          "<b>Từ cần điền:</b> <b>fruit</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "odour",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...gives off a sweet body odour similar to honey...\"</i>",
+          "<b>Từ cần điền:</b> <b>odour</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "transmitter",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...fitted every bird with a tiny radio transmitter on its back...\"</i>",
+          "<b>Từ cần điền:</b> <b>transmitter</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "population",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...the global kakapo population dropped to only 51 birds...\"</i>",
+          "<b>Từ cần điền:</b> <b>population</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "The kakapo lost the ability to fly to escape native land mammals in New Zealand.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"no native land mammals existed there\"</i> → Không có thú trên cạn bản địa.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Male kakapos help females feed the young chicks inside the nest.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chỉ nói chim mái nuôi con (<i>The female raises her chicks</i>), không nhắc con đực có giúp hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The surviving birds on Stewart Island were threatened with quick extinction by feral cats.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"feral cats were hunting the remaining birds so fast that they faced complete extinction within ten years.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Members of the public can buy tickets to visit the offshore island reserves.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Không nhắc đến việc bán vé tham quan các đảo bảo tồn.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Special food is supplied to kakapos during seasons when rimu trees produce little fruit.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...provided special food supplements during poor fruiting years.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

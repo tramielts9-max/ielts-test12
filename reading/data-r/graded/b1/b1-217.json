@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 217: The Vanishing Vault: Light Pollution",
+  "answers": {
+    "q1": "NOT GIVEN",
+    "q2": "TRUE",
+    "q3": "FALSE",
+    "q4": "TRUE",
+    "q5": "FALSE",
+    "q6": "farming",
+    "q7": "moisture",
+    "q8": "turtles",
+    "q9": "melatonin",
+    "q10": "downward"
+  },
+  "passageHtml": "<h2>PASSAGE 217 (LEVEL B1 • BAND 5.0)</h2><h3>The Vanishing Vault: Light Pollution and the Architecture of Darkness</h3><p><strong>Paragraph 1.</strong> Throughout almost all of human history, the night sky served as a natural guide. Ancient communities watched star patterns to tell stories, plan seasonal <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">farming</span> calendars</span>, and sail safely across oceans. Over the last century, however, the rapid growth of outdoor artificial lighting has broken this connection. According to international surveys, over eighty percent of humans globally—and ninety-nine percent of residents in the United States and Europe—live beneath skies polluted by artificial glow. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">In modern cities, true night has disappeared behind a permanent yellow twilight</span>.</p><p><strong>Paragraph 2.</strong> Urban skyglow is mainly caused by poor lamp design. Instead of shining only onto pavements where walkers need safety, conventional streetlights and glowing billboards send large amounts of light sideways or upward. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Once these light rays enter the lower air, they bounce off gas molecules, tiny drops of <span class=\"kw\">moisture</span>, and dust particles</span>—a process called Rayleigh scattering. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">This scattered light bounces back down like a glowing roof, hiding faint stars so that only the Moon and brightest planets stay visible</span>.</p><p><strong>Paragraph 3.</strong> Constant night brightness creates serious harm across nature. Insects that normally steer by starlight fly endlessly around roadside bulbs until they collapse or get caught by bats. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Along beaches, baby sea <span class=\"kw\">turtles</span> are programmed to crawl toward the bright moonlit sea</span>; <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">instead, bright resort lights draw them inland toward dry sand and cars</span>. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">In humans, blue light from street lamps and digital screens lowers nighttime <span class=\"kw\">melatonin</span>, a hormone needed for deep rest, increasing risks of heart trouble</span>.</p><p><strong>Paragraph 4.</strong> To fight light pollution, engineers and city planners are promoting smarter lighting rules. Importantly, cities do not need to switch off all public lights. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Instead, workers install shielded fixtures that point light strictly <span class=\"kw\">downward</span> onto streets</span>, and swap harsh blue-white LEDs for warm-coloured bulbs. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">In northern Chile and the Canary Islands, dark-sky ordinances near telescopes improved night clarity while cutting municipal energy bills by over thirty percent</span>.</p><p><strong>Paragraph 5.</strong> Conservation groups are also protecting natural darkness as a shared human treasure. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">The International Dark-Sky Association has named over two hundred protected reserves globally, including parks in New Zealand and Namibia</span>. Protecting dark skies is not only helpful for professional astronomers; it allows ordinary citizens to enjoy the same starry universe that inspired human art and science for millennia.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–5",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 6–10",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "Light Pollution: Causes, Impacts & Fixes",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<p>In ancient times, people watched the stars to organise <b>6.</b> {{q6}} calendars and navigate oceans. Today, poorly aimed streetlights cast light upward, where it hits dust and <b>7.</b> {{q7}} in the air and scatters back down. This glare harms wildlife such as baby sea <b>8.</b> {{q8}} that mistake hotel lights for the ocean. Blue light also reduces human <b>9.</b> {{q9}} levels during sleep. Fortunately, shielded lamps directing light strictly <b>10.</b> {{q10}} can protect night skies and save energy.</p>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "European countries spend more money on city lighting than Asian nations.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Không có số liệu so sánh tiền điện giữa châu Âu và châu Á.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Scattered city light makes it impossible to see faint stars in urban areas.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Ánh sáng tán xạ che khuất các ngôi sao mờ, chỉ còn thấy Mặt Trăng và vài hành tinh sáng nhất.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Bright beach hotels help baby sea turtles reach the ocean more safely.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Ánh đèn khu nghỉ dưỡng kéo rùa con bò nhầm vào đất liền hướng về phía đường xe chạy.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Dark-sky rules in Chile both cleared the night sky and reduced energy costs.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...improved night clarity while cutting municipal energy bills by over thirty percent.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Protected dark-sky reserves are open only to professional scientists.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Không chỉ dành riêng cho nhà thiên văn, mà cho mọi người dân bình thường cùng chiêm ngưỡng.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "farming",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...plan seasonal farming calendars...\"</i>",
+          "<b>Từ cần điền:</b> <b>farming</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "moisture",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...tiny drops of moisture, and dust particles...\"</i>",
+          "<b>Từ cần điền:</b> <b>moisture</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "turtles",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...baby sea turtles are programmed to crawl...\"</i>",
+          "<b>Từ cần điền:</b> <b>turtles</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "melatonin",
+      "inputWidth": "120px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...lowers nighttime melatonin...\"</i>",
+          "<b>Từ cần điền:</b> <b>melatonin</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "downward",
+      "inputWidth": "120px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...point light strictly downward onto streets...\"</i>",
+          "<b>Từ cần điền:</b> <b>downward</b>."
+        ]
+      }
+    }
+  }
+}

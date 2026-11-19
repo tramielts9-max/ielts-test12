@@ -1,0 +1,147 @@
+{
+  "title": "[B1 • Band 5.0] Bài 103: Tyrian Purple: The Royal Dye of the Ancient Mediterranean",
+  "answers": {
+    "q1": "stones",
+    "q2": "gland",
+    "q3": "lead",
+    "q4": "wool",
+    "q5": "sunlight",
+    "q6": "FALSE",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN",
+    "q9": "TRUE"
+  },
+  "passageHtml": "<h2>READING PASSAGE — B1 (BAND 5.0) • TEST 103</h2><h3>Tyrian Purple: The Royal Dye of the Ancient Mediterranean</h3><p><strong>Paragraph 1.</strong> Throughout the ancient Mediterranean world, no trade product showed political power and high status better than Tyrian purple. This rich dye was first developed by Phoenician traders in the coastal city of Tyre, located in modern-day Lebanon. Roman emperors, Persian kings, and high priests wore deep purple robes made with this famous colour. Unlike common natural dyes produced from tree roots or plant leaves, Tyrian purple did not fade in water. In fact, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">strong sunlight and open air caused the dyed fabric to look even darker and richer over time</span>.</p><p><strong>Paragraph 2.</strong> The source of this royal colour was not a plant, but a meat-eating sea snail found along rocky Mediterranean coasts. Gathering enough dye required hard and unpleasant labour. Sailors lowered woven traps filled with rotting fish into shallow waters to attract millions of snails. Once the boats returned to the shore, workers <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">crushed the smaller shells completely with heavy <span class=\"kw\">stones</span></span>, while carefully opening larger shells to remove a tiny <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">gland</span></span> that held a clear defensive liquid.</p><p><strong>Paragraph 3.</strong> Next, workers placed the collected liquid into large outdoor containers mixed with salt water for three days to prevent it from spoiling too quickly. They then poured the mixture into deep <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">lead</span></span> pots and heated it slowly over a gentle, steady fire for ten consecutive days. As the animal material cooked, strong gases escaped into the air, creating an awful smell that spread for kilometres across the coast. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Roman law strictly ordered all dye workshops to stay far away from urban residential neighbourhoods</span>.</p><p><strong>Paragraph 4.</strong> Once the liquid was clean and ready, workers soaked pre-washed <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">wool</span></span> inside the warm chemical bath. Interestingly, the cloth came out looking pale rather than purple. The true transformation only happened outside in the open air. When direct <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">sunlight</span></span> hit the wet fabric, a rapid natural reaction began. Within minutes, the cloth shifted through green, bright yellow, and red before finally settling into a permanent dark purple.</p><p><strong>Paragraph 5.</strong> Because each snail produced only a microscopic drop of liquid, Tyrian purple was extraordinarily expensive. The Roman writer Pliny the Elder recorded that roughly ten thousand snails were needed to create just one gram of pure dye. Consequently, a pound of high-grade purple fabric cost more than its equivalent weight in gold. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Roman rulers passed strict sumptuary laws to control who was allowed to display this colour</span>. Ordinary citizens were forbidden from wearing full purple garments, and <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">during the later Roman Empire, making the dye illegally could lead to the death penalty</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Production Process of Tyrian Purple",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Workers broke small snail shells using large <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">Larger snails were opened carefully to take out a tiny <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">The salted mixture was boiled for ten days inside pots made of <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">Pre-washed <b>4.</b> {{q4}} was placed into the warm dye bath.</li><li style=\"margin-bottom:8px;\">The final dark purple shade appeared only after exposure to <b>5.</b> {{q5}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–9",
+      "instructions": "<i>Do the following statements agree with the information given in the passage?<br>Write <b>TRUE</b>, <b>FALSE</b> or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "stones",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"crushed the smaller shells completely with heavy stones...\"</i> → Từ cần điền: <b>stones</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "gland",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"remove a tiny gland that held a clear defensive liquid.\"</i> → Từ cần điền: <b>gland</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "lead",
+      "inputWidth": "95px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"poured the mixture into deep lead pots...\"</i> → Từ cần điền: <b>lead</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "wool",
+      "inputWidth": "95px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"workers soaked pre-washed wool inside the warm chemical bath.\"</i> → Từ cần điền: <b>wool</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "sunlight",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"When direct sunlight hit the wet fabric...\"</i> → Từ cần điền: <b>sunlight</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Tyrian purple quickly lost its brightness when exposed to sunny weather.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Ánh nắng và không khí thực tế làm màu đậm và rực hơn (<i>\"look even darker and richer\"</i>), trái ngược với mất độ sáng → Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Roman authorities allowed dye workshops to operate next to family homes.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Luật La Mã bắt buộc xưởng nhuộm phải đặt xa khu dân cư (<i>\"far away from urban residential neighbourhoods\"</i>) → Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Phoenician fishermen were paid higher wages than workers in lead workshops.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Kiểm tra bài:</b> Bài có nhắc ngư dân bắt ốc và thợ nấu vạc chì, nhưng hoàn toàn không đề cập hay so sánh tiền lương giữa hai nhóm này → Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "During the later Roman Empire, producing Tyrian purple without permission could result in execution.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"making the dye illegally could lead to the death penalty\"</i> (án tử hình = execution) → Chọn <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

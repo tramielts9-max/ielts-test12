@@ -1,0 +1,200 @@
+{
+  "title": "[B1 • Band 5.0] Bài 316: The Laughter Circuit: Roots of Social Mirth",
+  "answers": {
+    "q1": "speech",
+    "q2": "play",
+    "q3": "fifty",
+    "q4": "trust",
+    "q5": "jokes",
+    "q6": "D",
+    "q7": "B",
+    "q8": "A",
+    "q9": "C",
+    "q10": "B"
+  },
+  "passageHtml": "<h2>PASSAGE 316 (LEVEL B1 • BAND 5.0)</h2><h3>The Laughter Circuit: Evolutionary Roots of Social Mirth</h3><p><strong>Paragraph 1.</strong> Laughter is one of the most universal yet physically unusual human habits. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Unlike articulate <span class=\"kw\">speech</span>, which requires careful brain planning, genuine laughter is an automatic sound controlled by deep, ancient brain centres</span>. Across every society, infants laugh by four months of age, months before saying a single word. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">For centuries, philosophers such as Plato and Thomas Hobbes dismissed laughter as a cruel sign of feeling superior to others' bad luck</span>. In <em>The Comic Primate</em>, neuroscientist Dr. Robin Dunbar overturns this gloomy view, showing that laughter evolved millions of years ago to unite communities.</p><p><strong>Paragraph 2.</strong> Dunbar bases his theory on studies of great apes such as chimpanzees, bonobos, and orangutans. During wrestling games and tickling, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">apes emit rapid panting noises that signal the activity is harmless <span class=\"kw\">play</span> rather than real aggression</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Although ape panting sounds physically different from human giggles, both share the same brain triggers</span>. Dunbar argues that primates normally build friendships through physical fur grooming. However, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">once early human groups grew larger than roughly <span class=\"kw\">fifty</span> members, manual grooming became impossible because an individual can groom only one or two friends at a time without missing vital food gathering</span></span>. Laughter thus appeared as 'vocal grooming', spreading warmth to many group members simultaneously.</p><p><strong>Paragraph 3.</strong> Modern body measurements strongly support Dunbar's bonding theory. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">During hearty laughter, repeated chest muscle contractions release natural chemicals called endorphins into the nervous system, easing physical discomfort while creating calmness, <span class=\"kw\">trust</span>, and closer group attachment</span></span>. Sharing laughter literally changes group brain chemistry.</p><p><strong>Paragraph 4.</strong> Still, Dunbar examines the less friendly side of humour as well. Laughter does not only connect people; it can also act as a wall. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Close groups frequently share private <span class=\"kw\">jokes</span> and mocking humour to show who belongs and push outsiders away</span>. Furthermore, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">conversations reveal clear social rank: lower-status speakers laugh far more often at powerful people's comments than bosses laugh at theirs, using laughter as a safe diplomatic tool</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "The Evolution and Double Role of Laughter",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>Unlike planned human <b>1.</b> {{q1}} , genuine laughter happens automatically. Studies of great apes show that rhythmic panting during wrestling signals harmless <b>2.</b> {{q2}} . Once early human bands expanded past <b>3.</b> {{q3}} individuals, physical grooming became impractical, so vocal laughter replaced it. Hearty laughing releases endorphins that promote calmness and <b>4.</b> {{q4}} . However, groups also use private <b>5.</b> {{q5}} to shut outsiders out.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 6–10",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "speech",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Unlike articulate speech, which requires careful brain planning...\"</i>",
+          "<b>Từ cần điền:</b> <b>speech</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "play",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...signal the activity is harmless play rather than real aggression.\"</i>",
+          "<b>Từ cần điền:</b> <b>play</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "fifty",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...grew larger than roughly fifty members...\"</i>",
+          "<b>Từ cần điền:</b> <b>fifty</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "trust",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...creating calmness, trust, and closer group attachment.\"</i>",
+          "<b>Từ cần điền:</b> <b>trust</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "jokes",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...frequently share private jokes and mocking humour...\"</i>",
+          "<b>Từ cần điền:</b> <b>jokes</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "How did early philosophers like Plato view laughter?",
+      "options": [
+        "A. As an innocent baby habit with no meaning",
+        "B. As a medical cure for chest muscle pain",
+        "C. As a scientific signal used during hunting",
+        "D. As an unkind show of superiority over others"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Plato và Hobbes coi tiếng cười là dấu hiệu hả hê, coi thường nỗi bất hạnh của người khác.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "What did Dr. Dunbar point out about ape panting sounds?",
+      "options": [
+        "A. They sound completely identical to adult human laughter.",
+        "B. They share the same brain triggers and social purpose as human laughter.",
+        "C. Apes only produce them when defending territory against enemies.",
+        "D. Apes have forgotten how to use them in modern zoos."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Âm thanh khác nhau nhưng cùng cơ chế kích hoạt não và chức năng giao tiếp.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Why did manual fur grooming fail in larger early human communities?",
+      "options": [
+        "A. People lacked enough time to groom everyone without neglecting food.",
+        "B. Early humans preferred sleeping rather than sitting near friends.",
+        "C. Grooming caused painful skin allergies in larger camps.",
+        "D. Leaders banned grooming because it wasted daylight."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chải lông thủ công mất quá nhiều thời gian, ảnh hưởng đến việc đi kiếm ăn.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "What physical effect does hearty laughter cause in Paragraph 3?",
+      "options": [
+        "A. It stops oxygen from reaching the chest muscles.",
+        "B. It forces people to forget recent conversations.",
+        "C. It triggers endorphins that lower pain and build social calm.",
+        "D. It raises blood pressure permanently for several days."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Co thắt cơ ngực giải phóng endorphin giảm đau, tạo bình tĩnh và tin tưởng.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What does Paragraph 4 reveal about laughter between people of different rank?",
+      "options": [
+        "A. Powerful leaders laugh twice as often as their workers.",
+        "B. Lower-ranking members laugh more often to stay on good terms with leaders.",
+        "C. Managers forbid employees from telling any jokes during meetings.",
+        "D. Subordinates only laugh when nobody else is listening."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Người cấp dưới cười nhiều hơn trước lời nói của cấp trên như một chiến lược ngoại giao an toàn.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

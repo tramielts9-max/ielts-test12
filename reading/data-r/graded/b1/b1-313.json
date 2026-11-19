@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 313: Rewilding the Mind: Ecology and Control",
+  "answers": {
+    "q1": "NOT GIVEN",
+    "q2": "FALSE",
+    "q3": "TRUE",
+    "q4": "FALSE",
+    "q5": "TRUE",
+    "q6": "museum",
+    "q7": "deer",
+    "q8": "riverbanks",
+    "q9": "dams",
+    "q10": "culture"
+  },
+  "passageHtml": "<h2>PASSAGE 313 (LEVEL B1 • BAND 5.0)</h2><h3>Rewilding the Mind: Ecology, Control, and Natural Process</h3><p><strong>Paragraph 1.</strong> Throughout most of the twentieth century, traditional nature conservation focused on tight human management. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Parks were treated like <span class=\"kw\">museum</span> displays that had to stay frozen in one historical period, usually the nineteenth century</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Across Europe and North America, rangers hunted predators, removed fallen logs, and drained wetlands to maintain neat scenery for visitors</span>. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">In his book <em>Feral</em>, environmental writer George Monbiot argues that this constant interference actually damaged ecosystems, creating weak landscapes that merely looked clean</span>.</p><p><strong>Paragraph 2.</strong> Monbiot promotes 'rewilding'—a philosophy that reduces human control so natural ecosystems can heal themselves. Rather than trying to copy a single past year, rewilding removes barriers and allows wildlife relationships to guide recovery. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">A central goal is returning top predators and key species such as wolves, lynx, and beavers</span>. Without predators, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">plant-eating animals like <span class=\"kw\">deer</span> multiply rapidly, eating young tree shoots and preventing forests from regenerating</span>.</p><p><strong>Paragraph 3.</strong> The most famous proof of rewilding occurred in Yellowstone National Park after gray wolves returned in 1995. Not only did wolves trim elk numbers, they completely changed how elk moved across the land. Fearing attacks, elk avoided open valleys and <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">riverbanks</span></span>, allowing willows and aspens to regrow within just a few years. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Returning trees strengthened the soil, cooled river water for trout, and supplied timber for beavers, whose <span class=\"kw\">dams</span> created ponds welcoming frogs and waterbirds</span>. By changing elk behaviour, wolves literally reshaped Yellowstone's rivers.</p><p><strong>Paragraph 4.</strong> Despite these successes, rewilding meets fierce resistance. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Farming groups and sheep owners view rewilding as a serious danger to rural incomes and traditional countryside <span class=\"kw\">culture</span></span>. Meanwhile, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">government environmental offices often feel uncomfortable with unpredictable wild spaces that ignore tidy management plans</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Monbiot concludes that rewilding challenges our deep human desire to dominate nature, inviting us instead to live alongside independent wild systems</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–5",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 6–10",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "From Control to Rewilding",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Old conservation treated parks like <b>6.</b> {{q6}} exhibits frozen in the 1800s.</li><li style=\"margin-bottom:8px;\">Without hunters, <b>7.</b> {{q7}} overgraze young shoots and stop forest regrowth.</li><li style=\"margin-bottom:8px;\">In Yellowstone, cautious elk stayed away from open valleys and <b>8.</b> {{q8}} .</li><li style=\"margin-bottom:8px;\">Beavers used regrown timber to construct <b>9.</b> {{q9}} that formed new wetlands.</li><li style=\"margin-bottom:8px;\">Rural farmers fear rewilding threatens their livelihoods and local <b>10.</b> {{q10}} .</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "George Monbiot worked as a park ranger in North America before writing Feral.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Chỉ nói Monbiot viết sách <i>Feral</i> phê bình cách quản lý cũ, không nói ông từng làm kiểm lâm.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Twentieth-century park rangers protected wolves and kept wetlands wet for tourists.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Kiểm lâm từng săn đuổi thú săn mồi và rút cạn đầm lầy (<i>hunted predators... drained wetlands</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Bringing back key species such as beavers and wolves is a core part of rewilding.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"A central goal is returning top predators and key species such as wolves, lynx, and beavers.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Government environmental offices welcome unpredictable wild landscapes.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Các cơ quan này thường thấy không thoải mái (<i>uncomfortable</i>) với cảnh quan khó lường.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Monbiot believes humans need to give up their urge to dominate the natural world.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thách thức khao khát thống trị tự nhiên để chung sống với hệ sinh thái tự vận hành.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "museum",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...treated like museum displays...\"</i>",
+          "<b>Từ cần điền:</b> <b>museum</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "deer",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...animals like deer multiply rapidly...\"</i>",
+          "<b>Từ cần điền:</b> <b>deer</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "riverbanks",
+      "inputWidth": "120px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...avoided open valleys and riverbanks...\"</i>",
+          "<b>Từ cần điền:</b> <b>riverbanks</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "dams",
+      "inputWidth": "100px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...whose dams created ponds...\"</i>",
+          "<b>Từ cần điền:</b> <b>dams</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "culture",
+      "inputWidth": "110px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...traditional countryside culture.\"</i>",
+          "<b>Từ cần điền:</b> <b>culture</b>."
+        ]
+      }
+    }
+  }
+}

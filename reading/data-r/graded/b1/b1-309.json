@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 309: The Pyrocene: Fire, Humans, and the Shaping of Earth",
+  "answers": {
+    "q1": "TRUE",
+    "q2": "FALSE",
+    "q3": "NOT GIVEN",
+    "q4": "TRUE",
+    "q5": "FALSE",
+    "q6": "brains",
+    "q7": "undergrowth",
+    "q8": "wilderness",
+    "q9": "banned",
+    "q10": "warming"
+  },
+  "passageHtml": "<h2>PASSAGE 309 (LEVEL B1 • BAND 5.0)</h2><h3>The Pyrocene: Fire, Humans, and the Shaping of Earth</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">For more than a century, western forestry rules treated fire as an unnatural disaster that had to be stopped at every cost</span>. Famous campaigns warned the public that wildfires ruined timber and damaged wild parks. Yet in <em>Fire: A Brief History</em>, environmental historian Stephen Pyne argues that total fire suppression was a serious ecological mistake. Rather than being an outside enemy, fire has shaped land ecosystems for millions of years and served as humanity's oldest environmental tool.</p><p><strong>Paragraph 2.</strong> Our partnership with fire began long before modern humans appeared. Early ancestors learned how to capture and control flames to cook tough roots and meat. Cooking softened hard foods, sharply lowering the bodily energy spent on chewing and digesting meals. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">This extra energy fuelled the rapid growth of human <span class=\"kw\">brains</span>, while human jaws and digestive systems gradually shrank</span></span>.</p><p><strong>Paragraph 3.</strong> Fire also became the earliest tool for managing landscapes. Indigenous communities across Australia, North America, and southern Africa practised careful cultural burning. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Rather than letting dead plants pile up endlessly, they started gentle, low-heat fires that cleared thick <span class=\"kw\">undergrowth</span>, encouraged special fire-loving seeds to sprout, and kept fields open for grazing animals</span>. Because dry fuel was burned away regularly, huge uncontrollable fires were extremely rare. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In truth, the lands European explorers admired as untouched <span class=\"kw\">wilderness</span> had been carefully managed by native fires for thousands of years</span>.</p><p><strong>Paragraph 4.</strong> Trouble began when <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">colonial governments and modern foresters <span class=\"kw\">banned</span> traditional native burning</span> during the nineteenth and twentieth centuries. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Officials believed removing all flames would protect valuable wooden forests for commercial logging</span>. Instead, stopping every small blaze created what Pyne calls the 'pyric paradox': enormous piles of dead branches and dry leaves built up silently on forest floors.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Today, these unnaturally crowded forests combine with global <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\"><span class=\"kw\">warming</span></span> to produce terrifying firestorms</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Modern super-fires burn with such extreme heat that they bake the ground, kill underground seedbanks, and permanently change local nature</span>. After fighting small fires for a century, modern society now faces an age of unmanageable flames.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–5",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 6–10",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "How Fire Shaped Biology and Forests",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<p>Cooking food saved digestive energy, allowing early human <b>6.</b> {{q6}} to expand quickly while jaws became smaller. Later, indigenous peoples used gentle seasonal fires to clear dense <b>7.</b> {{q7}} and keep grasslands healthy. Lands that settlers mistook for untouched <b>8.</b> {{q8}} were actually maintained by planned burning. Unfortunately, modern authorities <b>9.</b> {{q9}} traditional burns, causing dry fuel to build up. Combined with global <b>10.</b> {{q10}} , this excess fuel now triggers unstoppable firestorms.</p>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "For over a hundred years, western forestry policy tried to stop all forest fires.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...treated fire as an unnatural disaster that had to be stopped at every cost.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Cooking raw food caused early human jaws and stomachs to grow larger.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chỉ có não lớn lên, còn hàm và hệ tiêu hóa thu nhỏ lại (<i>gradually shrank</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Commercial logging companies trained native workers to light controlled fires.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Có nhắc gỗ thương mại (<i>commercial logging</i>) nhưng không nói công ty gỗ đào tạo người bản địa đốt rừng.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Rising global temperatures today help make forest firestorms more severe.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Rừng rậm tích tụ nhiên liệu kết hợp với nóng lên toàn cầu (<i>global warming</i>) tạo ra bão lửa khủng khiếp.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Plant seeds hidden underground always survive modern super-fires without damage.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Siêu cháy rừng đốt chết cả ngân hàng hạt giống dưới đất (<i>kill underground seedbanks</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "brains",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...rapid growth of human brains...\"</i>",
+          "<b>Từ cần điền:</b> <b>brains</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "undergrowth",
+      "inputWidth": "130px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...gentle, low-heat fires that cleared thick undergrowth...\"</i>",
+          "<b>Từ cần điền:</b> <b>undergrowth</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "wilderness",
+      "inputWidth": "130px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...admired as untouched wilderness...\"</i>",
+          "<b>Từ cần điền:</b> <b>wilderness</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "banned",
+      "inputWidth": "110px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...banned traditional native burning...\"</i>",
+          "<b>Từ cần điền:</b> <b>banned</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "warming",
+      "inputWidth": "110px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...combine with global warming to produce terrifying firestorms.\"</i>",
+          "<b>Từ cần điền:</b> <b>warming</b>."
+        ]
+      }
+    }
+  }
+}

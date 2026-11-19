@@ -1,0 +1,200 @@
+{
+  "title": "[B1 • Band 5.0] Bài 210: The Internal Clockwork: Chronobiology",
+  "answers": {
+    "q1": "D",
+    "q2": "B",
+    "q3": "A",
+    "q4": "C",
+    "q5": "B",
+    "q6": "genes",
+    "q7": "jetlag",
+    "q8": "diabetes",
+    "q9": "absenteeism",
+    "q10": "amber"
+  },
+  "passageHtml": "<h2>PASSAGE 210 (LEVEL B1 • BAND 5.0)</h2><h3>The Internal Clockwork: Chronobiology and the Modern Workplace</h3><p><strong>Paragraph 1.</strong> Throughout human history, bodily functions followed a reliable natural cycle of daylight and night darkness. Every human cell runs on a roughly twenty-four-hour clock controlling body temperature, digestion, immune defence, and stress hormones. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Controlling this system is the suprachiasmatic nucleus (SCN), a cluster of twenty thousand neurons in the brain. Acting as a master timer, the SCN uses nerve and hormone signals to keep every organ synced with the external world</span>.</p><p><strong>Paragraph 2.</strong> Electric lighting and round-the-clock services have broken this natural harmony. Millions of employees now work during hours when their bodies expect rest. Sleep scientists group humans into three chronotypes: morning 'larks', intermediate types, and evening 'owls'. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">An individual's chronotype depends mainly on inherited variations in clock <span class=\"kw\">genes</span> known as PER and CRY, so it cannot be changed permanently through willpower or strict discipline</span></span>.</p><p><strong>Paragraph 3.</strong> When a mandatory work timetable clashes with a worker's natural body clock, the mismatch is called <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">'social <span class=\"kw\">jetlag</span>'</span>. In a large European study of more than fifty thousand employees, scientist Dr. Till Roenneberg found that over seventy percent experience at least two hours of social jetlag every workday. Waking an evening type at six in the morning is biologically like forcing a morning person to work through the middle of the night, while their body temperature is low and their brain is filled with sleep-inducing melatonin.</p><p><strong>Paragraph 4.</strong> Working against the body clock carries severe safety and health risks. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">At four in the morning, human alertness reaches its lowest point: reaction speeds slow by half and human error triples</span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Historical investigations show that major industrial tragedies, such as the Chernobyl nuclear accident and the Exxon Valdez oil spill, happened in those early morning hours when exhausted staff made fatal errors</span>. Over many years, night shifts also raise risks of heart disease and <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Type 2 <span class=\"kw\">diabetes</span></span>.</p><p><strong>Paragraph 5.</strong> Forward-thinking companies are replacing rigid nine-to-five schedules with clock-friendly shifts. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">In a German trial across three factories, workers took genetic tests and received early, standard, or late shifts matching their biological clocks. Within six months, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\"><span class=\"kw\">absenteeism</span> dropped by twenty-eight percent</span> and workplace injuries fell sharply</span>. Engineers also install smart LED lights inside windowless buildings that shine cool blue light in the morning and shift to warm <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\"><span class=\"kw\">amber</span></span> tones late in the day to protect natural melatonin.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–5",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 6–10",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Body Clocks at Work",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">A person's chronotype is controlled mostly by inherited clock <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">A clash between work schedules and natural sleep clocks causes social <b>7.</b> {{q7}} .</li><li style=\"margin-bottom:8px;\">Long-term night shifts increase risks of heart illness and Type 2 <b>8.</b> {{q8}} .</li><li style=\"margin-bottom:8px;\">German factories using clock-matched shifts cut worker <b>9.</b> {{q9}} by 28%.</li><li style=\"margin-bottom:8px;\">Smart office lighting shifts to warm <b>10.</b> {{q10}} tones late in the afternoon.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "What is the main role of the suprachiasmatic nucleus (SCN)?",
+      "options": [
+        "A. It produces food enzymes inside the stomach.",
+        "B. It forces evening owls to wake up comfortably at dawn.",
+        "C. It blocks electric blue light from reaching the eyes.",
+        "D. It acts as a master timer syncing organs with the external day."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Đóng vai trò đồng hồ chủ (<i>master timer</i>) đồng bộ các cơ quan với thế giới bên ngoài.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Why can't willpower permanently change an individual's natural chronotype?",
+      "options": [
+        "A. Because morning sunlight is too weak in European winters.",
+        "B. Because chronotypes are shaped mainly by inherited genetic differences.",
+        "C. Because all humans share identical PER and CRY proteins.",
+        "D. Because melatonin stops working after age twenty-five."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Phụ thuộc vào biến thể di truyền của gen PER và CRY, không đổi được bằng ý chí.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "What happens to human performance around four o'clock in the morning?",
+      "options": [
+        "A. Reaction speed falls by half and errors become three times more likely.",
+        "B. Brain alertness peaks and workers solve puzzles faster.",
+        "C. Melatonin disappears completely from the bloodstream.",
+        "D. Body temperature rises to its highest daily level."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Tốc độ phản ứng chậm đi một nửa và sai sót của con người tăng gấp ba lần.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Why does the author mention Chernobyl and the Exxon Valdez?",
+      "options": [
+        "A. To prove nuclear plants are safer than oil tankers",
+        "B. To explain why factories replaced human staff with robots",
+        "C. To show how early-morning fatigue contributed to major disasters",
+        "D. To argue that night workers need warmer indoor offices"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Minh họa các thảm họa công nghiệp lớn xảy ra vào rạng sáng khi nhân viên kiệt sức.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "What happened in the six-month trial across three German factories?",
+      "options": [
+        "A. Night owls refused to take early morning genetic tests.",
+        "B. Adjusting shifts to biological clocks reduced absences and injuries.",
+        "C. Workers slept three extra hours inside factory break rooms.",
+        "D. Blue LED lights caused higher rates of daytime drowsiness."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Nghỉ phép giảm 28% và tai nạn lao động giảm mạnh khi chia ca khớp đồng hồ sinh học.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "genes",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...inherited variations in clock genes...\"</i>",
+          "<b>Từ cần điền:</b> <b>genes</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "jetlag",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...the mismatch is called 'social jetlag'.\"</i>",
+          "<b>Từ cần điền:</b> <b>jetlag</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "diabetes",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...risks of heart disease and Type 2 diabetes.\"</i>",
+          "<b>Từ cần điền:</b> <b>diabetes</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "absenteeism",
+      "inputWidth": "120px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...absenteeism dropped by twenty-eight percent...\"</i>",
+          "<b>Từ cần điền:</b> <b>absenteeism</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "amber",
+      "inputWidth": "110px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...shift to warm amber tones late in the day...\"</i>",
+          "<b>Từ cần điền:</b> <b>amber</b>."
+        ]
+      }
+    }
+  }
+}

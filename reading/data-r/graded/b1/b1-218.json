@@ -1,0 +1,203 @@
+{
+  "title": "[B1 • Band 5.0] Bài 218: Harnessing the Gale: Wind-Powered Cargo",
+  "answers": {
+    "q1": "B",
+    "q2": "D",
+    "q3": "A",
+    "q4": "C",
+    "q5": "flaps",
+    "q6": "tonnes",
+    "q7": "kites",
+    "q8": "YES",
+    "q9": "NO",
+    "q10": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 218 (LEVEL B1 • BAND 5.0)</h2><h3>Harnessing the Gale: The Modern Revival of Wind-Powered Cargo</h3><p><strong>Paragraph 1.</strong> Modern sea transport carries more than eighty percent of global trade, powered mainly by massive diesel engines burning heavy fuel oil. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Although efficient for business, commercial shipping creates nearly three percent of human greenhouse gases each year, along with toxic smoke that pollutes port cities</span>. Under strict clean-air rules from the International Maritime Organization (IMO), ship designers are reviving an ancient energy source using modern aircraft science: wind-assisted ship propulsion.</p><p><strong>Paragraph 2.</strong> Today's wind sails look nothing like traditional canvas rigging. Instead, ships carry tall, rigid wings shaped like vertical airplane wings. In 2023, the eighty-thousand-tonne bulk carrier <em>Pyxis Ocean</em> tested two composite WindWings standing 37.5 metres tall. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Each tall wing has a strong central frame and two moving <span class=\"kw\">flaps</span></span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Controlled completely by computer programs rather than crew members, the wings rotate smoothly to catch ocean winds at the best angle</span></span>.</p><p><strong>Paragraph 3.</strong> During real journeys across the Indian and Atlantic Oceans, WindWings delivered impressive fuel savings. On windy routes, the wings lowered daily heavy fuel burning by up to three tonnes—cutting carbon emissions by thirty percent. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In addition, helping push the ship forward lets captains reduce strain on the main diesel engine without slowing down, protecting shipping firms from sudden fuel price rises and helping engine parts last longer</span>.</p><p><strong>Paragraph 4.</strong> Still, fitting giant wings onto cargo fleets creates engineering difficulties. Ships must cross narrow waterways like the Panama Canal and unload beneath port cranes over thirty metres high. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">To stop collisions, engineers built hydraulic folding joints so the wings lie flat across cargo covers near harbours</span>. However, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">the heavy folding equipment reduces the ship's total cargo capacity by hundreds of <span class=\"kw\">tonnes</span></span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">To maximise savings, operators combine wind wings with smart routing software that reads live satellite weather and ocean currents to pick wind-rich paths, even when the route becomes slightly longer</span>. Meanwhile, shipyards are testing spinning Flettner cylinders and giant towing <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">kites</span></span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Together, these projects show that wind power may offer shipping its fastest path toward zero-carbon trade</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–4",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–7",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "WindWing Design & Future Ideas",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Each WindWing consists of a central frame flanked by two adjustable <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:8px;\">The weight of folding machinery cuts cargo space by hundreds of <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">Shipyards are also testing spinning rotors and huge towing <b>7.</b> {{q7}} .</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 8–10",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Why is the IMO pushing shipping companies to adopt cleaner technologies?",
+      "options": [
+        "A. Heavy diesel engines frequently break down mid-ocean.",
+        "B. Commercial vessels emit greenhouse gases and pollute port air.",
+        "C. Global trade volume has dropped below eighty percent.",
+        "D. Fuel oil has completely run out in European harbours."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Tàu thương mại thải ra gần 3% khí nhà kính và khói độc gây ô nhiễm cảng.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "How are the WindWings on the Pyxis Ocean angled during a voyage?",
+      "options": [
+        "A. By port engineers using radio controls from shore",
+        "B. By hydraulic ropes pulled manually by sailors",
+        "C. By fixed metal bolts welded permanently at 45 degrees",
+        "D. By automated computer algorithms tracking ocean winds"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Controlled completely by computer programs rather than crew members...\"</i>",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Why do WindWings need hydraulic folding joints?",
+      "options": [
+        "A. To prevent hitting bridges and tall port cranes",
+        "B. To increase top speed during calm weather",
+        "C. To double the weight of cargo inside the hull",
+        "D. To protect composite panels from ocean salt"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Để không va chạm với cần cẩu cảng và cầu cao trên đường thủy.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "What does voyage routing software recommend when weather data changes?",
+      "options": [
+        "A. Stopping the ship until storms pass completely",
+        "B. Following the shortest straight-line track regardless of wind",
+        "C. Choosing windier corridors even if the distance is slightly longer",
+        "D. Turning off satellite tracking to save battery power"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chọn luồng nhiều gió ngay cả khi quãng đường dài hơn một chút.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "flaps",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...strong central frame and two moving flaps.\"</i>",
+          "<b>Từ cần điền:</b> <b>flaps</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "tonnes",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...capacity by hundreds of tonnes.\"</i>",
+          "<b>Từ cần điền:</b> <b>tonnes</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "kites",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...spinning Flettner cylinders and giant towing kites.\"</i>",
+          "<b>Từ cần điền:</b> <b>kites</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Wind assistance helps protect shipping firms from rising fuel prices and extends engine life.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Giảm tải động cơ chính giúp chống sốc giá dầu và kéo dài tuổi thọ máy.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Crew members must turn the WindWings by hand whenever the wind shifts direction.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Được điều khiển hoàn toàn bằng máy tính chứ không phải thủy thủ chỉnh tay.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "All cargo vessels passing through the Panama Canal will be required to use kites by 2030.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bài chỉ nói các xưởng tàu đang thử nghiệm diều kéo, không nói luật bắt buộc năm 2030.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

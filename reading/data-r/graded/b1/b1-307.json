@@ -1,0 +1,198 @@
+{
+  "title": "[B1 • Band 5.0] Bài 307: The Evolution of Altruism",
+  "answers": {
+    "q1": "NOT GIVEN",
+    "q2": "TRUE",
+    "q3": "FALSE",
+    "q4": "TRUE",
+    "q5": "FALSE",
+    "q6": "D",
+    "q7": "B",
+    "q8": "A",
+    "q9": "C",
+    "q10": "B"
+  },
+  "passageHtml": "<h2>PASSAGE 307 (LEVEL B1 • BAND 5.0)</h2><h3>The Evolution of Altruism: Beyond the Selfish Gene</h3><p><strong>Paragraph 1.</strong> For almost fifty years, biology was dominated by a harsh viewpoint: living creatures are biological machines built to pass on their own genetic material at any cost. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Made famous by Richard Dawkins in his 1976 book <em>The Selfish Gene</em></span>, this model treated apparent kindness in nature as hidden selfishness. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Helping others was explained either through 'kin selection'—protecting relatives who share your genes</span>—or through returning favours later. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Traditional biologists viewed pure sacrifice for an unrelated stranger as impossible under evolution</span>.</p><p><strong>Paragraph 2.</strong> In <em>Mutual Aid: The Science of Cooperation</em>, evolutionary scientist Dr. Marcus Sterling challenges that cynical belief. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Sterling does not deny that genetic self-interest works at small individual levels</span>, but argues scientists ignored group survival. Across thousands of species, from underground mole-rats to ocean whales, united teams consistently outperform selfish loners. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">A tribe of early humans willing to share food and risk danger to protect the group will naturally defeat a divided group of selfish individuals</span>.</p><p><strong>Paragraph 3.</strong> Sterling supports his argument using game theory, especially the Iterated Prisoner's Dilemma. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Computer simulations built by political scientist Robert Axelrod proved that in repeated rounds, purely aggressive players who cheat partners always suffer terrible collapse</span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">By contrast, cooperative rules like 'tit-for-tat'—starting kindly and then copying a partner's last move—produce steady long-term stability</span>. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Sterling adds that human brains evolved chemical rewards: sharing with others releases oxytocin and dopamine, showing we are biologically built for solidarity</span>.</p><p><strong>Paragraph 4.</strong> In his final chapters, Sterling criticizes modern economic systems. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">He argues that schools, workplaces, and public policies wrongly assume humans are purely selfish individuals trying only to maximize personal gain, which quietly weakens our natural habit of mutual aid</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Although human history contains violence, Sterling shows our species survived not through the victory of the strongest single fighter, but through trust, cooperation, and care for the vulnerable</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–5",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 6–10",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Richard Dawkins wrote The Selfish Gene after studying whales for ten years.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Chỉ nhắc Dawkins viết sách năm 1976, không hề nhắc ông nghiên cứu cá voi 10 năm.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Traditional biologists doubted that animals would sacrifice themselves for unrelated strangers.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Traditional biologists viewed pure sacrifice for an unrelated stranger as impossible...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Dr. Marcus Sterling claims that genetic self-interest does not exist at all in nature.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Sterling does not deny that genetic self-interest works at small individual levels...\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "In repeated computer games, cooperative 'tit-for-tat' rules create steady long-term stability.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...cooperative rules like 'tit-for-tat'... produce steady long-term stability.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Human survival depended mainly on the physical strength of single violent fighters.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Loài người tồn tại nhờ tin tưởng và hợp tác, không phải chiến thắng của cá nhân mạnh nhất.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "What does 'kin selection' mean in the first paragraph?",
+      "options": [
+        "A. Fighting rival tribes for territory",
+        "B. Trading food with strangers for profit",
+        "C. Copying the behaviour of aggressive animals",
+        "D. Protecting family members who share the same genes"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"'kin selection'—protecting relatives who share your genes.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Why does Sterling mention early human tribes in the second paragraph?",
+      "options": [
+        "A. To prove early humans never experienced conflict",
+        "B. To show that cooperative groups outlast selfish ones",
+        "C. To explain why whales live in large oceans",
+        "D. To argue that individual hunting was always best"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bộ lạc biết chia sẻ và bảo vệ nhau sẽ đánh bại nhóm ích kỷ chia rẽ.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "What happened to purely selfish strategies in Robert Axelrod's computer tests?",
+      "options": [
+        "A. They collapsed over repeated rounds.",
+        "B. They defeated every cooperative player.",
+        "C. They worked only during the final round.",
+        "D. They turned slowly into 'tit-for-tat' rules."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...purely aggressive players who cheat partners always suffer terrible collapse.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why does Sterling discuss oxytocin and dopamine?",
+      "options": [
+        "A. To warn against taking medical pills",
+        "B. To show how stress damages memory",
+        "C. To prove human brains physically reward sharing",
+        "D. To explain why people dislike working in offices"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Não tiết hormone hưng phấn khi chia sẻ chứng tỏ con người có cơ chế sinh học hướng về đoàn kết.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What flaw does Sterling identify in modern economic institutions?",
+      "options": [
+        "A. They spend too much money on wildlife research.",
+        "B. They treat humans as purely selfish and weaken teamwork.",
+        "C. They prevent students from attending university.",
+        "D. They reward lazy workers more than hardworking ones."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Mặc định con người chỉ tối đa hóa lợi ích cá nhân làm suy yếu bản năng tương trợ.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

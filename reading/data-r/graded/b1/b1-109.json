@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 109: The Saffron Crocus: The Golden Spice",
+  "answers": {
+    "q1": "corms",
+    "q2": "sunrise",
+    "q3": "frescoes",
+    "q4": "baths",
+    "q5": "rainfall",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "FALSE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 109 (LEVEL B1 • BAND 5.0)</h2><h3>The Saffron Crocus: The Golden Spice</h3><p><strong>Paragraph 1.</strong> Produced from the delicate red stigmas of <em>Crocus sativus</em>, saffron has long been famous as the world's most expensive spice by weight. Known historically as 'vegetable gold', it has shaped cooking, medicine, and royal traditions across three continents for over three thousand years. Unlike its wild ancestors, the farmed saffron plant is sterile; it cannot produce seeds or spread on its own in nature. Its survival depends completely on farmers digging up and separating underground storage bulbs called <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">corms</span></span> and planting them by hand.</p><p><strong>Paragraph 2.</strong> The extremely high cost of saffron comes directly from its difficult harvest. Each purple flower holds only three slender stigmas, which must be plucked carefully from the open bloom. All harvesting happens within a short two-to-three-week window in late autumn. Because flowers open at dawn and quickly fade as temperatures rise, field workers must finish picking every flower before <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">sunrise</span></span>. Waiting until midday allows sunlight to break down delicate oils and lower quality. Producing just one kilogram of dry saffron takes 150,000 to 200,000 blossoms and forty hours of hard manual work.</p><p><strong>Paragraph 3.</strong> Archaeological evidence proves that saffron farming began during the Bronze Age. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Colourful wall paintings called <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">frescoes</span></span>, uncovered at Akrotiri on the island of Santorini, show young women gathering saffron blossoms into woven baskets</span>. In ancient Rome, people used saffron essence as perfume inside public <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">baths</span></span> and scattered it over stone arenas to cover unpleasant smells, while wealthy brides wore bright yellow saffron veils.</p><p><strong>Paragraph 4.</strong> During the Middle Ages, saffron often cost more than pure gold, encouraging widespread cheating among merchants. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Dishonest traders soaked batches in honey or oil to make shipments heavier, or mixed in cheap marigold petals and dyed silk</span>. In response, European cities passed strict laws. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In Nuremberg, Germany, inspectors tested every batch entering the city, and merchants found guilty of selling fake saffron were burned at the stake or buried alive</span>.</p><p><strong>Paragraph 5.</strong> Even today, machines have failed to replace hand-picking. Iran produces over eighty-five percent of global saffron across its dry northeastern provinces. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Saffron's unique qualities come from three main chemicals: crocin provides its golden-yellow colour, picrocrocin gives its bitter flavour, and safranal creates its pleasant aroma</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">However, climate scientists warn that changing <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">rainfall</span></span> patterns and unexpected frosts now threaten traditional planting schedules</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "History and Farming of Saffron",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Because it makes no seeds, the plant depends on farmers planting its <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">Workers must gather flowers before <b>2.</b> {{q2}} to protect delicate oils from heat.</li><li style=\"margin-bottom:8px;\">Ancient wall <b>3.</b> {{q3}} in Santorini show young women harvesting crocuses.</li><li style=\"margin-bottom:8px;\">Romans used saffron to add fragrance to public <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:8px;\">In Iran, unpredictable <b>5.</b> {{q5}} and frosts threaten planting times.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "corms",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...separating underground storage bulbs called corms...\"</i>",
+          "<b>Từ cần điền:</b> <b>corms</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "sunrise",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...finish picking every flower before sunrise.\"</i>",
+          "<b>Từ cần điền:</b> <b>sunrise</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "frescoes",
+      "inputWidth": "120px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Colourful wall paintings called frescoes...\"</i>",
+          "<b>Từ cần điền:</b> <b>frescoes</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "baths",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...used saffron essence as perfume inside public baths...\"</i>",
+          "<b>Từ cần điền:</b> <b>baths</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "rainfall",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...changing rainfall patterns and unexpected frosts...\"</i>",
+          "<b>Từ cần điền:</b> <b>rainfall</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Wall paintings at Akrotiri show older men supervising young saffron pickers.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bích họa chỉ vẽ phụ nữ trẻ hái hoa (<i>young women gathering saffron blossoms</i>), không có đàn ông lớn tuổi giám sát.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Medieval traders sometimes mixed saffron with honey to increase its weight.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Dishonest traders soaked batches in honey or oil to make shipments heavier...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Merchants caught cheating in Nuremberg could avoid death by paying financial fines.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thương nhân gian lận bị thiêu sống hoặc chôn sống (<i>burned at the stake or buried alive</i>), không được nộp phạt thoát tội.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Crocin is the chemical compound that creates saffron's strong aroma.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>Crocin</i> tạo màu vàng óng, còn <i>safranal</i> mới là chất tạo mùi thơm.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Farmers in northeastern Iran receive government money to protect corms from frost.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bài có nhắc sương giá đe dọa mùa vụ ở Iran nhưng không đề cập chính phủ có hỗ trợ tiền hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

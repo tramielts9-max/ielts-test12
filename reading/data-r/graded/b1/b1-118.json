@@ -1,0 +1,160 @@
+{
+  "title": "[B1 • Band 5.0] Bài 118: The Ancient Stepwells of Western India",
+  "answers": {
+    "q1": "monsoon",
+    "q2": "steps",
+    "q3": "sculptures",
+    "q4": "women",
+    "q5": "rainwater",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "FALSE",
+    "q9": "NOT GIVEN",
+    "q10": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 118 (LEVEL B1 • BAND 5.0)</h2><h3>The Ancient Stepwells of Western India</h3><p><strong>Paragraph 1.</strong> Across the dry plains of northwestern India, especially in Gujarat and Rajasthan, ancient builders created remarkable stone structures called stepwells. Known locally as <em>baolis</em> or <em>vavs</em>, these buildings are unique to the Indian subcontinent. Unlike ordinary vertical wells, where ropes and buckets pull water upward from the top, a stepwell is a deep multi-level stone trench. People walk down carved galleries below the ground to reach changing water levels.</p><p><strong>Paragraph 2.</strong> Stepwells grew out of the extreme local climate. For nine months each year, northwestern India suffers intense heat and drought, followed by <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">short <span class=\"kw\">monsoon</span> rains lasting only a few weeks</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Because the sandy soil absorbs rainwater very rapidly, surface streams dry up within days</span>. To guarantee water during the dry season, early communities dug deep trenches into underground aquifers. When water levels fell in summer, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">villagers walked down long flights of stone <span class=\"kw\">steps</span> to fill their pots</span>.</p><p><strong>Paragraph 3.</strong> Between the seventh and sixteenth centuries, stepwells changed from simple earth holes into grand stone monuments paid for by kings, wealthy merchants, and royal women. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">The finest surviving example is Rani ki Vav in Gujarat, ordered in 1063 CE by Queen Udayamati to honour her late husband, King Bhima I</span>. Reaching over thirty metres underground across seven levels, Rani ki Vav features hundreds of decorated pillars and <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">over eight hundred stone <span class=\"kw\">sculptures</span> of gods and dancers</span>.</p><p><strong>Paragraph 4.</strong> Beyond supplying water, stepwells played an important social role. Because carrying household water was women's work, the shaded stone halls served as a daily <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">gathering spot for village <span class=\"kw\">women</span></span> to talk, share news, and perform religious ceremonies away from men. Moreover, deep stone walls and evaporating pool water acted like natural air conditioning. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Temperatures inside were regularly six to ten degrees cooler than the hot air above</span>, offering welcome rest to desert traders at midday.</p><p><strong>Paragraph 5.</strong> Stepwells began to decline in the nineteenth century under British rule. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Colonial officials thought the pools were unhealthy because villagers stepped straight into the standing water, spreading diseases like cholera</span>. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">To stop infections, authorities installed iron hand-pumps and water pipes, filling many ancient stepwells with stones or blocking them with brick walls</span>. Over time, unused channels filled with mud and rubbish. Recently, however, severe underground water shortages have led Indian conservationists to clear the mud and restore historic stepwells to <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">collect seasonal <span class=\"kw\">rainwater</span></span> once again.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Stepwells in Northwestern India",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li>Heavy <b>1.</b> {{q1}} rains arrive for just a few weeks each year.</li><li>Villagers descended long flights of stone <b>2.</b> {{q2}} during dry summer months.</li><li>The monument Rani ki Vav displays more than eight hundred stone <b>3.</b> {{q3}} .</li><li>Shaded galleries acted as a social meeting place for village <b>4.</b> {{q4}} .</li><li>Today, workers restore old stepwells to capture seasonal <b>5.</b> {{q5}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "monsoon",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...short monsoon rains lasting only a few weeks.\"</i>"
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "steps",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...walked down long flights of stone steps...\"</i>"
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "sculptures",
+      "inputWidth": "120px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...over eight hundred stone sculptures...\"</i>"
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "women",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...gathering spot for village women...\"</i>"
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "rainwater",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...restore historic stepwells to collect seasonal rainwater...\"</i>"
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "The sandy ground in northwestern India absorbs rainwater very slowly.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Đất cát thấm nước mưa rất nhanh (<i>very rapidly</i>), không phải chậm."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Queen Udayamati commissioned Rani ki Vav in memory of her husband.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...ordered in 1063 CE by Queen Udayamati to honour her late husband...\"</i>"
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Air at the bottom of a stepwell was warmer than the surface air.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Nhiệt độ bên dưới mát hơn (<i>six to ten degrees cooler</i>) chứ không ấm hơn."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "British authorities paid local Indian builders high salaries to seal the old wells.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Có nói chính quyền lấp giếng, không hề đề cập đến tiền lương trả cho thợ."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "British officials believed walking into stepwell water caused serious illnesses to spread.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...villagers stepped straight into the standing water, spreading diseases like cholera.\"</i>"
+        ]
+      }
+    }
+  }
+}

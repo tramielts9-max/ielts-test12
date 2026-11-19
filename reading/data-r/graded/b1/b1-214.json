@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 214: Beyond the Double Helix: Epigenetics",
+  "answers": {
+    "q1": "NOT GIVEN",
+    "q2": "TRUE",
+    "q3": "FALSE",
+    "q4": "TRUE",
+    "q5": "FALSE",
+    "q6": "sequence",
+    "q7": "software",
+    "q8": "histones",
+    "q9": "rats",
+    "q10": "reversible"
+  },
+  "passageHtml": "<h2>PASSAGE 214 (LEVEL B1 • BAND 5.0)</h2><h3>Beyond the Double Helix: The Epigenetics Revolution</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Ever since James Watson and Francis Crick described the double-helix shape of DNA in 1953, biology was dominated by genetic determinism</span>. Scientists widely believed that a person's DNA code acted as an unchangeable blueprint set at birth. Under this old model, your future risks for illness, ageing, and physical strength appeared completely fixed by the genes inherited from your parents.</p><p><strong>Paragraph 2.</strong> In recent decades, however, a field called epigenetics has overturned that strict view. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Epigenetics studies functional shifts in gene activity that happen without changing the basic DNA <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">sequence</span></span> itself</span>. Think of the human body as a computer system: while the DNA hardware remains identical inside every cell, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">epigenetic markers work like <span class=\"kw\">software</span> that instructs each cell when to turn specific genetic programs on or off</span>.</p><p><strong>Paragraph 3.</strong> Cells control gene activity mainly through two chemical tools. In DNA methylation, tiny methyl clusters attach directly to spots along the DNA strand, blocking cell machinery from reading the gene and switching it off. In a second method, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">long DNA threads wind tightly around barrel-shaped proteins called <span class=\"kw\">histones</span></span>. When chemical tags loosen these spools, genes become active; when tags squeeze histones tightly together, genes stay silent.</p><p><strong>Paragraph 4.</strong> Crucially, lifestyle and environmental conditions constantly reshape these switches. Stress, pollution, exercise, and food choices all modify methyl tags. Biologist Dr. Moshe Szyf tested this in laboratory rodents: <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">baby <span class=\"kw\">rats</span> ignored by their mothers developed heavy methyl blocks on stress-control genes and grew into fearful adults</span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">When scientists later gave those animals medicine to strip away the extra methyl tags, their calm behaviour returned</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Even more surprisingly, studies of the 1944 Dutch Hunger Winter showed that severe starvation during pregnancy altered metabolic genes in both children and grandchildren</span>.</p><p><strong>Paragraph 5.</strong> These findings are creating hopeful new medical treatments. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Unlike fixed genetic errors that require difficult gene-editing surgery, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">epigenetic tags are chemically <span class=\"kw\">reversible</span></span></span>. Cancer specialists have developed drugs that remove unwanted methyl locks from protective tumor-fighting genes, stopping bone marrow cancer growth while leaving healthy cells undamaged.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–5",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 6–10",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "How Epigenetics Operates",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<p>Epigenetics examines changes in gene expression that do not alter the underlying DNA <b>6.</b> {{q6}} . Scientists compare epigenetic markers to computer <b>7.</b> {{q7}} controlling which genetic instructions run. Inside cells, DNA wraps around special proteins named <b>8.</b> {{q8}} that loosen or tighten to switch genes on or off. In Dr. Szyf's experiments, neglected baby <b>9.</b> {{q9}} showed extreme fear until drugs removed their extra methyl tags. Because these tags are chemically <b>10.</b> {{q10}} , doctors can use drugs to fight certain cancers safely.</p>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "James Watson and Francis Crick received their Nobel Prize in the city of London.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Chỉ nhắc họ mô tả cấu trúc xoắn kép năm 1953, không nhắc giải Nobel ở London.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Epigenetics explores changes in gene activity that leave the DNA order untouched.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...without changing the basic DNA sequence itself.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Epigenetic changes caused by wartime starvation disappeared completely after one generation.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thay đổi di truyền xuống cả đời con và đời cháu (<i>children and grandchildren</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Laboratory drugs successfully restored calm stress reactions in neglected adult animals.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...gave those animals medicine to strip away the extra methyl tags, their calm behaviour returned.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Epigenetic treatments require permanent surgical editing of the DNA sequence.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Dấu epigenetic đảo ngược được bằng thuốc hóa học, không cần phẫu thuật sửa gen cố định.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "sequence",
+      "inputWidth": "120px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...without changing the basic DNA sequence itself.\"</i>",
+          "<b>Từ cần điền:</b> <b>sequence</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "software",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...epigenetic markers work like software...\"</i>",
+          "<b>Từ cần điền:</b> <b>software</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "histones",
+      "inputWidth": "120px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...barrel-shaped proteins called histones.\"</i>",
+          "<b>Từ cần điền:</b> <b>histones</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "rats",
+      "inputWidth": "100px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...baby rats ignored by their mothers...\"</i>",
+          "<b>Từ cần điền:</b> <b>rats</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "reversible",
+      "inputWidth": "120px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...epigenetic tags are chemically reversible.\"</i>",
+          "<b>Từ cần điền:</b> <b>reversible</b>."
+        ]
+      }
+    }
+  }
+}

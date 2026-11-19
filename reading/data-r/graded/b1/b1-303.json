@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 303: Sunken Archives: Deep-Sea Archaeology",
+  "answers": {
+    "q1": "robots",
+    "q2": "profits",
+    "q3": "context",
+    "q4": "budgets",
+    "q5": "treaty",
+    "q6": "NO",
+    "q7": "NOT GIVEN",
+    "q8": "YES",
+    "q9": "YES",
+    "q10": "NO"
+  },
+  "passageHtml": "<h2>PASSAGE 303 (LEVEL B1 • BAND 5.0)</h2><h3>Sunken Archives: The Ethics of Deep-Sea Archaeology</h3><p><strong>Paragraph 1.</strong> For centuries, the deep ocean floor acted like a locked vault, keeping thousands of ancient shipwrecks safe beneath miles of water. Over the past twenty years, however, improved sound sonar and deep-diving <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">robots</span></span> have opened up the deep seabed. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">In her book <em>Treasures of the Abyss</em>, maritime archaeologist Dr. Elena Gomez examines the fierce conflict between commercial treasure hunters and scientific researchers</span>.</p><p><strong>Paragraph 2.</strong> To private salvage companies funded by investors, historic wrecks are simply underwater banks. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Firms spend millions sending robotic submarines down to collect gold, silver coins, and valuable porcelain, selling them at auctions to earn big <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">profits</span></span></span>. Dr. Gomez argues that this destroys real history. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In scientific archaeology, an object's exact physical <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">context</span></span>—its precise spot next to the hull and cargo—provides nearly ninety percent of its historical value</span>. When mechanical claws scoop coins hastily, that irreplaceable data vanishes forever.</p><p><strong>Paragraph 3.</strong> On the other hand, commercial firms argue that without private money, deep shipwrecks would stay untouched forever. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">State museums and university teams face tight public <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">budgets</span></span> and cannot afford tens of millions of dollars to rent research ships</span>. Companies suggest sharing projects: selling 'duplicate' objects to cover costs while donating unique pieces to museums. Gomez rejects this idea, noting that calling historic artifacts 'duplicates' is merely a business trick to justify looting.</p><p><strong>Paragraph 4.</strong> Legal gaps make the problem even worse. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">In open international waters far beyond national borders, local heritage laws have zero legal power</span>. Although the 2001 UNESCO <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">treaty</span></span> stated that underwater artifacts should never be sold commercially, major sea powers like the United States and the United Kingdom refused to accept it. Without strict global rules, our shared underwater history risks being quietly emptied.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Debate Over Deep-Sea Shipwrecks",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">New sound sonar and diving <b>1.</b> {{q1}} allow humans to reach deep wrecks.</li><li style=\"margin-bottom:8px;\">Private firms sell rescued coins and porcelain to generate large <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">Grabbing items carelessly destroys their spatial <b>3.</b> {{q3}} on the seabed.</li><li style=\"margin-bottom:8px;\">State museums lack deep-sea ships because of limited public <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:8px;\">Major nations like the US and UK refused to join the 2001 UNESCO <b>5.</b> {{q5}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "robots",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...improved sound sonar and deep-diving robots...\"</i>",
+          "<b>Từ cần điền:</b> <b>robots</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "profits",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...selling them at auctions to earn big profits.\"</i>",
+          "<b>Từ cần điền:</b> <b>profits</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "context",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...an object's exact physical context...\"</i>",
+          "<b>Từ cần điền:</b> <b>context</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "budgets",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...face tight public budgets...\"</i>",
+          "<b>Từ cần điền:</b> <b>budgets</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "treaty",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...the 2001 UNESCO treaty...\"</i>",
+          "<b>Từ cần điền:</b> <b>treaty</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Private salvage companies donate every silver coin they find to public museums.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Họ bán đấu giá để kiếm lời cho cổ đông, không tặng hết cho bảo tàng.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Dr. Elena Gomez previously worked for a commercial salvage firm before writing her book.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Bài chỉ giới thiệu bà là nhà khảo cổ học hàng hải và tác giả cuốn sách.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Recording an object's exact underwater spot provides most of its historical value.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Vị trí chính xác mang lại tới gần 90% giá trị lịch sử.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Public museums often lack sufficient funding to hire expensive research vessels.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Ngân sách công eo hẹp khiến bảo tàng không đủ chi trả hàng chục triệu đô la.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "National heritage laws protect shipwrecks even in open international oceans.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Ngoài vùng đặc quyền kinh tế quốc gia, luật di sản nội địa không có hiệu lực pháp lý.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

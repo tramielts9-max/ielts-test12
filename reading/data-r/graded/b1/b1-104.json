@@ -1,0 +1,147 @@
+{
+  "title": "[B1 • Band 5.0] Bài 104: The Terracotta Army: Ancient Guardians in Clay",
+  "answers": {
+    "q1": "well",
+    "q2": "moulds",
+    "q3": "names",
+    "q4": "lacquer",
+    "q5": "earth",
+    "q6": "NOT GIVEN",
+    "q7": "FALSE",
+    "q8": "FALSE",
+    "q9": "TRUE"
+  },
+  "passageHtml": "<h2>READING PASSAGE — B1 (BAND 5.0) • TEST 104</h2><h3>The Terracotta Army: Ancient Guardians in Clay</h3><p><strong>Paragraph 1.</strong> In March 1974, during a severe drought in Shaanxi province, China, a group of local farmers started digging a deep <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">well</span></span> east of the ancient capital of Xi'an. A few metres down, their shovels hit hard, baked clay. Digging further, they pulled up pottery pieces, bronze arrowheads, and a life-sized clay human head. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Realizing the finds might be important, local officials invited archaeological teams to examine the site</span>. This ordinary farm project soon revealed one of the greatest discoveries of the twentieth century: the Terracotta Army of Emperor Qin Shi Huang.</p><p><strong>Paragraph 2.</strong> Qin Shi Huang conquered six rival kingdoms to unite China in 221 BCE. Believing he would continue ruling in the afterlife, he ordered the construction of a massive underground tomb complex soon after becoming emperor as a teenager. Later historical records written by the Han historian Sima Qian state that over 700,000 forced workers and skilled artisans laboured for nearly forty years to finish the site, filling it with palaces and thousands of clay soldiers, archers, chariots, and horses.</p><p><strong>Paragraph 3.</strong> Excavations proved that building this army relied on clever mass-production methods. State workshops pressed basic body parts—such as feet, legs, arms, and torsos—from coarse local clay using reusable hollow <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">moulds</span></span>. However, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">artists then carved unique hairstyles, ears, and facial expressions onto each warrior by hand</span> so that no two figures looked alike. To ensure strict quality control, master craftsmen stamped their personal <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">names</span></span> onto hidden areas of the statues before firing.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Originally, the terracotta soldiers were not the plain grey or brown statues seen in museums today. Every warrior was painted in bright mineral colours</span>, including red, green, blue, and a synthetic purple. These colours were brushed over a protective base layer of natural <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">lacquer</span></span> taken from Chinese trees. Sadly, when newly dug statues meet northern China's dry air, this ancient base layer dries out within minutes, shrinks, and peels the bright paint away.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">To prevent this rapid damage, modern scientists now spray freshly uncovered statues with special protective chemical solutions or seal them inside damp plastic containers</span>. Meanwhile, testing on the real bronze swords and spears held by the warriors showed that their metal blades stayed remarkably sharp and free of rust for over two millennia, thanks to the natural chemistry of the surrounding <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">earth</span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "Discovery and Construction of the Terracotta Army",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>In 1974, Chinese farmers uncovered ancient clay statues while digging a <b>1.</b> {{q1}} during a dry season. Archaeologists later found that workers used reusable clay <b>2.</b> {{q2}} to shape basic body parts before sculpting faces by hand. To monitor quality, craftsmen marked their own <b>3.</b> {{q3}} on hidden sections. The statues were originally painted over a natural tree <b>4.</b> {{q4}} layer, which peels quickly in dry air. Meanwhile, real bronze weapons remained rust-free because of the surrounding <b>5.</b> {{q5}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–9",
+      "instructions": "<i>Do the following statements agree with the information given in the passage?<br>Write <b>TRUE</b>, <b>FALSE</b> or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "well",
+      "inputWidth": "95px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"started digging a deep well\"</i> → Từ cần điền: <b>well</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "moulds",
+      "inputWidth": "105px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"using reusable hollow moulds\"</i> → Từ cần điền: <b>moulds</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "names",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"stamped their personal names onto hidden areas...\"</i> → Từ cần điền: <b>names</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "lacquer",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"protective base layer of natural lacquer\"</i> → Từ cần điền: <b>lacquer</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "earth",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"natural chemistry of the surrounding earth\"</i> → Từ cần điền: <b>earth</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "The Shaanxi farmers immediately knew that the clay head was over two thousand years old.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Chính quyền địa phương thấy có thể quan trọng nên gọi chuyên gia, hoàn toàn không nói nông dân có biết ngay niên đại hơn 2000 năm tuổi hay không → Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "All clay soldiers in the tomb were given identical facial features.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nghệ nhân chạm khắc bằng tay nên <i>\"no two figures looked alike\"</i> (không tượng nào giống nhau) → Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "In ancient times, the terracotta statues were left completely unpainted.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Every warrior was painted in bright mineral colours\"</i> → Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Modern scientists use chemical sprays to protect newly uncovered statues from dry air.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"spray freshly uncovered statues with special protective chemical solutions...\"</i> → Chọn <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

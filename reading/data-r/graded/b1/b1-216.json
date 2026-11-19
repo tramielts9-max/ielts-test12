@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 216: Bioprospecting in the Cryosphere",
+  "answers": {
+    "q1": "YES",
+    "q2": "NO",
+    "q3": "NOT GIVEN",
+    "q4": "NO",
+    "q5": "YES",
+    "q6": "soil",
+    "q7": "Greenland",
+    "q8": "shield",
+    "q9": "temperatures",
+    "q10": "treaty"
+  },
+  "passageHtml": "<h2>PASSAGE 216 (LEVEL B1 • BAND 5.0)</h2><h3>Bioprospecting in the Cryosphere: The Cold Search for Novel Antibiotics</h3><p><strong>Paragraph 1.</strong> Modern medicine is entering a dangerous crisis. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Decades of antibiotic overuse in hospitals and livestock farming have created drug-resistant germs known as 'superbugs'</span>. The World Health Organization estimates that unless new medicines appear soon, resistant infections could kill ten million people every year by 2050. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Historically, almost all antibiotics came from bacteria living in farm <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">soil</span></span>, yet after seventy years of searching, researchers mostly find the same old molecules again</span>.</p><p><strong>Paragraph 2.</strong> To escape this dead end, scientists are exploring frozen regions of Earth—glaciers, underground polar lakes, and frozen Antarctic earth. Far from empty ice, these freezing worlds hold cold-adapted microbes called psychrophiles. Chemical biologist Dr. Rebecca Frost notes that surviving extreme cold, strong ultraviolet light, and scarce food forced these bacteria to build flexible cell membranes and active enzymes that work smoothly near freezing point. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">To defeat rival microbes in tiny ice spaces, they also produce natural germ-killing chemicals never seen before in medicine</span>.</p><p><strong>Paragraph 3.</strong> Searching for these hidden drugs, microbiologist Dr. Liam Chen led a team deep into <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">Greenland</span></span>. His expedition drilled four hundred metres down to pull out 30,000-year-old ice cores and isolated over two hundred bacterial strains. In lab trials, a compound taken from a newly discovered bacterium destroyed MRSA—a dangerous hospital superbug—by breaking apart the protective <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">shield</span></span> that normally blocks standard antibiotics.</p><p><strong>Paragraph 4.</strong> Turning polar discoveries into factory-made pills remains difficult, however. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Industrial engineer Dr. Sven Lindholm warns that standard drug tanks are built for warm bacteria, whereas cold microbes die once <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">broth <span class=\"kw\">temperatures</span> rise above ten degrees Celsius</span></span>. Cooling huge factory tanks is terribly expensive unless scientists move the cold-germ genes into warm-tolerant host cells.</p><p><strong>Paragraph 5.</strong> Legal and climate problems add further urgency. Bioethicist Dr. Maya Patel points out that <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">the 1959 Antarctic <span class=\"kw\">treaty</span> covers peace and nature protection, yet says nothing about who owns profits from polar drug discoveries</span>. Without clear international rules, private companies might take huge profits without supporting polar conservation. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Meanwhile, rapid glacier melting threatens to wipe out thousands of valuable ice microbes before researchers can even record them</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 1–5",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 6–10",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Searching for Polar Antibiotics",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">After 70 years of study, standard farm <b>6.</b> {{q6}} rarely yields brand-new drugs.</li><li style=\"margin-bottom:8px;\">Dr. Liam Chen extracted 30,000-year-old ice cores deep inside <b>7.</b> {{q7}} .</li><li style=\"margin-bottom:8px;\">One polar bacterium broke through MRSA's protective <b>8.</b> {{q8}} .</li><li style=\"margin-bottom:8px;\">Cold microbes die in factory tanks if broth <b>9.</b> {{q9}} exceed 10°C.</li><li style=\"margin-bottom:8px;\">The 1959 Antarctic <b>10.</b> {{q10}} has no rules on sharing drug profits.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Using too many antibiotics in medicine and farming helped create resistant superbugs.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Lạm dụng ở bệnh viện và chăn nuôi gia súc đã tạo ra siêu vi khuẩn kháng thuốc.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Ordinary agricultural soil continues to supply plenty of brand-new antibiotic structures.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Các nhà nghiên cứu chủ yếu chỉ tìm lại được những phân tử cũ.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Dr. Rebecca Frost personally joined Dr. Chen's drilling team in Greenland.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 & 3:</b> Bài không nói Dr. Frost có tham gia chuyến khoan băng ở Greenland cùng Dr. Chen hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Standard factory fermentation equipment is already designed to handle freezing microbes cheaply.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thiết bị chuẩn chỉ dành cho vi khuẩn ưa ấm; làm lạnh bồn chứa rất đắt đỏ.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Global warming could destroy undiscovered polar microbes before science studies them.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Băng tan nhanh đe dọa xóa sổ hàng ngàn vi sinh vật trước khi kịp ghi nhận.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "soil",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...bacteria living in farm soil...\"</i>",
+          "<b>Từ cần điền:</b> <b>soil</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "Greenland",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...led a team deep into Greenland.\"</i>",
+          "<b>Từ cần điền:</b> <b>Greenland</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "shield",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...breaking apart the protective shield...\"</i>",
+          "<b>Từ cần điền:</b> <b>shield</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "temperatures",
+      "inputWidth": "130px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...when broth temperatures rise above ten degrees...\"</i>",
+          "<b>Từ cần điền:</b> <b>temperatures</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "treaty",
+      "inputWidth": "110px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...the 1959 Antarctic treaty covers peace...\"</i>",
+          "<b>Từ cần điền:</b> <b>treaty</b>."
+        ]
+      }
+    }
+  }
+}

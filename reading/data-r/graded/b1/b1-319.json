@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 319: The Metaphorical Machine",
+  "answers": {
+    "q1": "NOT GIVEN",
+    "q2": "TRUE",
+    "q3": "FALSE",
+    "q4": "TRUE",
+    "q5": "FALSE",
+    "q6": "hardware",
+    "q7": "motion",
+    "q8": "texture",
+    "q9": "speed",
+    "q10": "body"
+  },
+  "passageHtml": "<h2>PASSAGE 319 (LEVEL B1 • BAND 5.0)</h2><h3>The Metaphorical Machine: Embodied Cognition and Language</h3><p><strong>Paragraph 1.</strong> For decades, cognitive scientists viewed the human mind as a biological computer. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Spread by early artificial intelligence researchers and formal linguists, this computational model claimed that thinking simply meant arranging abstract symbols according to mathematical rules</span></span>. Under this view, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">our physical senses and bodies were treated as minor outside <span class=\"kw\">hardware</span></span>, while real thinking worked completely independently of flesh, muscles, and movement. In <em>The Flesh of Thought</em>, linguists Dr. Arthur Pence and Dr. Miriam Cho challenge this traditional view.</p><p><strong>Paragraph 2.</strong> Pence and Cho argue for 'embodied cognition'—the idea that abstract thought grows directly from physical interactions with the world around us. The bridge linking physical life to abstract reasoning is metaphor. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Far from being a poetic decoration used only by writers, metaphor acts as the basic operating system of everyday thinking</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">We understand time through physical <span class=\"kw\">motion</span> in space</span>: the future lies 'in front of us', the past stays 'behind us', and deadlines 'approach'. Similarly, we describe affection via temperature ('warm' welcome vs 'cold' stare) and career rank via height (climbing the 'corporate ladder').</p><p><strong>Paragraph 3.</strong> Modern brain imaging confirms that these everyday metaphors are wired into our biology. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">When volunteers read phrases like 'she had a rough day' or 'he grasped the idea', fMRI scans show that brain regions linked to physical movement and touch light up</span>—specifically the somatosensory cortex (which senses physical <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">texture</span></span>) and the motor cortex (which controls hand grasping). The brain literally understands abstract ideas by reactivating circuits originally built for physical action.</p><p><strong>Paragraph 4.</strong> Finally, Pence and Cho explain what this means for artificial intelligence. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Silicon computer chips lack living flesh, touch, and physical mortality; although they process symbols at astonishing <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\"><span class=\"kw\">speed</span></span>, they cannot genuinely understand what words mean</span>. An algorithm has never felt the warmth of an embrace or the heaviness of exhaustion. Until machines possess a physical <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\"><span class=\"kw\">body</span></span> that interacts directly with the material world, true understanding will remain uniquely human.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–5",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 6–10",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Embodied Cognition and AI Limits",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Early cognitive science dismissed the physical body as mere outside <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">Everyday language describes time using physical <b>7.</b> {{q7}} across space.</li><li style=\"margin-bottom:8px;\">Reading 'a rough day' activates the cortex that senses physical <b>8.</b> {{q8}} .</li><li style=\"margin-bottom:8px;\">Computers process symbols with remarkable <b>9.</b> {{q9}} but lack real understanding.</li><li style=\"margin-bottom:8px;\">True comprehension requires a physical <b>10.</b> {{q10}} interacting with the real world.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Dr. Pence and Dr. Cho worked as computer programmers before becoming linguists.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Bài chỉ giới thiệu họ là nhà ngôn ngữ học, không nhắc từng làm lập trình viên.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Early artificial intelligence researchers helped make the computer model of the mind popular.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Spread by early artificial intelligence researchers and formal linguists...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Metaphors are used mostly by poets rather than ordinary people in daily speech.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Không chỉ là trang trí của nhà thơ mà là hệ điều hành cốt lõi của tư duy hằng ngày.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Reading phrases about grasping ideas activates movement areas in the human brain.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Vùng vỏ não vận động (motor cortex) sáng lên khi đọc 'he grasped the idea'.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Modern silicon algorithms fully comprehend the emotional meaning behind human words.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...they cannot genuinely understand what words mean.\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "hardware",
+      "inputWidth": "120px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...treated as minor outside hardware...\"</i>",
+          "<b>Từ cần điền:</b> <b>hardware</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "motion",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"We understand time through physical motion in space...\"</i>",
+          "<b>Từ cần điền:</b> <b>motion</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "texture",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...somatosensory cortex (which senses physical texture)...\"</i>",
+          "<b>Từ cần điền:</b> <b>texture</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "speed",
+      "inputWidth": "100px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...process symbols at astonishing speed...\"</i>",
+          "<b>Từ cần điền:</b> <b>speed</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "body",
+      "inputWidth": "100px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Until machines possess a physical body...\"</i>",
+          "<b>Từ cần điền:</b> <b>body</b>."
+        ]
+      }
+    }
+  }
+}

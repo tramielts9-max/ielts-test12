@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 116: The Art and Mystery of Chinese Sericulture",
+  "answers": {
+    "q1": "mulberry",
+    "q2": "water",
+    "q3": "currency",
+    "q4": "gold",
+    "q5": "bamboo",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "TRUE",
+    "q9": "NOT GIVEN",
+    "q10": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 116 (LEVEL B1 • BAND 5.0)</h2><h3>The Art and Mystery of Chinese Sericulture</h3><p><strong>Paragraph 1.</strong> For over two thousand years, sericulture—the raising of silkworms and production of raw silk—remained one of the most closely guarded trade secrets in history. Ancient legend credits the discovery around 2700 BCE to Empress Leizu, who was sipping hot tea beneath a white mulberry tree when a cocoon dropped into her steaming cup. As she tried to lift it out, warm water softened the natural gum, and a fine, shining filament unwound across her fingers. Realising the strength of the fibre, she reportedly designed early rearing methods and the first silk loom.</p><p><strong>Paragraph 2.</strong> Behind this story lies centuries of careful selective breeding that turned wild moths into the domestic insect <em>Bombyx mori</em>. Adult moths are totally blind, unable to fly, and survive only a few days without eating to lay eggs. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Their delicate caterpillars feed exclusively on chopped fresh leaves of the white <span class=\"kw\">mulberry</span> tree</span>. After weeks of heavy feeding, the mature worm fastens itself to a straw frame and spins liquid protein from its mouth into a smooth oval cocoon.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">To harvest unbroken threads, workers must intervene before the insect finishes growing</span>. If an adult moth chews its way out, it cuts the continuous strand into thousands of useless bits. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Therefore, workers steam or drop whole cocoons into boiling <span class=\"kw\">water</span></span>, which kills the pupa inside and dissolves the sticky sericin gum. Once softened, workers brush the outer shell to find the loose end. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">A single cocoon supplies one unbroken thread measuring up to nine hundred metres</span>, and several strands are twisted together for weaving.</p><p><strong>Paragraph 4.</strong> In imperial China, silk was integrated directly into the state economy. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Rolls of woven cloth served as official <span class=\"kw\">currency</span> alongside metal coins to pay soldiers and government officials</span>. Strict clothing laws controlled colours across society, reserving yellow silk solely for the Emperor. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">To protect this monopoly, the imperial court made smuggling silkworm eggs or tree seeds out of China a crime punished by immediate execution</span>.</p><p><strong>Paragraph 5.</strong> Silk travelled westward along the Silk Road to wealthy Roman nobles. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Roman writer Pliny the Elder complained that <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">the empire spent enormous reserves of <span class=\"kw\">gold</span> each year buying Chinese silk</span></span>. Eventually, the secret leaked out in 552 CE, when Byzantine Emperor Justinian hired two monks who had previously lived in China. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">They successfully hid living silkworm eggs inside hollow <span class=\"kw\">bamboo</span> walking canes</span> and carried them safely to Constantinople, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">ending China's exclusive control over global silk production</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Chinese Silk Production & Trade",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Farmed silkworms eat only fresh leaves from the white <b>1.</b> {{q1}} tree.</li><li style=\"margin-bottom:8px;\">Cocoons are placed in boiling <b>2.</b> {{q2}} to soften sticky gum.</li><li style=\"margin-bottom:8px;\">In China, silk rolls worked as official <b>3.</b> {{q3}} to pay state workers.</li><li style=\"margin-bottom:8px;\">Pliny complained Rome lost huge supplies of <b>4.</b> {{q4}} buying silk.</li><li style=\"margin-bottom:8px;\">Two monks smuggled live eggs inside hollow <b>5.</b> {{q5}} canes.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "mulberry",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...fresh leaves of the white mulberry tree.\"</i>",
+          "<b>Từ cần điền:</b> <b>mulberry</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "water",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...drop whole cocoons into boiling water...\"</i>",
+          "<b>Từ cần điền:</b> <b>water</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "currency",
+      "inputWidth": "120px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Rolls of woven cloth served as official currency...\"</i>",
+          "<b>Từ cần điền:</b> <b>currency</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "gold",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...spent enormous reserves of gold each year buying Chinese silk.\"</i>",
+          "<b>Từ cần điền:</b> <b>gold</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "bamboo",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...inside hollow bamboo walking canes...\"</i>",
+          "<b>Từ cần điền:</b> <b>bamboo</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "A single silk cocoon can supply an unbroken thread hundreds of metres long.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Một kén cho sợi tơ liên tục dài tới 900 mét.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Adult silkmoths must be allowed to chew out of their cocoons before workers collect silk.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Phải thu hoạch trước khi bướm cắn rách kén (<i>intervene before the insect finishes growing</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Anyone caught taking silkworm eggs out of China faced the death penalty.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Buôn lậu trứng tằm ra khỏi Trung Quốc bị xử tử ngay (<i>punished by immediate execution</i>).",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Roman lawmakers banned citizens from importing silk because it was too expensive.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Pliny chỉ than phiền việc tốn vàng mua lụa, không hề nói La Mã ban luật cấm nhập khẩu.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Two monks ended China's exclusive silk monopoly by bringing eggs to Constantinople.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...carried them safely to Constantinople, ending China's exclusive control...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

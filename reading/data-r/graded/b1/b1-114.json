@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 114: The Secrets of the Peat Bog Bodies",
+  "answers": {
+    "q1": "oxygen",
+    "q2": "leather",
+    "q3": "skeleton",
+    "q4": "noose",
+    "q5": "porridge",
+    "q6": "NOT GIVEN",
+    "q7": "TRUE",
+    "q8": "FALSE",
+    "q9": "TRUE",
+    "q10": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 114 (LEVEL B1 • BAND 5.0)</h2><h3>The Secrets of the Peat Bog Bodies</h3><p><strong>Paragraph 1.</strong> Across the wet peat bogs of northwestern Europe—including Denmark, northern Germany, and the British Isles—workers cutting peat have uncovered hundreds of remarkably preserved Iron Age human bodies. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Unlike dry desert mummies, these 'bog bodies' keep their soft skin, internal organs, fingernails, and facial expressions</span>, offering scientists an unusual biological window into prehistoric human life.</p><p><strong>Paragraph 2.</strong> This extraordinary preservation happens because of the unique chemistry inside wetland bogs. Peat bogs are dominated by thick <em>Sphagnum</em> moss. As layers of dead moss sink and press down underwater over thousands of years, they create a still environment completely without <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">oxygen</span></span>, where ordinary flesh-eating bacteria cannot survive. Furthermore, the moss releases a natural chemical called sphagnan, which removes key nutrients and turns the water strongly acidic. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Just like commercial leather making, this acid tans human skin and hair into soft, dark-brown <span class=\"kw\">leather</span></span>. At the same time, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">high acidity dissolves bone minerals, frequently causing the entire internal <span class=\"kw\">skeleton</span> and teeth to vanish</span>.</p><p><strong>Paragraph 3.</strong> The most famous bog body is Tollund Man, dug up by Danish peat cutters near Silkeborg in May 1950. Buried more than 2,400 years ago, the man lay curled peacefully on his side wearing a pointed sheepskin cap. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">His facial whiskers and brow wrinkles stayed so lifelike that local police initially believed he was a recent murder victim</span>. However, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">a tightly woven leather <span class=\"kw\">noose</span> around his neck confirmed that he had been deliberately killed</span>.</p><p><strong>Paragraph 4.</strong> Modern doctors examined Tollund Man's preserved stomach and intestines to discover what people ate in the Iron Age. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Tests showed that his last meal consisted entirely of a thick <span class=\"kw\">porridge</span> cooked from barley, linseed, and over forty types of wild weed seeds. Noticeably, there was no meat, dairy food, or fresh summer fruit</span></span>, suggesting he died in late winter or early spring before new crops appeared.</p><p><strong>Paragraph 5.</strong> Historians still debate why these ancient people were placed in bogs. Nineteenth-century scholars, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">reading the Roman historian Tacitus, thought they were executed criminals or cowards thrown into wetlands as legal punishment</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Today, archaeologists note that valuable bronze weapons, gold jewellery, and imported pots were deliberately buried beside many bog bodies</span>, pointing strongly toward ritual human sacrifice offered during severe winter famines.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Chemistry and Case of Tollund Man",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Peat bogs prevent decay because the underwater layer contains no <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">Acidic sphagnan turns human skin and hair into dark-brown <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">Strong acid often dissolves the bones, making the internal <b>3.</b> {{q3}} disappear.</li><li style=\"margin-bottom:8px;\">A tight leather <b>4.</b> {{q4}} around Tollund Man's neck showed his death was violent.</li><li style=\"margin-bottom:8px;\">His final meal was a thick grain <b>5.</b> {{q5}} mixed with wild seeds.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "oxygen",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...create a still environment completely without oxygen...\"</i>",
+          "<b>Từ cần điền:</b> <b>oxygen</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "leather",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...tans human skin and hair into soft, dark-brown leather.\"</i>",
+          "<b>Từ cần điền:</b> <b>leather</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "skeleton",
+      "inputWidth": "115px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...causing the entire internal skeleton and teeth to vanish.\"</i>",
+          "<b>Từ cần điền:</b> <b>skeleton</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "noose",
+      "inputWidth": "105px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...a tightly woven leather noose around his neck...\"</i>",
+          "<b>Từ cần điền:</b> <b>noose</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "porridge",
+      "inputWidth": "115px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...consisted entirely of a thick porridge cooked from barley...\"</i>",
+          "<b>Từ cần điền:</b> <b>porridge</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Bog bodies keep soft body parts better than mummies found in dry deserts.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Bài chỉ nói xác ướp đầm lầy khác xác ướp sa mạc ở chỗ còn mô mềm, hoàn toàn không so sánh loại nào giữ tốt hơn (<i>better than</i>).",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "When Tollund Man was first found, local officers believed he had died very recently.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...local police initially believed he was a recent murder victim.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Tollund Man's stomach contained clear signs that he had eaten meat and fresh summer fruit.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Noticeably, there was no meat, dairy food, or fresh summer fruit...\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "The Roman writer Tacitus described how northern Europeans punished criminals in wetlands.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Học giả thế kỷ 19 đọc sử gia La Mã Tacitus viết về việc trừng phạt tội phạm ở vùng đầm lầy.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Modern museum display lights have permanently damaged most bog bodies.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bài viết không hề đề cập đến ánh sáng trưng bày trong bảo tàng hiện đại.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

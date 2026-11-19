@@ -1,0 +1,160 @@
+{
+  "title": "[B1 • Band 5.0] Bài 120: The Viking Longship: Maritime Masters of the North",
+  "answers": {
+    "q1": "rivets",
+    "q2": "roots",
+    "q3": "water",
+    "q4": "fat",
+    "q5": "clay",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN",
+    "q9": "TRUE",
+    "q10": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 120 (LEVEL B1 • BAND 5.0)</h2><h3>The Viking Longship: Maritime Masters of the North</h3><p><strong>Paragraph 1.</strong> Between the late eighth and eleventh centuries CE, Scandinavian warriors and traders known as the Vikings extended their influence from Russia to North America. Their success depended heavily on an extraordinary vessel: the Viking longship. Combining high speed, ocean toughness, and remarkable flexibility, the longship allowed mariners to cross stormy open seas while also entering shallow inland rivers.</p><p><strong>Paragraph 2.</strong> The secret of the longship lay in its building technique. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Unlike Mediterranean shipbuilders, who nailed planks edge-to-edge onto an internal wooden frame built first, Norse craftsmen worked from the outside in</span>. After shaping a massive oak keel as the main backbone, workers overlapped thin wooden planks along the hull. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">These overlapping boards were <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">fastened together with iron <span class=\"kw\">rivets</span></span></span>, and gaps were sealed with tarred wool or moss to block sea water. Only after finishing the outer shell did builders insert internal ribs, which were <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">tied tightly with flexible spruce <span class=\"kw\">roots</span></span> rather than rigid nails. This clever design allowed the ship to bend safely against powerful waves.</p><p><strong>Paragraph 3.</strong> Another major advantage was the ship's symmetrical shape and shallow depth in the water. Even when fully loaded with forty warriors and supplies, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">a longship needed less than one metre of <span class=\"kw\">water</span> to float</span></span>. As a result, raiders could travel up shallow rivers and land directly on open sandy beaches without needing deep-water harbours. Furthermore, because the front and back ends were identical, crews could reverse direction instantly inside narrow rocky channels.</p><p><strong>Paragraph 4.</strong> Longships used both oars and sail power. Carved holes along the upper sides held dozens of oars for quick movement in calm seas or during shore landings. On open ocean trips, sailors raised a giant square sail woven from thick wool and strengthened with leather strips. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">To stop ocean spray from soaking the heavy fabric, crews coated the wool sails with animal <span class=\"kw\">fat</span></span>, helping ships cruise steadily at over ten knots.</p><p><strong>Paragraph 5.</strong> Maritime archaeology has confirmed how advanced these ships were. In 1904, Norwegian researchers dug up the ninth-century Oseberg ship, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">preserved inside wet blue <span class=\"kw\">clay</span></span> in a royal burial mound. Later, in 1962, five sunken vessels recovered in Denmark's Roskilde Fjord <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">proved that Vikings produced specialised ship designs</span>: <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">slim, fast warships (<em>drakkars</em>) for raiding and wide, deep cargo ships (<em>knarrs</em>) for transporting farm animals and heavy trade goods</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Building and Using Viking Longships",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li>Overlapping hull planks were joined using iron <b>1.</b> {{q1}} .</li><li>Inside ribs were tied with bendy spruce <b>2.</b> {{q2}} so the hull could flex.</li><li>A loaded ship could float in under one metre of <b>3.</b> {{q3}} .</li><li>Crews sealed woolen sails with animal <b>4.</b> {{q4}} to keep out sea spray.</li><li>The Oseberg ship survived well because it rested in wet blue <b>5.</b> {{q5}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "rivets",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...fastened together with iron rivets...\"</i>"
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "roots",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...tied tightly with flexible spruce roots...\"</i>"
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "water",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...needed less than one metre of water to float.\"</i>"
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "fat",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...coated the wool sails with animal fat...\"</i>"
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "clay",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...preserved inside wet blue clay...\"</i>"
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Mediterranean shipbuilders built the internal wooden frame before attaching outer planks.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Thợ Địa Trung Hải đóng ván lên khung sườn dựng sẵn bên trong trước."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Viking warriors needed deep stone harbours in order to disembark safely from longships.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Tàu có thể cập thẳng vào bãi cát mà không cần cảng sâu (<i>without needing deep-water harbours</i>)."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Viking rowers sang rhythmic songs to keep everyone pulling the oars at the same speed.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Không có thông tin nào nói thủy thủ hát khi chèo thuyền."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Excavations in Denmark showed that the Vikings built distinct ship types for different tasks.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Phát hiện ở Roskilde Fjord chứng minh người Viking đóng các mẫu tàu chuyên biệt khác nhau."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Cargo ships known as knarrs were designed to travel faster than narrow warships.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chiến thuyền <i>drakkars</i> mới nhỏ gọn và nhanh (<i>slim, fast warships</i>), còn <i>knarrs</i> thân rộng để chở hàng nặng."
+        ]
+      }
+    }
+  }
+}

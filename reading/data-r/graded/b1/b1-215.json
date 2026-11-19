@@ -1,0 +1,200 @@
+{
+  "title": "[B1 • Band 5.0] Bài 215: The Architecture of Choice: Nudge Theory",
+  "answers": {
+    "q1": "tiredness",
+    "q2": "Austria",
+    "q3": "bins",
+    "q4": "electricity",
+    "q5": "debate",
+    "q6": "C",
+    "q7": "A",
+    "q8": "D",
+    "q9": "B",
+    "q10": "C"
+  },
+  "passageHtml": "<h2>PASSAGE 215 (LEVEL B1 • BAND 5.0)</h2><h3>The Architecture of Choice: Behavioral Nudge Theory in Public Policy</h3><p><strong>Paragraph 1.</strong> For generations, traditional economics pictured human beings as perfectly logical planners who carefully weigh every cost and benefit before making decisions. In reality, modern behavioural research proves that human choices are shaped by mental <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">tiredness</span></span>, habits, and a strong wish for quick rewards. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Instead of forcing people with strict bans or heavy taxes, governments today increasingly rely on 'nudge theory'</span>.</p><p><strong>Paragraph 2.</strong> Popularized in 2008 by Richard Thaler and Cass Sunstein, nudge theory focuses on 'choice architecture'—the thoughtful design of how everyday options are arranged. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">A nudge alters the environment so that the healthiest or safest option becomes the easiest path, while still keeping 'libertarian paternalism': citizens remain completely free to pick any other option if they want</span>.</p><p><strong>Paragraph 3.</strong> The strongest tool in choice architecture is the automatic default setting, because humans naturally prefer not to spend effort changing pre-set choices. In Europe, organ donation laws show this clearly. In countries like Germany and the United Kingdom, citizens must actively sign up ('opt-in'), resulting in consent rates between twelve and fifteen percent. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In contrast, nations using 'opt-out' defaults—such as <span class=\"kw\">Austria</span>, France, and Spain—automatically include citizens unless they officially refuse, achieving rates above ninety-nine percent without spending anything on advertisements</span></span>.</p><p><strong>Paragraph 4.</strong> Cities also apply nudges to solve environmental problems. In Copenhagen, planners reduced street litter by forty-six percent simply by painting bright green footprints along pavements pointing toward public rubbish <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">bins</span></span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">In California, utility companies lowered household <span class=\"kw\">electricity</span> use by printing comparison graphs on monthly bills</span></span> showing how a home's power use compared with its most energy-saving neighbours. Appealing to people's desire to fit in proved far more effective than offering cash discounts.</p><p><strong>Paragraph 5.</strong> Nevertheless, nudge theory faces strong ethical criticism. Civil rights thinkers warn that government nudges operate below conscious awareness and bypass open democratic <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">debate</span></span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Political scientists also fear that leaders use cheap, symbolic nudges—like painting footprints—as an easy excuse to avoid expensive structural reforms for poverty, inequality, and climate change</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "How Behavioral Nudges Work",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Human decisions are often limited by habits and mental <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">Nations with 'opt-out' organ laws, including Spain, France, and <b>2.</b> {{q2}} , exceed 99% consent.</li><li style=\"margin-bottom:8px;\">Copenhagen lowered littering by painting green footprints pointing to street <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">California power firms reduced home <b>4.</b> {{q4}} consumption using social charts.</li><li style=\"margin-bottom:8px;\">Critics argue nudges influence citizens quietly without open democratic <b>5.</b> {{q5}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 6–10",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "tiredness",
+      "inputWidth": "120px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...shaped by mental tiredness, habits...\"</i>",
+          "<b>Từ cần điền:</b> <b>tiredness</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "Austria",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...such as Austria, France, and Spain...\"</i>",
+          "<b>Từ cần điền:</b> <b>Austria</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "bins",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...pointing toward public rubbish bins.\"</i>",
+          "<b>Từ cần điền:</b> <b>bins</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "electricity",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...lowered household electricity use...\"</i>",
+          "<b>Từ cần điền:</b> <b>electricity</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "debate",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...bypass open democratic debate.\"</i>",
+          "<b>Từ cần điền:</b> <b>debate</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "How does nudge theory guide citizens differently from traditional government laws?",
+      "options": [
+        "A. It removes all unhealthy goods from supermarkets.",
+        "B. It charges higher taxes on wasteful products.",
+        "C. It shapes behaviour gently without bans or financial penalties.",
+        "D. It requires citizens to attend weekly economic classes."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Không dùng lệnh cấm hay thuế nặng (<i>without strict bans or heavy taxes</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "What does 'libertarian paternalism' require in Paragraph 2?",
+      "options": [
+        "A. Citizens must remain free to choose alternative options.",
+        "B. Governments should lock people into one permanent rule.",
+        "C. Companies must pay workers to adopt better habits.",
+        "D. Courts should punish people who refuse helpful nudges."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Người dân vẫn hoàn toàn tự do chọn phương án khác nếu muốn.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "How did 'opt-out' nations achieve over 99% organ donor consent?",
+      "options": [
+        "A. By spending millions on television advertisements",
+        "B. By offering tax discounts to every registered donor",
+        "C. By making refusal illegal for adults under fifty",
+        "D. By setting donation as the automatic default choice"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Đặt hiến tạng làm lựa chọn mặc định trừ khi từ chối chính thức.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why did California power bills succeed in cutting electricity usage?",
+      "options": [
+        "A. They doubled electricity prices during summer evenings.",
+        "B. They appealed to customers' desire to match efficient neighbours.",
+        "C. They gave large cash rebates to everyone who read them.",
+        "D. They turned off streetlights automatically at midnight."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Đánh vào tâm lý muốn hòa nhập/bằng hàng xóm (<i>desire to fit in</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What warning do political scientists give in Paragraph 5?",
+      "options": [
+        "A. Nudges fail completely in European cities.",
+        "B. Citizens refuse to read reworded tax letters.",
+        "C. Small nudges may distract leaders from solving major crises.",
+        "D. Painting footprints costs more than building hospitals."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Trở thành cái cớ né tránh cải cách tốn kém cho nghèo đói, bất bình đẳng và khí hậu.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

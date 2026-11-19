@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 211: The Wood Wide Web: Rethinking the Subterranean Forest",
+  "answers": {
+    "q1": "FALSE",
+    "q2": "TRUE",
+    "q3": "NOT GIVEN",
+    "q4": "FALSE",
+    "q5": "TRUE",
+    "q6": "minerals",
+    "q7": "bags",
+    "q8": "autumn",
+    "q9": "warnings",
+    "q10": "seedlings"
+  },
+  "passageHtml": "<h2>PASSAGE 211 (LEVEL B1 • BAND 5.0)</h2><h3>The Wood Wide Web: Rethinking the Subterranean Forest</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">For over a century, traditional forest science viewed trees as lone fighters competing fiercely for light, water, and nutrients</span>. Whenever one tree captured moisture, experts assumed its neighbours suffered. Over the last thirty years, however, researchers have uncovered a very different picture beneath the forest floor. Hidden under fallen leaves lies an intricate underground web of mycorrhizal fungi linking trees of different ages and species into one connected community.</p><p><strong>Paragraph 2.</strong> This underground partnership works through biological trade. Trees are experts at making carbon sugars from sunlight, yet their thick roots struggle to absorb <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">minerals</span> like phosphorus and nitrogen</span> from packed soil. Conversely, mycorrhizal fungi grow microscopic threads called hyphae that reach into millions of tiny soil spaces, collecting water and vital nutrients. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">In return, trees supply up to forty percent of their sugars directly to the fungal network</span>.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">To watch resources travel across this living network, ecologist Dr. Suzanne Simard carried out a famous experiment in western Canada</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Her team sealed branches of Douglas fir and paper birch trees inside airtight plastic <span class=\"kw\">bags</span></span> and added special carbon markers. Tracking tools showed carbon moving in both directions through the fungi. In midsummer, sunlit birch trees shared extra carbon with shaded young firs; <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">in <span class=\"kw\">autumn</span>, when birch trees lost their leaves, evergreen firs sent carbon back</span>.</p><p><strong>Paragraph 4.</strong> Beyond sharing food, the fungal web carries early danger alerts. Eco-physiologist Dr. Kathryn Fahy tested how plants react when insects called aphids attack them. Connected healthy plants quickly produced defensive chemicals within twenty-four hours to drive pests away and attract helpful wasps. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">However, when Fahy cut the fungal threads between plants, nearby trees received no <span class=\"kw\">warnings</span> and were left unprotected</span></span>.</p><p><strong>Paragraph 5.</strong> Ancient 'mother trees' sit at the heart of this forest network, connecting with hundreds of surrounding trees. Dr. Marcus Thorne discovered that mother trees recognise their own family, sending extra carbon to related young trees. Unfortunately, heavy logging and chemical sprays destroy this underground web. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Simard now urges loggers to leave veteran hub trees standing so newly planted <span class=\"kw\">seedlings</span> can join the established network and survive better</span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–5",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 6–10",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "How the Underground Forest Works",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ],
+      "template": "<p>Trees and fungi rely on a mutually helpful partnership. While fungi supply water and key <b>6.</b> {{q6}} from dense earth, trees provide carbon sugars. In Canada, Dr. Suzanne Simard enclosed tree branches in plastic <b>7.</b> {{q7}} to track carbon flow, discovering that firs returned carbon to bare birch trees in <b>8.</b> {{q8}} . Beyond nutrition, Dr. Fahy proved that cutting fungal threads stops danger <b>9.</b> {{q9}} from reaching healthy plants. Today, saving giant mother trees helps young <b>10.</b> {{q10}} survive after logging.</p>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Traditional forestry a century ago believed trees regularly shared water and food equally.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Khoa học lâm nghiệp truyền thống coi cây là những cá thể đơn độc cạnh tranh khốc liệt (<i>lone fighters competing fiercely</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Host trees pass a significant portion of their sugars to underground fungi.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...supply up to forty percent of their sugars directly to the fungal network.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Dr. Suzanne Simard's Canadian forest experiment took fifteen years to finish.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chỉ nhắc địa điểm thí nghiệm ở tây Canada, không nói thời gian kéo dài 15 năm.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Cutting fungal threads between plants still allowed distress signals to travel through the dirt.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Khi cắt sợi nấm, các cây lân cận không nhận được cảnh báo (<i>received no warnings</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Leaving old hub trees uncut helps young planted trees survive more easily.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Giữ lại cây mẹ giúp cây con kết nối mạng lưới và sống sót tốt hơn.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "minerals",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...struggle to absorb minerals like phosphorus and nitrogen...\"</i>",
+          "<b>Từ cần điền:</b> <b>minerals</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "bags",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...inside airtight plastic bags...\"</i>",
+          "<b>Từ cần điền:</b> <b>bags</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "autumn",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...in autumn, when birch trees lost their leaves...\"</i>",
+          "<b>Từ cần điền:</b> <b>autumn</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "warnings",
+      "inputWidth": "110px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...nearby trees received no warnings...\"</i>",
+          "<b>Từ cần điền:</b> <b>warnings</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "seedlings",
+      "inputWidth": "120px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...so newly planted seedlings can join the established network...\"</i>",
+          "<b>Từ cần điền:</b> <b>seedlings</b>."
+        ]
+      }
+    }
+  }
+}

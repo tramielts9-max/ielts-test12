@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 219: Secrets of the Annual Ring",
+  "answers": {
+    "q1": "winter",
+    "q2": "frost",
+    "q3": "China",
+    "q4": "sunlight",
+    "q5": "glaciers",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN",
+    "q9": "FALSE",
+    "q10": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 219 (LEVEL B1 • BAND 5.0)</h2><h3>Secrets of the Annual Ring: Dendroclimatology and Volcanic Cataclysms</h3><p><strong>Paragraph 1.</strong> To ordinary walkers, rings inside a cut tree trunk simply show a tree's age. To climate scientists, however, these wooden circles serve as detailed weather diaries. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">In regions where cold <span class=\"kw\">winter</span> weather pauses tree growth, each tree adds exactly one ring per year</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">During warm, rainy growing seasons, rings turn out thick and broad; during cold or dry years, growth slows down and leaves thin, narrow lines</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">By matching living ancient trees with preserved wood from old buildings and ruins, researchers have built unbroken timelines stretching back over ten thousand years</span>.</p><p><strong>Paragraph 2.</strong> Even more valuable are rare damaged layers known as <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">'<span class=\"kw\">frost</span> rings'</span>. In these unusual bands, wood cells appear crushed and frozen right in the middle of their summer growth cycle. A frost ring marks a sudden, unseasonal freeze striking in midsummer across huge areas of a continent.</p><p><strong>Paragraph 3.</strong> For years, historians struggled to explain sixth-century reports of a strange dark fog covering Europe, the Mediterranean, and Asia in 536 CE. Writer Procopius observed that the sun shone weakly like the moon for an entire year, while <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">crops failed in Ireland and summer snow fell in <span class=\"kw\">China</span></span>. By examining high-altitude pines in California and larches in Siberia, scientist Dr. Michael Baillie proved that 536 CE brought the worst tree-growth collapse in two thousand years.</p><p><strong>Paragraph 4.</strong> Scientists later linked these historic cold shocks directly to massive volcanic eruptions. When huge volcanoes explode, they shoot millions of tonnes of sulfur dioxide gas high into the dry upper sky above rain clouds. There, the gas mixes with water vapour to form thin sulfuric acid clouds that circle the globe within weeks. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">These shiny clouds reflect <span class=\"kw\">sunlight</span> back into space, cooling Earth's surface by up to three degrees Celsius for several years</span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">To confirm these dates, researchers compare tree-ring scars with acidic layers trapped inside polar <span class=\"kw\">glaciers</span> in Greenland and Antarctica</span>. However, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">scientist Dr. Valerie Trouet warns that mountain trees mainly record temperature while dry lowland trees mainly record drought</span></span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Ultimately, ancient wood proves that the rapid global warming of the last fifty years has no equal in the past ten millennia</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "Tree Rings & Ancient Volcanic Winters",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>In temperate regions, trees pause growing during <b>1.</b> {{q1}} , forming one distinct ring per year. Rare midsummer freezes damage plant cells and leave behind <b>2.</b> {{q2}} rings. Historical chronicles from 536 CE describe crop failures in Ireland and unusual summer snows in <b>3.</b> {{q3}} . Scientists proved this disaster followed giant volcanic eruptions whose high sulfur clouds reflected <b>4.</b> {{q4}} away from Earth. Researchers verify these eruption dates by checking acid layers inside polar <b>5.</b> {{q5}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "winter",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...cold winter weather pauses tree growth...\"</i>",
+          "<b>Từ cần điền:</b> <b>winter</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "frost",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...rare damaged layers known as 'frost rings'.\"</i>",
+          "<b>Từ cần điền:</b> <b>frost</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "China",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...summer snow fell in China.\"</i>",
+          "<b>Từ cần điền:</b> <b>China</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "sunlight",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...shiny clouds reflect sunlight back into space...\"</i>",
+          "<b>Từ cần điền:</b> <b>sunlight</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "glaciers",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...acidic layers trapped inside polar glaciers...\"</i>",
+          "<b>Từ cần điền:</b> <b>glaciers</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "The width of an annual tree ring reflects the weather during that growing season.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Mùa ấm nhiều mưa thì vòng rộng, lạnh khô thì vòng hẹp.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Master tree-ring timelines only go back about two thousand years.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Chuỗi niên đại kéo dài hơn 10.000 năm (<i>over ten thousand years</i>), không phải chỉ 2.000 năm.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Dr. Valerie Trouet conducted most of her field research on tropical islands.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nêu cảnh báo chuyên môn của Dr. Trouet, không nhắc bà làm nghiên cứu ở đảo nhiệt đới.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Trees growing in dry lowland areas give the best measurement of summer temperatures.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Cây vùng đất thấp khô hạn đo hạn hán (<i>drought</i>), còn cây núi cao mới đo nhiệt độ.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Modern global warming over the last fifty years is unmatched in the past ten millennia.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...rapid global warming of the last fifty years has no equal in the past ten millennia.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

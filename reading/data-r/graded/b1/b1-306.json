@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 306: The Invention of the Alphabet",
+  "answers": {
+    "q1": "scribes",
+    "q2": "mines",
+    "q3": "thirty",
+    "q4": "graffiti",
+    "q5": "memory",
+    "q6": "YES",
+    "q7": "NO",
+    "q8": "NOT GIVEN",
+    "q9": "YES",
+    "q10": "NO"
+  },
+  "passageHtml": "<h2>PASSAGE 306 (LEVEL B1 • BAND 5.0)</h2><h3>The Invention of the Alphabet: Script, Statecraft, and Literacy</h3><p><strong>Paragraph 1.</strong> For thousands of years, reading and writing belonged strictly to powerful rulers. In ancient Mesopotamia and Egypt, scripts such as cuneiform and hieroglyphics contained hundreds or thousands of picture signs representing entire ideas or royal terms. Mastering these complex systems demanded decades of full-time training, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">keeping literacy locked inside a small class of priests, royal clerks, and trained <span class=\"kw\">scribes</span></span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">As a result, ordinary workers could not read state laws or business deals without paying an educated expert to read for them</span>.</p><p><strong>Paragraph 2.</strong> In <em>The Alphabet: A Revolution in Human Thought</em>, historian Dr. Aaron Vance explains how a simpler writing system broke that control. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">The earliest signs of this phonetic script were not discovered inside rich royal palaces</span>, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">but inside remote turquoise <span class=\"kw\">mines</span> in the Sinai desert</span>. Around 1800 BCE, migrant workers who could not enter elite Egyptian schools adapted roughly two dozen Egyptian picture signs. Instead of drawing whole objects, they used each mark to stand for a single spoken consonant sound.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">By reducing thousands of complicated symbols to roughly <span class=\"kw\">thirty</span> sound letters</span>, the early alphabet saved huge mental effort. Anyone who could speak could learn to read and write within a few weeks instead of decades. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Although imperial governments first dismissed this writing as messy <span class=\"kw\">graffiti</span> made by slaves and travellers</span>, sea merchants saw its practical power. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Phoenician traders quickly adopted the script to record business deals faster</span>, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">spreading it across sea routes to give birth to Greek, Latin, and most modern alphabets</span>.</p><p><strong>Paragraph 4.</strong> However, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Dr. Vance warns against viewing the alphabet as a purely positive invention without mental costs</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">He recalls how the Greek philosopher Socrates feared that storing words on paper would weaken natural human <span class=\"kw\">memory</span></span>, giving readers a false sense of wisdom. Vance adds that while ancient picture writing kept a lively visual link to real objects around us, phonetic letters trained human minds toward strict, linear, and abstract thinking.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "From Hieroglyphics to the Alphabet",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>In early empires, complex picture scripts kept reading and writing limited to trained priests and <b>1.</b> {{q1}} . The first phonetic letters were found carved in remote turquoise <b>2.</b> {{q2}} in Sinai rather than royal palaces. By shrinking thousands of pictures down to about <b>3.</b> {{q3}} sound signs, literacy became fast to learn. Although rulers first looked down on it as rough <b>4.</b> {{q4}} , Phoenician sea merchants spread it widely. Still, Socrates warned that relying on written texts could weaken human <b>5.</b> {{q5}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "scribes",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...priests, royal clerks, and trained scribes.\"</i>",
+          "<b>Từ cần điền:</b> <b>scribes</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "mines",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...inside remote turquoise mines in the Sinai desert.\"</i>",
+          "<b>Từ cần điền:</b> <b>mines</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "thirty",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...to roughly thirty sound letters...\"</i>",
+          "<b>Từ cần điền:</b> <b>thirty</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "graffiti",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...dismissed this writing as messy graffiti...\"</i>",
+          "<b>Từ cần điền:</b> <b>graffiti</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "memory",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...weaken natural human memory...\"</i>",
+          "<b>Từ cần điền:</b> <b>memory</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Picture writing systems kept ordinary workers dependent on educated experts.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Dân thường không thể tự đọc luật hay hợp đồng nếu không nhờ người có học đọc hộ.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "The earliest phonetic alphabet inscriptions were uncovered inside royal palaces.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...not discovered inside rich royal palaces, but inside remote turquoise mines...\"</i>",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Phoenician merchants spread the phonetic alphabet mainly for religious reasons.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chỉ nói thương nhân dùng vì tiện ghi chép buôn bán, không nhắc động cơ tôn giáo.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Most modern writing systems grew out of the ancient Phoenician phonetic script.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...give birth to Greek, Latin, and most modern alphabets.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Dr. Aaron Vance believes the phonetic alphabet changed human thinking in purely positive ways.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Tác giả cảnh báo chữ cái cũng làm suy giảm trí nhớ tự nhiên và khiến tư duy trở nên cứng nhắc hơn.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

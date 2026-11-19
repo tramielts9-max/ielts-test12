@@ -1,0 +1,156 @@
+{
+  "title": "[B1 • Band 5.0] Bài 102: The Kakapo",
+  "answers": {
+    "q1": "braking",
+    "q2": "camouflage",
+    "q3": "fruit",
+    "q4": "islands",
+    "q5": "drones",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "NOT GIVEN",
+    "q9": "FALSE"
+  },
+  "passageHtml": "<h2>READING B1 (BAND 5.0) — BÀI 102</h2><h3>The Kakapo: Rescuing New Zealand's Flightless Parrot</h3><p><strong>Paragraph 1.</strong> New Zealand is famous for unusual wildlife, and none is stranger than the kakapo. Living in forests and coming out mostly at night, this bird evolved on remote islands with no native land mammals. Because it did not need to escape ground hunters, the kakapo gradually lost the ability to fly. Instead, it grew into the heaviest parrot on Earth, with adult males weighing up to four kilograms. It uses sturdy legs and sharp claws to walk and climb tall trees, while its short, rounded wings are used only for balance and <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">braking</span></span> when jumping between branches.</p><p><strong>Paragraph 2.</strong> In the past, the only threat to the kakapo came from giant birds of prey such as the extinct Haast's eagle, which hunted by sight. Whenever danger appeared, the kakapo froze completely still, using its green feathers as effective <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">camouflage</span></span> against the forest floor. However, human arrival changed everything. Polynesian settlers and later European colonists brought non-native mammals—including stoats, feral cats, and rats—that hunt mainly by scent rather than vision. Because the kakapo stood motionless and gave off a strong, sweet odour, it had no defence against these newcomers, and its numbers fell sharply.</p><p><strong>Paragraph 3.</strong> Another challenge in saving the kakapo is its unusual breeding pattern. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Unlike most parrots that stay with one partner every spring, male kakapos gather on hilltops to dig shallow bowls in the earth</span>. For months, they fill their chests with air and produce deep booming calls that travel for kilometres to attract females. Even more remarkably, kakapos only breed once every two to four years, at the exact time when native rimu trees produce huge crops of <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">fruit</span></span> rich in calcium for growing chicks.</p><p><strong>Paragraph 4.</strong> By 1977, field searches could find fewer than two hundred kakapos, nearly all of them elderly males living in southern Fiordland. Fortunately, researchers later discovered a small breeding group on Stewart Island, giving conservationists new hope. To prevent the species from disappearing completely, the New Zealand Wildlife Service launched the Kakapo Recovery Programme. Officers captured every remaining bird and transported them to remote offshore <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">islands</span></span> such as Whenua Hou and Anchor Island, which had already been cleared of all introduced mammalian pests.</p><p><strong>Paragraph 5.</strong> In these safe sanctuaries, scientists use intensive care to help the population grow. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Every kakapo wears a tiny radio transmitter so workers can follow its movements and health</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Extra feeding stations were placed along forest paths to encourage breeding even when rimu trees fail to produce food</span>. When eggs are in danger, teams move them to laboratories to hatch safely, and <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">drones</span></span> are even used to carry fresh male cells across rough island hills. As a result, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">the global population rose from just 51 birds in 1995 to over 240 today</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "The Kakapo (B1)",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:10px;\">Uses its short wings only for balance and <b>1.</b> {{q1}} when jumping from branches.</li><li style=\"margin-bottom:10px;\">Green feathers provided effective <b>2.</b> {{q2}} from ancient hunting birds.</li><li style=\"margin-bottom:10px;\">Breeding occurs only when rimu trees produce large amounts of <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:10px;\">All surviving kakapos were relocated to predator-free <b>4.</b> {{q4}} .</li><li style=\"margin-bottom:10px;\">Conservationists used <b>5.</b> {{q5}} to transport genetic material across difficult terrain.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–9",
+      "instructions": "<i>Do the following statements agree with the information given in the passage?<br>Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "braking",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"used only for balance and braking when jumping between branches.\"</i>",
+          "<b>Từ cần điền:</b> <b>braking</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "camouflage",
+      "inputWidth": "130px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"using its green feathers as effective camouflage against the forest floor.\"</i>",
+          "<b>Từ cần điền:</b> <b>camouflage</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "fruit",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"when native rimu trees produce huge crops of fruit...\"</i> (huge crops = large amounts).",
+          "<b>Từ cần điền:</b> <b>fruit</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "islands",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"transported them to remote offshore islands... cleared of all introduced mammalian pests.\"</i>",
+          "<b>Từ cần điền:</b> <b>islands</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "drones",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"drones are even used to carry fresh male cells across rough island hills.\"</i>",
+          "<b>Từ cần điền:</b> <b>drones</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Male and female kakapos stay together as loyal pairs every spring.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Unlike most parrots that stay with one partner every spring, male kakapos gather on hilltops...\"</i> → Khác với các loài vẹt ghép đôi chung thủy.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Special feeding stations were set up to help kakapos breed during poor rimu years.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Extra feeding stations were placed along forest paths to encourage breeding even when rimu trees fail to produce food.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The radio transmitters worn by kakapos need to be replaced every six months.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nhắc mỗi con chim đeo máy phát sóng radio nhỏ, không hề nói bao lâu phải thay thiết bị một lần.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "There are fewer living kakapos today than there were in 1995.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Dân số tăng từ 51 con (1995) lên hơn 240 con hiện nay → Nhiều hơn chứ không ít hơn.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

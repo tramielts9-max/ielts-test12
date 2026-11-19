@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 115: The Hydraulic Architecture of Petra",
+  "answers": {
+    "q1": "floods",
+    "q2": "tunnel",
+    "q3": "gravity",
+    "q4": "tanks",
+    "q5": "earthquake",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "NOT GIVEN",
+    "q9": "TRUE",
+    "q10": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 115 (LEVEL B1 • BAND 5.0)</h2><h3>The Hydraulic Architecture of Petra</h3><p><strong>Paragraph 1.</strong> Hidden inside rose-red sandstone canyons in southern Jordan, the ancient city of Petra was once the prosperous capital of the Nabataean kingdom. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Petra grew rich by controlling desert caravan routes carrying incense, spices, and silk between southern Arabia, Egypt, and India</span>. Although its rock-carved temples are famous today, Petra's greatest achievement was its clever water system. Thanks to this engineering, around twenty thousand residents lived comfortably in a harsh desert receiving barely 150 millimetres of rain annually.</p><p><strong>Paragraph 2.</strong> Petra's location created two opposite water problems. For nine dry months each year, water shortage threatened survival because sandy soil quickly absorbed light rain. However, during winter storms, heavy rainfall rushed off rocky highlands and poured violently into the Siq, the narrow mile-long canyon leading into the city. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">These sudden flash <span class=\"kw\">floods</span> drowned travellers and smashed stone walls</span>. To stop the danger, Nabataean engineers built a thirteen-metre stone dam outside the Siq. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Next to the dam, workers carved an eighty-eight-metre <span class=\"kw\">tunnel</span> through solid rock to redirect floodwater safely into a nearby valley</span>.</p><p><strong>Paragraph 3.</strong> Having controlled winter floods, engineers turned seasonal rain into a steady drinking supply. Across surrounding mountains, workers cut stone channels and laid covered clay pipelines stretching tens of kilometres from distant natural springs. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Water travelled from the hills into the urban centre solely through <span class=\"kw\">gravity</span></span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Builders sealed the ceramic joints with waterproof lime mortar and set the pipes at a smooth four-degree slope so steady flow would not crack the clay</span>.</p><p><strong>Paragraph 4.</strong> To guarantee water throughout dry summers, the city built hundreds of underground storage reservoirs capable of holding over forty million litres. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Special settling <span class=\"kw\">tanks</span> along the pipelines slowed down incoming water so sand and gravel dropped to the floor</span>, sending clear water onward. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Because supplies were plentiful, Petra boasted public fountains, warm bathhouses, and watered gardens filled with palm trees and decorative pools</span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Petra's decline started long before its final disaster. After the Roman Empire took over the kingdom in 106 CE, international trade shifted northward and along the Red Sea, steadily reducing Petra's income</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The fatal blow arrived in 363 CE, when <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">a massive <span class=\"kw\">earthquake</span> wrecked large parts of the town and shattered its underground water pipes</span></span>. Lacking workers and money to repair the network, citizens drifted away, and desert sand buried the city.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Petra's Water Engineering",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Winter storms sent dangerous flash <b>1.</b> {{q1}} down into the narrow Siq entrance.</li><li style=\"margin-bottom:8px;\">Builders cut a stone dam and an 88-metre <b>2.</b> {{q2}} to guide excess water away.</li><li style=\"margin-bottom:8px;\">Mountain spring water moved into the city by <b>3.</b> {{q3}} alone.</li><li style=\"margin-bottom:8px;\">Sand settled to the bottom inside special settling <b>4.</b> {{q4}} along the pipes.</li><li style=\"margin-bottom:8px;\">A huge <b>5.</b> {{q5}} broke the underground water network in 363 CE.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "floods",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"These sudden flash floods drowned travellers...\"</i>",
+          "<b>Từ cần điền:</b> <b>floods</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "tunnel",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...carved an eighty-eight-metre tunnel through solid rock...\"</i>",
+          "<b>Từ cần điền:</b> <b>tunnel</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "gravity",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...solely through gravity.\"</i>",
+          "<b>Từ cần điền:</b> <b>gravity</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "tanks",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Special settling tanks along the pipelines slowed down incoming water...\"</i>",
+          "<b>Từ cần điền:</b> <b>tanks</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "earthquake",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...a massive earthquake wrecked large parts of the town...\"</i>",
+          "<b>Từ cần điền:</b> <b>earthquake</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Petra became wealthy mainly by controlling sea trade along the Mediterranean coast.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Petra giàu lên nhờ các tuyến đường bộ qua sa mạc (<i>desert caravan routes</i>), không phải đường biển Địa Trung Hải.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Clay pipes were laid at a four-degree slope to prevent water flow from breaking them.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...set the pipes at a smooth four-degree slope so steady flow would not crack the clay.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The stone dam outside the Siq was repaired by engineers during the twentieth century.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 & 5:</b> Không hề nhắc đến việc sửa chữa con đập ở thế kỷ 20.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Water from Petra's system supplied both public baths and watered gardens.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...public fountains, warm bathhouses, and watered gardens...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Petra's economic wealth began dropping before the disaster of 363 CE.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Kinh tế bắt đầu suy giảm từ sau năm 106 CE khi tuyến thương mại dịch chuyển, trước trận động đất năm 363 CE.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

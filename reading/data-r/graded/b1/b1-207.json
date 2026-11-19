@@ -1,0 +1,170 @@
+{
+  "title": "[B1 • Band 5.0] Bài 207: The Vanishing Melodies: Whistled Speech",
+  "answers": {
+    "q1": "canyons",
+    "q2": "air",
+    "q3": "music",
+    "q4": "roads",
+    "q5": "patterns",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "FALSE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 207 (LEVEL B1 • BAND 5.0)</h2><h3>The Vanishing Melodies: The Linguistic Science of Whistled Speech</h3><p><strong>Paragraph 1.</strong> Across the world, roughly seventy isolated communities have created an ingenious way to communicate over long distances: whistled speech. Rather than being separate languages, whistled systems transform existing spoken tongues into high-pitched whistles. Well-known examples include Silbo Gomero in Spain's Canary Islands, whistled Turkish in mountain villages, and whistled Yupik in the Arctic. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">While human shouting reaches only eighty decibels and becomes unclear beyond two hundred metres</span>, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">a clear whistle hits one hundred and thirty decibels and carries across deep <span class=\"kw\">canyons</span> for up to ten kilometres</span>.</p><p><strong>Paragraph 2.</strong> Producing whistled speech relies on a surprisingly simple physical method. During normal speaking, our vocal cords vibrate inside the throat to form words. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">In whistled speech, however, the vocal cords stay completely still</span>; <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">sound is created solely by pushing compressed <span class=\"kw\">air</span> through a narrow gap between the tongue, teeth, and lips</span>. Whistlers copy the rising and falling pitch of spoken vowels and replace consonants with sharp pitch jumps or sudden pauses. Remarkably, skilled listeners understand more than ninety percent of whistled messages.</p><p><strong>Paragraph 3.</strong> Whistled speech has also challenged old beliefs about how the human brain processes language. Textbooks long taught that spoken words are handled mainly by the left half of the brain, while <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">the right half interprets <span class=\"kw\">music</span>, melody, and emotional tone</span>. When neuroscientist Dr. Onur Güntürkün scanned Turkish villagers fluent in both spoken and whistled Turkish, spoken words lit up only the left side as expected. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Yet when subjects listened to whistled sentences, scans showed strong, equal activity across both brain halves at once</span>, blending musical and language centres together.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Historically, whistled speech grew in steep mountains, dense forests, and vast wetlands where travelling on foot was slow and exhausting</span>. Shepherds on La Gomera could chat across wide valleys without climbing down steep paths. Today, modern life threatens these traditions. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Mobile phones, cars, and paved <span class=\"kw\">roads</span> have replaced long-distance whistling</span>, while young villagers moving to cities often hide the skill because urban society treats it as backward.</p><p><strong>Paragraph 5.</strong> To stop whistled languages from dying out, several communities have launched rescue plans. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">In 1999, La Gomera's government made Silbo Gomero a compulsory subject in all primary and secondary schools, reaching over twenty thousand students every year</span>. Elsewhere, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">linguists use artificial intelligence software to save the sound <span class=\"kw\">patterns</span> of elderly whistlers</span> in the Caucasus mountains before the last fluent elders pass away.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Science and Preservation of Whistled Speech",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Unlike shouting, a strong whistle carries up to 10 km across deep <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">Whistlers create words simply by forcing compressed <b>2.</b> {{q2}} between tongue, teeth, and lips.</li><li style=\"margin-bottom:8px;\">Normally, the right hemisphere handles pitch, emotion, and <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">Modern mobile phones and paved <b>4.</b> {{q4}} have made whistling less useful.</li><li style=\"margin-bottom:8px;\">AI software records the acoustic <b>5.</b> {{q5}} of elderly whistlers in the Caucasus.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–10",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "canyons",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...carries across deep canyons for up to ten kilometres.\"</i>",
+          "<b>Từ cần điền:</b> <b>canyons</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "air",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...pushing compressed air through a narrow gap...\"</i>",
+          "<b>Từ cần điền:</b> <b>air</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "music",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...the right half interprets music, melody, and emotional tone.\"</i>",
+          "<b>Từ cần điền:</b> <b>music</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "roads",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Mobile phones, cars, and paved roads have replaced...\"</i>",
+          "<b>Từ cần điền:</b> <b>roads</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "patterns",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...save the sound patterns of elderly whistlers...\"</i>",
+          "<b>Từ cần điền:</b> <b>patterns</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Loud shouting can be understood clearly from a distance of ten kilometres.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Tiếng hét chỉ nghe rõ trong khoảng 200 mét, chỉ tiếng huýt sáo mới đi xa được 10 km.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "During whistled speech, a speaker's vocal cords remain completely still.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...the vocal cords stay completely still...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Brain scans showed that whistled Turkish activates only the left half of the brain.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Tiếng huýt sáo kích hoạt đồng đều cả 2 bán cầu não (<i>both brain halves at once</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Whistled languages originally grew in flat desert areas with easy transport.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Phát triển ở vùng núi dốc, rừng rậm, đầm lầy nơi đi bộ rất khó khăn.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Students on La Gomera must pass a whistling exam before entering university.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nói đây là môn bắt buộc ở trường phổ thông, không nhắc điều kiện thi đại học.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

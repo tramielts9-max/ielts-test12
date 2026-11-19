@@ -1,0 +1,200 @@
+{
+  "title": "[B1 • Band 5.0] Bài 208: Quenching the Deluge: China's Sponge City Revolution",
+  "answers": {
+    "q1": "concrete",
+    "q2": "sponges",
+    "q3": "oil",
+    "q4": "floodplains",
+    "q5": "tunnels",
+    "q6": "C",
+    "q7": "A",
+    "q8": "D",
+    "q9": "B",
+    "q10": "C"
+  },
+  "passageHtml": "<h2>PASSAGE 208 (LEVEL B1 • BAND 5.0)</h2><h3>Quenching the Deluge: China's Sponge City Revolution</h3><p><strong>Paragraph 1.</strong> Rapid city growth in mainland China over the past forty years has created a serious water problem. Huge areas of former wetlands and farms have been covered by solid shells of <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">concrete</span></span> and asphalt. Because hard roads block rain from soaking into soil, sudden storms leave water trapped on the surface, and old drainage pipes were built only for mild showers. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">In July 2021, this weakness became clear when record monsoon storms flooded Zhengzhou, filling subway lines, trapping commuters, and causing billions of yuan in damage</span>.</p><p><strong>Paragraph 2.</strong> In response, China introduced the 'Sponge City' plan, guided by landscape architect Professor Yu Kongjian. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Rather than treating rainwater as an enemy that must be pushed away rapidly through concrete pipes, Professor Yu recommends designing cities to act like natural <span class=\"kw\">sponges</span> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">that absorb, clean, and slowly release water</span></span>. At street level, concrete gutters are replaced by planted channels called bioswales. Beneath these plants sit layers of gravel, sand, and compost that filter out dust and <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">car <span class=\"kw\">oil</span></span> before clean rainwater reaches underground reserves.</p><p><strong>Paragraph 3.</strong> Public squares and parks are also changing. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Solid tiles are replaced with porous paving stones made from recycled industrial slag, letting moisture drain straight down into the earth below</span>. On a much larger scale, engineers in the pilot city of Wuhan constructed expansive rainwater parks along river <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">floodplains</span></span>. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">In dry months, citizens enjoy sports areas and gardens inside these terraced basins. When heavy monsoons arrive, the lower terraces fill step by step, safely holding millions of cubic metres of water away from houses</span> before draining into lakes within seventy-two hours.</p><p><strong>Paragraph 4.</strong> Despite clear benefits, expanding Sponge Cities quickly is far from simple. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Rebuilding crowded downtown areas costs vast sums of money because underground spaces are already packed with rail <span class=\"kw\">tunnels</span>, power cables, and sewer pipes</span>. Moreover, hydraulic engineers warn that green parks have clear limits. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Although vegetated wetlands handle ordinary storms easily, they reach full capacity quickly during extreme atmospheric rivers that drop a month's rainfall in just three hours</span>.</p><p><strong>Paragraph 5.</strong> Even with these engineering limits, the Sponge City model continues to gain international interest. Cities worldwide are studying Wuhan and other Chinese test sites as practical examples of how urban design can adapt to unpredictable twenty-first-century storms while cooling hot city streets.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "China's Sponge City Strategy",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>Fast urban growth covered natural wetlands with hard <b>1.</b> {{q1}} , preventing rain from sinking into soil. To solve this, China created the Sponge City program so cities act like porous <b>2.</b> {{q2}} that hold and purify rainwater. Street bioswales use sand and gravel to clean out dust and vehicle <b>3.</b> {{q3}} . In Wuhan, large rainwater parks built on river <b>4.</b> {{q4}} protect residential areas during heavy monsoons. However, updating crowded city centres is costly because of buried rail <b>5.</b> {{q5}} and utility lines.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 6–10",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "concrete",
+      "inputWidth": "120px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...covered by solid shells of concrete and asphalt.\"</i>",
+          "<b>Từ cần điền:</b> <b>concrete</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "sponges",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...act like natural sponges that absorb, clean...\"</i>",
+          "<b>Từ cần điền:</b> <b>sponges</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "oil",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...filter out dust and car oil...\"</i>",
+          "<b>Từ cần điền:</b> <b>oil</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "floodplains",
+      "inputWidth": "120px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...rainwater parks along river floodplains.\"</i>",
+          "<b>Từ cần điền:</b> <b>floodplains</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "tunnels",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...packed with rail tunnels, power cables...\"</i>",
+          "<b>Từ cần điền:</b> <b>tunnels</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "What happened in Zhengzhou in July 2021?",
+      "options": [
+        "A. New porous bricks stopped floodwater from entering subways.",
+        "B. Engineers removed all old drainage pipes before the rain.",
+        "C. Record rain flooded subway lines and caused heavy damage.",
+        "D. Residents opened rainwater parks to save farmland."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Mưa kỷ lục làm ngập tuyến tàu điện ngầm, mắc kẹt hành khách và thiệt hại hàng tỷ nhân dân tệ.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "What is Professor Yu Kongjian's main idea behind Sponge Cities?",
+      "options": [
+        "A. Letting cities absorb, hold, and slowly release rainwater naturally",
+        "B. Building wider concrete pipes to pump rain out faster",
+        "C. Covering public sports grounds with thick asphalt layers",
+        "D. Moving downtown residents away from all major rivers"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Thành phố hoạt động như miếng bọt biển tự nhiên hấp thụ, làm sạch và xả nước từ từ.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "How do porous paving stones help parks and city squares?",
+      "options": [
+        "A. They reflect sunlight to melt winter ice quickly.",
+        "B. They trap floodwater above the ground for weeks.",
+        "C. They block dirty car oil from entering rivers.",
+        "D. They let moisture sink straight down into the earth below."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...letting moisture drain straight down into the earth below.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "What happens inside Wuhan's rainwater parks during heavy monsoons?",
+      "options": [
+        "A. Sports facilities are rebuilt with recycled factory slag.",
+        "B. Terraced basins fill up progressively to protect homes.",
+        "C. Underground subways carry excess water out to the sea.",
+        "D. Visitors use wooden walkways to cross flooded streets."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Các bậc thềm ngập dần để giữ hàng triệu mét khối nước tránh xa khu dân cư.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Why can green wetlands struggle during extreme atmospheric rivers?",
+      "options": [
+        "A. Native grasses die when mixed with clean rainwater.",
+        "B. Power cables beneath parks block water flow.",
+        "C. They reach full capacity quickly when huge rain falls rapidly.",
+        "D. Industrial slag melts when temperatures rise above 30°C."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Khi lượng mưa cả tháng trút xuống trong 3 giờ, công viên xanh nhanh chóng đạt ngưỡng bão hòa (<i>full capacity</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}
