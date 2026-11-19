@@ -1,0 +1,142 @@
+{
+  "title": "[A2 • Band 4.0] Bài 205: The Cognitive Horizons of Deep-Space Missions",
+  "answers": {
+    "q1": "container",
+    "q2": "winter",
+    "q3": "memory",
+    "q4": "forests",
+    "q5": "FALSE",
+    "q6": "FALSE",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 205 (LEVEL A2 • BAND 4.0)</h2><h3>The Cognitive Horizons of Deep-Space Missions</h3><p><strong>Paragraph 1.</strong> Space agencies are planning to send astronauts to Mars in the future. On this trip, four to six astronauts will live together for almost three years inside a tiny home. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Their living space will be about the size of a shipping <span class=\"kw\">container</span></span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Unlike astronauts near Earth who can talk to their team immediately, Mars astronauts will face a big problem. Radio messages will take up to twenty-two minutes to travel one way</span>. Earth will look like a tiny blue dot in the dark sky.</p><p><strong>Paragraph 2.</strong> To study how this lonely life affects the human brain, scientists use special places on Earth. One famous test place is Concordia Station in Antarctica, high up on the ice. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">During the nine-month polar <span class=\"kw\">winter</span>, the weather outside drops below minus eighty degrees Celsius</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Because of the terrible cold and dark, no airplanes can come to save people or bring them home</span>. Everything looks white, and there is no sunlight for four months.</p><p><strong>Paragraph 3.</strong> After three or four months alone in the cold, people start to change. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Even strong astronauts find that their working <span class=\"kw\">memory</span> becomes weaker</span>, and they think more slowly. Brain tests show that the brain slows down to save energy when nothing changes around it. Also, small arguments about food, cleaning, and daily jobs begin to grow. Sometimes crew members get angry at the team on Earth instead of fighting with friends inside the small station.</p><p><strong>Paragraph 4.</strong> Scientists are testing new tools to help keep astronauts happy and healthy. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Watching ordinary movies or doing simple exercise does not fix the problem of living in a boring place</span>. Instead, space teams are using virtual reality (VR) headsets. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">These headsets show pictures and sounds of green <span class=\"kw\">forests</span>, ocean waves, and cool winds</span>. Computer programs can also watch an astronaut's voice and face to spot stress early and suggest better sleep or softer room lights.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Living in Deep Space",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">On a Mars trip, astronauts live in a space the size of a shipping <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">Concordia Station becomes extremely cold during the nine-month polar <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">After a few months of isolation, an astronaut's working <b>3.</b> {{q3}} gets weaker.</li><li style=\"margin-bottom:8px;\">VR headsets help astronauts by showing natural scenes like ocean waves and green <b>4.</b> {{q4}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "container",
+      "inputWidth": "120px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...about the size of a shipping container.\"</i>",
+          "<b>Từ cần điền:</b> <b>container</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "winter",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"During the nine-month polar winter...\"</i>",
+          "<b>Từ cần điền:</b> <b>winter</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "memory",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...their working memory becomes weaker...\"</i>",
+          "<b>Từ cần điền:</b> <b>memory</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "forests",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...pictures and sounds of green forests, ocean waves...\"</i>",
+          "<b>Từ cần điền:</b> <b>forests</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Mars astronauts can talk with Earth immediately without any delay.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Tin nhắn radio mất tới 22 phút mỗi chiều, không thể nói chuyện tức thì.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Airplanes can easily rescue people from Concordia Station during polar winter.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...no airplanes can come to save people or bring them home.\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Watching ordinary films completely solves the stress of boring space environments.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Watching ordinary movies... does not fix the problem...\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Female astronauts handle Mars isolation better than male astronauts.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài không so sánh khả năng chịu đựng giữa phi hành gia nam và nữ.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

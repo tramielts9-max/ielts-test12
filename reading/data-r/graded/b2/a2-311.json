@@ -1,0 +1,164 @@
+{
+  "title": "[A2 • Band 4.0] Bài 311: The Architecture of Ignorance: Rethinking Scientific Progress",
+  "answers": {
+    "q1": "D",
+    "q2": "B",
+    "q3": "A",
+    "q4": "C",
+    "q5": "NOT GIVEN",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 311 (LEVEL A2 • BAND 4.0)</h2><h3>The Architecture of Ignorance: Rethinking Scientific Progress</h3><p><strong>Paragraph 1.</strong> Most school textbooks say science moves forward in a simple straight line. Each group of scientists adds new facts to older work until humans know everything. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">However, philosopher Dr. Aris Thorne disagrees with this common view</span>. In his book <em>The Ignorance Ledger</em>, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Thorne argues that great discoveries do not just add answers. Instead, big discoveries open huge new areas of ignorance—things we realize we still do not know</span>.</p><p><strong>Paragraph 2.</strong> Thorne describes two different types of not knowing. First, 'passive ignorance' simply means a person has not learned basic facts yet. Second, 'active ignorance' is much smarter. It happens when brilliant research uncovers deep new mysteries. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">For example, discovering DNA did not finish the study of life; instead, it showed scientists that cell control was far more complicated than anyone had guessed</span></span>.</p><p><strong>Paragraph 3.</strong> Thorne also worries about how universities judge scientists today. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Funding groups often count only how many papers a scientist prints or how fast a tool makes money</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Because of this pressure, researchers choose safe, easy projects with sure results instead of bold, risky experiments</span>.</p><p><strong>Paragraph 4.</strong> In his final chapter, Thorne asks schools and funding teams to change. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Rather than praising people who pretend to have every answer, universities should reward scientists who ask deep, original questions</span></span>. Science does not remove all mystery from the world; it widens what we hope to explore next.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–4",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "What does Dr. Aris Thorne say about great scientific discoveries in Paragraph 1?",
+      "options": [
+        "A. They prove school textbooks are always accurate.",
+        "B. They happen only once every hundred years.",
+        "C. They stop scientists from asking any more questions.",
+        "D. They reveal large new areas that we still do not understand."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Khám phá lớn mở ra những vùng chưa biết mới mẻ (<i>new areas of ignorance</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Why does the passage mention the discovery of DNA in Paragraph 2?",
+      "options": [
+        "A. To show that DNA research was too expensive for schools",
+        "B. To prove that major breakthroughs uncover bigger mysteries",
+        "C. To argue that biology is easier than physics",
+        "D. To explain how textbooks are printed for students"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Phát hiện DNA cho thấy tế bào phức tạp hơn mọi người tưởng rất nhiều.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "What problem does Thorne point out about funding groups in Paragraph 3?",
+      "options": [
+        "A. They judge researchers mostly by numbers and quick profits.",
+        "B. They give all their money to dangerous experiments.",
+        "C. They forbid scientists from writing academic papers.",
+        "D. They hire university students instead of trained professors."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Quỹ tài trợ chỉ đếm số bài báo và tốc độ kiếm tiền nhanh.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "What change does Thorne suggest in Paragraph 4?",
+      "options": [
+        "A. Closing down university science departments",
+        "B. Paying scientists only for safe classroom lessons",
+        "C. Rewarding researchers who create smart new questions",
+        "D. Banning all textbooks in high schools"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Nên thưởng cho những nhà khoa học đặt ra các câu hỏi sâu sắc, mới mẻ.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Dr. Aris Thorne won an international science prize for writing The Ignorance Ledger.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Bài nhắc tên cuốn sách nhưng không hề nói ông có đoạt giải thưởng quốc tế hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Discovering DNA answered every remaining question about how cells work.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...did not finish the study of life... far more complicated than anyone had guessed.\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Counting papers encourages scientists to pick safe projects with predictable outcomes.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...researchers choose safe, easy projects with sure results...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Thorne believes scientists should hide their ignorance from the public.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Ngược lại, ông khuyên nên coi trọng câu hỏi mới và không giả vờ biết hết.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

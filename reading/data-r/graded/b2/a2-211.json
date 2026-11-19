@@ -1,0 +1,142 @@
+{
+  "title": "[A2 • Band 4.0] Bài 211: The Wood Wide Web: Rethinking the Subterranean Forest",
+  "answers": {
+    "q1": "TRUE",
+    "q2": "NOT GIVEN",
+    "q3": "FALSE",
+    "q4": "TRUE",
+    "q5": "sugars",
+    "q6": "bags",
+    "q7": "insects",
+    "q8": "network"
+  },
+  "passageHtml": "<h2>PASSAGE 211 (LEVEL A2 • BAND 4.0)</h2><h3>The Wood Wide Web: Rethinking the Subterranean Forest</h3><p><strong>Paragraph 1.</strong> For more than a hundred years, people thought trees in a forest fought each other alone for water, sunlight, and rich soil. Scientists believed that when one tree drank water, the tree beside it stayed dry. However, new studies in the past thirty years have changed this old idea completely. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Today, scientists know that a huge underground network of tiny mushrooms, called fungi, connects different trees across the forest</span>.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Trees and underground fungi help each other live</span>. Trees use sunlight to make sweet food, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">and they send up to forty percent of their <span class=\"kw\">sugars</span> down to the fungi</span>. In return, the fungi grow millions of hair-thin threads through tiny spaces in the dirt. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Thick tree roots cannot easily pick up minerals and water from hard ground alone, so the fungi bring these supplies back to the trees</span>.</p><p><strong>Paragraph 3.</strong> Canadian scientist Dr. Suzanne Simard proved that trees even share food through this underground web. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Her team put plastic <span class=\"kw\">bags</span> around branches of tall birch trees and small fir trees and added special carbon</span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">The team saw carbon move both ways between the two tree species</span>. In sunny summer days, birch trees sent extra food to young fir trees sitting in the dark shade. Later in autumn, when birch trees lost their leaves, green fir trees sent food back.</p><p><strong>Paragraph 4.</strong> The underground web also works like a forest alarm system. When hungry <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">insects</span> attack one plant</span>, healthy plants connected to the same fungal threads quickly make bad-tasting chemicals to protect themselves. Saving huge old 'mother trees' keeps this <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">underground <span class=\"kw\">network</span> alive</span> so baby trees grow strong.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "How Trees Share Underground",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Trees share up to 40% of their <b>5.</b> {{q5}} with helpful fungi.</li><li style=\"margin-bottom:8px;\">Dr. Simard wrapped tree branches in plastic <b>6.</b> {{q6}} to follow carbon movement.</li><li style=\"margin-bottom:8px;\">Connected plants warn each other when hungry <b>7.</b> {{q7}} attack.</li><li style=\"margin-bottom:8px;\">Protecting huge old trees keeps the underground <b>8.</b> {{q8}} healthy for young trees.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Scientists now know that an underground fungal network connects different trees in a forest.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Today, scientists know that a huge underground network... connects different trees...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Underground fungi grow only beneath oak trees in European countries.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1 & 2:</b> Bài nói nấm mọc dưới rừng nói chung, không hề nói chỉ mọc dưới cây sồi ở châu Âu.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Thick tree roots easily collect every mineral from hard ground without help.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Thick tree roots cannot easily pick up minerals... alone...\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "In Dr. Simard's test, carbon travelled both ways between birch and fir trees.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"The team saw carbon move both ways between the two tree species.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "sugars",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...send up to forty percent of their sugars down to the fungi.\"</i>",
+          "<b>Từ cần điền:</b> <b>sugars</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "bags",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...put plastic bags around branches...\"</i>",
+          "<b>Từ cần điền:</b> <b>bags</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "insects",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"When hungry insects attack one plant...\"</i>",
+          "<b>Từ cần điền:</b> <b>insects</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "network",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...keeps this underground network alive...\"</i>",
+          "<b>Từ cần điền:</b> <b>network</b>."
+        ]
+      }
+    }
+  }
+}

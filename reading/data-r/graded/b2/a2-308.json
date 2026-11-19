@@ -1,0 +1,164 @@
+{
+  "title": "[A2 • Band 4.0] Bài 308: The Deep Reader in the Digital Age",
+  "answers": {
+    "q1": "B",
+    "q2": "D",
+    "q3": "A",
+    "q4": "C",
+    "q5": "NOT GIVEN",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 308 (LEVEL A2 • BAND 4.0)</h2><h3>The Deep Reader: Cognitive Architecture in the Digital Age</h3><p><strong>Paragraph 1.</strong> Today, most adults read thousands of words every day on phones and computers. We scroll through news, check social media, and click quick links. Yet brain scientist Dr. Maryanne Wolf warns that screen scrolling is very different from deep reading. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Human brains are naturally built to see and speak</span>. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">However, there is no special 'reading part' inside our genes, so the brain must connect seeing, hearing, and movement areas to learn reading</span>.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">The reading brain changes depending on what we read on</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">A printed paper book has steady pages that do not jump or flash. Because the page stays still, readers can focus calmly, ask questions, and imagine the writer's feelings</span>. Dr. Wolf calls this careful focus 'deep reading'.</p><p><strong>Paragraph 3.</strong> Digital screens train the brain in a different way. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Pop-up messages, bright links, and alerts keep breaking our focus</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Eye tests show that people reading screens rarely read every line from left to right. Instead, their eyes jump fast in an 'F' shape, looking only at the top lines and down the left side for quick facts</span>.</p><p><strong>Paragraph 4.</strong> Over time, fast screen reading hurts our patience for hard books. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Dr. Wolf notes that many university students now feel annoyed when reading long, difficult classic books</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">She warns that if society loses deep reading, citizens will struggle to judge complex ideas and think carefully about public life</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–4",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "What does Dr. Maryanne Wolf say about how humans learn to read?",
+      "options": [
+        "A. Reading is an automatic skill people are born with.",
+        "B. The brain must build new links because it has no built-in reading area.",
+        "C. Children learn to read faster on phones than on paper.",
+        "D. Only people who speak two languages can read deeply."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Não không có sẵn vùng đọc bẩm sinh, phải kết nối vùng nhìn, nghe và vận động.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Why are printed paper books helpful for deep thinking?",
+      "options": [
+        "A. They contain bright links to extra websites.",
+        "B. They allow readers to finish a book in ten minutes.",
+        "C. They are cheaper than modern smartphones.",
+        "D. Their steady pages help the reader focus calmly."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Trang giấy đứng yên (<i>stays still</i>) giúp người đọc tập trung sâu và suy ngẫm.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "What do eye tests show when people read on digital screens?",
+      "options": [
+        "A. Their eyes move quickly in an 'F' shape.",
+        "B. They carefully read every single word twice.",
+        "C. They always start from the bottom right corner.",
+        "D. They close their eyes more often than book readers."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Mắt nhảy nhanh theo hình chữ F, chỉ lướt dòng đầu và mép trái.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "What problem do university students face today according to Paragraph 4?",
+      "options": [
+        "A. Libraries no longer buy classic literature.",
+        "B. Students cannot afford printed textbooks.",
+        "C. Students feel annoyed when reading long, hard books.",
+        "D. Universities stopped teaching philosophy completely."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Sinh viên thấy khó chịu (<i>feel annoyed</i>) khi phải đọc sách kinh điển dài và khó.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Adults today read fewer total words per day than adults did fifty years ago.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1 & 2:</b> Bài chỉ nói người lớn ngày nay đọc hàng ngàn chữ mỗi ngày, không so sánh tổng số chữ với 50 năm trước.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Spoken language is a natural ability built into human brains.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Human brains are naturally built to see and speak.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Pop-up messages and links help online readers concentrate more deeply.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Tin nhắn bật lên và đường link liên tục cắt ngang sự tập trung (<i>keep breaking our focus</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Losing deep reading skills has no effect on how citizens evaluate public ideas.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Nếu mất khả năng đọc sâu, công dân sẽ khó đánh giá các ý tưởng phức tạp.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

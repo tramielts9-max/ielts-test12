@@ -1,0 +1,142 @@
+{
+  "title": "[A2 • Band 4.0] Bài 108: The Antikythera Mechanism",
+  "answers": {
+    "q1": "shelter",
+    "q2": "block",
+    "q3": "crank",
+    "q4": "colour",
+    "q5": "FALSE",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 108 (LEVEL A2 • BAND 4.0)</h2><h3>The Antikythera Mechanism</h3><p><strong>Paragraph 1.</strong> In the spring of 1900, Greek sponge divers were sailing home from North Africa when a big storm hit. They stopped near the small rocky island of Antikythera to find <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">shelter</span></span>. When the weather became calm, diver Elias Stadiatis swam forty-five metres under the sea. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">He soon swam back up in great fear, shouting about dead bodies and monsters on the sea floor</span>. In fact, he had found a sunken Roman ship from the first century BCE filled with stone statues and glass jars.</p><p><strong>Paragraph 2.</strong> Over the next year, divers brought many treasures up from the seabed and sent them to a museum in Athens. Among the statues was a dull, green <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">block</span></span> of old metal and wood. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">For several months, nobody noticed this ugly lump sitting outside in the courtyard. Then, in May 1902, the dry lump cracked open, and expert Valerios Stais saw small metal gear wheels inside</span>.</p><p><strong>Paragraph 3.</strong> Many historians refused to believe the machine was ancient because it looked too advanced. For seventy years, its purpose remained a mystery. In the 1970s, British scientist Derek de Solla Price took X-ray pictures through the metal pieces. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">He proved it was an ancient sky calculator with at least thirty gear wheels moved by a single hand <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">crank</span></span></span>. By turning the handle, people could see where the sun, moon, and five planets would move next.</p><p><strong>Paragraph 4.</strong> In 2005, scientists brought a giant X-ray scanner to Athens to read tiny Greek words hidden inside the machine. The writing showed dials on the back that predicted lunar eclipses, including the exact hour and the <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">colour</span></span> of the moon. Another small dial showed the dates of ancient Greek sports games. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">After the Roman Empire fell, this amazing technology disappeared completely for over one thousand years</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "The Ancient Sea Computer",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Divers stopped near Antikythera island to find <b>1.</b> {{q1}} during a bad storm.</li><li style=\"margin-bottom:8px;\">The machine first looked like an ordinary green <b>2.</b> {{q2}} of metal and wood.</li><li style=\"margin-bottom:8px;\">A user operated the device by turning a hand <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">A back dial predicted the hour and <b>4.</b> {{q4}} of moon eclipses.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "shelter",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...stopped near the small rocky island of Antikythera to find shelter.\"</i>",
+          "<b>Từ cần điền:</b> <b>shelter</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "block",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...a dull, green block of old metal and wood.\"</i>",
+          "<b>Từ cần điền:</b> <b>block</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "crank",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...moved by a single hand crank.\"</i>",
+          "<b>Từ cần điền:</b> <b>crank</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "colour",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...including the exact hour and the colour of the moon.\"</i>",
+          "<b>Từ cần điền:</b> <b>colour</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Diver Elias Stadiatis immediately understood that he had discovered an ancient Roman ship.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Ông hoảng sợ tưởng thấy xác chết và quái vật (<i>dead bodies and monsters</i>), không nhận ra đó là tàu cổ.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Valerios Stais discovered the metal gear wheels on the first day the items arrived in Athens.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Khối đồng nằm ngoài sân nhiều tháng (<i>For several months, nobody noticed</i>) đến tháng 5/1902 mới nứt ra.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Turning a handle on the machine showed future movements of the sun and planets.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"By turning the handle, people could see where the sun, moon, and five planets would move next.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The Athens museum paid the sponge divers a large amount of gold for their discovery.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Toàn bài:</b> Không hề nhắc đến việc bảo tàng trả vàng thưởng cho thợ lặn.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

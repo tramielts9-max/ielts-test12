@@ -1,0 +1,164 @@
+{
+  "title": "[A2 • Band 4.0] Bài 314: Space and Mind: Architecture & Brain",
+  "answers": {
+    "q1": "C",
+    "q2": "A",
+    "q3": "B",
+    "q4": "D",
+    "q5": "TRUE",
+    "q6": "FALSE",
+    "q7": "NOT GIVEN",
+    "q8": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 314 (LEVEL A2 • BAND 4.0)</h2><h3>Space and Mind: The Cognitive Ergonomics of Architecture</h3><p><strong>Paragraph 1.</strong> For over a hundred years, builders followed one famous rule: a building only needs to work well. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">If an office had enough desks, good heating, and safe fire exits, people called the design a success</span>. However, brain scientist Dr. Colin Ellard shows that buildings also change how our brains work, how we feel, and how much stress we carry.</p><p><strong>Paragraph 2.</strong> Dr. Ellard studies how room shape changes human thinking. One interesting finding is about ceiling height. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">In lab tests, people sitting in rooms with high ceilings (three metres or higher) did much better on creative tasks and big-picture ideas</span></span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">On the other hand, people in rooms with low ceilings focused better on small details and careful checking work</span>.</p><p><strong>Paragraph 3.</strong> Outside building walls also affect how pedestrians feel on city streets. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">In New York, Berlin, and London, Ellard gave walkers special skin sensors and eye glasses</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">When people walked past long, plain glass walls or blank concrete walls, their hearts slowed down and they felt deeply bored and stressed</span>. However, old streets with interesting shop windows, varied doors, and rich textures made walkers feel curious and happy.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">For decades, builders chose cheap, plain glass buildings to save money. Ellard warns that boring city streets make people feel lonely and stressed</span></span>. Good buildings are never just background boxes; they quietly shape how happy and healthy our whole city feels.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–4",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "In the past, how did people judge if an office building was successful?",
+      "options": [
+        "A. By checking if the walls had bright paintings",
+        "B. By asking walkers if they felt curious outside",
+        "C. By seeing if it had enough desks, heating, and fire safety",
+        "D. By measuring the stress levels of every worker"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Trước đây chỉ cần đủ bàn làm việc, lò sưởi tốt và lối thoát hiểm an toàn là thành công.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "According to Paragraph 2, high ceilings help people perform better at",
+      "options": [
+        "A. creative thinking and big ideas",
+        "B. checking small numbers carefully",
+        "C. sleeping quietly during lunch breaks",
+        "D. walking faster across office rooms"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Trần cao giúp làm tốt hơn các nhiệm vụ sáng tạo và ý tưởng lớn.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "How did walkers react when passing long, plain glass or concrete walls?",
+      "options": [
+        "A. They felt excited and curious.",
+        "B. They felt deeply bored and stressed.",
+        "C. They stopped to look at shop windows.",
+        "D. Their hearts beat much faster."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nhịp tim chậm lại, cảm thấy rất chán nản và căng thẳng.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "What problem does Ellard warn about in the final paragraph?",
+      "options": [
+        "A. Glass buildings are too expensive to heat in winter.",
+        "B. Old streets have too many small shop doors.",
+        "C. Office workers dislike working near big windows.",
+        "D. Boring, cheap city buildings make residents feel lonely and stressed."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Đường phố nhàm chán khiến cư dân cảm thấy cô đơn và căng thẳng.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Rooms with ceilings of three metres or more helped participants think creatively.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...rooms with high ceilings (three metres or higher) did much better on creative tasks...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Low ceilings are best for big, abstract creative tasks.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Trần thấp giúp tập trung vào chi tiết nhỏ (<i>small details</i>), không phải sáng tạo bao quát.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Ellard's walking test in London cost more money than the test in Berlin.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Có nhắc 3 thành phố New York, Berlin, London nhưng không so sánh chi phí giữa các nơi.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Ellard believes buildings affect the mood and health of an entire city.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...quietly shape how happy and healthy our whole city feels.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

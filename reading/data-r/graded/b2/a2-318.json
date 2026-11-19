@@ -1,0 +1,142 @@
+{
+  "title": "[A2 • Band 4.0] Bài 318: The Cartography of Silence",
+  "answers": {
+    "q1": "TRUE",
+    "q2": "NOT GIVEN",
+    "q3": "FALSE",
+    "q4": "TRUE",
+    "q5": "villages",
+    "q6": "taxed",
+    "q7": "rulers",
+    "q8": "argument"
+  },
+  "passageHtml": "<h2>PASSAGE 318 (LEVEL A2 • BAND 4.0)</h2><h3>The Cartography of Silence: Maps, Erasure, and Colonial Power</h3><p><strong>Paragraph 1.</strong> Most people look at street maps or phone map apps and think they show the simple truth. We trust that lines on a map match real mountains, coasts, and country borders. However, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">history professor Dr. Julian Harley says that mapmaking has never been a completely neutral science</span>. In his book, he explains that maps are tools of political power. Instead of just copying the land, maps can change how people see and control a place.</p><p><strong>Paragraph 2.</strong> Between the 1500s and 1800s, European empires took over lands in the Americas, Africa, and Australia. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Before armies or settlers arrived, military mapmakers drew charts of these regions</span>. They often left out local <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">villages</span></span>, sacred paths, and old local names. By showing busy lands as empty white spaces on paper, mapmakers made it look acceptable for empires to take those lands.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Local people understood their land through rivers, forests, and spoken stories</span>. Colonial mapmakers replaced these natural ideas with straight square lines. They cut wild lands into neat rectangular pieces of private property. These neat blocks could easily be written in government books, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">taxed</span> by leaders</span>, and sold for money in Europe.</p><p><strong>Paragraph 4.</strong> The effects of old colonial maps still shape our world today. In the 1800s, European diplomats drew borders across Africa and the Middle East using straight lines and <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">rulers</span></span> inside meeting rooms. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Those straight lines cut directly through local ethnic groups and language communities, causing conflicts that still exist today</span>. Dr. Harley reminds us that every map is an <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">argument</span></span>, and what a map hides can matter even more than what it shows.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "How Colonial Maps Shaped Land",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">European mapmakers often left out local place names and indigenous <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:8px;\">Cutting land into rectangular pieces made it easy to be sold and <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">In the 1800s, diplomats drew borders across Africa using straight lines and <b>7.</b> {{q7}} .</li><li style=\"margin-bottom:8px;\">Dr. Harley believes that every map is actually a kind of <b>8.</b> {{q8}} .</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Dr. Julian Harley believes that mapmaking has never been completely neutral.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...mapmaking has never been a completely neutral science.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Military mapmakers in the 1600s were paid higher salaries than army soldiers.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chỉ nói người vẽ bản đồ quân sự đến trước quân đội, không nhắc tiền lương.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Local people traditionally drew neat rectangular grids to divide their forests.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Người bản địa hiểu đất qua sông, rừng, chuyện kể; người vẽ bản đồ thực dân mới chia ô chữ nhật.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Straight colonial borders cut through ethnic communities and still cause problems today.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"Those straight lines cut directly through local ethnic groups... causing conflicts that still exist today.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "villages",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"They often left out local villages, sacred paths...\"</i>",
+          "<b>Từ cần điền:</b> <b>villages</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "taxed",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...taxed by leaders, and sold for money...\"</i>",
+          "<b>Từ cần điền:</b> <b>taxed</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "rulers",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...using straight lines and rulers inside meeting rooms.\"</i>",
+          "<b>Từ cần điền:</b> <b>rulers</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "argument",
+      "inputWidth": "120px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...every map is an argument...\"</i>",
+          "<b>Từ cần điền:</b> <b>argument</b>."
+        ]
+      }
+    }
+  }
+}
