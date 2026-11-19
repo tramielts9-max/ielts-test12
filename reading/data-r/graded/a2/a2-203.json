@@ -1,0 +1,142 @@
+{
+  "title": "[A2 • Band 4.0] Bài 203: The Revival of Acoustic Ecology",
+  "answers": {
+    "q1": "night",
+    "q2": "trees",
+    "q3": "rain",
+    "q4": "traffic",
+    "q5": "FALSE",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 203 (LEVEL A2 • BAND 4.0)</h2><h3>The Revival of Acoustic Ecology</h3><p><strong>Paragraph 1.</strong> For many years, wildlife scientists counted forest animals by looking for them with cameras, binoculars, or flying drones. However, seeing animals in thick jungles is very hard. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Many creatures hide behind leaves, stay away from human smells, or only come out at <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">night</span></span> in the dark</span>. Because of this problem, a new study called soundscape ecology listens to the sounds of nature instead of only taking pictures.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Scientists divide all forest sounds into three simple groups</span>: animal sounds (like frogs and monkeys), natural weather sounds (like wind and thunder), and human machine noise. In a healthy forest, each animal species uses its own sound level and time so they do not shout over each other. When workers cut down trees, this quiet order breaks down.</p><p><strong>Paragraph 3.</strong> To record forest sounds, scientists use small, cheap sound boxes called ARUs. Workers tie these <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">boxes onto <span class=\"kw\">trees</span></span> to record non-stop for months. Soon, a huge problem appeared: just twelve recorders in one park collected 30,000 hours of sound in a single season! <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">A human listener would need decades to hear all those files</span>. Today, smart computer programmes scan the recordings automatically. In Peru, Dr. Julian Rivera's software found illegal tree cutting within 48 hours, even though space satellites missed it under thick leaves.</p><p><strong>Paragraph 4.</strong> Still, recording nature is not easy. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Wet jungle air damages sensitive microphones</span>. Also, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">heavy <span class=\"kw\">rain</span> can hide quiet bird calls for days</span>. Near cities, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">loud <span class=\"kw\">traffic</span> noise covers up animal voices</span>, making computers think the forest is empty when animals are really there.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Listening to Forests",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Cameras often miss animals that only appear during the <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">Scientists attach cheap recording boxes directly onto forest <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">Heavy storm <b>3.</b> {{q3}} can cover up animal voices for several days.</li><li style=\"margin-bottom:8px;\">Near busy cities, loud <b>4.</b> {{q4}} sounds hide wildlife calls from computers.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "night",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...only come out at night in the dark.\"</i>",
+          "<b>Từ cần điền:</b> <b>night</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "trees",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Workers tie these boxes onto trees...\"</i>",
+          "<b>Từ cần điền:</b> <b>trees</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "rain",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...heavy rain can hide quiet bird calls...\"</i>",
+          "<b>Từ cần điền:</b> <b>rain</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "traffic",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...loud traffic noise covers up animal voices...\"</i>",
+          "<b>Từ cần điền:</b> <b>traffic</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Cameras and drones can easily spot every animal living inside thick jungles.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Động vật trốn sau lá cây hoặc ra vào ban đêm nên nhìn thấy chúng rất khó (<i>very hard</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Scientists separate forest sounds into three distinct groups.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Scientists divide all forest sounds into three simple groups...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Human workers can listen to 30,000 hours of forest audio in just one week.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Con người phải mất hàng thập kỷ (<i>need decades</i>) chứ không thể nghe hết trong 1 tuần.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Sound recording devices in jungles are frequently stolen by tourists.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chỉ nói không khí ẩm làm hỏng micro, không nhắc chuyện du khách ăn trộm máy.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

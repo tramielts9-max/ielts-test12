@@ -1,0 +1,142 @@
+{
+  "title": "[A2 • Band 4.0] Bài 102: The Kakapo",
+  "answers": {
+    "q1": "balance",
+    "q2": "smell",
+    "q3": "fruit",
+    "q4": "islands",
+    "q5": "FALSE",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>READING A2 (BAND 4.0) — BÀI 102</h2><h3>The Kakapo: A Special Night Parrot</h3><p><strong>Paragraph 1.</strong> New Zealand is home to a very unusual bird called the kakapo. It is a night parrot that lives in forests. For millions of years, there were no land mammals in New Zealand to hunt it. Because of this, the kakapo lost the ability to fly. Today, it is the heaviest parrot in the world. Adult males can weigh four kilograms. The kakapo uses its strong legs to walk and climb trees. It only uses its short wings for <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">balance</span></span> when it jumps from branches.</p><p><strong>Paragraph 2.</strong> Long ago, the kakapo only had to hide from large birds, like the giant Haast's eagle. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Those eagles hunted by sight</span>. When danger was near, the kakapo stood completely still. Its green feathers helped it hide on the forest floor. Later, human settlers brought cats, rats, and stoats to New Zealand. These animals hunt by smell, not by sight. The kakapo has a strong, sweet <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">smell</span></span>. Standing still did not protect it, so the bird almost died out.</p><p><strong>Paragraph 3.</strong> The kakapo also has unusual breeding habits. It does not breed every year. It only has babies every two to four years, when native rimu trees grow a lot of <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">fruit</span></span>. Mothers feed this healthy food to their chicks. In summer, male birds dig small holes on hilltops and make loud booming sounds to call females. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">The loud calls can travel for kilometres across the mountains</span>.</p><p><strong>Paragraph 4.</strong> In 1977, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">workers found fewer than 200 kakapos, and almost all of them were old males</span>. To save the species, New Zealand moved every living kakapo to <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">safe <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">islands</span></span> with no cats or rats</span>. Scientists put small radios on the birds and used drones to help them breed. Thanks to this hard work, the number of kakapos grew from 51 in 1995 to more than 240 today.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "The Kakapo (A2)",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<ul><li style=\"margin-bottom:10px;\">Uses its short wings only for <b>1.</b> {{q1}} when jumping from branches.</li><li style=\"margin-bottom:10px;\">Introduced animals easily found the kakapo because of its strong, sweet <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:10px;\">The birds only breed when rimu trees produce plenty of <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:10px;\">Surviving birds were moved to safe <b>4.</b> {{q4}} with no predators.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information given in the passage?<br>Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "balance",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"It only uses its short wings for balance when it jumps from branches.\"</i>",
+          "<b>Từ cần điền:</b> <b>balance</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "smell",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"The kakapo has a strong, sweet smell.\"</i>",
+          "<b>Từ cần điền:</b> <b>smell</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "fruit",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"when native rimu trees grow a lot of fruit.\"</i> (a lot of = plenty of).",
+          "<b>Từ cần điền:</b> <b>fruit</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "islands",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"moved every living kakapo to safe islands with no cats or rats.\"</i>",
+          "<b>Từ cần điền:</b> <b>islands</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "The Haast's eagle used its sense of smell to find kakapos.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Those eagles hunted by sight.\"</i> (săn bằng mắt chứ không phải bằng khứu giác).",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "The sounds made by male kakapos can be heard from far away.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"The loud calls can travel for kilometres across the mountains.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Most of the kakapos found in 1977 were young female birds.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"almost all of them were old males.\"</i> → Trái ngược với chim cái trẻ.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Tourists can visit the safe islands to see kakapos in the wild.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài chỉ nói chim được chuyển đến các đảo an toàn không có mèo và chuột, không đề cập khách du lịch có được phép tới tham quan hay không.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "title": "[A2 • Band 4.0] Bài 210: The Internal Clockwork: Chronobiology",
+  "answers": {
+    "q1": "C",
+    "q2": "A",
+    "q3": "B",
+    "q4": "D",
+    "q5": "NOT GIVEN",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 210 (LEVEL A2 • BAND 4.0)</h2><h3>The Internal Clockwork: Chronobiology and the Modern Workplace</h3><p><strong>Paragraph 1.</strong> Inside every human body is a natural twenty-four-hour clock. This internal clock controls body temperature, digestion, and sleep. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">At the centre of this system is a tiny group of brain cells called the SCN. It sends signals to keep all body parts working in step with daylight and night darkness</span>.</p><p><strong>Paragraph 2.</strong> Today, electric lights and twenty-four-hour businesses force millions of people to work when their bodies want to sleep. Scientists divide people into three natural sleep types: early morning 'larks', middle types, and late-night 'owls'. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Your sleep type comes mostly from the genes you were born with, so strict rules or hard training cannot easily change it</span>.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Scientist Dr. Till Roenneberg studied over fifty thousand workers in Europe and found that more than seventy percent suffer from 'social jetlag'—waking up at hours that fight their body clock</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Workers feel tired every morning across many jobs</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Forcing a night owl to wake at six in the morning leaves their body cold and their brain full of sleep hormones</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Around four o'clock in the morning, human reaction speed hits its worst point, causing serious mistakes at work</span>.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">To fix this problem, three factories in Germany tested workers' genes and gave each person early, middle, or late shifts matching their body clock. Within six months, worker absences dropped by twenty-eight percent and accidents fell sharply</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Engineers also make smart indoor lights that shine bright blue light in the morning and soft warm orange light in the afternoon to protect healthy sleep at night</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–4",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "What does the tiny group of brain cells called the SCN do?",
+      "options": [
+        "A. It turns off digestion while people are awake.",
+        "B. It helps people see clearly inside dark factories.",
+        "C. It keeps body clocks synced with daylight and darkness.",
+        "D. It creates electric lights for modern offices."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> SCN gửi tín hiệu giúp các bộ phận cơ thể hoạt động khớp với chu kỳ ngày và đêm.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "According to Paragraph 2, what mainly decides a person's natural sleep type?",
+      "options": [
+        "A. The genes they were born with",
+        "B. Strict morning exercise habits",
+        "C. The food they eat for dinner",
+        "D. The number of hours spent watching screens"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Your sleep type comes mostly from the genes you were born with...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "What did Dr. Till Roenneberg discover about European workers?",
+      "options": [
+        "A. Almost all workers prefer starting work at six in the morning.",
+        "B. Over seventy percent wake up at times that fight their body clock.",
+        "C. Night owls have fewer accidents than morning larks.",
+        "D. Workers sleep better under bright office lights."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Hơn 70% người lao động châu Âu bị lệch nhịp sinh học (<i>social jetlag</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "How did three German factories lower worker absences by 28%?",
+      "options": [
+        "A. By doubling daily coffee breaks for night workers",
+        "B. By closing factories completely during winter months",
+        "C. By paying higher wages to morning larks",
+        "D. By matching shift hours to each worker's natural body clock"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Sắp xếp ca làm sớm, vừa, hoặc muộn khớp với đồng hồ sinh học từng người.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Workers in Germany sleep longer on weekends than workers in France.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Không có thông tin so sánh thời gian ngủ cuối tuần giữa Đức và Pháp.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Waking a night owl at six in the morning leaves their brain full of sleep hormones.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...leaves their body cold and their brain full of sleep hormones.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Human reaction speed is at its fastest point at four o'clock in the morning.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> 4 giờ sáng là lúc tốc độ phản ứng tệ nhất (<i>worst point</i>), dễ gây sai sót.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Warm orange indoor light in the afternoon helps protect natural sleep at night.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...soft warm orange light in the afternoon to protect healthy sleep at night.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "title": "[A2 • Band 4.0] Bài 117: The Dodo: Re-evaluating an Extinct Icon",
+  "answers": {
+    "q1": "pigeons",
+    "q2": "smell",
+    "q3": "meat",
+    "q4": "swamp",
+    "q5": "TRUE",
+    "q6": "FALSE",
+    "q7": "FALSE",
+    "q8": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 117 (LEVEL A2 • BAND 4.0)</h2><h3>The Dodo: Re-evaluating an Extinct Icon</h3><p><strong>Paragraph 1.</strong> For three hundred years, old stories painted the dodo as a fat, clumsy, and silly bird that died out because it was weak. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">However, modern scientists used bone scans and new studies to prove that this old picture is wrong. In truth, the dodo was a strong, fast runner that fit its island home very well</span>.</p><p><strong>Paragraph 2.</strong> The dodo lived only on Mauritius, a tropical island in the Indian Ocean. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Millions of years ago, fruit-eating <span class=\"kw\">pigeons</span> flew to this island</span>. Because there were no meat-eating land animals there, the birds stopped flying to save energy and lived on the ground. They grew strong legs and big hooked beaks to crack hard forest nuts and bite enemies. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Their brains were as smart as modern pigeons, with a strong sense of <span class=\"kw\">smell</span> to find ripe fruit on the forest floor</span>.</p><p><strong>Paragraph 3.</strong> Everything changed in 1598 when Dutch sailors landed on Mauritius. Having never seen dangerous land animals, dodos showed zero fear. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Instead of running away, they stood still, so sailors caught them easily with bare hands</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Still, sailors disliked eating the dodo because its <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">meat</span></span> was tough and oily</span>.</p><p><strong>Paragraph 4.</strong> The real killer of the dodo was not human hunting, but new animals brought on European ships. Settlers brought pigs, black rats, and monkeys onto the island. Because dodos built simple nests on the ground and laid only one egg each time, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">hungry pigs and rats easily broke the eggs and ate baby birds</span>. By 1681, the last dodo died out. Almost two centuries later, in 1865, a teacher named George Clark dug thousands of dodo bones from a wet <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">swamp</span></span>, helping modern science rebuild how the real bird looked.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "The Real Dodo",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">The dodo developed from prehistoric fruit-eating <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">It used a strong sense of <b>2.</b> {{q2}} to locate fallen fruit.</li><li style=\"margin-bottom:8px;\">Dutch sailors disliked the dodo's tough and oily <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">In 1865, thousands of dodo bones were dug from a wet <b>4.</b> {{q4}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "pigeons",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...fruit-eating pigeons flew to this island.\"</i>",
+          "<b>Từ cần điền:</b> <b>pigeons</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "smell",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...with a strong sense of smell to find ripe fruit...\"</i>",
+          "<b>Từ cần điền:</b> <b>smell</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "meat",
+      "inputWidth": "100px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...because its meat was tough and oily.\"</i>",
+          "<b>Từ cần điền:</b> <b>meat</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "swamp",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...dug thousands of dodo bones from a wet swamp...\"</i>",
+          "<b>Từ cần điền:</b> <b>swamp</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Modern science shows the dodo was actually a strong and fast runner.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"In truth, the dodo was a strong, fast runner...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Dodos quickly ran into the trees whenever Dutch sailors came near them.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chúng không biết sợ nên đứng yên tại chỗ (<i>stood still</i>) chứ không chạy trốn.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "European sailors hunted dodos mainly because their meat tasted delicious.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Thủy thủ chê thịt dai và nhiều dầu (<i>disliked eating the dodo</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Rats and pigs brought on ships destroyed dodo eggs on the ground.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...hungry pigs and rats easily broke the eggs and ate baby birds.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

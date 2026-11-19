@@ -1,0 +1,164 @@
+{
+  "title": "[A2 • Band 4.0] Bài 301: The Architecture of Ennui: A History of Boredom",
+  "answers": {
+    "q1": "TRUE",
+    "q2": "NOT GIVEN",
+    "q3": "FALSE",
+    "q4": "TRUE",
+    "q5": "C",
+    "q6": "A",
+    "q7": "D",
+    "q8": "B"
+  },
+  "passageHtml": "<h2>PASSAGE 301 (LEVEL A2 • BAND 4.0)</h2><h3>The Architecture of Ennui: A History of Boredom</h3><p><strong>Paragraph 1.</strong> Today, people hate feeling bored. Whenever we wait for a train, sit in a clinic, or stand in a shop line, we quickly look at our smartphone screens. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Many doctors and writers talk about boredom like a bad sickness that we must remove</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">However, historian Peter Toohey says our fear of boredom makes us forget something important. In his view, boredom is not an empty hole; it is an old natural warning system inside our brains</span>.</p><p><strong>Paragraph 2.</strong> The English word 'boredom' is quite young. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">In old times, religious workers felt a heavy tiredness when they could not focus on prayers</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Later, in 1853, famous writer Charles Dickens used the word 'boredom' in his book <em>Bleak House</em> to describe a rich woman who felt unhappy even with plenty of money</span>. Toohey says simple boredom is very useful for animals too. When an animal has no food or new things to explore in one area, boredom makes it feel restless so it moves to a better place.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Before factories appeared, farm workers did different jobs in each season and watched the weather closely</span>. When machines and factories grew across Europe, factory workers had to repeat the exact same hand movements all day long. Boredom soon spread to millions of working people. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Because workers felt bored after long shifts, music halls, cheap storybooks, and beach holidays became big businesses to help them forget work</span>.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Some modern scientists worry that too much boredom can lead people into unhealthy habits</span>. Still, Toohey says mild boredom actually helps us think better. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Brain scans show that when a person is quietly bored, the brain starts connecting old memories and creating fresh, original ideas</span>. If we fill every free second with phone screens, we may stop our minds from inventing new things.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 5–8",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "People today often treat boredom like an unpleasant problem to get rid of.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Many doctors and writers talk about boredom like a bad sickness that we must remove.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Early religious workers wrote large books about how to cure boredom.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chỉ nói họ cảm thấy mệt mỏi khi khó tập trung cầu nguyện, không nói có viết sách chữa buồn chán hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Farm workers had to repeat the exact same indoor job every single day.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nông dân làm các việc khác nhau theo từng mùa (<i>different jobs in each season</i>); công nhân nhà máy mới lặp lại 1 động tác.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Too much boredom may sometimes be linked with bad habits.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...too much boredom can lead people into unhealthy habits.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "What does historian Peter Toohey say about boredom in Paragraph 1?",
+      "options": [
+        "A. It happens only when people lose their phones.",
+        "B. It is a dangerous disease caused by waiting.",
+        "C. It works as a natural warning system in the brain.",
+        "D. It did not exist before the twentieth century."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...it is an old natural warning system inside our brains.\"</i>",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Who was Lady Dedlock in Charles Dickens's book Bleak House?",
+      "options": [
+        "A. A wealthy woman who felt bored despite having lots of money",
+        "B. A poor factory worker who missed life on the farm",
+        "C. A doctor who studied animal behaviour in cities",
+        "D. A singer who performed in Victorian music halls"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Miêu tả một phụ nữ giàu có cảm thấy không vui dù có nhiều tiền.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Why did music halls and seaside trips become popular businesses in Europe?",
+      "options": [
+        "A. Because factory machines stopped working in summer",
+        "B. Because farm workers earned higher pay than city workers",
+        "C. Because doctors ordered workers to travel every month",
+        "D. Because workers wanted fun ways to escape boring factory jobs"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Giúp công nhân quên đi công việc nhà máy buồn tẻ.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "According to brain scans, what can quiet boredom help people do?",
+      "options": [
+        "A. Fall asleep faster after long train rides",
+        "B. Connect memories and think of creative ideas",
+        "C. Remember every phone message they read",
+        "D. Work faster inside noisy city factories"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...connecting old memories and creating fresh, original ideas.\"</i>",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    }
+  }
+}

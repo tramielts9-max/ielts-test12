@@ -1,0 +1,142 @@
+{
+  "title": "[A2 • Band 4.0] Bài 312: The Singing Hominin: Roots of Melody",
+  "answers": {
+    "q1": "TRUE",
+    "q2": "NOT GIVEN",
+    "q3": "FALSE",
+    "q4": "TRUE",
+    "q5": "birds",
+    "q6": "mothers",
+    "q7": "hunting",
+    "q8": "glue"
+  },
+  "passageHtml": "<h2>PASSAGE 312 (LEVEL A2 • BAND 4.0)</h2><h3>The Singing Hominin: The Evolutionary Roots of Melody</h3><p><strong>Paragraph 1.</strong> For hundreds of years, many thinkers believed that music was just a fun hobby. They thought humans invented speech first and only added music much later. However, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">in 1871, scientist Charles Darwin had a different idea. He suggested that early humans sang musical sounds before they learned to talk with words</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">He thought early singing worked like the songs of <span class=\"kw\">birds</span> to attract partners</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Later in the twentieth century, some scientists still disagreed and said music did not help humans survive</span>.</p><p><strong>Paragraph 2.</strong> Today, researcher Dr. Steven Mithen shows that music is very important to human life. Every culture in the world has music, and human brains are built for it. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Little babies understand musical tones and soft melodies months before they know the meaning of spoken words</span>. Around the world, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">mothers</span> naturally use gentle, sing-song voices to calm crying babies</span>. Brain pictures also prove that listening to music wakes up deep parts of the brain linked to feelings and friendship.</p><p><strong>Paragraph 3.</strong> Dr. Mithen thinks early human ancestors did not separate talking and singing. Instead, they used musical calls and hand movements together. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">These musical calls helped early groups work together during dangerous <span class=\"kw\">hunting</span> trips, stop fights, and feel safe as a team</span>. Much later, modern humans split these sounds into two paths. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Speech became great for sharing facts, while music kept its power over human feelings</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In this way, music acted like social <span class=\"kw\">glue</span> that helped humans build big, friendly towns</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Music and Early Humans",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Charles Darwin compared early human singing to the songs of <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:8px;\">In every society, <b>6.</b> {{q6}} use musical voices to calm upset babies.</li><li style=\"margin-bottom:8px;\">Musical calls helped early human groups cooperate during <b>7.</b> {{q7}} trips.</li><li style=\"margin-bottom:8px;\">Music worked as social <b>8.</b> {{q8}} to help people build large communities.</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Charles Darwin believed singing developed earlier than spoken words.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"He suggested that early humans sang musical sounds before they learned to talk with words.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Charles Darwin wrote a special book only about singing birds in Europe.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Bài chỉ nói Darwin đưa ra ý tưởng năm 1871, không nhắc sách viết riêng về chim châu Âu.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Babies learn the meaning of spoken words before they notice musical melodies.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Trẻ nhỏ cảm nhận giai điệu vài tháng <i>trước khi</i> hiểu nghĩa của từ nói.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Modern speech is mainly useful for passing on factual information.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Speech became great for sharing facts...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "birds",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...worked like the songs of birds...\"</i>",
+          "<b>Từ cần điền:</b> <b>birds</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "mothers",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...mothers naturally use gentle, sing-song voices...\"</i>",
+          "<b>Từ cần điền:</b> <b>mothers</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "hunting",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...work together during dangerous hunting trips...\"</i>",
+          "<b>Từ cần điền:</b> <b>hunting</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "glue",
+      "inputWidth": "100px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...music acted like social glue...\"</i>",
+          "<b>Từ cần điền:</b> <b>glue</b>."
+        ]
+      }
+    }
+  }
+}

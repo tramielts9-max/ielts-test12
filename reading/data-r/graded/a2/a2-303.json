@@ -1,0 +1,164 @@
+{
+  "title": "[A2 • Band 4.0] Bài 303: Sunken Archives: Deep-Sea Archaeology",
+  "answers": {
+    "q1": "B",
+    "q2": "D",
+    "q3": "A",
+    "q4": "C",
+    "q5": "NOT GIVEN",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 303 (LEVEL A2 • BAND 4.0)</h2><h3>Sunken Archives: The Ethics of Deep-Sea Archaeology</h3><p><strong>Paragraph 1.</strong> For hundreds of years, old wooden ships lying at the bottom of deep oceans were completely safe from humans. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Over the past twenty years, however, new underwater sound scanners and deep-sea robots have allowed people to reach the deepest ocean floors</span>. In her book <em>Treasures of the Abyss</em>, sea scientist Dr. Elena Gomez writes about a big argument between treasure companies and university historians.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Private treasure companies spend millions of dollars sending robots down to old sunken ships to collect gold bars, silver coins, and valuable plates, then sell them to rich buyers for profit</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Dr. Gomez says this ruins history</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">In real archaeology, knowing the exact spot where a coin lay next to the ship's wood gives ninety percent of its historical story. When robot claws grab coins quickly without mapping them, those clues are lost forever</span>.</p><p><strong>Paragraph 3.</strong> Treasure companies defend their work. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">They point out that public museums and universities do not have enough money to rent expensive deep-sea ships and robots</span>. They offer a deal: selling 'extra' coins to pay costs while giving rare objects to museums. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Dr. Gomez disagrees, saying calling old objects 'extra copies' is just an unfair excuse to sell stolen history</span>.</p><p><strong>Paragraph 4.</strong> In deep international seas far from any coast, local country laws do not apply. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">A global 2001 UNESCO rule stated that underwater treasures must not be sold for business</span>. However, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">powerful sea nations like the United States and the United Kingdom refused to sign it because they wanted to protect old sea-salvage traditions</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–4",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Why can humans reach deep-sea shipwrecks today?",
+      "options": [
+        "A. Ocean water levels have dropped dramatically.",
+        "B. New underwater robots and scanners can go very deep.",
+        "C. Old wooden ships float back up to the surface.",
+        "D. Treasure companies built dry tunnels under the sea."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Nhờ máy quét âm thanh và robot biển sâu mới xuất hiện trong 20 năm qua.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Why do private companies send robots to sunken ships?",
+      "options": [
+        "A. To repair broken wooden parts of old ships",
+        "B. To teach university students how to drive robots",
+        "C. To give free historical lectures inside museums",
+        "D. To collect valuable coins and sell them for profit"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Lấy vàng bạc, đồ sứ bán cho người mua giàu có kiếm lời.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "What happens when robot claws grab coins quickly?",
+      "options": [
+        "A. Scientists lose key clues about where items lay on the ship.",
+        "B. Coins immediately turn rusty in salty ocean water.",
+        "C. Public museums receive ninety percent of the money.",
+        "D. Ship captains ask governments for higher rewards."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Mất vĩnh viễn thông tin về vị trí chính xác của cổ vật cạnh thân tàu.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Why did the US and the UK refuse the 2001 UNESCO rule?",
+      "options": [
+        "A. They wanted to sell all museum statues online.",
+        "B. They had no robots capable of reaching deep water.",
+        "C. They wanted to keep traditional sea-salvage practices.",
+        "D. They believed no shipwrecks remained in the Atlantic."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Muốn bảo vệ truyền thống trục vớt hàng hải cũ.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Private treasure companies employ more than five hundred divers every summer.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bài chỉ nói công ty dùng robot, không nhắc số lượng thợ lặn hay mùa hè.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Public museums have plenty of money to rent deep-sea ships and robots.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bảo tàng và đại học không đủ tiền (<i>do not have enough money</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Dr. Gomez thinks calling old coins 'extra copies' is just an excuse to sell history.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...calling old objects 'extra copies' is just an unfair excuse...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Every country in the world has already agreed to follow the 2001 UNESCO rule.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Mỹ và Anh đã từ chối ký (<i>refused to sign it</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

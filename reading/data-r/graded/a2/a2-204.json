@@ -1,0 +1,142 @@
+{
+  "title": "[A2 • Band 4.0] Bài 204: The Vertical Agrarian Revolution in Singapore",
+  "answers": {
+    "q1": "land",
+    "q2": "water",
+    "q3": "electricity",
+    "q4": "solar",
+    "q5": "TRUE",
+    "q6": "FALSE",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 204 (LEVEL A2 • BAND 4.0)</h2><h3>The Vertical Agrarian Revolution in Singapore</h3><p><strong>Paragraph 1.</strong> Singapore is a small island country with almost six million people living on just 730 square kilometres. Because space is tight, the government built tall apartments, busy ports, and offices instead of large farms. As a result, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Singapore currently buys over ninety percent of its food from other countries</span>. To stay safe during global food problems, Singapore started the '30 by 30' plan. Its goal is to grow thirty percent of the nation's food locally by 2030, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">using less than one percent of its <span class=\"kw\">land</span></span>.</p><p><strong>Paragraph 2.</strong> To save ground space, companies are building tall indoor farms without soil. One leading company, GroFarm, operates inside a tall storage building in northern Singapore. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Workers grow green leafy vegetables on nine-metre-tall moving shelves inside closed rooms</span>. Instead of soil, plant roots sit in shallow plastic trays filled with clean, recycled nutrient water. This smart design <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">uses ninety-five percent less <span class=\"kw\">water</span></span> than outdoor farms.</p><p><strong>Paragraph 3.</strong> Inside these closed buildings, computers control heat, air moisture, and special blue and red LED lights. Because outdoor insects and diseases cannot enter, GroFarm uses zero chemical bug sprays and harvests crops up to twelve times every year. However, indoor farming faces one big problem: it <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">needs a huge amount of <span class=\"kw\">electricity</span></span> for thousands of bright lights and cooling systems. Because of high power costs, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">local indoor vegetables cost fifteen to twenty percent more in shops than vegetables from Malaysia or Thailand</span>.</p><p><strong>Paragraph 4.</strong> Scientists and engineers are now working to lower costs. Plant experts are growing smaller vegetables that ripen faster under LED lights. Engineers are also testing <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">solar</span> panels on building roofs</span> to save energy. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">At the same time, the government helps local farms by asking public schools and hospitals to buy locally grown greens</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Indoor Farming in Singapore",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Singapore wants to produce 30% of its food locally using under 1% of its <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">GroFarm's indoor tray system uses 95% less <b>2.</b> {{q2}} than outdoor farming.</li><li style=\"margin-bottom:8px;\">A major challenge is that indoor farms require huge amounts of <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">Engineers plan to save energy by putting <b>4.</b> {{q4}} panels on roofs.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "land",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...using less than one percent of its land.\"</i>",
+          "<b>Từ cần điền:</b> <b>land</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "water",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...uses ninety-five percent less water...\"</i>",
+          "<b>Từ cần điền:</b> <b>water</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "electricity",
+      "inputWidth": "120px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...needs a huge amount of electricity...\"</i>",
+          "<b>Từ cần điền:</b> <b>electricity</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "solar",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...testing solar panels on building roofs...\"</i>",
+          "<b>Từ cần điền:</b> <b>solar</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Singapore currently buys over ninety percent of its food from foreign countries.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Singapore currently buys over ninety percent of its food from other countries.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "GroFarm grows all its vegetables outdoors under open sunlight.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> GroFarm trồng rau trong phòng kín (<i>inside closed rooms</i>) dùng đèn LED, không phải ngoài trời.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Vegetables from Singapore's vertical farms are cheaper in shops than vegetables from Malaysia.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Rau trồng trong nhà đắt hơn 15–20% (<i>cost fifteen to twenty percent more</i>), không phải rẻ hơn.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Most tourists in Singapore enjoy visiting vertical farms during weekends.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài không hề nhắc tới việc khách du lịch có tới thăm trang trại hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

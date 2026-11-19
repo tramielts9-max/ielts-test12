@@ -1,0 +1,142 @@
+{
+  "title": "[A2 • Band 4.0] Bài 206: Nature's Sticky Secret: The Science of Dry Adhesion",
+  "answers": {
+    "q1": "glue",
+    "q2": "hairs",
+    "q3": "upward",
+    "q4": "space",
+    "q5": "FALSE",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 206 (LEVEL A2 • BAND 4.0)</h2><h3>Nature's Sticky Secret: The Science of Dry Adhesion</h3><p><strong>Paragraph 1.</strong> For over two thousand years, scientists wondered how geckos climb so easily. A gecko is a small lizard that can run fast up walls and across smooth glass ceilings. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Tree frogs need wet liquid on their feet to stick, and insects use tiny sharp claws</span>. However, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">the gecko walks on ceilings without <span class=\"kw\">glue</span> or claws, and its feet leave no dirty marks behind</span>. Only in the twenty-first century did powerful microscopes finally show how gecko feet work.</p><p><strong>Paragraph 2.</strong> A gecko's foot does not use sticky liquid; it uses pure physical contact. Under a strong microscope, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">each gecko toe has millions of tiny <span class=\"kw\">hairs</span></span>, much thinner than one human hair. Every tiny hair splits into hundreds of even smaller flat ends. When these billions of flat ends press close to a wall, tiny forces pull the foot and wall together. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Together, these tiny forces are strong enough to hold fifty times the lizard's weight</span>.</p><p><strong>Paragraph 3.</strong> Still, sticking tightly to a wall would be dangerous if the gecko could not move. An animal stuck forever would soon starve! Engineer Dr. Ronald Fearing explains that gecko feet depend on direction. When a gecko pulls its foot down and in, the tiny hairs stick strongly to the wall. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">When the gecko rolls its toes <span class=\"kw\">upward</span>, the hairs change angle and let go right away</span>. That is why geckos can run over one metre per second up walls.</p><p><strong>Paragraph 4.</strong> Scientists wanted to copy gecko feet to make new dry tape. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Early plastic tapes failed fast because the artificial hairs stuck together when pressed</span>. Later, Dr. Kellar Autumn used super-small carbon tubes to build much stronger dry tape. Today, doctors test gecko tape to close cuts inside the body without stitches, and engineers build robot hands for <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">space</span></span> to catch old broken satellites.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "How Gecko Feet Work",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">A gecko can walk across smooth ceilings without claws or wet <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">Each toe pad holds millions of tiny <b>2.</b> {{q2}} that end in flat tips.</li><li style=\"margin-bottom:8px;\">A gecko lets go instantly when it rolls its toes <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">Engineers use gecko-style robot grippers in <b>4.</b> {{q4}} to grab old satellites.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "glue",
+      "inputWidth": "100px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...walks on ceilings without glue or claws...\"</i>",
+          "<b>Từ cần điền:</b> <b>glue</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "hairs",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...each gecko toe has millions of tiny hairs...\"</i>",
+          "<b>Từ cần điền:</b> <b>hairs</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "upward",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"When the gecko rolls its toes upward, the hairs change angle and let go...\"</i>",
+          "<b>Từ cần điền:</b> <b>upward</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "space",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...build robot hands for space to catch old broken satellites.\"</i>",
+          "<b>Từ cần điền:</b> <b>space</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Tree frogs use dry hairs on their feet to climb wet surfaces.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Ếch cây cần chất lỏng ướt (<i>wet liquid</i>), không phải lông khô.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "A gecko's feet can support up to fifty times its own body weight.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...strong enough to hold fifty times the lizard's weight.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Early plastic gecko tapes worked well under heavy pressure.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Băng dính nhựa đời đầu hỏng nhanh (<i>failed fast</i>) khi bị đè ép.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Dr. Kellar Autumn spent twenty years studying geckos in Asian forests.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài không nhắc thời gian hay việc ông nghiên cứu ở rừng châu Á.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

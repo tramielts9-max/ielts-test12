@@ -1,0 +1,166 @@
+{
+  "title": "[A2 • Band 4.0] Bài 304: The Mechanical Muse: AI and Art",
+  "answers": {
+    "q1": "formula",
+    "q2": "noise",
+    "q3": "feelings",
+    "q4": "artists",
+    "q5": "B",
+    "q6": "D",
+    "q7": "A",
+    "q8": "C"
+  },
+  "passageHtml": "<h2>PASSAGE 304 (LEVEL A2 • BAND 4.0)</h2><h3>The Mechanical Muse: Artificial Intelligence and Aesthetic Value</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">In May 2018, a simple-looking painting sold at a famous New York auction for $432,500. That price was forty times higher than people expected</span>. Why did everyone talk about this picture? <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Instead of a human name at the bottom, the painting was signed with a math <span class=\"kw\">formula</span></span>. An artificial intelligence (AI) computer program created the whole portrait after studying fifteen thousand old paintings from six hundred years of history.</p><p><strong>Paragraph 2.</strong> Many tech fans thought computers had finally become creative like humans. However, philosopher Dr. Julian Barnes disagrees strongly. He explains how this AI system actually works. Two programs play a game against each other: <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">one program builds digital pictures out of random <span class=\"kw\">noise</span></span>, and the second program checks those pictures against real human art. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">After millions of tries, the computer gets very good at copying human style—but copying patterns is not real creativity</span>.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Barnes says real art comes from personal human life and strong emotions. When Vincent van Gogh painted <em>The Starry Night</em>, he used paint to share deep sadness, wonder, and love</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">A computer program has no body, no life story, and zero <span class=\"kw\">feelings</span></span>. It only moves colored dots around on a screen without understanding what pain or joy means.</p><p><strong>Paragraph 4.</strong> Barnes also warns about two big problems with cheap AI art. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">First, if companies make endless free music and pictures by computer, real human <span class=\"kw\">artists</span> may lose their jobs and money</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Second, because AI only learns from old art, it keeps repeating styles from the past instead of breaking rules to invent truly fresh art</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "AI Art vs Human Art",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">The 2018 AI painting had a mathematical <b>1.</b> {{q1}} instead of a human signature.</li><li style=\"margin-bottom:8px;\">In an AI system, the first computer program builds images from random <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">Unlike human painters, a computer algorithm has no life and no <b>3.</b> {{q3}} .</li><li style=\"margin-bottom:8px;\">Unlimited cheap AI art threatens the jobs of living human <b>4.</b> {{q4}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 5–8",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "formula",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...signed with a math formula.\"</i>",
+          "<b>Từ cần điền:</b> <b>formula</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "noise",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...builds digital pictures out of random noise...\"</i>",
+          "<b>Từ cần điền:</b> <b>noise</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "feelings",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...no body, no life story, and zero feelings.\"</i>",
+          "<b>Từ cần điền:</b> <b>feelings</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "artists",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...real human artists may lose their jobs and money.\"</i>",
+          "<b>Từ cần điền:</b> <b>artists</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Why was the 2018 New York painting sale surprising?",
+      "options": [
+        "A. It was painted over six hundred years ago.",
+        "B. It sold for a huge price even though a computer made it.",
+        "C. It was the largest oil painting ever sold at auction.",
+        "D. Famous human painters refused to look at it."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Tranh do AI vẽ nhưng bán được $432,500, cao gấp 40 lần dự kiến.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "What does Dr. Julian Barnes believe about AI painting programs?",
+      "options": [
+        "A. They are much smarter than famous museum directors.",
+        "B. They create brand-new art styles without any help.",
+        "C. They cannot learn how to copy older painting styles.",
+        "D. They only copy patterns and do not truly create."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...copying patterns is not real creativity.\"</i>",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Why does the writer mention Van Gogh's painting The Starry Night?",
+      "options": [
+        "A. To show that real human art expresses deep personal emotion",
+        "B. To prove that modern computers can paint like Van Gogh",
+        "C. To explain how auction houses set high painting prices",
+        "D. To argue that bright colours are easy for machines to copy"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Dùng tranh Van Gogh để minh họa nghệ thuật thật xuất phát từ cảm xúc sống của con người.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Why could AI art harm future culture according to Paragraph 4?",
+      "options": [
+        "A. It makes museum tickets too expensive for students.",
+        "B. It deletes old paintings from computer databases.",
+        "C. It keeps repeating old styles instead of inventing fresh ones.",
+        "D. It forces companies to hire thousands of extra painters."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...keeps repeating styles from the past instead of breaking rules to invent truly fresh art.\"</i>",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    }
+  }
+}
