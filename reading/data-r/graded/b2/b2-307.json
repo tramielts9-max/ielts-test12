@@ -1,0 +1,225 @@
+{
+  "title": "[B2 • Band 6.0] Bài 307: The Evolution of Altruism",
+  "answers": {
+    "q1": "F",
+    "q2": "C",
+    "q3": "H",
+    "q4": "A",
+    "q5": "D",
+    "q6": "TRUE",
+    "q7": "NOT GIVEN",
+    "q8": "FALSE",
+    "q9": "TRUE",
+    "q10": "C",
+    "q11": "A",
+    "q12": "D"
+  },
+  "passageHtml": "<h2>PASSAGE 307 (LEVEL B2 • BAND 6.0)</h2><h3>The Evolution of Altruism: Beyond the Selfish Gene</h3><p><strong>Paragraph 1.</strong> For almost fifty years, evolutionary biology was dominated by a blunt, reductionist narrative: living organisms are survival machines built to pass on their genes at all costs. Popularised by Richard Dawkins' influential 1976 book <em>The Selfish Gene</em>, this view treated cooperation in nature as disguised self-interest. Apparently generous acts were explained away as kin selection—protecting relatives who share your DNA—or reciprocal altruism, trading favours for future gain. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">True, unrewarded sacrifice for an unrelated stranger was dismissed as evolutionarily impossible</span>.</p><p><strong>Paragraph 2.</strong> In <em>Mutual Aid: The Science of Cooperation</em>, evolutionary theorist Dr. Marcus Sterling mounts a powerful challenge to this cynical orthodoxy. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Sterling does not dispute that genetic self-interest operates at micro-levels, yet insists biology overlooked higher-level group selection</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Across thousands of species, from subterranean naked mole-rats to ocean whales, cooperative group unity consistently beats isolated selfishness</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">An early human band whose members share food and risk injury for the group will inevitably prevail over a fractured collection of self-centred egoists</span>.</p><p><strong>Paragraph 3.</strong> Sterling strengthens this case through evolutionary game theory, particularly the Iterated Prisoner's Dilemma. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Computer simulations designed by political scientist Robert Axelrod</span> demonstrated that <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">in repeated strategic interactions, purely competitive tactics that ruthlessly exploit helpful partners suffer eventual collapse</span></span>. Conversely, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">collaborative rules such as 'tit-for-tat'—beginning with goodwill and then mirroring a partner's previous action—build lasting social stability</span>.</p><p><strong>Paragraph 4.</strong> Going beyond mathematics, <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Sterling shows that human neurology evolved chemical reward circuits dedicated to group generosity</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Acts of communal sharing trigger the release of oxytocin and dopamine, proving physiologically that humans are wired for social solidarity rather than endless rivalry</span>.</p><p><strong>Paragraph 5.</strong> In his closing chapters, Sterling draws sharp lessons for modern society. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">He criticizes contemporary neoliberal economic models for building institutions around the flawed myth of <em>Homo economicus</em>—the idea that people are purely rational, self-serving individuals</span></span>. By structuring school grading, corporate bonuses, and welfare systems solely around cut-throat individual metrics, modern societies accidentally suppress our innate gift for mutual support.</p><p><strong>Paragraph 6.</strong> While human history certainly contains tribal conflict and severe violence, Sterling offers a hopeful historical correction. Our species secured long-term survival not through the ruthless victory of the strongest individual, but through an unmatched ability to trust, cooperate, and protect the vulnerable.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–H</b>, below.</i><br><br><b>A.</b> stability &nbsp;&nbsp; <b>B.</b> temporary &nbsp;&nbsp; <b>C.</b> egoists &nbsp;&nbsp; <b>D.</b> solidarity &nbsp;&nbsp; <b>E.</b> competition &nbsp;&nbsp; <b>F.</b> impossible &nbsp;&nbsp; <b>G.</b> genetic &nbsp;&nbsp; <b>H.</b> collapse",
+      "summaryTitle": "Rethinking Evolution and Cooperation",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>Traditional sociobiology once dismissed genuine selflessness toward strangers as evolutionarily <b>1.</b> {{q1}} . However, Dr. Marcus Sterling shows that cooperative bands routinely outlast divided groups of <b>2.</b> {{q2}} . Game theory tests confirm that purely exploitative strategies suffer eventual <b>3.</b> {{q3}} , whereas fair 'tit-for-tat' tactics preserve long-term <b>4.</b> {{q4}} . Furthermore, brain hormones released during sharing prove humans are biologically primed for social <b>5.</b> {{q5}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–9",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 10–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...dismissed as evolutionarily impossible.\"</i>",
+          "<b>Đáp án:</b> <b>F (impossible)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...fractured collection of self-centred egoists.\"</i>",
+          "<b>Đáp án:</b> <b>C (egoists)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "H",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...suffer eventual collapse.\"</i>",
+          "<b>Đáp án:</b> <b>H (collapse)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...build lasting social stability.\"</i>",
+          "<b>Đáp án:</b> <b>A (stability)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...wired for social solidarity...\"</i>",
+          "<b>Đáp án:</b> <b>D (solidarity)</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Naked mole-rats and ocean whales provide examples of cooperative group survival.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...from subterranean naked mole-rats to ocean whales, cooperative group unity consistently beats isolated selfishness.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Robert Axelrod received major government prizes for his game theory software.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chỉ nhắc Axelrod chạy mô phỏng máy tính, không nhắc đến giải thưởng chính phủ.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Purely competitive strategies always achieve the best long-term outcomes in multi-round games.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Các chiến thuật cạnh tranh thuần túy cuối cùng đều sụp đổ (<i>suffer eventual collapse</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Modern workplace reward metrics often weaken humanity's natural drive toward mutual aid.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ số cạnh tranh cá nhân ở công ty/trường học kìm hãm bản năng tương trợ.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "How does Dr. Sterling view Dawkins' micro-level genetic theory?",
+      "options": [
+        "A. He rejects it completely in every animal species.",
+        "B. He believes it applies only to ocean whales.",
+        "C. He accepts its smaller role while arguing group selection is also vital.",
+        "D. He argues it was disproved by ancient human fossils."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Không phủ nhận lợi ích gen ở cấp vi mô, nhưng nhấn mạnh tầm quan trọng của chọn lọc nhóm.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "What biological evidence supports Sterling's view of human cooperation?",
+      "options": [
+        "A. Sharing triggers hormone releases that strengthen social bonding.",
+        "B. Human brains shrink when people live in large cities.",
+        "C. Mole-rats and whales share identical DNA patterns.",
+        "D. Competitive athletes produce less dopamine than office workers."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Hành động chia sẻ kích thích tiết oxytocin và dopamine củng cố gắn kết.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "What is Sterling's primary criticism of Homo economicus thinking?",
+      "options": [
+        "A. It ignores the history of medieval farming.",
+        "B. It pays workers too much for cooperative projects.",
+        "C. It prevents economists from using computer simulations.",
+        "D. It designs institutions around a false model of pure human selfishness."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Xây dựng thiết chế dựa trên giả định sai lầm rằng con người hoàn toàn ích kỷ.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    }
+  }
+}

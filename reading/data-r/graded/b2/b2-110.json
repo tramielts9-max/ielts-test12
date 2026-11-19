@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 110: The Kakapo: New Zealand's Night Parrot",
+  "answers": {
+    "q1": "F",
+    "q2": "A",
+    "q3": "C",
+    "q4": "D",
+    "q5": "FALSE",
+    "q6": "TRUE",
+    "q7": "NOT GIVEN",
+    "q8": "TRUE",
+    "q9": "C",
+    "q10": "B",
+    "q11": "D",
+    "q12": "A"
+  },
+  "passageHtml": "<h2>PASSAGE 110 (LEVEL B2 • BAND 6.0)</h2><h3>The Kakapo: New Zealand's Night Parrot</h3><p><strong>Paragraph 1.</strong> Native to the dense forests of New Zealand, the kakapo is among the world's most unusual bird species. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Because New Zealand remained isolated without native land mammals for millions of years, this nocturnal parrot gradually lost the power of flight and evolved into a heavy, ground-living plant eater</span>, with adult males reaching four kilograms. When startled by potential danger, the kakapo does not run; instead, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">it freezes completely motionless, trusting its moss-green and yellow-brown plumage for <span class=\"kw\">camouflage</span> among ferns</span> against sharp-eyed eagles.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">The reproductive habits of the kakapo are equally distinctive. Rather than forming lifelong pairs, kakapos gather in a competitive display system</span>. During summer breeding cycles, males climb to elevated ridges, scrape shallow bowls into the soil, and inflate chest air sacs to send deep booming calls across mountain valleys. Even more inconveniently for conservationists, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">kakapos breed only every two to four years, matching the heavy fruiting cycles of native rimu trees</span>, whose calcium-rich fruit is vital for raising chicks.</p><p><strong>Paragraph 3.</strong> While freezing protected the kakapo from extinct aerial hunters, this instinct proved disastrous once Polynesian and European settlers arrived with dogs, feral cats, stoats, and rats. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Unlike eagles, invasive mammals hunt primarily by smell rather than vision</span>. Unfortunately, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">the bird produces a strong, honey-like body scent that allowed cats and rats to locate nesting females effortlessly</span>. By the mid-twentieth century, widespread predation and forest loss had nearly wiped out the entire species.</p><p><strong>Paragraph 4.</strong> A dramatic rescue began in 1977 when wildlife rangers discovered roughly two hundred birds surviving on remote Stewart Island. However, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">feral cats were killing the remaining population so rapidly that total extinction appeared certain within a decade</span>. Between 1980 and 1992, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">conservation officers captured every surviving kakapo and evacuated them to three small offshore islands that had been completely cleared of mammalian predators</span>.</p><p><strong>Paragraph 5.</strong> On these predator-free sanctuaries, scientists created the intensive Kakapo Recovery Programme. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Biologists attached miniature radio transmitters to every bird's back for continuous tracking</span>, built artificial egg-warming stations, and supplied tailored nutrients when rimu harvests failed. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">To prevent harmful inbreeding inside such a tiny population, geneticists mapped the DNA of every living kakapo and used computer models to select the most genetically distant partners for artificial breeding</span>.</p><p><strong>Paragraph 6.</strong> These coordinated efforts produced an encouraging turnaround. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">From an all-time low of just fifty-one birds recorded in 1995, the global census has climbed steadily past two hundred and fifty individuals</span>. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Although strict island biosecurity remains permanently necessary, the kakapo demonstrates how dedicated scientific research combined with protected habitats can rescue even the most vulnerable species from extinction</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> camouflage &nbsp;&nbsp; <b>B.</b> reproduction &nbsp;&nbsp; <b>C.</b> scents &nbsp;&nbsp; <b>D.</b> islands &nbsp;&nbsp; <b>E.</b> genetics &nbsp;&nbsp; <b>F.</b> flight &nbsp;&nbsp; <b>G.</b> nutrition",
+      "summaryTitle": "Kakapo Adaptations and Decline",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>Living in an environment free of land mammals, the kakapo gradually lost the ability of <b>1.</b> {{q1}} . To avoid eagles, the bird froze silently, relying on its green feathers for <b>2.</b> {{q2}} . However, this reflex failed against introduced mammals that tracked the parrot's strong natural <b>3.</b> {{q3}} . To save the species, rangers relocated all remaining birds to safe offshore <b>4.</b> {{q4}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information given in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...lost the power of flight...\"</i>",
+          "<b>Đáp án:</b> <b>F (flight)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...trusting its moss-green and yellow-brown plumage for camouflage...\"</i>",
+          "<b>Đáp án:</b> <b>A (camouflage)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...tracked the bird's strong, honey-like body scent...\"</i> → <i>scents</i>.",
+          "<b>Đáp án:</b> <b>C (scents)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...evacuated them to three small offshore islands...\"</i>",
+          "<b>Đáp án:</b> <b>D (islands)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Male and female kakapos stay together as lifelong breeding pairs.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"Rather than forming lifelong pairs, kakapos gather in a competitive display system.\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Kakapo reproduction is closely timed with the fruiting cycles of rimu trees.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...matching the heavy fruiting cycles of native rimu trees...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Some rescued kakapos were sent to zoos in Europe for emergency protection.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nhắc đến bảo tồn trên các đảo và trạm ấp nhân tạo, không hề nhắc đến vườn thú châu Âu.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The total number of kakapos has increased more than fourfold since 1995.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Từ 51 con (1995) tăng lên hơn 250 con (gấp hơn 4 lần).",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why was the kakapo's freezing reflex ineffective against introduced predators?",
+      "options": [
+        "A. The birds made loud clicking noises when frightened.",
+        "B. Invasive predators climbed trees faster than eagles.",
+        "C. Introduced mammals tracked birds by smell rather than sight.",
+        "D. The kakapo's green feathers changed colour in winter."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Thú ăn thịt xâm lấn săn mồi bằng khứu giác (<i>by smell rather than vision</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Why was it urgent to remove kakapos from Stewart Island after 1977?",
+      "options": [
+        "A. Rimu trees on the island stopped producing calcium-rich fruit.",
+        "B. Feral cats were rapidly reducing the surviving population.",
+        "C. Volcanic eruptions threatened to destroy the island's forests.",
+        "D. Radio transmitters could not function inside the thick valleys."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"feral cats were killing the remaining population so rapidly...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "How do geneticists choose partners for artificial breeding?",
+      "options": [
+        "A. They select the heaviest male birds from hilltop displays.",
+        "B. They pair birds that live closest to each other on the island.",
+        "C. They choose birds that produce the strongest honey scent.",
+        "D. They match individuals that are least closely related genetically."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chọn các cá thể có bộ gen xa nhau nhất (<i>most genetically distant partners</i>).",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "What does the writer conclude in the final paragraph?",
+      "options": [
+        "A. Intensive science and safe habitats can rescue endangered species.",
+        "B. Kakapos will soon survive safely without any island biosecurity.",
+        "C. Artificial feeding has completely replaced wild rimu fruit.",
+        "D. Genetic mapping is too expensive for future conservation work."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Khoa học tận tâm kết hợp môi trường sống an toàn có thể cứu các loài dễ tổn thương nhất.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    }
+  }
+}

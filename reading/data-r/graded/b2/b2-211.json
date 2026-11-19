@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 211: The Wood Wide Web: Rethinking the Subterranean Forest",
+  "answers": {
+    "q1": "NO",
+    "q2": "NOT GIVEN",
+    "q3": "YES",
+    "q4": "NO",
+    "q5": "F",
+    "q6": "C",
+    "q7": "A",
+    "q8": "E",
+    "q9": "C",
+    "q10": "D",
+    "q11": "A",
+    "q12": "B"
+  },
+  "passageHtml": "<h2>PASSAGE 211 (LEVEL B2 • BAND 6.0)</h2><h3>The Wood Wide Web: Rethinking the Subterranean Forest</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">For over a century, classical forestry treated trees as solitary competitors locked in a ruthless battle for sunlight, water, and nutrients</span>. Whenever one tree absorbed moisture, foresters assumed its neighbours simply lost out. Over the past three decades, however, forest ecology has dismantled that view. Beneath leaf litter lies a dense subterranean network—widely known as the 'Wood Wide Web'—built by mycorrhizal fungi whose microscopic filaments physically link trees of different ages and species into interdependent communities.</p><p><strong>Paragraph 2.</strong> This underground alliance rests on ancient biological trade. Trees excel at photosynthesis, producing carbon-rich sugars, yet their coarse roots struggle to extract poorly soluble minerals such as phosphorus and nitrogen from compact soil. Conversely, mycorrhizal fungi send hair-like hyphae through trillions of soil pores, delivering water and dissolved nutrients while receiving up to forty percent of the host trees' carbohydrates. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">'It is neither purely generous nor purely harmful,' notes forest ecologist Dr. Suzanne Simard. 'It is a complex carbon marketplace shaped by mutual biological exchange.'</span></p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">To measure resource movement across this grid, Simard designed an isotope-tracing experiment in temperate Canadian rainforests. Her team sealed branches of mature Douglas fir and paper birch trees inside airtight plastic bags and injected distinct carbon isotopes: carbon-14 and carbon-13</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Instruments revealed that carbon travelled in both directions through the fungal threads. In midsummer, sunlit birch trees transferred surplus carbon to shaded fir saplings; in autumn, once leafless birch trees stopped photosynthesising, evergreen firs pumped carbon back</span>.</p><p><strong>Paragraph 4.</strong> Beyond sharing nutrients, the fungal web acts as a rapid warning system. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Eco-physiologist Dr. Kathryn Fahy tested how broad bean plants and pine seedlings react to aphid attacks, keeping soil free of touching roots while leaving fungal threads intact</span>. Within twenty-four hours, healthy connected plants began producing volatile defensive chemicals, such as methyl salicylate, to repel pests and summon predatory wasps. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">When Fahy cut the fungal connections, however, neighbouring plants received no warning and remained undefended</span>.</p><p><strong>Paragraph 5.</strong> Large veteran specimens called 'mother trees' anchor this subterranean grid, linking to hundreds of trees across a forest hectare. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Forest geneticist Dr. Marcus Thorne showed that mother trees recognise family ties, sending noticeably more carbon and defensive compounds to their own genetic offspring than to unrelated seedlings</span></span>. Yet biologists still debate how to interpret this system. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Dr. Julian Kroll argues that popular media romanticises forests as caring communities, insisting fungi are opportunistic, selfish organisms trading resources only when it boosts their own survival and spore production</span></span>. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Thorne adds that certain parasitic plants, such as ghost pipes, even tap into the network to steal sugars without offering anything back</span>.</p><p><strong>Paragraph 6.</strong> These findings are reshaping modern forestry practices. Industrial clear-cutting, deep soil ploughing, and chemical fungicide sprays wipe out delicate fungal networks that took centuries to form. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">To prevent collapse, Simard advocates 'retention forestry', preserving veteran hub trees and undisturbed root corridors during timber harvests so newly planted seedlings can immediately plug into an active subterranean grid</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> offspring &nbsp;&nbsp; <b>B.</b> fungi &nbsp;&nbsp; <b>C.</b> seasonal &nbsp;&nbsp; <b>D.</b> pesticides &nbsp;&nbsp; <b>E.</b> selfish &nbsp;&nbsp; <b>F.</b> exchange &nbsp;&nbsp; <b>G.</b> temporary",
+      "summaryTitle": "Ecological Roles and Scientific Debates",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<p>Dr. Simard describes the underground relationship between trees and mycorrhizal fungi as a system of mutual biological <b>5.</b> {{q5}} . Her Canadian fieldwork confirmed that carbon flow shifts direction according to <b>6.</b> {{q6}} sunlight availability. Later studies revealed that veteran hub trees favour their own genetic <b>7.</b> {{q7}} when sharing nutrients. However, Dr. Kroll cautions against overly romantic descriptions, stressing that fungi behave in a fundamentally <b>8.</b> {{q8}} manner driven by their own survival.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Nineteenth-century foresters already recognized that trees regularly shared nutrients underground.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Hơn một thế kỷ trước, lâm nghiệp truyền thống coi cây là đối thủ đơn độc cạnh tranh khốc liệt.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Dr. Kathryn Fahy found that pine seedlings send warning signals faster than broad bean plants.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Có thử nghiệm trên cả đậu và thông, nhưng không có so sánh loài nào gửi tín hiệu nhanh hơn.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Mature mother trees supply more carbon to their own young than to stranger seedlings.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...sending noticeably more carbon... to their own genetic offspring than to unrelated seedlings.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Dr. Julian Kroll believes that fungi deliver nutrients between trees purely out of generosity.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Dr. Kroll khẳng định nấm là sinh vật cơ hội, vị kỷ (<i>selfish</i>) chỉ trao đổi vì lợi ích sinh tồn của chính nó.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...shaped by mutual biological exchange.\"</i>",
+          "<b>Đáp án:</b> <b>F (exchange)</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Mùa hè bạch dương truyền cho linh sam, mùa thu linh sam truyền lại → thay đổi theo mùa (<i>seasonal</i>).",
+          "<b>Đáp án:</b> <b>C (seasonal)</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...to their own genetic offspring...\"</i>",
+          "<b>Đáp án:</b> <b>A (offspring)</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...opportunistic, selfish organisms...\"</i>",
+          "<b>Đáp án:</b> <b>E (selfish)</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why did Simard inject radioactive carbon isotopes into enclosed tree branches?",
+      "options": [
+        "A. To kill harmful insects hiding inside tree bark",
+        "B. To measure how quickly leaves fall during autumn",
+        "C. To trace how carbon moves between two different tree species",
+        "D. To test whether plastic bags block natural sunlight"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nhằm theo dõi sự di chuyển của carbon qua mạng lưới nấm giữa 2 loài cây khác nhau.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What happened when Dr. Fahy severed the fungal threads between plants?",
+      "options": [
+        "A. All plants immediately absorbed extra phosphorus from the soil.",
+        "B. Predatory wasps attacked the healthy broad bean leaves.",
+        "C. Airborne smells became twice as strong within one hour.",
+        "D. Uninfested plants received no advance warning of insect attacks."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...neighbouring plants received no warning and remained undefended.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Why does Dr. Thorne mention ghost pipes in the fifth paragraph?",
+      "options": [
+        "A. To show that some parasitic plants exploit the grid without contributing",
+        "B. To prove that fungi prefer supporting rare wildflowers over trees",
+        "C. To explain why chemical fungicides fail to kill forest weeds",
+        "D. To argue that mother trees cannot distinguish kin from strangers"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Ghost pipes là cây ký sinh ăn cắp đường từ mạng lưới mà không đóng góp lại gì.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "What is the primary aim of 'retention forestry' described in the final paragraph?",
+      "options": [
+        "A. Replacing mixed forests with single-species timber farms",
+        "B. Leaving hub trees and root corridors intact to support young seedlings",
+        "C. Spraying soil with natural minerals before cutting down old trees",
+        "D. Removing all underground fungi prior to planting new saplings"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Giữ lại các cây đầu mối và hành lang rễ nguyên vẹn để cây non hòa mạng lưới ngay.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

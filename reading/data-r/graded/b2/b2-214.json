@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 214: Beyond the Double Helix: Epigenetics",
+  "answers": {
+    "q1": "FALSE",
+    "q2": "TRUE",
+    "q3": "NOT GIVEN",
+    "q4": "FALSE",
+    "q5": "G",
+    "q6": "B",
+    "q7": "A",
+    "q8": "D",
+    "q9": "D",
+    "q10": "B",
+    "q11": "A",
+    "q12": "C"
+  },
+  "passageHtml": "<h2>PASSAGE 214 (LEVEL B2 • BAND 6.0)</h2><h3>Beyond the Double Helix: The Epigenetics Revolution</h3><p><strong>Paragraph 1.</strong> For over fifty years following James Watson and Francis Crick's 1953 discovery of the double-helix structure of DNA, biology was dominated by genetic determinism. Researchers assumed that the four-letter nucleotide chain—adenine, thymine, guanine, and cytosine—formed a permanent, unchangeable blueprint. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Under this traditional model, an individual's risk of chronic illness, lifespan, and biological traits were believed to be fixed forever at the moment of conception</span>.</p><p><strong>Paragraph 2.</strong> Modern research into epigenetics—from the Greek prefix meaning 'on top of'—has overturned this rigid outlook. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Epigenetics investigates functional changes in gene expression that occur without altering the underlying DNA <span class=\"kw\">sequence</span></span>. Rather than a solid bronze statue, the genome resembles a responsive computer system: <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">while the hardware (the DNA code) remains identical in every cell, epigenetic markers act as <span class=\"kw\">software</span> telling specific cells which programs to activate, mute, or amplify</span>.</p><p><strong>Paragraph 3.</strong> Two primary molecular mechanisms regulate these switches: DNA methylation and histone modification. During methylation, tiny clusters of carbon and hydrogen attach to cytosine bases along DNA, acting as physical roadblocks that prevent cellular machinery from reading a gene. Meanwhile, histone modification changes how two metres of DNA thread are wrapped inside each cell nucleus around barrel-shaped proteins called histones. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Loosening this wrapping exposes genes so enzymes can express them, whereas compressing the histones tightly locks genes away in silence</span></span>.</p><p><strong>Paragraph 4.</strong> What makes epigenetics truly groundbreaking is that external environments continually rewrite these markers. Chronic stress, chemical pollutants, regular exercise, and nutrition all trigger cellular signals that shift methyl tags across the genome. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Molecular biologist Dr. Moshe Szyf demonstrated this in rodent trials: young rats deprived of maternal licking developed heavy methylation on brain stress-receptor genes, producing extreme fearfulness in adulthood. Remarkably, drugs designed to strip away those methyl blocks restored calm, normal stress reactions</span></span>.</p><p><strong>Paragraph 5.</strong> Even more striking is evidence that certain epigenetic changes cross generations. Biologists long assumed that embryonic fertilisation erased every parental marker through 'reprogramming'. Yet <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">epidemiological studies of the 1944–1945 Dutch Hunger Winter revealed that when pregnant mothers endured severe wartime blockade famine, their children inherited altered metabolic IGF2 genes linked to obesity and diabetes—and these vulnerabilities even reappeared in their grandchildren</span></span>.</p><p><strong>Paragraph 6.</strong> These insights are transforming modern medicine. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Unlike fixed genetic mutations causing sickle cell anemia, which demand complex DNA-editing tools like CRISPR, epigenetic tags are chemically reversible. Oncologists now use de-methylating drugs to reactivate silenced tumor-suppressor genes in bone marrow cancer patients, halting cancer cell growth without damaging healthy tissues</span></span></span>. As geneticist Dr. Randy Jirtle notes, humanity is no longer a passive reader of its genetic scroll; we finally have our hands on the keyboard.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the information given in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> silence &nbsp;&nbsp; <b>B.</b> software &nbsp;&nbsp; <b>C.</b> starvation &nbsp;&nbsp; <b>D.</b> reversible &nbsp;&nbsp; <b>E.</b> permanent &nbsp;&nbsp; <b>F.</b> diet &nbsp;&nbsp; <b>G.</b> sequence",
+      "summaryTitle": "Molecular Mechanisms and Medical Potential",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<p>Epigenetics explores changes in gene activity that leave the underlying DNA <b>5.</b> {{q5}} unchanged. Researchers compare epigenetic markers to computer <b>6.</b> {{q6}} that directs cellular behaviour. Inside the nucleus, compressing histone proteins forces genes into <b>7.</b> {{q7}} , whereas loosening them allows expression. Because these chemical marks are <b>8.</b> {{q8}} , oncologists can deploy drugs to reactivate protective cancer-fighting genes.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Before epigenetics, scientists believed people could easily alter their genetic disease risks after birth.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Trước đây tin rằng nguy cơ bệnh tật được cố định vĩnh viễn ngay lúc thụ thai (<i>fixed forever at conception</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Dr. Moshe Szyf's experiment showed that medication could undo stress-related methylation in rats.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thuốc gỡ bỏ nhóm methyl đã khôi phục phản ứng bình tĩnh cho chuột trưởng thành.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Children born after the Dutch Hunger Winter had significantly higher average intelligence scores.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nhắc đến rối loạn chuyển hóa IGF2 (béo phì, tiểu đường), không nhắc chỉ số thông minh.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Epigenetic cancer drugs permanently destroy healthy bone marrow cells alongside cancer cells.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Thuốc chặn tế bào ung thư mà không làm hại mô khỏe mạnh (<i>without damaging healthy tissues</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...without altering the underlying DNA sequence.\"</i>",
+          "<b>Đáp án:</b> <b>G (sequence)</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...epigenetic markers act as software...\"</i>",
+          "<b>Đáp án:</b> <b>B (software)</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...compressing the histones tightly locks genes away in silence.\"</i>",
+          "<b>Đáp án:</b> <b>A (silence)</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...epigenetic tags are chemically reversible.\"</i>",
+          "<b>Đáp án:</b> <b>D (reversible)</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "How does histone modification prevent a gene from being expressed?",
+      "options": [
+        "A. By deleting cytosine bases from the DNA chain",
+        "B. By moving the cell nucleus outside the body",
+        "C. By replacing DNA hardware with artificial chemicals",
+        "D. By tightly packing DNA around barrel-shaped proteins"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nén chặt DNA quanh protein histone làm gen bị khóa im lặng.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Why did neglected infant rats show severe fear responses as adults?",
+      "options": [
+        "A. They lacked enough food during their first winter.",
+        "B. Heavy methylation blocked their brain stress-receptor genes.",
+        "C. They inherited fixed genetic mutations from wild ancestors.",
+        "D. Laboratory lighting damaged their optic nerves."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chuột bị bỏ bê có lượng methyl hóa dày đặc trên gen thụ thể stress trong não.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "What did the Dutch Hunger Winter research prove?",
+      "options": [
+        "A. Environmental trauma can pass epigenetic marks across multiple generations.",
+        "B. Reprogramming wipes out every parental mark during fertilisation.",
+        "C. IGF2 genes only affect adults who avoid physical exercise.",
+        "D. Wartime diets protect grandchildren from heart disorders."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Sang chấn đói ăn của mẹ truyền dấu hiệu biểu sinh sang cả đời con và đời cháu.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Why do oncologists find epigenetic therapies promising?",
+      "options": [
+        "A. They permanently rewrite DNA letters faster than CRISPR.",
+        "B. They eliminate the need for healthy nutrition in patients.",
+        "C. They restore protective genes without harming normal tissue.",
+        "D. They cure sickle cell anemia through simple diet pills."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Thuốc khử methyl bật lại gen ức chế khối u mà không làm tổn thương mô lành.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

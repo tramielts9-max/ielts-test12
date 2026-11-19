@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 219: Secrets of the Annual Ring",
+  "answers": {
+    "q1": "YES",
+    "q2": "NOT GIVEN",
+    "q3": "NO",
+    "q4": "YES",
+    "q5": "C",
+    "q6": "G",
+    "q7": "B",
+    "q8": "A",
+    "q9": "C",
+    "q10": "B",
+    "q11": "D",
+    "q12": "A"
+  },
+  "passageHtml": "<h2>PASSAGE 219 (LEVEL B2 • BAND 6.0)</h2><h3>Secrets of the Annual Ring: Dendroclimatology and Volcanic Cataclysms</h3><p><strong>Paragraph 1.</strong> To a casual walker, rings inside a felled tree trunk simply mark biological years. To paleoclimatologists, however, these wooden circles are detailed archives of ancient weather. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Dendroclimatology rests on a clear biological rule: in temperate and sub-polar zones where growth pauses during winter dormancy, trees produce one distinct ring annually</span>. Warm, wet growing seasons yield wide, strong rings; cold or dry seasons leave narrow bands. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">By overlapping living ancient trees with preserved timber from historic buildings and archaeological sites, researchers have built unbroken timelines spanning more than ten millennia</span>.</p><p><strong>Paragraph 2.</strong> Scattered across thousands of normal bands are rare cellular scars known as 'frost rings', where plant cells appear crushed and frozen midway through summer division. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">A frost ring records a severe meteorological shock: an unseasonal sub-zero freeze striking in midsummer and freezing living sapwood across entire continents</span>.</p><p><strong>Paragraph 3.</strong> For decades, historians were puzzled by sixth-century accounts of a mysterious atmospheric veil dimming sunlight across Europe, the Mediterranean, and Asia in 536 CE. Byzantine writer Procopius noted that 'the sun gave forth its light without brightness, like the moon, during the whole year,' while Ireland suffered crop failures and China reported summer snows. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">By studying high-altitude bristlecone pines in California and Siberian larches, dendrochronologist Dr. Michael Baillie proved 536 CE coincided with the worst growth collapse in two thousand years</span>.</p><p><strong>Paragraph 4.</strong> Scientists have traced these sudden freezes directly to massive volcanic eruptions. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">When a colossal volcano erupts violently, it blasts millions of tonnes of sulfur dioxide high into the dry stratosphere above rain clouds, forming reflective sulfuric acid aerosols. These misty veils circle the Earth within weeks, bouncing solar radiation back into space and cooling global temperatures by up to three degrees Celsius for years</span></span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">To cross-check tree-ring dates with volcanic blasts, scientists examine polar ice cores from Greenland and Antarctica. As volcanic aerosols settle out of the sky over several years, they leave acidic sulfate layers inside annual ice strata. Matching exact frost-ring years with ice-core sulfate spikes reveals both the eruption year and which hemisphere hosted the blast</span></span>.</p><p><strong>Paragraph 6.</strong> Still, reading ancient wood demands careful scientific adjustment. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Dendroclimatologist Dr. Valerie Trouet warns that high-mountain trees respond mainly to summer warmth, whereas trees in dry lowlands respond primarily to moisture; confusing the two risks mistaking a drought for an extreme freeze</span></span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Crucially, tree-ring records prove that while volcanoes cause abrupt cold snaps, the sustained global warming observed over the past fifty years is unmatched in speed or reach across the entire Holocene epoch</span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> moisture &nbsp;&nbsp; <b>B.</b> aerosols &nbsp;&nbsp; <b>C.</b> dormancy &nbsp;&nbsp; <b>D.</b> spikes &nbsp;&nbsp; <b>E.</b> temperature &nbsp;&nbsp; <b>F.</b> tropics &nbsp;&nbsp; <b>G.</b> collapse",
+      "summaryTitle": "Decoding Ancient Climates from Wood",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<p>In temperate regions, trees pause growth during winter <b>5.</b> {{q5}} , forming one measurable ring per year. Research by Dr. Michael Baillie confirmed that 536 CE saw a catastrophic growth <b>6.</b> {{q6}} linked to huge volcanic eruptions. These blasts inject sulfur dioxide into the stratosphere to form reflective <b>7.</b> {{q7}} that block sunlight. However, Dr. Valerie Trouet cautions that arid lowland trees mainly reflect local <b>8.</b> {{q8}} rather than temperature.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Unbroken tree-ring records have been assembled reaching back more than ten thousand years.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...unbroken timelines spanning more than ten millennia.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Ice cores taken from Antarctica are generally easier to drill than those from Greenland.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nói lõi băng từ Greenland và Nam Cực được dùng để đối chiếu, không so sánh độ dễ khoan.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Recent global warming matches the speed of natural temperature rises across the Holocene.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Sự nóng lên 50 năm qua chưa từng có tiền lệ (<i>unmatched in speed or reach</i>) trong suốt kỷ Holocene.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Major volcanic eruptions can temporarily lower Earth's surface temperature for several years.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Làm mát bề mặt Trái Đất tới 3°C trong nhiều năm.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...pauses during winter dormancy...\"</i>",
+          "<b>Đáp án:</b> <b>C (dormancy)</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...worst growth collapse in two thousand years.\"</i>",
+          "<b>Đáp án:</b> <b>G (collapse)</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...forming reflective sulfuric acid aerosols.\"</i>",
+          "<b>Đáp án:</b> <b>B (aerosols)</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...trees in dry lowlands respond primarily to moisture...\"</i>",
+          "<b>Đáp án:</b> <b>A (moisture)</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "What creates the distinctive cellular damage inside a 'frost ring'?",
+      "options": [
+        "A. Heavy summer rainfall flooding the outer bark",
+        "B. Insects chewing through young wooden layers",
+        "C. Unseasonal sub-zero cold freezing active summer wood cells",
+        "D. Volcanic ash falling directly onto tree leaves"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Đợt rét âm độ bất ngờ giữa mùa hè làm đóng băng tế bào gỗ đang phân chia.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Why do sulfur clouds from huge eruptions stay in the sky for years?",
+      "options": [
+        "A. They stick permanently to cold ocean winds.",
+        "B. They rise into the dry stratosphere above rain clouds.",
+        "C. They are pushed upward daily by warm desert air.",
+        "D. They weigh less than normal oxygen molecules."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bắn lên tầng bình lưu khô ráo nằm trên các đám mây mưa (<i>above rain clouds</i>).",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "What extra detail do polar ice cores reveal when paired with frost-ring dates?",
+      "options": [
+        "A. The exact height of the ancient mountain volcano",
+        "B. The number of people who survived the famine",
+        "C. The chemical weight of individual tree species",
+        "D. Which global hemisphere experienced the volcanic eruption"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Giúp xác định được bán cầu nơi núi lửa phun trào (<i>which hemisphere hosted the blast</i>).",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "What mistake could researchers make if they ignore Dr. Valerie Trouet's warning?",
+      "options": [
+        "A. Confusing a dry drought signal with an extreme cold snap",
+        "B. Overestimating the total age of living bristlecone pines",
+        "C. Selecting tropical trees instead of Siberian larches",
+        "D. Failing to detect sulfate layers inside Greenland glaciers"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Có nguy cơ hiểu nhầm tín hiệu hạn hán thành một đợt rét đậm.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    }
+  }
+}

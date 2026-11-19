@@ -1,0 +1,237 @@
+{
+  "title": "[B2 • Band 6.0] Bài 304: The Mechanical Muse: AI and Art",
+  "answers": {
+    "q1": "NOT GIVEN",
+    "q2": "YES",
+    "q3": "NO",
+    "q4": "NO",
+    "q5": "D",
+    "q6": "F",
+    "q7": "A",
+    "q8": "C",
+    "q9": "C",
+    "q10": "A",
+    "q11": "D",
+    "q12": "B"
+  },
+  "passageHtml": "<h2>PASSAGE 304 (LEVEL B2 • BAND 6.0)</h2><h3>The Mechanical Muse: Artificial Intelligence and Aesthetic Value</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">In May 2018, an unremarkable portrait of a man in historic French dress sold at Christie's auction house in New York for $432,500—over forty times its pre-sale estimate</span>. What fascinated collectors was not technical brilliance, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">but the artist's signature: an algebraic formula. Titled <em>Portrait of Edmond de Belamy</em>, the work was produced entirely by a Generative Adversarial Network (GAN) trained on fifteen thousand historical portraits spanning six centuries</span>. For technology enthusiasts, the sale announced a cultural turning point: machines had finally mastered human creativity.</p><p><strong>Paragraph 2.</strong> In <em>The Algorithmic Canvas</em>, philosopher Dr. Julian Barnes mounts a sharp critique of this hype. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">He clarifies that a GAN functions via two rival algorithms: a 'generator' synthesizes digital images from random noise, while a 'discriminator' tests each output against a library of real human paintings, rejecting anything unconvincing</span>. Through millions of iterations, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">the generator achieves statistical mimicry so polished that the discriminator cannot tell machine images from human works</span>. Yet Barnes insists that labelling this computational pattern-matching 'creative' confuses mathematical imitation with genuine artistic intent.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">True art, Barnes argues, requires artistic agency—conscious communication rooted in lived physical experience. When Vincent van Gogh painted <em>The Starry Night</em>, his restless brushstrokes did not average nineteenth-century colour statistics; they translated emotional pain, awe, and spiritual longing onto canvas</span></span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">An algorithm, conversely, feels nothing, wants nothing, and experiences no mortality. It rearranges pixels mathematically without grasping that a pixel can signify grief, warmth, or love</span>.</p><p><strong>Paragraph 4.</strong> Beyond philosophy, Barnes highlights disturbing economic and cultural threats. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">If media corporations can produce infinite musical scores, articles, and illustrations at virtually zero marginal cost, the economic system sustaining living human creators will collapse</span></span></span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Even more damaging, generative algorithms train strictly on existing cultural archives, locking society inside an endless loop of past nostalgia and blending diverse tastes into a safe, predictable average</span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">While machines can remix historical styles at breathtaking speed, genuinely groundbreaking art demands breaking established conventions—a deliberate act of human rebellion that pure mathematics can never originate</span>. Protecting authentic artistic culture therefore requires valuing conscious human expression above statistical mimicry.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below.</i>",
+      "endings": [
+        "A. human creative professionals may no longer earn a living.",
+        "B. museum visitors prefer mathematical signatures over human names.",
+        "C. cultural diversity shrinks into a repetitive blend of older tastes.",
+        "D. one software module produces images while another evaluates them.",
+        "E. nineteenth-century artists regularly relied on statistical formulas.",
+        "F. human painters express conscious emotions rooted in real life."
+      ],
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "The buyer of Portrait of Edmond de Belamy was a university computer professor.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Chỉ nói bức tranh được bán đấu giá $432,500 tại Christie's, không nêu danh tính người mua.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "After many training cycles, a GAN generator can fool its discriminator program.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Sau hàng triệu vòng lặp, bộ phân biệt không thể phân biệt ảnh máy với tranh thật.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Advanced computer algorithms are starting to develop basic awareness of human mortality.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Thuật toán không cảm nhận, không mong muốn và không có trải nghiệm sinh tử (<i>experiences no mortality</i>).",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Mass-produced AI art will raise average salaries for commercial illustrators.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Hệ sinh thái kinh tế nuôi sống người sáng tạo sẽ sụp đổ (<i>will collapse</i>).",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Inside a generative adversarial network,",
+      "finalAnswer": "D",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Một thuật toán tạo ảnh từ nhiễu ngẫu nhiên, thuật toán kia kiểm định đối chiếu tranh thật.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Unlike computer software,",
+      "finalAnswer": "F",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Họa sĩ con người truyền tải cảm xúc có ý thức từ trải nghiệm sống thật.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "When companies generate endless free content,",
+      "finalAnswer": "A",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Hệ thống kinh tế nuôi sống nghệ sĩ con người sẽ sụp đổ.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Because AI systems learn strictly from past archives,",
+      "finalAnswer": "C",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Mắc kẹt trong hoài niệm cũ, trộn thị hiếu đa dạng thành trung bình lặp lại.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why did the 2018 Christie's auction attract global media attention?",
+      "options": [
+        "A. It set the highest price ever paid for an oil portrait.",
+        "B. The painting had been missing from Paris for six centuries.",
+        "C. An artwork created completely by an algorithm sold for a huge sum.",
+        "D. The auction house donated all earnings to artificial intelligence labs."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Tranh do thuật toán GAN vẽ hoàn toàn và ký tên công thức toán lại bán giá $432,500.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What does Van Gogh's The Starry Night demonstrate in Paragraph 3?",
+      "options": [
+        "A. Authentic art conveys subjective emotional reality.",
+        "B. Classic painters calculated colour frequencies mathematically.",
+        "C. Mental suffering is necessary before anyone can paint well.",
+        "D. Oil brushstrokes cannot be shown clearly on digital screens."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Tranh thật truyền tải nỗi đau, sự kinh ngạc và trải nghiệm cảm xúc chủ quan.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "What economic danger does Dr. Barnes warn about in Paragraph 4?",
+      "options": [
+        "A. Auction houses will close because digital paintings are too cheap.",
+        "B. Electricity costs for training AI will bankrupt media companies.",
+        "C. Traditional paint supplies will disappear from art colleges.",
+        "D. Zero-cost synthetic art could destroy livelihoods for human creators."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Tạo nội dung chi phí cận 0 làm sụp đổ sinh kế của người làm sáng tạo.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "According to Paragraph 5, what separates true avant-garde art from AI outputs?",
+      "options": [
+        "A. The ability to copy thousands of paintings rapidly",
+        "B. Conscious human rebellion that breaks accepted conventions",
+        "C. Using random noise rather than historical archives",
+        "D. Producing predictable images that match past public tastes"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Nghệ thuật tiên phong đòi hỏi sự nổi loạn phá bỏ quy tắc cũ của con người.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    }
+  }
+}

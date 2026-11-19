@@ -1,0 +1,230 @@
+{
+  "title": "[B2 • Band 6.0] Bài 301: A History of Boredom",
+  "answers": {
+    "q1": "D",
+    "q2": "G",
+    "q3": "B",
+    "q4": "F",
+    "q5": "C",
+    "q6": "E",
+    "q7": "B",
+    "q8": "D",
+    "q9": "FALSE",
+    "q10": "TRUE",
+    "q11": "NOT GIVEN",
+    "q12": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 301 (LEVEL B2 • BAND 6.0)</h2><h3>The Architecture of Ennui: A History of Boredom</h3><p><strong>Paragraph A.</strong> In an era of nonstop digital stimulation, boredom is routinely treated as a flaw to be erased instantly. Every idle pause—waiting for a train or standing in a checkout queue—is filled by the glow of a smartphone. Yet in <em>Out of Mind: A Cultural History of Boredom</em>, cultural historian Peter Toohey argues that our modern panic over boredom blinds us to its evolutionary purpose: rather than an empty void, boredom functions as an ancient cognitive <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">alarm</span>.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Toohey traces the history of the concept. Early desert monks recognized <em>acedia</em>—a spiritual lethargy during long contemplation—yet the term 'boredom' only entered English in the mid-nineteenth century, popularised by Charles Dickens in <em>Bleak House</em> (1853) to depict aristocratic apathy</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Toohey stresses the divide between chronic existential ennui and simple situational boredom: across mammals, situational boredom triggers restlessness that drives creatures to seek richer resources</span>.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">European industrialisation reshaped boredom dramatically. Mechanised factory shifts separated repetitive bodily labour from intellectual involvement, unlike agrarian work shaped by seasons</span></span>. Boredom ceased to be an aristocratic luxury and spread across the working class. Late Victorian leisure industries—music halls, pulp periodicals, and seaside resorts—emerged as commercial antidotes to the psychological vacuum of factory floors.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Toohey also challenges contemporary psychology for over-medicalising 'boredom proneness'. While acknowledging that chronic boredom can correlate with destructive impulsive habits, he warns against reducing an evolutionary signal to mere pathology</span></span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Brain imaging shows that during mild boredom, the default mode network (DMN) switches on, allowing the subconscious to recombine memories, resolve emotional tensions, and spark creative insights</span></span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Ultimately, Toohey offers a vital warning against our terror of idle minds. By treating every unprogrammed moment as an emergency requiring technological distraction, modern society risks suffocating artistic originality and independent reflection. Boredom, he concludes, is not an absence of meaning, but an urgent invitation to build it</span></span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using words <b>A–G</b>.</i><br><b>A.</b> therapy &nbsp; <b>B.</b> factories &nbsp; <b>C.</b> screens &nbsp; <b>D.</b> alarm &nbsp; <b>E.</b> monks &nbsp; <b>F.</b> creativity &nbsp; <b>G.</b> exploration",
+      "summaryTitle": "The Evolution and Value of Boredom",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>Peter Toohey views boredom not as an illness, but as an evolutionary cognitive <b>1.</b> {{q1}} . In animals, situational boredom drives restlessness and <b>2.</b> {{q2}} for better resources. During the Industrial Revolution, repetitive shifts inside <b>3.</b> {{q3}} spread boredom across the working class. Modern brain scans confirm that mild boredom activates networks supporting reflection and <b>4.</b> {{q4}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 5–8",
+      "instructions": "<i>Which paragraph, <b>A–E</b>, contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> <i>ancient cognitive alarm</i> → <b>D (alarm)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Thôi thúc tìm kiếm nguồn lực mới (<i>exploration</i>) → <b>G</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>Mechanised factory shifts</i> → <b>B (factories)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>spark creative insights</i> → <b>F (creativity)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "how mechanised work gave rise to commercial Victorian entertainment",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Công nghiệp hóa thúc đẩy ngành giải trí thời Victoria → <b>C</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "a warning that constant digital distraction threatens artistic originality",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Cảnh báo màn hình bóp nghẹt sự sáng tạo nghệ thuật → <b>E</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "the literary origin of the English word 'boredom'",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Charles Dickens phổ biến từ 'boredom' năm 1853 → <b>B</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "neuroscientific proof that idle minds remain actively creative",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Chụp não cho thấy mạng DMN hoạt động khi buồn chán nhẹ → <b>D</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Toohey denies any link between chronic boredom and impulsive behaviour.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Ông thừa nhận buồn chán mãn tính có thể liên quan đến hành vi bốc đồng → <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "During mild boredom, the subconscious brain helps process emotional tensions.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>resolve emotional tensions</i> → <b>TRUE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Toohey recommends banning smartphones for all university students.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Không có đề xuất cấm điện thoại đối với sinh viên → <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Eliminating all unprogrammed moments may weaken independent reflection.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>risks suffocating artistic originality and independent reflection</i> → <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

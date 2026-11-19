@@ -1,0 +1,247 @@
+{
+  "title": "[B2 • Band 6.0] Bài 215: The Architecture of Choice: Nudge Theory",
+  "answers": {
+    "q1": "D",
+    "q2": "B",
+    "q3": "F",
+    "q4": "C",
+    "q5": "inertia",
+    "q6": "refusal",
+    "q7": "rebates",
+    "q8": "poverty",
+    "q9": "NO",
+    "q10": "NOT GIVEN",
+    "q11": "YES",
+    "q12": "NO"
+  },
+  "passageHtml": "<h2>PASSAGE 215 (LEVEL B2 • BAND 6.0)</h2><h3>The Architecture of Choice: Behavioral Nudge Theory in Public Policy</h3><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">For centuries, classical economics rested upon the idealised model of <em>Homo economicus</em>—the perfectly rational decision-maker who evaluates every piece of data and selects the smartest long-term option. Behavioural economists have systematically dismantled that myth, proving that human judgement is routinely clouded by cognitive biases, mental fatigue, and a natural pull toward immediate gratification</span>. Recognising these human limits, governments increasingly rely on a subtle policy tool known as nudge theory.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Popularised in 2008 by Nobel laureate Richard Thaler and legal scholar Cass Sunstein, nudge theory centres on 'choice architecture'—deliberately organising how options appear in daily life. Crucially, a nudge does not forbid any product or impose heavy fines; instead, it arranges the environment so that the healthier or more civic-minded path requires the least effort</span>. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Advocates call this principle 'libertarian paternalism' because individuals retain complete freedom to select alternative options whenever they actively choose to do so</span>.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">The single most powerful tool in choice architecture is the pre-selected default option, because human beings display strong mental <span class=\"kw\">inertia</span> and rarely bother changing preset boxes</span></span>. European organ donation registers offer a striking demonstration. In 'opt-in' countries such as Germany and the United Kingdom, where citizens must register actively, donor consent sits around twelve to fifteen percent. Conversely, in 'opt-out' nations like Austria, France, and Spain, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">citizens count as donors unless they file a formal <span class=\"kw\">refusal</span></span>—lifting consent rates above ninety-nine percent with zero advertising spend.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Municipal planners also deploy visual and social nudges to advance green goals. In Copenhagen, officials cut street litter by forty-six percent simply by painting bright green footprints along pavements pointing toward public bins, guiding pedestrians' subconscious attention</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Meanwhile, California utility firms slashed home electricity use by adding comparison charts to monthly bills showing how each household stacked up against its most energy-efficient neighbours. This appeal to social conformity outperformed financial <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">rebates</span></span> and public lectures alike</span></span>.</p><p><strong>Paragraph E.</strong> Despite impressive results, nudge theory faces fierce ethical criticism from philosophers and civil libertarians. Critics argue that governmental choice architecture operates silently beneath conscious awareness, steering populations without transparent public debate or explicit legislation. By exploiting predictable mental blind spots, state agencies risk blurring the line between helpful guidance and covert psychological manipulation.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Political scientists raise a further institutional warning: nudges offer politicians an attractive, low-cost distraction. Rather than tackling difficult, expensive structural reforms required to combat <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">poverty</span></span>, systemic inequality, and climate breakdown, governments may settle for cheap symbolic tweaks—such as painting sidewalks or rewording tax letters—that create an illusion of progress</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 215 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Choice Architecture & Criticisms",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Default choices work powerfully because people exhibit natural mental <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:8px;\">In opt-out countries, citizens are registered as organ donors unless they submit a formal <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">In California, neighbour comparison charts cut electricity faster than cash <b>7.</b> {{q7}} .</li><li style=\"margin-bottom:8px;\">Political analysts worry minor tweaks distract leaders from deep crises such as <b>8.</b> {{q8}} .</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "real-world environmental projects showing how visual cues and peer comparisons change habits",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Nêu ví dụ dấu chân xanh ở Copenhagen và biểu đồ so sánh hàng xóm ở California.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "a definition of choice architecture explaining how it steers behaviour without bans or fines",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Giải thích <i>choice architecture</i> của Thaler và Sunstein không cấm đoán hay phạt tiền.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "a concern that cheap symbolic changes let governments avoid major structural reforms",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Cảnh báo dùng mẹo nhỏ giá rẻ để né tránh cải cách cấu trúc tốn kém.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "a sharp contrast in participation rates caused by two opposite registration systems",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> So sánh hệ thống <i>opt-in</i> (12–15%) với <i>opt-out</i> (>99%) ở châu Âu.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "inertia",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...human beings display strong mental inertia...\"</i>",
+          "<b>Từ cần điền:</b> <b>inertia</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "refusal",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...unless they file a formal refusal...\"</i>",
+          "<b>Từ cần điền:</b> <b>refusal</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "rebates",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...outperformed financial rebates and public lectures alike.\"</i>",
+          "<b>Từ cần điền:</b> <b>rebates</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "poverty",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"...required to combat poverty, systemic inequality...\"</i>",
+          "<b>Từ cần điền:</b> <b>poverty</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Classical economics assumed people regularly make irrational choices due to mental fatigue.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Kinh tế học cổ điển tin con người hoàn toàn duy lý; kinh tế học hành vi mới chỉ ra sự mệt mỏi tinh thần.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "California power companies stopped sending paper bills after social charts proved successful.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Bài chỉ nói họ in biểu đồ lên hóa đơn hàng tháng, không nói sau đó có ngừng gửi hóa đơn giấy hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Comparing home power use to efficient neighbours saved more energy than offering financial rewards.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...outperformed financial rebates...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Under libertarian paternalism, citizens are strictly prevented from choosing unhealthy options.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Người dân giữ nguyên tự do chọn phương án khác (<i>complete freedom to select alternative options</i>).",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

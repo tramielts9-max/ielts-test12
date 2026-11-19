@@ -1,0 +1,238 @@
+{
+  "title": "[B2 • Band 6.0] Bài 317: The Tragedy of the Commons and Ocean Quotas",
+  "answers": {
+    "q1": "NOT GIVEN",
+    "q2": "YES",
+    "q3": "NO",
+    "q4": "YES",
+    "q5": "E",
+    "q6": "B",
+    "q7": "G",
+    "q8": "C",
+    "q9": "A",
+    "q10": "D",
+    "q11": "B",
+    "q12": "C"
+  },
+  "passageHtml": "<h2>PASSAGE 317 (LEVEL B2 • BAND 6.0)</h2><h3>The Tragedy of the Commons: Oceanic Depletion and the Illusion of Quotas</h3><p><strong>Paragraph 1.</strong> In 1968, ecologist Garrett Hardin published a famous essay in <em>Science</em> entitled 'The Tragedy of the Commons'. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Hardin argued that whenever an unowned shared resource—such as a common pasture, an aquifer, or the open sea—is open to self-interested users, collective ecological collapse becomes unavoidable</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Each cattle owner calculates logically that adding one more animal brings 100 percent of the sale profit to himself, while the cost of overgrazing is shared among everyone</span>. Locked into this rational competition, participants steadily destroy the resource they all rely upon.</p><p><strong>Paragraph 2.</strong> Nowhere has this crisis unfolded more violently than in industrial marine fishing. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Over the past five decades, giant factory trawlers using satellite tracking, acoustic fish-finders, and heavy bottom-dragging nets have devastated global fish stocks</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">According to the United Nations Food and Agriculture Organization (FAO), more than one-third of global commercial fisheries are currently exploited beyond sustainable biological limits</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">In response, mainstream economists and regulators introduced Individual Transferable Quotas (ITQs): agencies set a Total Allowable Catch (TAC) for a species and distribute tradable quota shares that companies can buy, sell, or lease like private assets</span>.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">In <em>Oceans for Sale</em>, political ecologist Dr. Clara Mercer sharply criticises the market logic behind ITQs</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Although promoted as a clever conservation tool uniting private profit with environmental care, ITQs have produced serious social and ecological harm. Rather than easing fishing pressure, tradable quotas triggered rapid corporate takeover of the seas: wealthy processing giants and investment funds systematically bought quota shares from small-scale artisanal fishers, concentrating national fleets inside corporate monopolies</span></span>.</p><p><strong>Paragraph 4.</strong> Furthermore, Mercer reveals that quotas create damaging incentives out on the water. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Because quota shares apply strictly to specific named species, factory ships regularly engage in 'high-grading'—tossing lower-grade or smaller dead fish back overboard so they can fill their entire quota solely with top-value specimens</span></span></span>. Similarly, unintended non-target species caught in nets are dumped dead into the ocean to avoid breaking quota limits.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Mercer concludes that converting shared marine ecosystems into private property fails to end the tragedy of the commons; it merely turns an open environmental crisis into a fenced-off corporate extraction zone</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–G</b>, below.</i>",
+      "endings": [
+        "A. governments doubled fishing taxes for small villages.",
+        "B. large processing corporations bought out small-scale fishers.",
+        "C. open ocean ruin became an enclosed corporate extraction zone.",
+        "D. satellite tracking completely stopped illegal netting.",
+        "E. self-interested users inevitably exhaust shared unowned resources.",
+        "F. commercial trawlers immediately switched to plant farming.",
+        "G. crews discard less valuable dead fish to maximise quota profits."
+      ],
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Dr. Clara Mercer spent ten years working on commercial trawlers before writing her book.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Không có thông tin về việc bà Mercer từng làm việc 10 năm trên tàu đánh cá.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "More than thirty percent of global commercial fish populations are currently overexploited.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...more than one-third [>33%] of global commercial fisheries are currently exploited beyond sustainable biological limits.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Garrett Hardin assumed cattle owners behave irrationally without thinking about personal profit.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Họ tính toán hoàn toàn duy lý vì lợi nhuận 100% cho bản thân (<i>calculates logically</i>).",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "High-grading leads crews to throw dead fish back into the ocean.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...tossing lower-grade or smaller dead fish back overboard...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Garrett Hardin's 1968 model demonstrated that",
+      "finalAnswer": "E",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Người dùng vị kỷ tất yếu sẽ làm cạn kiệt tài nguyên chung không chủ sở hữu.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Instead of improving local fairness, tradable ITQs meant that",
+      "finalAnswer": "B",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Các tập đoàn chế biến giàu có thâu tóm hạn ngạch của ngư dân nhỏ lẻ.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Strict species-specific quotas accidentally encourage high-grading, where",
+      "finalAnswer": "G",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thủy thủ ném bỏ cá giá trị thấp để tối đa hóa lợi nhuận của suất hạn ngạch.",
+          "<b>Đáp án:</b> <b>G</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "In her final assessment, Dr. Mercer concludes that privatising ocean rights meant",
+      "finalAnswer": "C",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Biến thảm họa đại dương mở thành vùng khai thác độc quyền khép kín của doanh nghiệp.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why does the author mention satellite tracking and acoustic fish-finders in Paragraph 2?",
+      "options": [
+        "A. To illustrate how modern technology accelerated marine depletion",
+        "B. To argue that older wooden boats caught more fish per day",
+        "C. To show how UN inspectors locate lost fishing nets",
+        "D. To explain why ocean water temperatures are rising"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Thiết bị dò tìm hiện đại giúp tàu công nghiệp tàn phá trữ lượng cá nhanh hơn.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What is the main mechanism of an ITQ system?",
+      "options": [
+        "A. Paying small fishers directly not to enter open waters",
+        "B. Cancelling all commercial fishing licences for ten years",
+        "C. Dividing catches equally among every coastal citizen",
+        "D. Turning a total allowable catch into tradable private property shares"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chia hạn mức tổng sản lượng thành các suất có thể mua bán/cho thuê như tài sản tư.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "What major socioeconomic shift does Dr. Mercer highlight in Paragraph 3?",
+      "options": [
+        "A. Processing corporations went bankrupt after buying too many ships.",
+        "B. Fishing rights became concentrated in the hands of wealthy monopolies.",
+        "C. Artisanal fishers gained greater political control over national ports.",
+        "D. Consumer fish prices dropped steeply across coastal towns."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Đội tàu quốc gia tập trung vào tay các tập đoàn độc quyền giàu có.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Why do factory trawlers dump non-target species back into the sea?",
+      "options": [
+        "A. They want to feed larger tuna following the ship.",
+        "B. Non-target species are always poisonous to humans.",
+        "C. Keeping them would violate specific species quota limits.",
+        "D. Storage freezers only work for fish caught near shore."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...dumped dead into the ocean to avoid breaking quota limits.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

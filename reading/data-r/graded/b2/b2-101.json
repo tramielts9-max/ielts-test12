@@ -1,0 +1,230 @@
+{
+  "title": "[B2 • Band 6.0] Bài 101: The Antikythera Mechanism",
+  "answers": {
+    "q1": "D",
+    "q2": "B",
+    "q3": "E",
+    "q4": "A",
+    "q5": "E",
+    "q6": "B",
+    "q7": "G",
+    "q8": "C",
+    "q9": "NO",
+    "q10": "YES",
+    "q11": "NOT GIVEN",
+    "q12": "YES"
+  },
+  "passageHtml": "<h2>PASSAGE 101 (LEVEL B2 • BAND 6.0)</h2><h3>The Antikythera Mechanism: The World's First Computer</h3><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">In spring 1900, Greek sponge divers returning from North Africa were driven off course by a violent gale and anchored off the barren island of Antikythera</span>. Once the sea calmed, diver Elias Stadiatis descended 45 metres in a bronze helmet. Rather than sponges, he resurfaced shaken, reporting a seabed strewn with bronze horses and marble figures from a first-century BCE Roman vessel carrying luxury Greek art.</p><p><strong>Paragraph B.</strong> Over nine hazardous months, Greek teams salvaged the cargo for the National Archaeological Museum in Athens. Among the treasures was an unremarkable, calcified lump of corroded bronze that sat ignored in a courtyard for nearly two years. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">In May 1902, archaeologist Valerios Stais noticed the lump had split open, revealing a precision gear with triangular teeth. Early scholars dismissed the find as an anachronism, insisting such engineering could not exist before medieval Europe</span></span>.</p><p><strong>Paragraph C.</strong> Decades of multidisciplinary work overturned that skepticism. In the 1950s, British physicist Derek de Solla Price applied X-ray imaging to the fragments. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">His analysis proved they belonged to a single portable computer enclosed in a wooden frame, dated to 150–100 BCE, housing at least thirty interlocking bronze gears driven by a manual crank</span></span>. Inscribed exterior bronze plates acted as an operational user manual.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">The front dial combined two concentric rings—the twelve zodiac signs and the 365-day Egyptian solar calendar—while an ingenious pin-and-slot gear assembly mirrored the moon's irregular orbital speed</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">On the reverse casing, spiral dials tracked the 19-year Metonic calendar and the 223-month Saros cycle, forecasting upcoming eclipses down to the hour and lunar colour</span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">In 2005, an international project applied high-resolution 3D computed tomography to pierce deep into the corroded bronze without damaging it, decoding thousands of microscopic Greek inscriptions invisible to the naked eye</span></span></span>. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Crucially, the scans confirmed gears tracking five known planets—Mercury, Venus, Mars, Jupiter, and Saturn—demonstrating that Hellenistic mechanical mastery stood millennia ahead of modern historians' assumptions</span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Which paragraph, <b>A–E</b>, contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the summary using words <b>A–G</b>.</i><br><b>A.</b> water &nbsp; <b>B.</b> manual &nbsp; <b>C.</b> inscriptions &nbsp; <b>D.</b> medieval &nbsp; <b>E.</b> skepticism &nbsp; <b>F.</b> pottery &nbsp; <b>G.</b> eclipses",
+      "summaryTitle": "Decoding the Mechanism",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<p>Initially, classicists met Stais's 1902 discovery with strong <b>5.</b> {{q5}} . In the 1950s, X-rays showed thirty bronze gears powered by a <b>6.</b> {{q6}} crank. Back dials forecast future <b>7.</b> {{q7}} accurately, and 2005 3D scans revealed thousands of hidden Greek <b>8.</b> {{q8}} .</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "a description of how the mechanism reproduced the moon's uneven speed",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Hệ bánh răng <i>pin-and-slot</i> mô phỏng tốc độ không đều của mặt trăng → <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "why early experts rejected the gear as impossible for ancient Greece",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Các học giả đầu tiên cho rằng cơ khí này không thể tồn tại trước thời Trung cổ → <b>B</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "non-destructive imaging technology used in the twenty-first century",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Chụp cắt lớp vi tính 3D năm 2005 không làm hỏng hiện vật → <b>E</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "the accidental weather event that led divers to the shipwreck",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Cơn bão lớn năm 1900 đẩy thợ lặn dạt vào đảo Antikythera → <b>A</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Học giả bác bỏ, hoài nghi (<i>skepticism</i>) → <b>E</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>driven by a manual crank</i> → <b>B (manual)</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>forecasting upcoming eclipses</i> → <b>G (eclipses)</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>thousands of microscopic Greek inscriptions</i> → <b>C (inscriptions)</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "The mechanism required continuous water power to turn its internal gears.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Quay bằng tay quay (<i>manual crank</i>), không dùng sức nước → <b>NO</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "3D scans in 2005 allowed scientists to inspect inside the bronze without breaking it.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>without damaging it</i> → <b>YES</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Ancient Greek astronomers built dozens of identical mechanisms across Athens.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Không có thông tin về số lượng bản sao được chế tạo → <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "The find proved Hellenistic engineering was far more advanced than historians once believed.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E (câu cuối):</b> Đi trước hàng thiên niên kỷ so với giả định cũ → <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

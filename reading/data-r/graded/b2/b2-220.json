@@ -1,0 +1,247 @@
+{
+  "title": "[B2 • Band 6.0] Bài 220: The Demise of the Mental Map",
+  "answers": {
+    "q1": "D",
+    "q2": "B",
+    "q3": "F",
+    "q4": "C",
+    "q5": "NOT GIVEN",
+    "q6": "YES",
+    "q7": "NO",
+    "q8": "YES",
+    "q9": "hippocampus",
+    "q10": "landmarks",
+    "q11": "dementia",
+    "q12": "cathedral"
+  },
+  "passageHtml": "<h2>PASSAGE 220 (LEVEL B2 • BAND 6.0)</h2><h3>The Demise of the Mental Map: Spatial Cognition in the Digital Age</h3><p><strong>Paragraph A.</strong> For tens of thousands of years, navigating physical terrain was an indispensable human survival skill. Whether tracking herds across open plains or crossing uncharted oceans by the stars, our ancestors relied on internal spatial mapping. Inside the human brain, dedicated neural circuits constantly calculate positions, monitor direction, and construct three-dimensional mental models of our surroundings. Over the last two decades, however, the near-universal adoption of satellite GPS smartphone apps has disrupted this evolutionary partnership. Rather than actively surveying streets and connecting visual cues into mental maps, modern travellers passively obey turn-by-turn voice instructions.</p><p><strong>Paragraph B.</strong> The biological command hub for spatial navigation lies inside the <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\"><span class=\"kw\">hippocampus</span></span>, a seahorse-shaped structure deep in the brain's medial temporal lobe. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">In the early 2000s, British neuroscientist Dr. Eleanor Maguire studied licensed London taxi drivers, who must spend three to four years memorising 'The Knowledge'—twenty-five thousand streets and thousands of <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\"><span class=\"kw\">landmarks</span></span> within six miles of Charing Cross. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Maguire found that qualified cabbies had a significantly larger posterior hippocampus than ordinary citizens, and grey matter volume grew steadily with years on the job</span></span>, proving active navigation physically enlarges neural structures.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Under automated GPS guidance, however, this neural network falls silent. Neuroimaging experiments show that when volunteers travel through a city using passive device prompts, activation in the hippocampus and prefrontal cortex flatlines</span>. Unlike active route-finding, which demands spatial calculation and decision-making at every junction, following arrows requires only minimal reaction. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Navigators develop 'tunnel vision', overlooking peripheral features and failing to build a coherent overview of city layouts</span>. Consequently, if a signal drops or a battery dies, users frequently become lost even along daily routes.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">The long-term medical implications of losing spatial exercise are raising concern among geriatric neurologists. Epidemiological data confirm that the hippocampus is among the earliest regions harmed by Alzheimer's disease and vascular <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\"><span class=\"kw\">dementia</span></span>, with spatial disorientation frequently appearing as the first clinical symptom</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Because cognitive reserve—the brain's defence against age-related decline—is built through lifelong mental exertion, scientists warn that chronic dependence on digital directions may deprive the hippocampus of vital stimulation</span>.</p><p><strong>Paragraph E.</strong> To reverse this trend, cognitive psychologists advocate practising 'spatial hygiene'. Researchers encourage people to deliberately switch off GPS guidance along familiar local journeys, compelling the brain to observe environmental cues, link intersections mentally, and judge distances on its own. Treating everyday commutes as gentle mental workouts helps maintain active neural pathways well into old age.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">At the same time, software designers are developing 'cognitively supportive' navigation tools. Rather than issuing blind turn-by-turn commands, experimental apps offer spoken cues anchored to prominent local features—such as 'turn right after the stone <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\"><span class=\"kw\">cathedral</span></span>'—or display zoomed-out overview maps that keep users oriented within the wider landscape</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Protecting our natural ability to navigate is not merely about convenience; it is about safeguarding the physical resilience of the human brain</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 220 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 9–12",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Spatial Brain Science & Future Maps",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Human directional mapping is controlled by a brain structure called the <b>9.</b> {{q9}} .</li><li style=\"margin-bottom:8px;\">London taxi trainees spend years memorizing streets and thousands of <b>10.</b> {{q10}} .</li><li style=\"margin-bottom:8px;\">Spatial confusion can be an early sign of Alzheimer's or vascular <b>11.</b> {{q11}} .</li><li style=\"margin-bottom:8px;\">New supportive apps guide drivers using major features such as a stone <b>12.</b> {{q12}} .</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "medical evidence linking poor navigation skills to early symptoms of brain illness",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Mất định hướng không gian là triệu chứng lâm sàng sớm của Alzheimer và sa sút trí tuệ mạch máu.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "proof that years of active route memorisation physically enlarge a brain region",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Nghiên cứu của Eleanor Maguire trên tài xế taxi London.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "examples of redesigned digital apps that encourage active environmental awareness",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Ứng dụng thế hệ mới chỉ đường bằng công trình nổi bật hoặc bản đồ thu phóng bao quát.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "brain-scan findings showing how passive arrows silence navigation circuits",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Chụp não cho thấy hoạt động vùng hồi hải mã tắt lịm (<i>flatlines</i>) khi đi theo GPS thụ động.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "London cabbies who fail 'The Knowledge' exam are allowed to retake it after six months.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Bài nhắc tới việc học 'The Knowledge' mất 3–4 năm, không hề đề cập quy định thi lại.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Following automated turn-by-turn prompts makes travellers ignore features around them.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Người dùng bị 'tunnel vision', bỏ qua các đặc điểm xung quanh (<i>overlooking peripheral features</i>).",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Relying on GPS every day strengthens the hippocampus against age-related decline.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Phụ thuộc GPS làm não thiếu kích thích nhận thức cần thiết, không thể giúp tăng sức đề kháng não.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Protecting natural navigation skills helps safeguard the physical health of the brain.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"...safeguarding the physical resilience of the human brain.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "hippocampus",
+      "inputWidth": "130px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...command hub for spatial navigation lies inside the hippocampus...\"</i>",
+          "<b>Từ cần điền:</b> <b>hippocampus</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "landmarks",
+      "inputWidth": "120px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...twenty-five thousand streets and thousands of landmarks...\"</i>",
+          "<b>Từ cần điền:</b> <b>landmarks</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "finalAnswer": "dementia",
+      "inputWidth": "120px",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...Alzheimer's disease and vascular dementia...\"</i>",
+          "<b>Từ cần điền:</b> <b>dementia</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "finalAnswer": "cathedral",
+      "inputWidth": "120px",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"...turn right after the stone cathedral...\"</i>",
+          "<b>Từ cần điền:</b> <b>cathedral</b>."
+        ]
+      }
+    }
+  }
+}

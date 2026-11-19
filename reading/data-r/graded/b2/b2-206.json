@@ -1,0 +1,271 @@
+{
+  "title": "[B2 • Band 6.0] Bài 206: Nature's Sticky Secret: The Science of Dry Adhesion",
+  "answers": {
+    "q1": "C",
+    "q2": "E",
+    "q3": "F",
+    "q4": "A",
+    "q5": "nanometre",
+    "q6": "nanotubes",
+    "q7": "vacuum",
+    "q8": "solvents",
+    "q9": "A",
+    "q10": "D",
+    "q11": "C",
+    "q12": "A"
+  },
+  "passageHtml": "<h2>PASSAGE 206 (LEVEL B2 • BAND 6.0)</h2><h3>Nature's Sticky Secret: The Science of Dry Adhesion</h3><p><strong>Paragraph A.</strong> For over two thousand years, naturalists were baffled by the agility of the gecko. Aristotle noted in the fourth century BCE that the small lizard could sprint up and down trees even headfirst. Unlike tree frogs that rely on wet liquid mucus, or insects equipped with microscopic claws, geckos cross polished ceilings and wet glass effortlessly without burning energy or leaving chemical marks. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">For centuries, thinkers mistakenly credited this talent to static electricity, suction pads, or tiny hooks</span>, until twenty-first-century electron microscopy unlocked the true mechanism.</p><p><strong>Paragraph B.</strong> Gecko adhesion is entirely physical rather than chemical. Each toe pad contains millions of microscopic keratin hairs called setae, roughly one-tenth as wide as a human hair, and each seta splits into hundreds of flattened nanoscale tips known as spatulae. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">When these flexible tips press within less than a <span class=\"kw\">nanometre</span> of a surface</span>, weak intermolecular attractions called van der Waals forces form between neighbouring molecules. Although each single bond is tiny, the combined contact across billions of spatulae easily supports up to fifty times the lizard's weight.</p><p><strong>Paragraph C.</strong> However, permanent attachment would quickly starve a moving predator. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">'The secret of the gecko is not just sticking, but letting go instantly,' explains biomechanical engineer Dr. Ronald Fearing. 'Adhesion depends entirely on direction. Pulling the foot downward and inward aligns the setae at a shallow angle for maximum grip; rolling the toes upward alters the angle, shrinks the contact area, and frees the foot smoothly.'</span></span> This directional design allows geckos to sprint up vertical surfaces faster than one metre per second.</p><p><strong>Paragraph D.</strong> Recreating this natural structure artificially proved demanding. Early synthetic patches made from silicone wore down rapidly because artificial hairs clumped together under pressure. Biophysicist Dr. Kellar Autumn later built durable dry adhesives using dense arrays of vertically aligned carbon <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">nanotubes</span></span> mounted on flexible polymer sheets. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">In lab tests, these patches carried strong shear forces inside <span class=\"kw\">vacuum</span> chambers</span> and below minus one hundred degrees Celsius—conditions where chemical glues freeze, crack, and fail.</p><p><strong>Paragraph E.</strong> Medicine and space engineering have quickly embraced gecko-inspired materials. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Surgical researcher Dr. Maria Delgado developed biodegradable dry tape for internal wounds; unlike traditional stitches and metal staples that puncture tissue and risk leaks, her patterned tape seals blood vessels thirty percent faster without causing inflammation and dissolves safely once healing finishes</span></span>. Beyond medicine, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">robotics specialist Dr. Hiroshi Tanaka cautions that suction cups fail in the airless vacuum of space while chemical glues decay under solar radiation</span>. Tanaka's team fitted orbital robot arms with gecko grippers that gently capture spinning rocket parts without knocking them into distant orbits.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Looking toward everyday manufacturing, scientists highlight major environmental gains. Conventional epoxy glues make recycling electronics and cars difficult because separating glued parts requires intense heat or toxic organic <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">solvents</span></span>, destroying valuable materials. Dr. Ronald Fearing imagines assembling smartphones and appliances strictly with directional dry adhesives, allowing workers to peel components apart cleanly in seconds for zero-waste recycling</span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 206 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Science & Industrial Uses of Gecko Tape",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Van der Waals forces occur when spatulae come closer than one <b>5.</b> {{q5}} to a surface.</li><li style=\"margin-bottom:8px;\">Dr. Autumn constructed durable dry patches using carbon <b>6.</b> {{q6}} on polymer sheets.</li><li style=\"margin-bottom:8px;\">These experimental patches stayed sticky inside airless <b>7.</b> {{q7}} chambers and extreme cold.</li><li style=\"margin-bottom:8px;\">Using dry tape in electronics could remove the need for toxic chemical <b>8.</b> {{q8}} during recycling.</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "matching_names",
+      "skillTag": "MATCH_FEATURES",
+      "title": "Questions 9–12",
+      "instructions": "<i>Match each statement with the correct researcher, <b>A–D</b>.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>A.</b> Dr. Ronald Fearing &nbsp;&nbsp; <b>B.</b> Dr. Kellar Autumn &nbsp;&nbsp; <b>C.</b> Dr. Maria Delgado &nbsp;&nbsp; <b>D.</b> Dr. Hiroshi Tanaka",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "an explanation of how foot direction lets the gecko release its grip immediately",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Giải thích cơ chế kéo xuống để bám, cuộn ngón lên để nhả tức thì.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "details of how medical tape avoids the tissue damage caused by traditional surgical tools",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Băng dính sinh học không làm thủng mô hay rò rỉ như kim khâu và kẹp sắt.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "an account of how dry adhesives could make dismantling consumer electronics cleaner",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Tháo tách linh kiện điện thoại trong vài giây để tái chế không rác thải.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "a mention of earlier incorrect ideas proposed to explain how geckos climb",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Trước đây từng đoán nhầm do tĩnh điện, giác hút hoặc móc nhỏ.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "nanometre",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...within less than a nanometre of a surface...\"</i>",
+          "<b>Từ cần điền:</b> <b>nanometre</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "nanotubes",
+      "inputWidth": "120px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...vertically aligned carbon nanotubes...\"</i>",
+          "<b>Từ cần điền:</b> <b>nanotubes</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "vacuum",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...strong shear forces inside vacuum chambers...\"</i>",
+          "<b>Từ cần điền:</b> <b>vacuum</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "solvents",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"...requires intense heat or toxic organic solvents...\"</i>",
+          "<b>Từ cần điền:</b> <b>solvents</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Gecko attachment and detachment are controlled by changing the angle of the foot.",
+      "options": [
+        "A. Dr. Ronald Fearing",
+        "B. Dr. Kellar Autumn",
+        "C. Dr. Maria Delgado",
+        "D. Dr. Hiroshi Tanaka"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C (Dr. Ronald Fearing):</b> Bám hay nhả phụ thuộc hướng và góc bàn chân.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Standard suction devices fail in outer space because there is no atmospheric pressure.",
+      "options": [
+        "A. Dr. Ronald Fearing",
+        "B. Dr. Kellar Autumn",
+        "C. Dr. Maria Delgado",
+        "D. Dr. Hiroshi Tanaka"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E (Dr. Hiroshi Tanaka):</b> Giác hút không hoạt động trong môi trường chân không vũ trụ.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Biodegradable dry tape can close blood vessel cuts faster than standard stitches.",
+      "options": [
+        "A. Dr. Ronald Fearing",
+        "B. Dr. Kellar Autumn",
+        "C. Dr. Maria Delgado",
+        "D. Dr. Hiroshi Tanaka"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E (Dr. Maria Delgado):</b> Băng dán bịt vết cắt mạch máu nhanh hơn 30% so với khâu thường.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Electronic gadgets assembled with dry adhesives could be peeled apart quickly for recycling.",
+      "options": [
+        "A. Dr. Ronald Fearing",
+        "B. Dr. Kellar Autumn",
+        "C. Dr. Maria Delgado",
+        "D. Dr. Hiroshi Tanaka"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F (Dr. Ronald Fearing):</b> Hình dung việc bóc tách linh kiện điện thoại trong vài giây để tái chế.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    }
+  }
+}

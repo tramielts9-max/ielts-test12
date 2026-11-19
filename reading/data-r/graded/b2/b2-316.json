@@ -1,0 +1,247 @@
+{
+  "title": "[B2 • Band 6.0] Bài 316: The Laughter Circuit: Roots of Social Mirth",
+  "answers": {
+    "q1": "D",
+    "q2": "B",
+    "q3": "F",
+    "q4": "A",
+    "q5": "planning",
+    "q6": "foraging",
+    "q7": "endorphins",
+    "q8": "appeasement",
+    "q9": "YES",
+    "q10": "NOT GIVEN",
+    "q11": "NO",
+    "q12": "NO"
+  },
+  "passageHtml": "<h2>PASSAGE 316 (LEVEL B2 • BAND 6.0)</h2><h3>The Laughter Circuit: Evolutionary Roots of Social Mirth</h3><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Laughter is among the most universal yet physically unusual human behaviours</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Unlike articulate speech, which requires conscious cortical <span class=\"kw\">planning</span>, genuine laughter is an involuntary vocal burst governed by older subcortical brain structures</span>. Across every culture, babies produce social giggles by their fourth month, long before speaking words. Yet for millennia, philosophers dismissed laughter as trivial or—as Plato and Thomas Hobbes famously argued—an aggressive expression of superiority over others' misfortune. In <em>The Comic Primate</em>, evolutionary neuroscientist Dr. Robin Dunbar overturns that cynical tradition, showing laughter to be an ancient biological bonding mechanism.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Dunbar bases his argument on comparative studies of great apes</span>. Chimpanzees, bonobos, and orangutans produce rhythmic, breathy panting sounds during rough juvenile play and tickling games. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Although acoustically different from human laughter, these ape calls share identical neural triggers and social functions: they signal that physical wrestling is friendly play rather than real hostility</span>.</p><p><strong>Paragraph C.</strong> To explain why vocal laughter evolved in humans, Dunbar highlights group size limits. Primates normally cement friendships through physical fur grooming. However, once early human troops expanded beyond roughly fifty members, manual grooming became mathematically unworkable. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">A primate cannot groom more than two partners simultaneously without neglecting vital <span class=\"kw\">foraging</span> for food</span>. Laughter therefore emerged as 'vocal grooming', letting one individual broadcast warmth and build emotional ties with several peers at once.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Biological measurements offer strong support for this bonding model. Brain scans and hormone tests confirm that repeated rhythmic spasms of the diaphragm during genuine laughter place heavy physical effort on chest muscles. This mechanical exertion triggers the release of <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">endorphins</span></span>—natural pain-relieving peptides—into the central nervous system</span>. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Endorphins ease physical discomfort while inducing calmness, trust, and stronger social closeness</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Laughter literally reshapes group neurochemistry, creating a shared sense of safety</span>.</p><p><strong>Paragraph E.</strong> Yet Dunbar avoids treating humour as purely warm and harmless. In later chapters, he examines how laughter draws social boundaries. Group conversation frequently relies on private cultural references, ironic remarks, and mocking satire designed to signal group loyalty while pushing outsiders away. Furthermore, workplace studies show subtle hierarchy effects: <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">subordinates laugh far more frequently at high-status figures' remarks than vice versa, using laughter as a low-risk diplomatic <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">appeasement</span></span> strategy</span>.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Dunbar concludes that laughter operates as a biological double-edged sword. The very evolutionary mechanism that enabled early human bands to cooperate peacefully at large scale remains an everyday instrument for signalling rank and social exclusion</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 316 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Biology and Social Dynamics of Laughter",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Unlike spontaneous laughter, spoken language requires deliberate cortical <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:8px;\">Primates cannot groom many peers physically without hurting essential <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">Chest muscle effort during hearty laughter stimulates natural <b>7.</b> {{q7}} .</li><li style=\"margin-bottom:8px;\">Subordinates frequently laugh at leaders' comments as a quiet <b>8.</b> {{q8}} tactic.</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "scientific proof of the chemical changes triggered inside the body by hearty laughter",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Kết quả chụp não và xét nghiệm hormone chứng minh cơ hoành co thắt tiết endorphin.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "examples of non-human animals using vocal signals to show friendly play",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Tinh tinh, bonobo, đười ươi phát tiếng thở hổn hển báo hiệu trò chơi thân thiện.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "a summary stating that laughter serves both cooperative and competitive functions",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Kết luận tiếng cười là con dao hai lưỡi vừa gắn kết vừa phân tầng loại trừ.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "a contrast between ancient philosophical views of laughter and modern biology",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Đối lập quan điểm coi thường của Plato/Hobbes với nghiên cứu tiến hóa của Dunbar.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "planning",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> <i>\"...requires conscious cortical planning...\"</i>",
+          "<b>Từ cần điền:</b> <b>planning</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "foraging",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...without neglecting vital foraging for food.\"</i>",
+          "<b>Từ cần điền:</b> <b>foraging</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "endorphins",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...triggers the release of endorphins...\"</i>",
+          "<b>Từ cần điền:</b> <b>endorphins</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "appeasement",
+      "inputWidth": "125px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...low-risk diplomatic appeasement strategy.\"</i>",
+          "<b>Từ cần điền:</b> <b>appeasement</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Endorphins released during laughter can help reduce feelings of physical pain.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"Endorphins ease physical discomfort while inducing calmness...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Dr. Dunbar measured endorphin levels directly in wild chimpanzees in Africa.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Bài chỉ nói kết quả xét nghiệm trên người, không nhắc đến việc đo trực tiếp trên tinh tinh hoang dã ở châu Phi.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Ape play-panting sounds completely identical to human laughter.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"Although acoustically different from human laughter...\"</i> → Âm thanh khác nhau.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "High-status leaders laugh more frequently than subordinates during workplace talks.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Cấp dưới cười nhiều hơn cấp trên nhiều lần (<i>subordinates laugh far more frequently... than vice versa</i>).",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

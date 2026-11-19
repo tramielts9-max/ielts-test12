@@ -1,0 +1,227 @@
+{
+  "title": "[B2 • Band 6.0] Bài 302: Rewiring the Self: Neuroplasticity",
+  "answers": {
+    "q1": "YES",
+    "q2": "NO",
+    "q3": "NOT GIVEN",
+    "q4": "NO",
+    "q5": "C",
+    "q6": "A",
+    "q7": "B",
+    "q8": "C",
+    "q9": "F",
+    "q10": "A",
+    "q11": "B",
+    "q12": "D"
+  },
+  "passageHtml": "<h2>PASSAGE 302 (LEVEL B2 • BAND 6.0)</h2><h3>Rewiring the Self: The Nuances of Neuroplasticity</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">For most of the twentieth century, mainstream neuroscience operated under a rigid rule: the adult mammalian brain was structurally unchangeable. Medical textbooks taught that once a brief period of childhood flexibility ended, neural circuits hardened like concrete, leaving lost functions gone forever</span>. Over the past three decades, however, this mechanical view has been dismantled by the discovery of neuroplasticity—the brain's lifelong ability to reorganise its pathways in response to experience and learning.</p><p><strong>Paragraph 2.</strong> In <em>The Adaptive Mind</em>, neurobiologist Dr. Hannah West traces this scientific revolution to Michael Merzenich's landmark monkey experiments in the late 1970s. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Working with owl monkeys, Merzenich mapped the somatosensory cortex, which processes physical touch. When sensory input from one finger was removed, neighboring finger circuits rapidly expanded into and claimed that unused cortical territory within weeks</span></span>, showing the brain operates like a competitive living ecosystem.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Subsequent human neuroimaging confirmed that structural adaptation continues throughout adulthood. In a celebrated study, neuroscientist Eleanor Maguire scanned licensed London taxi drivers who spent years memorising twenty-five thousand city streets. Drivers exhibited significantly enlarged posterior hippocampi—the hub for spatial mapping—and gray matter volume matched their exact years of driving</span></span>, proving intellectual training reshapes physical brain anatomy.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Yet West devotes half her book to challenging the breathless commercial hype surrounding brain plasticity. Self-help bestsellers and commercial brain-training apps frequently promote neuroplasticity as a universal cure-all—promising instant language mastery, depression recovery through willpower alone, or reversal of brain disease</span></span></span>. West refutes this optimism by introducing the 'plasticity paradox'.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Because neural pathways strengthen through repeated firing, plasticity equally reinforces destructive patterns: chronic phantom limb pain, obsessive-compulsive habits, and chemical addictions all represent the brain becoming highly efficient at unhealthy circuits</span></span>. Furthermore, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">meaningful structural rewiring demands heavy metabolic energy and disciplined practice, rather than ten minutes of smartphone puzzle games</span></span>. Distinguishing real clinical therapy from commercial pseudo-science remains West's central contribution.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching_names",
+      "skillTag": "MATCH_FEATURES",
+      "title": "Questions 5–8",
+      "instructions": "<i>Match each statement with the correct researcher, <b>A, B or C</b>.<br><b>NB</b> You may use any letter more than once.</i><br><br><b>A.</b> Michael Merzenich &nbsp;&nbsp; <b>B.</b> Eleanor Maguire &nbsp;&nbsp; <b>C.</b> Dr. Hannah West",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 9–12",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> cure &nbsp;&nbsp; <b>B.</b> repetition &nbsp;&nbsp; <b>C.</b> effort &nbsp;&nbsp; <b>D.</b> ineffective &nbsp;&nbsp; <b>E.</b> therapy &nbsp;&nbsp; <b>F.</b> claims &nbsp;&nbsp; <b>G.</b> temporary",
+      "summaryTitle": "The Plasticity Paradox",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ],
+      "template": "<p>In recent years, self-help books have made exaggerated commercial <b>9.</b> {{q9}} about neuroplasticity, marketing it as an effortless <b>10.</b> {{q10}} for emotional and medical conditions. Dr. Hannah West warns that because brain circuits deepen through <b>11.</b> {{q11}} , harmful addictions can grow entrenched just as easily as helpful skills. Consequently, short mobile puzzle apps remain largely <b>12.</b> {{q12}} for genuine brain rewiring.</p>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Earlier medical textbooks taught that adult brains lost their ability to reorganise after childhood.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Sau giai đoạn linh hoạt ngắn ở tuổi thơ, mạch thần kinh được cho là cứng lại mãi mãi.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Michael Merzenich proved that removing sensory input permanently silences that region of the cortex.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Vùng vỏ não bị bỏ trống nhanh chóng được các ngón lân cận chiếm lấy, không bị câm lặng vĩnh viễn.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Eleanor Maguire recruited taxi drivers because earlier primate studies were mathematically flawed.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Không hề nhắc lý do chọn tài xế taxi là do nghiên cứu linh trưởng bị lỗi.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Brief daily smartphone puzzle sessions are sufficient to trigger major physical brain rewiring.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Cần năng lượng trao đổi chất lớn và luyện tập kỷ luật, không thể chỉ 10 phút chơi game điện thoại.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Challenges exaggerated commercial marketing around brain-training products.",
+      "options": [
+        "A. Michael Merzenich",
+        "B. Eleanor Maguire",
+        "C. Dr. Hannah West"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4 (Dr. Hannah West):</b> Dành nửa cuốn sách phản bác quảng cáo thổi phồng thương mại.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Showed in primates that unused cortical space can be taken over by adjacent touch inputs.",
+      "options": [
+        "A. Michael Merzenich",
+        "B. Eleanor Maguire",
+        "C. Dr. Hannah West"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 (Michael Merzenich):</b> Thí nghiệm trên khỉ cú.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Demonstrated a direct link between years of street memorisation and grey matter volume.",
+      "options": [
+        "A. Michael Merzenich",
+        "B. Eleanor Maguire",
+        "C. Dr. Hannah West"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 (Eleanor Maguire):</b> Thể tích chất xám tỷ lệ thuận với số năm lái taxi.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Explains that repeated stimulation strengthens destructive addictions as well as positive skills.",
+      "options": [
+        "A. Michael Merzenich",
+        "B. Eleanor Maguire",
+        "C. Dr. Hannah West"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5 (Dr. Hannah West):</b> Nghịch lý plasticity paradox củng cố cả nghiện ngập và ám ảnh.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thổi phồng quảng cáo thương mại → <i>claims</i>.",
+          "<b>Đáp án:</b> <b>F (claims)</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Quảng cáo như liều thuốc tiên phổ quát (<i>cure-all</i>) → <i>cure</i>.",
+          "<b>Đáp án:</b> <b>A (cure)</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Mạch thần kinh mạnh lên qua kích thích lặp lại (<i>repeated firing</i>) → <i>repetition</i>.",
+          "<b>Đáp án:</b> <b>B (repetition)</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Trò chơi ngắn trên điện thoại không đủ tạo tái cấu trúc thật → <i>ineffective</i>.",
+          "<b>Đáp án:</b> <b>D (ineffective)</b>."
+        ]
+      }
+    }
+  }
+}

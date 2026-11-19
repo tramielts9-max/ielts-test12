@@ -1,0 +1,285 @@
+{
+  "title": "[B2 • Band 6.0] Bài 318: The Cartography of Silence",
+  "answers": {
+    "q1": "D",
+    "q2": "B",
+    "q3": "F",
+    "q4": "C",
+    "q5": "NOT GIVEN",
+    "q6": "YES",
+    "q7": "NO",
+    "q8": "YES",
+    "q9": "E",
+    "q10": "B",
+    "q11": "F",
+    "q12": "A"
+  },
+  "passageHtml": "<h2>PASSAGE 318 (LEVEL B2 • BAND 6.0)</h2><h3>The Cartography of Silence: Maps, Erasure, and Colonial Power</h3><p><strong>Paragraph A.</strong> In everyday life, a map is trusted as an objective, miniature copy of geographical reality. Whether consulting road atlases or smartphone navigation apps, people assume cartographic lines correspond faithfully to real mountains, coastlines, and borders. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Yet in <em>Paper Territories</em>, historical geographer Dr. Julian Harley argues that cartography has never been an innocent science. A map is not a passive mirror of territory; it is an active instrument of geopolitical power that creates the very reality it claims merely to record</span>.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Harley examines European imperial expansion between the sixteenth and nineteenth centuries, when mapmaking served as the ideological vanguard of conquest</span>. Before armies annexed territory or settlers cleared farmland, military surveyors mapped the landscape. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Crucially, imperial cartography worked through 'systematic silences'. When European surveyors charted the Americas, Africa, and Australia, they omitted indigenous settlements, sacred routes, and ancient place-names</span>. By portraying inhabited landscapes as vacant space—<em>terra nullius</em>—cartographers visually legitimised colonial takeover. Blank spaces did not reflect a lack of information; they performed a deliberate erasure before physical occupation even began.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Beyond erasure, cartography imposed foreign mental frameworks onto colonised lands. Traditional indigenous geographies were fluid, relational, and anchored in ecological landmarks and oral memory</span></span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Imperial surveyors replaced these living topographies with the rigid geometry of the Euclidean grid</span>. Using trigonometric surveying and astronomical measurements, colonial officers carved dynamic ecosystems into neat rectangular parcels of private property that could be registered, taxed, and traded on European exchanges. The map was engineered not to reflect local life, but to turn ancestral land into liquid financial capital.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">In his closing chapters, Harley traces how colonial cartography continues to unsettle modern geopolitics</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Many contemporary borders in Africa and the Middle East, drawn by nineteenth-century European diplomats in treaty rooms using straight lines and rulers, remain enduring sources of conflict</span></span>. By slicing straight across ethnic territories and linguistic communities, colonial borders locked chronic divisions into modern nation-states.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Today, satellite imagery and digital mapping platforms might appear to have removed human bias from cartography</span>. However, Harley warns that even digital maps reflect commercial and political choices: algorithms decide which disputed borders appear as solid lines, which neighbourhoods receive detailed labels, and which informal settlements remain blank.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">In response, indigenous groups and community geographers worldwide are now launching 'counter-mapping' projects. By combining GPS technology with elders' oral histories, local communities are placing traditional names, migration paths, and sacred sites back onto official charts</span></span>. Harley concludes that every map is an argument—and learning to notice what is excluded is essential for understanding power.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 318 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the views of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 9–12",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below.</i>",
+      "endings": [
+        "A. restore omitted local names and sacred paths to official charts.",
+        "B. turn ancestral ecosystems into taxable, tradable private property.",
+        "C. completely eliminated all commercial bias from modern GPS apps.",
+        "D. forced European diplomats to abandon straight lines in the 1800s.",
+        "E. make inhabited regions appear empty and open to colonial takeover.",
+        "F. divided ethnic and linguistic groups across artificial national lines."
+      ],
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "an account of how nineteenth-century treaty decisions still provoke modern regional disputes",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Đường biên giới thế kỷ 19 do nhà ngoại giao châu Âu vẽ bằng thước kẻ vẫn gây bất ổn ngày nay.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "an explanation of how colonial surveyors acted ahead of armies and settlers",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"Before armies annexed territory or settlers cleared farmland, military surveyors mapped the landscape.\"</i>",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "examples of modern grassroots efforts to reclaim traditional geographical knowledge",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Phong trào 'counter-mapping' kết hợp GPS và lịch sử truyền miệng của cộng đồng bản địa.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "a contrast between relational indigenous geography and rigid European grids",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Đối chiếu địa lý bản địa gắn với ký ức truyền miệng với lưới hình học Euclid cứng nhắc.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Satellite companies are legally required to consult local historians before updating borders.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Chỉ nói thuật toán bản đồ số vẫn có thiên vị thương mại/chính trị, không nhắc luật bắt buộc tham vấn sử gia.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Traditional indigenous ways of understanding geography relied on ecological landmarks and oral memory.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...anchored in ecological landmarks and oral memory.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Cartography functions purely as a neutral mirror of physical terrain.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Phủ định trực tiếp: <i>\"A map is not a passive mirror of territory...\"</i>",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Straight colonial borders in Africa and the Middle East often sliced across ethnic homelands.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"By slicing straight across ethnic territories and linguistic communities...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "European surveyors omitted indigenous villages from early colonial charts in order to",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Vẽ vùng có người ở thành đất trống (<i>terra nullius</i>) để hợp thức hóa việc chiếm đóng.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Colonial authorities applied rigid rectangular grids to conquered lands so they could",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Biến hệ sinh thái bản địa thành tài sản tư nhân chịu thuế và mua bán.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Linear borders drawn by nineteenth-century diplomats caused lasting conflict because they",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Cắt ngang qua các nhóm dân tộc và ngôn ngữ bằng đường biên giới nhân tạo.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Modern 'counter-mapping' projects combine GPS with oral histories to",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Đưa tên địa danh, đường di cư và địa điểm linh thiêng bản địa trở lại bản đồ chính thức.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    }
+  }
+}

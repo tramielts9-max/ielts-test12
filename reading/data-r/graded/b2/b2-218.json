@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 218: Harnessing the Gale: Wind-Powered Cargo",
+  "answers": {
+    "q1": "D",
+    "q2": "A",
+    "q3": "C",
+    "q4": "B",
+    "q5": "B",
+    "q6": "G",
+    "q7": "A",
+    "q8": "D",
+    "q9": "NO",
+    "q10": "NOT GIVEN",
+    "q11": "YES",
+    "q12": "NO"
+  },
+  "passageHtml": "<h2>PASSAGE 218 (LEVEL B2 • BAND 6.0)</h2><h3>Harnessing the Gale: The Modern Revival of Wind-Powered Cargo</h3><p><strong>Paragraph 1.</strong> For over a century, international maritime shipping has depended heavily on fossil fuels. Colossal container ships and bulk carriers measuring up to four hundred metres long rely on giant low-speed diesel engines burning heavy fuel oil. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">While ocean shipping transports over eighty percent of world trade, the commercial fleet generates nearly three percent of global human-made greenhouse gases</span> alongside heavy sulfur and soot emissions that harm coastal populations. Faced with strict net-zero targets from the International Maritime Organization (IMO), naval architects are reviving wind power through twenty-first-century aerospace design.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Modern wind-assisted ship propulsion (WASP) bears little resemblance to the canvas sails and wooden masts of nineteenth-century vessels</span>. Instead, ships deploy rigid, computer-controlled structures resembling vertical airplane wings. Leading this shift is the 80,000-tonne dry bulk carrier <em>Pyxis Ocean</em>, fitted in 2023 with two composite WindWings standing 37.5 metres tall. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Constructed from glass-fibre and carbon composites, each wing pairs a central spar with two movable flaps that rotate via autonomous algorithms to capture ocean winds at ideal angles</span>.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">During sea trials across the Indian and Atlantic Oceans, automated wings reduced daily fuel consumption by up to three tonnes, cutting carbon emissions by thirty percent</span>. Equally important, supplemental aerodynamic thrust lets captains lower engine power without reducing cruising speed. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">This advantage shields maritime companies against sudden bunker fuel price spikes while noticeably extending the working lifespan of expensive engine parts</span></span>.</p><p><strong>Paragraph 4.</strong> However, retrofitting existing fleets involves major practical obstacles. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">One critical limitation is vertical clearance: cargo ships must pass safely through bottlenecks like the Panama and Suez Canals and dock beneath towering port gantry cranes exceeding thirty metres</span></span>. To avoid collisions, naval engineers created hydraulic pivoting joints that fold the rigid wings flat against cargo hatchways in port. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">On the downside, the structural weight of this folding hardware trims the ship's maximum cargo load by several hundred tonnes</span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">To boost financial returns further, operators pair aerodynamic wings with intelligent voyage software. By reading real-time satellite weather data, currents, and wave drag, algorithms chart dynamic routes through wind-rich ocean corridors rather than sticking to fixed straight shipping lanes</span></span>. Although detours can add extra nautical miles, the fuel saved by steady tailwinds far outweighs the longer distance.</p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Beyond rigid wings, shipyards are actively testing spinning cylindrical Flettner rotors and autonomous towing kites to suit different vessel sizes</span>. Together, these innovations show that the oldest energy source in maritime history may offer the fastest, most practical route toward zero-carbon global shipping.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–4",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> clearance &nbsp;&nbsp; <b>B.</b> automated &nbsp;&nbsp; <b>C.</b> lengthen &nbsp;&nbsp; <b>D.</b> capacity &nbsp;&nbsp; <b>E.</b> manual &nbsp;&nbsp; <b>F.</b> reduce &nbsp;&nbsp; <b>G.</b> spikes",
+      "summaryTitle": "Benefits & Engineering Trade-offs of WindWings",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<p>The rigid composite sails aboard the <em>Pyxis Ocean</em> rely on <b>5.</b> {{q5}} software to track optimal wind angles. Sea trials confirmed major fuel savings, helping ship operators absorb sudden price <b>6.</b> {{q6}} in bunker oil. Nevertheless, vertical <b>7.</b> {{q7}} beneath port cranes forced engineers to add hydraulic folding joints, whose weight reduces overall cargo <b>8.</b> {{q8}} .</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "How do modern WindWings differ from nineteenth-century clipper sails?",
+      "options": [
+        "A. They are stitched from waterproof woollen cloth.",
+        "B. They are powered purely by underwater propellers.",
+        "C. They are detached manually before entering open seas.",
+        "D. They are rigid composite structures inspired by aircraft."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cấu trúc cánh cứng bằng composite giống cánh máy bay dựng đứng.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "What was achieved during sea trials across the Indian and Atlantic Oceans?",
+      "options": [
+        "A. Daily fuel use and carbon output dropped substantially.",
+        "B. Cruising speeds doubled without touching the sails.",
+        "C. Main diesel engines were removed permanently.",
+        "D. Port loading times fell by thirty percent."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Giảm tới 3 tấn dầu mỗi ngày và giảm 30% khí thải carbon.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Why could rigid sails exceeding 30 metres cause serious problems at ports?",
+      "options": [
+        "A. They block sunlight from reaching harbour offices.",
+        "B. They make ships float too high above dock walls.",
+        "C. They risk colliding with overhead gantry cranes and bridges.",
+        "D. They prevent cargo crews from opening side doors."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Có nguy cơ va chạm với cẩu giàn cảng biển và cầu.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Why do dynamic routing algorithms sometimes pick slightly longer ocean paths?",
+      "options": [
+        "A. To avoid paying fees along the Suez Canal",
+        "B. Because wind-rich routes generate net energy savings",
+        "C. Because satellite telemetry cannot read straight shipping lanes",
+        "D. To give engine mechanics extra hours for repairs"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Dù thêm hải lý, lực đẩy gió ổn định giúp tiết kiệm nhiên liệu ròng lớn hơn.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...rotate via autonomous algorithms...\"</i> → <i>automated</i>.",
+          "<b>Đáp án:</b> <b>B (automated)</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...sudden bunker fuel price spikes...\"</i>",
+          "<b>Đáp án:</b> <b>G (spikes)</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"One critical limitation is vertical clearance...\"</i>",
+          "<b>Đáp án:</b> <b>A (clearance)</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...trims the ship's maximum cargo load...\"</i> → <i>capacity</i>.",
+          "<b>Đáp án:</b> <b>D (capacity)</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "International shipping currently produces over ten percent of global greenhouse gases.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Ngành tàu biển thải ra gần 3% (<i>nearly three percent</i>), không phải trên 10%.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Flettner rotors have proven three times more effective than rigid WindWings.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Chỉ nói đang thử nghiệm rô-to Flettner và diều kéo, không so sánh hiệu quả gấp 3 lần.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Using wind propulsion helps mechanical engine components last longer.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...noticeably extending the working lifespan of expensive engine parts.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Dynamic routing software always forces vessels to follow the shortest geographic line.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Phần mềm chủ động đi vòng qua hành lang gió thay vì bám tuyến đường thẳng ngắn nhất.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "title": "[B2 • Band 6.0] Bài 103: Tyrian Purple: The Royal Dye of the Ancient Mediterranean",
+  "answers": {
+    "q1": "D",
+    "q2": "E",
+    "q3": "H",
+    "q4": "A",
+    "q5": "B",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "NOT GIVEN",
+    "q9": "TRUE",
+    "q10": "C",
+    "q11": "B",
+    "q12": "A"
+  },
+  "passageHtml": "<h2>READING PASSAGE — B2 (BAND 6.0) • TEST 103</h2><h3>Tyrian Purple: The Royal Dye of the Ancient Mediterranean</h3><p><strong>Paragraph 1.</strong> Throughout the classical Mediterranean world, few trade goods carried greater prestige or symbolised supreme political power than Tyrian purple. Originally produced by Phoenician craftsmen along the coast of modern-day Lebanon, particularly in the thriving port city of Tyre, this remarkable dye turned plain cloth into deep violet and crimson robes worn by emperors, monarchs, and senior priests. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">While ordinary organic pigments made from land plants faded rapidly after washing or prolonged exposure to light, authentic Tyrian purple bonded firmly with wool fibres</span>; remarkably, sunlight and open air actually deepened and enriched its lustre</span>.</p><p><strong>Paragraph 2.</strong> This legendary pigment did not originate from vegetation, but from predatory sea snails belonging to the Muricidae family, most notably <em>Bolinus brandaris</em>. Collecting the substance was an exhausting and unpleasant task. The dye does not appear in its rich purple form inside the living creature; instead, it starts as a colourless defensive fluid secreted by a special internal gland to stun prey and deter predators. To harvest sufficient fluid, coastal sailors lowered woven baskets baited with rotting fish into shallow waters to trap millions of molluscs. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Once ashore, workers used heavy stones to smash smaller shells completely, whereas larger specimens were carefully pierced so the delicate gland could be removed intact</span>.</p><p><strong>Paragraph 3.</strong> The extracted glands were placed in large outdoor tanks filled with brine and salted for three days to prevent rapid decay. Following this step, workers transferred the liquid into broad lead cauldrons and simmered it over a steady, low wood fire for ten consecutive days. As the marine tissue broke down, volatile sulphur gases rose into the air, generating a <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">nauseating stench that drifted for kilometres along the shoreline. Indeed, surviving Roman legal records confirm that the foul odour from Phoenician dye works was so severe that city officials required all factories to be built far downwind of residential districts</span>.</p><p><strong>Paragraph 4.</strong> After skimming waste matter from the surface, dyers soaked clean wool inside the warm liquid bath. Surprisingly, the emerging fabric appeared completely pale. The decisive chemical reaction occurred only after the textiles were hung outside to dry. The moment direct solar rays struck the damp cloth, a photochemical transformation began: within minutes, the precursor liquid shifted through pale green, bright yellow, turquoise, and scarlet before locking permanently into a rich, dark purple.</p><p><strong>Paragraph 5.</strong> Because each snail yielded only a microscopic amount of fluid, Tyrian purple ranked as the costliest material in the ancient economy. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Roman historian Pliny the Elder noted that roughly ten thousand snails were needed to produce a single gram of concentrated pure pigment</span>; as a result, a pound of double-dyed wool sold for more than its equal weight in gold. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">To protect royal exclusivity, Roman emperors enacted strict laws regulating who could possess or wear full purple robes</span>. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">During the late Roman Empire, producing the dye without imperial permission was classified as high treason and punished by death</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–I</b>, below. Write the correct letter, <b>A–I</b>.</i><br><br><b>A.</b> sunlight &nbsp; <b>B.</b> restrictions &nbsp; <b>C.</b> scents &nbsp; <b>D.</b> marine &nbsp; <b>E.</b> heating<br><b>F.</b> insects &nbsp; <b>G.</b> gold &nbsp; <b>H.</b> stench &nbsp; <b>I.</b> durability",
+      "summaryTitle": "The Manufacture and Control of Tyrian Purple",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>Unlike typical plant-based colours, Tyrian purple was extracted from <b>1.</b> {{q1}} snails caught in baited traps. After salting the raw glands for three days, workers spent ten days <b>2.</b> {{q2}} the mixture in lead containers. This stage produced a powerful <b>3.</b> {{q3}} , forcing workshops outside urban areas. Once wool was soaked, direct <b>4.</b> {{q4}} triggered the colour change to dark purple. Because the dye was scarce, Roman rulers imposed strict legal <b>5.</b> {{q5}} on who could wear it.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 6–9",
+      "instructions": "<i>Do the following statements agree with the information given in the passage?<br>Write <b>TRUE</b>, <b>FALSE</b> or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 10–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "D",
+      "inputWidth": "75px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"predatory sea snails\"</i> (ốc biển) ↔ <b>D (marine)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "E",
+      "inputWidth": "75px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"simmered it over a steady, low wood fire for ten consecutive days\"</i> ↔ <b>E (heating)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "H",
+      "inputWidth": "75px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"nauseating stench\"</i> (mùi hôi thối nồng nặc) ↔ <b>H (stench)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "A",
+      "inputWidth": "75px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"direct solar rays struck the damp cloth\"</i> ↔ <b>A (sunlight)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "B",
+      "inputWidth": "75px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"strict laws regulating who could possess or wear full purple robes\"</i> ↔ <b>B (restrictions)</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Tyrian purple formed a stronger attachment to wool fibres than typical plant dyes.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Thuốc nhuộm thực vật dễ phai, còn Tyrian purple <i>\"bonded firmly with wool fibres\"</i> → Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Small and large snail shells were processed using the exact same extraction method.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Ốc nhỏ bị đập nát hoàn toàn, còn ốc lớn được đục cẩn thận để lấy nguyên tuyến → Không dùng cùng 1 cách, chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Roman emperors exported Tyrian purple wool to East Asian kingdoms in exchange for spices.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Có nhắc việc hoàng đế giữ độc quyền trong nước, nhưng không hề nói có xuất khẩu sang Đông Á để đổi gia vị hay không → Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "In the late Roman Empire, making Tyrian purple illegally was treated as a severe crime against the state.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"classified as high treason and punished by death\"</i> (tội phản quốc) → Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "In the first paragraph, what made Tyrian purple stand out from other ancient dyes?",
+      "options": [
+        "A. It could be produced cheaply from common coastal plants.",
+        "B. It washed out cleanly so wool could be reused later.",
+        "C. Exposure to air and light improved rather than damaged its colour.",
+        "D. It was worn primarily by ordinary citizens and sailors."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"sunlight and open air actually deepened and enriched its lustre\"</i> → Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Why were Phoenician dye factories banned from city centres according to the third paragraph?",
+      "options": [
+        "A. Their open wood fires frequently damaged nearby houses.",
+        "B. The rotting snail mixture emitted an unbearable smell.",
+        "C. Lead pots leaked toxic chemicals into city drinking water.",
+        "D. Fishermen needed immediate access to deep ocean harbours."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"foul odour from Phoenician dye works was so severe that city officials required all factories to be built far downwind...\"</i> → Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Why does the writer mention Pliny the Elder in the final paragraph?",
+      "options": [
+        "A. To illustrate how many snails were required to obtain a tiny amount of dye.",
+        "B. To argue that Roman historians exaggerated the cost of purple wool.",
+        "C. To prove that Roman emperors invented the boiling technique.",
+        "D. To explain why snail populations disappeared along the Lebanese coast."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Pliny ghi lại con số 10.000 con ốc chỉ tạo ra 1 gam bột nhuộm → Minh họa sản lượng cực thấp và sự khan hiếm → Chọn <b>A</b>."
+        ]
+      }
+    }
+  }
+}

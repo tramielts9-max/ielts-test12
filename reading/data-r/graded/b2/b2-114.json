@@ -1,0 +1,247 @@
+{
+  "title": "[B2 • Band 6.0] Bài 114: The Secrets of the Peat Bog Bodies",
+  "answers": {
+    "q1": "B",
+    "q2": "D",
+    "q3": "E",
+    "q4": "F",
+    "q5": "B",
+    "q6": "E",
+    "q7": "D",
+    "q8": "A",
+    "q9": "FALSE",
+    "q10": "FALSE",
+    "q11": "TRUE",
+    "q12": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 114 (LEVEL B2 • BAND 6.0)</h2><h3>The Secrets of the Peat Bog Bodies</h3><p><strong>Paragraph A.</strong> Across the waterlogged peatlands of northwestern Europe—spanning Denmark, northern Germany, and the British Isles—peat workers and archaeologists have unearthed hundreds of remarkably preserved human remains dating back to the European Iron Age (c. 500 BCE to 400 CE). Known as 'bog bodies', these ancient individuals exhibit a striking, lifelike preservation that resists normal decay. Unlike dry desert mummies, bog bodies frequently retain soft skin tissues, internal organs, fingernails, and even subtle facial expressions, offering an unmatched biological window into prehistoric life.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">This unusual preservation stems from the distinctive environmental chemistry of wetland bogs dominated by <em>Sphagnum</em> moss. As successive moss layers die and compress underwater, they generate a stagnant, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">anaerobic zone completely devoid of <span class=\"kw\">oxygen</span></span>, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">where normal flesh-consuming bacteria cannot survive</span>. Furthermore, <em>Sphagnum</em> moss releases a complex sugar compound called sphagnan that traps essential metal ions and sharply lowers water pH. This strongly acidic water tans skin, hair, and nails into supple, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">dark-brown <span class=\"kw\">leather</span></span>—while simultaneously dissolving bone calcium phosphate, often causing skeletons and teeth to vanish</span>.</p><p><strong>Paragraph C.</strong> The best-known bog body is Tollund Man, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">uncovered by Danish peat cutters near Silkeborg in May 1950</span>. Buried more than 2,400 years ago, the man lay curled peacefully on his side wearing a pointed sheepskin cap fastened under his chin. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">His facial whiskers and forehead wrinkles remained so intact that local police initially mistook the find for a recent murder victim</span>. Yet a braided leather noose pulled tight around his neck soon confirmed that his death had been deliberate and violent.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">A detailed medical autopsy of Tollund Man's digestive tract revealed fascinating clues about prehistoric diets and the timing of his death. Analysis showed that his final meal consisted entirely of a thick porridge made from cultivated grains—mainly barley and linseed—<span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">mixed with seeds from more than forty wild weed species</span>. Crucially, the stomach contained zero trace of meat, dairy products, or fresh summer fruits, indicating that he died in late winter or early spring before seasonal harvests emerged</span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Historians continue to debate the motivations behind these ancient bog burials. Early nineteenth-century scholars, guided by the writings of Roman historian Tacitus, viewed bog bodies as executed criminals or social outcasts cast into marshes as legal punishment. Modern archaeological evidence, however, favours a sacred, ritual explanation. Many bodies display signs of 'triple death'—combining strangulation, head blows, and throat-cutting—and <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">the deliberate burial of bronze weapons, gold ornaments, and imported pottery alongside the remains strongly suggests human sacrifice during winter famines</span></span>.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">In recent decades, museums have adopted non-destructive medical technologies—such as CT scanning and magnetic resonance imaging (MRI)—to examine bog bodies without cutting fragile tissues</span>. These digital scans reveal healed bone fractures, ancient parasites, and artery diseases invisible on the surface. At the same time, conservationists warn that draining wetlands for agriculture or fuel destroys the anaerobic conditions protecting unexcavated sites, making bog preservation vital for safeguarding Europe's hidden archaeological heritage</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 114 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> sacrifice &nbsp;&nbsp; <b>B.</b> oxygen &nbsp;&nbsp; <b>C.</b> porridge &nbsp;&nbsp; <b>D.</b> murder &nbsp;&nbsp; <b>E.</b> leather &nbsp;&nbsp; <b>F.</b> punishment &nbsp;&nbsp; <b>G.</b> skeleton",
+      "summaryTitle": "Preservation and Interpretation of Bog Bodies",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<p>Wetland bogs preserve soft human tissues because compressed moss creates stagnant water without <b>5.</b> {{q5}} , preventing bacterial decay. Acidic chemicals from the moss also turn skin and hair into dark <b>6.</b> {{q6}} . When Tollund Man was uncovered in 1950, police initially treated him as a recent <b>7.</b> {{q7}} victim. Today, valuable metal objects found near many bodies suggest they were killed in ceremonies of human <b>8.</b> {{q8}} rather than as ordinary criminals.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the information given in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "chemical explanations for why skin is preserved while bones vanish",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Giải thích cơ chế thiếu oxy và chất <i>sphagnan</i> thuộc da nhưng hòa tan canxi xương.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "evidence from stomach contents indicating the season of death",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Không có trái cây mùa hè/thịt trong dạ dày chứng tỏ ông mất vào cuối đông hoặc đầu xuân.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "a contrast between nineteenth-century legal theories and modern ritual interpretations",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Đối chiếu giả thuyết tội phạm thế kỷ 19 với bằng chứng hiến tế tôn giáo hiện đại.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "modern non-destructive methods used to examine preserved bodies safely",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Dùng máy chụp CT và MRI không xâm lấn (<i>non-destructive</i>) để kiểm tra bên trong cơ thể.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...anaerobic zone completely devoid of oxygen...\"</i>",
+          "<b>Đáp án:</b> <b>B (oxygen)</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...tans skin, hair, and nails into supple, dark-brown leather...\"</i>",
+          "<b>Đáp án:</b> <b>E (leather)</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...local police initially mistook the find for a recent murder victim.\"</i>",
+          "<b>Đáp án:</b> <b>D (murder)</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...strongly suggests human sacrifice during winter famines.\"</i>",
+          "<b>Đáp án:</b> <b>A (sacrifice)</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Normal aerobic bacteria thrive inside acidic Sphagnum peat bogs.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...where normal flesh-consuming bacteria cannot survive.\"</i> → Trái ngược với <i>thrive</i>.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Tollund Man was discovered during a formal excavation led by university archaeologists.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Được thợ cắt than bùn Đan Mạch tìm thấy (<i>uncovered by Danish peat cutters</i>), không phải cuộc khai quật đại học.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Scientists could identify over forty species of wild weeds in Tollund Man's final meal.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...mixed with seeds from more than forty wild weed species.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Peat-cutting companies in Denmark have stopped all commercial work to protect bog bodies.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Chỉ cảnh báo việc rút nước đầm lầy phá hủy môi trường yếm khí, không hề nói các công ty than bùn Đan Mạch đã ngừng hoạt động.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

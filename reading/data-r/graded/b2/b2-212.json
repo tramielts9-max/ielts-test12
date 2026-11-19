@@ -1,0 +1,247 @@
+{
+  "title": "[B2 • Band 6.0] Bài 212: Cracking the Code: The Decipherment of Linear B",
+  "answers": {
+    "q1": "D",
+    "q2": "B",
+    "q3": "F",
+    "q4": "C",
+    "q5": "fires",
+    "q6": "shortages",
+    "q7": "grid",
+    "q8": "gods",
+    "q9": "TRUE",
+    "q10": "FALSE",
+    "q11": "NOT GIVEN",
+    "q12": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 212 (LEVEL B2 • BAND 6.0)</h2><h3>Cracking the Code: The Decipherment of Linear B</h3><p><strong>Paragraph A.</strong> In the spring of 1900, British archaeologist Sir Arthur Evans began excavating at Knossos on Crete. Within days, his team uncovered the sprawling Bronze Age palace he linked to the mythical King Minos. Alongside painted wall frescoes and giant storage jars lay thousands of hardened clay tablets bearing two unfamiliar scripts. Evans named the older pictographic script Linear A and the younger, more angular script Linear B. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Convinced he had discovered a unique non-Greek civilisation, Evans tightly restricted access to the tablets and insisted their language had zero connection to classical Greek</span>.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">For over four decades, Linear B resisted every attempt at translation. Because the clay tablets were originally intended as temporary administrative notes, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">they survived into modern times only because catastrophic palace <span class=\"kw\">fires</span> baked the soft clay into durable ceramic</span></span>. Progress was further blocked by the lack of a bilingual text like the Rosetta Stone—which paired Egyptian hieroglyphs with readable Greek—leaving Evans to pass away in 1941 without reading a single word.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">The crucial breakthrough came not from a famous professor, but from an uncelebrated American classicist named Alice Kober. Working steadily at Brooklyn College during the 1940s, Kober cut thousands of index cards from old exam papers because of wartime paper <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">shortages</span></span></span>. She observed that groups of signs shared identical opening symbols while ending differently, functioning like grammatical case endings in Latin. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Before dying in 1950, Kober constructed a rigorous mathematical <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">grid</span></span> charting recurring consonants and vowels, proving Linear B was a phonetic syllabary</span>.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Kober's grid passed to Michael Ventris, a brilliant British architect fascinated by ancient codes. Although Ventris initially assumed Linear B recorded an Etruscan dialect, plugging known phonetic values into Cretan place-names—such as A-mi-ni-so (Amnisos) and Ko-no-so (Knossos)—produced unmistakably Greek sounds. On 1 July 1952, Ventris announced on BBC radio that Linear B was archaic Greek written five centuries before Homer</span></span>.</p><p><strong>Paragraph E.</strong> Collaborating with Cambridge philologist John Chadwick, Ventris confirmed that Linear B represented Mycenaean Greek, the administrative language of mainland warrior rulers who controlled the Aegean during the late Bronze Age. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Rather than heroic poetry or state treaties, the tablets proved to be thorough accounting ledgers listing barley, olive oil, sheep, bronze arrowheads, and palace workers</span>.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Equally significant, the deciphered inventories recorded religious offerings to deities well known from later classical Athens, including <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Greek <span class=\"kw\">gods</span></span> such as Zeus, Poseidon, and Athena</span>. By proving an unbroken cultural bridge between Bronze Age Mycenae and classical Greece, solving Linear B pushed the verified history of the Greek language back by more than five hundred years.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 212 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Decipherment Milestones",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Soft clay office records lasted for centuries because palace <b>5.</b> {{q5}} hardened them.</li><li style=\"margin-bottom:8px;\">Alice Kober reused old exam paper due to wartime material <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">Kober mapped consonants and vowels on a mathematical <b>7.</b> {{q7}} .</li><li style=\"margin-bottom:8px;\">Translated inventories listed offerings to famous classical <b>8.</b> {{q8}} like Zeus and Athena.</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "how testing local geographical names led to a major radio announcement",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Thử giá trị âm vào địa danh Amnisos, Knossos rồi công bố trên đài BBC.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "the accidental reason fragile administrative notes survived for millennia",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Cháy cung điện vô tình nung đất sét mềm thành gốm cứng.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "religious evidence proving an unbroken cultural link to classical Athens",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Lễ vật dâng thần Zeus, Poseidon, Athena chứng minh mạch văn hóa liền mạch.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "how a researcher worked using improvised materials during wartime",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Alice Kober cắt thẻ từ giấy thi cũ vì thiếu giấy thời chiến.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "fires",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...catastrophic palace fires baked the soft clay...\"</i>",
+          "<b>Từ cần điền:</b> <b>fires</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "shortages",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...because of wartime paper shortages.\"</i>",
+          "<b>Từ cần điền:</b> <b>shortages</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "grid",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...constructed a rigorous mathematical grid...\"</i>",
+          "<b>Từ cần điền:</b> <b>grid</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "gods",
+      "inputWidth": "100px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"...including Greek gods such as Zeus...\"</i>",
+          "<b>Từ cần điền:</b> <b>gods</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Sir Arthur Evans rejected the possibility that Linear B could be related to Greek.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Evans khẳng định ngôn ngữ này không hề liên quan tới tiếng Hy Lạp cổ.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Alice Kober published the complete translation of the Knossos tablets in 1950.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C & D:</b> Kober qua đời năm 1950 sau khi lập bảng lưới toán học; phải tới năm 1952 Ventris mới giải mã được.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Michael Ventris studied ancient languages at Oxford University before becoming an architect.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Bài chỉ nói Ventris là kiến trúc sư người Anh đam mê mật mã cổ, không nhắc Đại học Oxford.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "The deciphered tablets contained practical economic records rather than literature.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Không phải sử thi mà là sổ kế toán ghi chép lúa mạch, dầu ô-liu, cừu, vũ khí.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

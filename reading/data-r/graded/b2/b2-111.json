@@ -1,0 +1,247 @@
+{
+  "title": "[B2 • Band 6.0] Bài 111: Ambergris: Floating Gold of the Oceans",
+  "answers": {
+    "q1": "A",
+    "q2": "B",
+    "q3": "D",
+    "q4": "E",
+    "q5": "beaks",
+    "q6": "oxidation",
+    "q7": "eggs",
+    "q8": "substitute",
+    "q9": "FALSE",
+    "q10": "FALSE",
+    "q11": "TRUE",
+    "q12": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 111 (LEVEL B2 • BAND 6.0)</h2><h3>Ambergris: Floating Gold of the Oceans</h3><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">For millennia, coastal walkers along the Atlantic and Indian Oceans occasionally discovered a strange, pungent substance cast ashore by the tide. Known as ambergris, it resembled weathered stone, dense wax, or petrified mud. Long before modern biologists understood its origin, ancient societies invented mystical explanations: Arab merchants thought it rose from underwater springs beneath the seabed, while Chinese folklore claimed it was the hardened saliva of coastal dragons</span>. Despite its unappealing early appearance, ambergris became a prized commodity for medicine and luxury scents.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">The true source of ambergris was only verified in the nineteenth century with the growth of commercial whaling. It forms solely within the digestive tract of the sperm whale, a deep-diving predator whose diet relies heavily on giant squid. While stomach enzymes dissolve the squid's soft flesh easily, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">its hard, razor-sharp <span class=\"kw\">beaks</span> cannot be digested</span>. Whales normally vomit up these indigestible fragments, yet pieces occasionally slip into the lower intestine and irritate its lining. In response, the whale's gall bladder releases an oily compound to encase the sharp beaks, slowly building a dense mass</span>.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Although early biologists believed this internal lump always caused fatal intestinal rupture, modern examinations suggest it is routinely passed out naturally into the ocean</span>. Freshly expelled ambergris is soft, dark black, and carries a foul odour of rotting waste. To gain commercial value, the lump must drift at sea for decades. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Continuous exposure to saltwater and sunlight drives photochemical <span class=\"kw\">oxidation</span></span>, breaking down impurities and transforming the substance into a firm, pale grey or silvery-white stone with a sweet, earthy fragrance.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Cured ambergris frequently sells for over $20,000 per kilogram due to a unique chemical called ambrein. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Although ambrein itself is virtually odourless</span>, it possesses the rare physical ability to bind with fragile perfume molecules. When added to luxury scents alongside botanical extracts and citrus oils, ambrein stabilizes these quickly evaporating top-notes so the fragrance lasts on warm skin for hours or days</span>. Beyond perfumery, historical documents note that <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">King Charles II of England enjoyed ambergris grated over his breakfast <span class=\"kw\">eggs</span></span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">International laws governing ambergris trade are strikingly inconsistent. Under the Endangered Species Act in the United States, possessing, importing, or selling any sperm whale product—even naturally shed beach finds—is strictly prohibited. In contrast, authorities in the United Kingdom and the European Union classify washed-up ambergris as biological waste and salvage, permitting private collection and public auction</span></span>. Although industrial chemists have synthesized alternatives like ambroxan for mass cosmetics, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">master perfumers insist that no artificial <span class=\"kw\">substitute</span> can replicate natural ambergris</span>.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Today, genuine oceanic ambergris remains one of the rarest natural materials in luxury commerce. Because modern international treaties protect sperm whales from commercial hunting, global supply depends exclusively on unpredictable coastal discoveries after winter storms</span>. For both marine scientists studying whale diets and heritage perfumers crafting traditional scents, these drifting ocean stones continue to bridge natural marine biology and human cultural history.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 111 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Formation and Commercial Use",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li>Ambergris develops to shield the whale's gut from sharp squid <b>5.</b> {{q5}} .</li><li>Sunlight and seawater cause photochemical <b>6.</b> {{q6}} , turning the lump pale and firm.</li><li>King Charles II liked to eat ambergris grated onto breakfast <b>7.</b> {{q7}} .</li><li>Top perfumers argue that no synthetic <b>8.</b> {{q8}} matches natural ambergris.</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the information given in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "early folk beliefs about the mysterious origin of ambergris",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Nêu niềm tin cổ xưa của thương nhân Ả Rập (suối ngầm) và truyền thuyết Trung Hoa (nước dãi rồng).",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "the biological process that forms ambergris inside sperm whales",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Giải thích cơ chế tiết dầu mật bao bọc mỏ mực sắc nhọn trong ruột cá nhà táng.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "the chemical reason ambergris is prized by luxury fragrance makers",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Giải thích chất <i>ambrein</i> giữ cho hương liệu bay hơi chậm và bám lâu trên da.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "contrasting national regulations regarding beach-washed ambergris",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Đối chiếu luật cấm hoàn toàn ở Mỹ với việc hợp pháp ở Anh và EU.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "beaks",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...its hard, razor-sharp beaks cannot be digested.\"</i>",
+          "<b>Từ cần điền:</b> <b>beaks</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "oxidation",
+      "inputWidth": "120px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...drives photochemical oxidation...\"</i>",
+          "<b>Từ cần điền:</b> <b>oxidation</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "eggs",
+      "inputWidth": "100px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...grated over his breakfast eggs.\"</i>",
+          "<b>Từ cần điền:</b> <b>eggs</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "substitute",
+      "inputWidth": "120px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...no artificial substitute can replicate natural ambergris.\"</i>",
+          "<b>Từ cần điền:</b> <b>substitute</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Modern autopsies confirm that ambergris always kills the whale through intestinal rupture.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Nghiên cứu hiện đại cho thấy khối này thường được thải tự nhiên ra biển (<i>routinely passed out naturally</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Ambrein creates a strong, sweet flower smell entirely on its own.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"Although ambrein itself is virtually odourless...\"</i> → Bản thân ambrein hầu như không có mùi.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Selling ambergris found naturally on beaches is permitted in the EU but banned in the US.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Mỹ cấm cả đồ nhặt ngoài biển; Anh và EU cho phép nhặt và bán đấu giá.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Ambergris collected in the Indian Ocean smells stronger than Atlantic ambergris.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A & F:</b> Không có thông tin so sánh mùi giữa hai đại dương.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

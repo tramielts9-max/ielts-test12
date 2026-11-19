@@ -1,0 +1,247 @@
+{
+  "title": "[B2 • Band 6.0] Bài 116: The Art and Mystery of Chinese Sericulture",
+  "answers": {
+    "q1": "B",
+    "q2": "F",
+    "q3": "C",
+    "q4": "D",
+    "q5": "tea",
+    "q6": "gum",
+    "q7": "smuggling",
+    "q8": "sticks",
+    "q9": "NOT GIVEN",
+    "q10": "TRUE",
+    "q11": "FALSE",
+    "q12": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 116 (LEVEL B2 • BAND 6.0)</h2><h3>The Art and Mystery of Chinese Sericulture</h3><p><strong>Paragraph A.</strong> For more than two millennia, the techniques of sericulture—raising silkworms and producing raw silk—formed one of the most tightly guarded monopolies in economic history. According to Chinese legend, around 2700 BCE Empress Leizu was <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">sipping hot <span class=\"kw\">tea</span> beneath a white mulberry tree</span> when a silkworm cocoon dropped into her steaming cup. As she tried to lift it out, gentle heat softened the natural resin, and a shimmering filament began to unravel across her fingers. Recognising its remarkable strength, she reportedly created early rearing methods and the foot-powered loom.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Beneath this charming legend lies a remarkable achievement in selective breeding. Over countless generations, Chinese farmers transformed wild silkmoths into the domesticated insect <em>Bombyx mori</em>. The adult moth is completely blind, unable to fly, and incapable of eating, surviving only a few days to reproduce before dying</span>. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Meanwhile, the delicate caterpillar eats solely chopped fresh leaves from the white mulberry tree</span>. Once mature, it attaches itself to a straw frame and spins liquid fibroin protein from its salivary glands into a compact oval cocoon.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Harvesting unbroken silk requires strict timing before metamorphosis finishes. If an adult moth were allowed to chew through the shell, it would break the continuous strand into thousands of short, worthless fragments. To prevent this, workers steam or immerse intact cocoons in boiling water, killing the developing pupa and dissolving the <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">sticky sericin <span class=\"kw\">gum</span></span> holding the casing together</span></span>. Light brushing then reveals the loose filament end, yielding a continuous strand up to nine hundred metres long that is twisted with others into weaving thread.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">In imperial China, silk functioned as far more than luxury clothing; woven rolls circulated as standard money alongside bronze coins to pay official salaries and settle frontier debts. Detailed dress regulations specified which colours and patterns each social class could wear, <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">reserving bright yellow silk exclusively for the Emperor</span></span>. To preserve this economic advantage, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">anyone caught <span class=\"kw\">smuggling</span> silkworm eggs or mulberry seeds across the border faced execution</span>.</p><p><strong>Paragraph E.</strong> This strict monopoly created the famous Silk Road, an overland trade network stretching across Central Asian deserts to supply Roman elites. Demand was so intense that Roman writer Pliny the Elder complained bitterly that Rome was draining vast reserves of gold annually to pay for translucent Chinese fabrics.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Despite imperial vigilance, China's ancient secret was eventually broken through industrial espionage. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">In 552 CE, Byzantine Emperor Justinian commissioned two Persian monks who had lived in China to steal the technology</span>. Hiding living silkworm eggs <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">inside hollow bamboo walking <span class=\"kw\">sticks</span></span>, the monks carried them safely to Constantinople. Within ten years, thriving Byzantine weaving workshops ended China's two-thousand-year global monopoly</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 116 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Silk Production & Espionage",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Legend says silk was discovered when a cocoon fell into Empress Leizu's hot <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:8px;\">Boiling water kills the pupa and dissolves sticky sericin <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">Chinese dynasties executed anyone caught <b>7.</b> {{q7}} silkworm eggs abroad.</li><li style=\"margin-bottom:8px;\">Two monks concealed live eggs inside hollow bamboo <b>8.</b> {{q8}} .</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "an account of how a domesticated insect lost its natural survival abilities",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>Bombyx mori</i> bị lai tạo trở nên mù, không bay được và không ăn được.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "a description of how industrial spying ended China's secret monopoly",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Kể vụ hai tu sĩ giấu trứng tằm trong gậy tre mang về Constantinople.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "an explanation of why pupae must be killed before leaving their cocoons",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Nếu bướm trưởng thành chui ra sẽ cắn nát sợi tơ dài 900m.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "details of how silk functioned as money and a marker of social rank",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Cuộn lụa dùng làm tiền tệ và luật màu sắc phân biệt đẳng cấp.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "tea",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> <i>\"...sipping hot tea beneath a white mulberry tree...\"</i>",
+          "<b>Từ cần điền:</b> <b>tea</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "gum",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...dissolving the sticky sericin gum...\"</i>",
+          "<b>Từ cần điền:</b> <b>gum</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "smuggling",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...anyone caught smuggling silkworm eggs... faced execution.\"</i>",
+          "<b>Từ cần điền:</b> <b>smuggling</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "sticks",
+      "inputWidth": "100px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"...inside hollow bamboo walking sticks...\"</i>",
+          "<b>Từ cần điền:</b> <b>sticks</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Wild silkmoths are still able to fly short distances between mulberry trees today.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Chỉ nói bướm nhà <i>Bombyx mori</i> mất khả năng bay, không nói bướm hoang dã ngày nay bay thế nào.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Letting a mature moth exit its cocoon naturally ruins the continuous silk filament.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Bướm cắn vỏ chui ra sẽ cắt sợi tơ thành hàng nghìn mảnh vụn vô dụng.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "In imperial China, yellow silk robes could be worn by wealthy merchants during festivals.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Lụa vàng tươi dành độc quyền cho Hoàng đế (<i>exclusively for the Emperor</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Emperor Justinian sent two plant scientists to China to study mulberry farming.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Ông cử hai tu sĩ Ba Tư từng sống ở Trung Quốc (<i>two Persian monks</i>), không phải nhà khoa học thực vật.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

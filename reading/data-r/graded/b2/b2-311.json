@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 311: The Architecture of Ignorance: Rethinking Scientific Progress",
+  "answers": {
+    "q1": "E",
+    "q2": "G",
+    "q3": "B",
+    "q4": "D",
+    "q5": "NO",
+    "q6": "NOT GIVEN",
+    "q7": "YES",
+    "q8": "YES",
+    "q9": "C",
+    "q10": "D",
+    "q11": "A",
+    "q12": "B"
+  },
+  "passageHtml": "<h2>PASSAGE 311 (LEVEL B2 • BAND 6.0)</h2><h3>The Architecture of Ignorance: Rethinking Scientific Progress</h3><p><strong>Paragraph 1.</strong> In standard textbooks, scientific progress appears as a smooth, steady climb toward final truth. Each generation supposedly adds bricks onto foundations built by earlier thinkers until nature holds no secrets left. Yet in <em>The Ignorance Ledger</em>, philosopher of science Dr. Aris Thorne argues that this tidy story misrepresents how real discovery works. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Genuine breakthroughs, Thorne insists, do not merely expand what humanity knows; their primary effect is to create <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">entirely new forms of ignorance</span></span>.</p><p><strong>Paragraph 2.</strong> Thorne draws a clear line between 'passive ignorance' and 'strategic ignorance'. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Passive ignorance is simply the absence of facts inside an untrained mind; it is static and unreflective</span>. Strategic ignorance, by contrast, is a sophisticated state generated exclusively by major scientific advances. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">When physicists developed quantum mechanics in the early twentieth century, they did not tie up loose ends in classical physics; instead, they shattered Newton's predictable framework and uncovered vast mysteries regarding particle behaviour</span></span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Similarly, discovering DNA did not conclude genetics; it revealed the staggering complexities of epigenetics, proving biologists knew far less about cell control than they had once assumed</span>.</p><p><strong>Paragraph 3.</strong> A central target of Thorne's critique is the modern academic obsession with measuring research output through crude numbers. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Funding councils, ranking boards, and grant panels judge scholars almost solely by paper counts, citation totals, and immediate commercial returns</span></span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">When scientists are rewarded only for predictable outputs, they pursue 'low-risk, low-yield' tweaks—adjusting safe models rather than attempting bold inquiries that might expose deep flaws in accepted theories</span></span>. Truly revolutionary projects are systematically starved of capital because their results cannot be promised on quarterly reports.</p><p><strong>Paragraph 4.</strong> In his closing chapters, Thorne calls for a thorough reform of science teaching and funding. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Rather than praising scholars who claim to possess final answers, universities should reward researchers who formulate sharper, more profound questions</span></span>. By treating ignorance not as a shameful gap to conceal but as the lifeblood of inquiry, science can free itself from cautious conservatism. Science, Thorne concludes, does not conquer the darkness; it widens the boundary of the unknown.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> certainty &nbsp;&nbsp; <b>B.</b> flaws &nbsp;&nbsp; <b>C.</b> statistics &nbsp;&nbsp; <b>D.</b> questions &nbsp;&nbsp; <b>E.</b> ignorance &nbsp;&nbsp; <b>F.</b> accidents &nbsp;&nbsp; <b>G.</b> rewards",
+      "summaryTitle": "Why Modern Science Needs Bold Inquiry",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>Dr. Aris Thorne contends that major breakthroughs produce brand-new forms of <b>1.</b> {{q1}} . However, because funding panels prioritise publication numbers and short-term commercial <b>2.</b> {{q2}} , scholars feel pressured to avoid risky ideas. Consequently, research that could uncover fundamental <b>3.</b> {{q3}} in accepted theories rarely wins support. Thorne urges universities to change focus and value researchers who pose deeper <b>4.</b> {{q4}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...create entirely new forms of ignorance.\"</i>",
+          "<b>Đáp án:</b> <b>E (ignorance)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...immediate commercial returns...\"</i> → <i>rewards</i>.",
+          "<b>Đáp án:</b> <b>G (rewards)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...expose deep flaws in accepted theories.\"</i>",
+          "<b>Đáp án:</b> <b>B (flaws)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...formulate sharper, more profound questions.\"</i>",
+          "<b>Đáp án:</b> <b>D (questions)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Quantum mechanics confirmed that Newton's classical framework needed no major revisions.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cơ học lượng tử đã phá vỡ khung dự đoán của Newton (<i>shattered Newton's predictable framework</i>).",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Most European universities have already abandoned paper counts when hiring professors.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài chỉ nói các hội đồng hiện vẫn chấm điểm bằng số bài báo, không hề nói các trường châu Âu đã bỏ cách này.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Advances in genetics showed that cellular regulation was more complex than earlier experts thought.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Khám phá DNA mở ra epigenetics, chứng minh các nhà sinh học biết ít hơn họ tưởng.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Academic institutions should give greater recognition to scholars who ask insightful questions.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...universities should reward researchers who formulate sharper, more profound questions.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "What is Dr. Thorne's central argument in Paragraph 1?",
+      "options": [
+        "A. Modern laboratory equipment has become less accurate over time.",
+        "B. School textbooks intentionally hide ancient scientific mistakes.",
+        "C. Major scientific breakthroughs uncover brand-new categories of unknown phenomena.",
+        "D. Ordinary readers have lost interest in reading science books."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Đột phá thật sự tạo ra các dạng thức chưa biết hoàn toàn mới.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "How does Thorne describe 'passive ignorance' in Paragraph 2?",
+      "options": [
+        "A. As an elite tool produced by complex quantum physics",
+        "B. As an intentional refusal to read modern research papers",
+        "C. As a temporary barrier solved easily by quarterly spreadsheets",
+        "D. As a simple lack of knowledge typical of an untrained mind"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Sự thiếu hụt kiến thức thông thường ở một tâm trí chưa được đào tạo.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Why does the author mention quantum mechanics in Paragraph 2?",
+      "options": [
+        "A. To demonstrate that major discoveries expose limits in accepted frameworks",
+        "B. To prove that physics is mathematically simpler than biology",
+        "C. To show that Newtonian physics still explains every atomic process",
+        "D. To explain why modern physicists rarely work with biologists"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cho thấy các phát kiến vĩ đại luôn bộc lộ giới hạn của hệ lý thuyết cũ.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "According to Paragraph 3, what happens when agencies rely heavily on numeric metrics?",
+      "options": [
+        "A. Young scholars receive far more money than senior professors.",
+        "B. Scientists are discouraged from pursuing risky, paradigm-changing topics.",
+        "C. Academic journals stop publishing minor adjustments to safe models.",
+        "D. Universities become completely independent of corporate grants."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nhà khoa học ngại làm đề tài mạo hiểm đột phá, chỉ chạy theo dự án an toàn ít rủi ro.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    }
+  }
+}

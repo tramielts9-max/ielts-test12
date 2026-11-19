@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 303: Sunken Archives: Deep-Sea Archaeology",
+  "answers": {
+    "q1": "C",
+    "q2": "A",
+    "q3": "D",
+    "q4": "B",
+    "q5": "sonar",
+    "q6": "ballast",
+    "q7": "duplicates",
+    "q8": "waters",
+    "q9": "NO",
+    "q10": "YES",
+    "q11": "NOT GIVEN",
+    "q12": "NO"
+  },
+  "passageHtml": "<h2>PASSAGE 303 (LEVEL B2 • BAND 6.0)</h2><h3>Sunken Archives: The Ethics of Deep-Sea Archaeology</h3><p><strong>Paragraph 1.</strong> For two centuries, the deep ocean floor functioned as a sealed vault, preserving human maritime history beneath crushing depths. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Over the past twenty years, however, rapid advances in acoustic <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">sonar</span></span>, autonomous underwater vehicles, and deep-sea robotics have opened the abyssal plain to human reach</span>. In <em>Treasures of the Abyss</em>, maritime archaeologist Dr. Elena Gomez delivers a sharp critique of the growing clash between commercial salvage firms and scientific archaeology.</p><p><strong>Paragraph 2.</strong> To deep-sea exploration companies backed by private investors, historic shipwrecks are treated essentially as sunken bank vaults. Firms spend millions deploying robotic submersibles to recover gold, silver coins, and fine porcelain from colonial vessels, auctioning artifacts to private buyers for shareholder profits. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Gomez argues that this business model permanently destroys historical insight. In scientific archaeology, an object's physical context—its precise spatial position relative to the hull, cargo <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">ballast</span></span>, and surrounding wreckage—supplies roughly ninety percent of its historical meaning. When robotic claws hastily scoop coins from the mud, that non-renewable record is erased forever</span>.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Conversely, commercial operators argue that without corporate investment, most deep-water sites would remain forever unexplored. Public museums and university departments, constrained by tight budgets, simply lack the tens of millions of dollars required to hire research ships and deep robotics across multiple seasons</span></span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Industry leaders insist that public-private partnerships—selling so-called '<span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">duplicates</span></span>' to cover operational expenses while donating unique items to museums—offer the only practical compromise</span>. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Gomez rejects this claim, noting that labelling heritage artifacts as 'duplicates' is an arbitrary commercial excuse designed to justify looting</span>.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">The dispute is worsened by legal vacuums in international <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">waters</span></span> beyond national economic zones, where domestic heritage laws carry no authority</span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Although the 2001 UNESCO Convention declared that underwater artifacts must not be exploited commercially, leading maritime powers—notably the United States and the United Kingdom—declined to ratify the agreement, citing traditional salvage law</span>. Unless binding international accords establish shared global protection, deep-ocean cultural heritage risks systematic commercial plundering.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 1–4",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Commercial Salvage vs. Archaeology",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Deep-ocean wrecks became accessible thanks to underwater robots and acoustic <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:8px;\">Historical meaning depends on an item's location relative to the hull and cargo <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">Salvage firms fund expeditions by selling items labelled as <b>7.</b> {{q7}} .</li><li style=\"margin-bottom:8px;\">National heritage rules cannot be enforced in international <b>8.</b> {{q8}} .</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "What opened the deep ocean floor to human exploration over the past two decades?",
+      "options": [
+        "A. Lower ocean water levels along continental coastlines",
+        "B. New international laws encouraging treasure hunting",
+        "C. Advances in acoustic sonar and robotic submersibles",
+        "D. Cheap diving suits developed by university scientists"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Nhờ tiến bộ của sóng âm sonar, phương tiện tự hành và robot biển sâu.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Why does Dr. Gomez say commercial coin-grabbing destroys historical knowledge?",
+      "options": [
+        "A. It erases the spatial relationship between artifacts and surrounding wreckage.",
+        "B. Robotic claws physically crack valuable porcelain plates in half.",
+        "C. Private companies refuse to publish photographs of recovered gold.",
+        "D. Saltwater damages coins faster once they leave the seabed mud."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Bối cảnh vị trí vật lý chiếm tới 90% ý nghĩa lịch sử; gắp vội vàng làm mất vĩnh viễn dữ liệu này.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "How do salvage firms defend selling parts of what they recover?",
+      "options": [
+        "A. They argue museum buildings lack storage space for heavy coins.",
+        "B. They claim ancient sailors originally intended items to be sold.",
+        "C. They promise to return every sold coin after ten years.",
+        "D. They point out that sales offset the huge expense of deep-sea vessels."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Dùng tiền bán các món 'trùng lặp' để bù chi phí thuê tàu và robot đắt đỏ.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "What weakness of the 2001 UNESCO Convention is highlighted in the final paragraph?",
+      "options": [
+        "A. It was written before underwater sonar had been invented.",
+        "B. Leading maritime nations declined to adopt it into binding law.",
+        "C. It applies only to wooden ships built before the sixteenth century.",
+        "D. It forces academic researchers to share funding with private firms."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Các cường quốc hàng hải như Mỹ và Anh từ chối phê chuẩn công ước.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "sonar",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...advances in acoustic sonar...\"</i>",
+          "<b>Từ cần điền:</b> <b>sonar</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "ballast",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...relative to the hull, cargo ballast, and surrounding wreckage...\"</i>",
+          "<b>Từ cần điền:</b> <b>ballast</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "duplicates",
+      "inputWidth": "120px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...selling so-called 'duplicates' to cover operational expenses...\"</i>",
+          "<b>Từ cần điền:</b> <b>duplicates</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "waters",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...legal vacuums in international waters beyond national economic zones...\"</i>",
+          "<b>Từ cần điền:</b> <b>waters</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "State universities currently receive sufficient public funding to explore deep ocean shipwrecks regularly.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Các trường đại học bị bó hẹp ngân sách, thiếu hàng chục triệu đô để thuê tàu.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Commercial firms argue that public-private partnerships are the only practical way to reach deep sites.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...public-private partnerships... offer the only practical compromise.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Private collectors preserve rescued porcelain in better condition than national museums.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 & 3:</b> Không hề so sánh chất lượng bảo quản gốm sứ giữa nhà sưu tập tư nhân và bảo tàng.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "National cultural protection laws are fully enforceable across international high seas.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...domestic heritage laws carry no authority\"</i> tại vùng biển quốc tế.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

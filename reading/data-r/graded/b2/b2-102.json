@@ -1,0 +1,198 @@
+{
+  "title": "[B2 • Band 6.0] Bài 102: The Kakapo",
+  "answers": {
+    "q1": "B",
+    "q2": "I",
+    "q3": "F",
+    "q4": "A",
+    "q5": "G",
+    "q6": "C",
+    "q7": "FALSE",
+    "q8": "TRUE",
+    "q9": "FALSE",
+    "q10": "NOT GIVEN",
+    "q11": "TRUE",
+    "q12": "FALSE"
+  },
+  "passageHtml": "<h2>READING B2 (BAND 6.0) — BÀI 102</h2><h3>The Kakapo: Rescuing the World's Stranded Parrot</h3><p><strong>Paragraph 1.</strong> New Zealand is well known for its unusual evolutionary history, and few native creatures illustrate this better than the kakapo. Evolving over millions of years on an isolated group of islands completely lacking native land mammals, this nocturnal, forest-dwelling bird gradually <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">lost the biological ability to fly</span>. Instead, it became the heaviest parrot in the world, with fully grown males reaching up to four kilograms. To move through dense southern beech forests, the kakapo developed strong, clawed legs suitable for walking long distances and climbing high into tree canopies. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Its short, rounded wings serve purely for balance and parachute-style braking whenever the bird leaps from branches</span>.</p><p><strong>Paragraph 2.</strong> In a prehistoric ecosystem where the only threats were <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">giant birds of prey hunting by sight</span>—such as the now-extinct Haast's eagle—the kakapo relied on passive survival behaviour. When startled, the parrot freezes in total stillness, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">depending on its patterned moss-green feathers to blend into the forest floor. For thousands of years, this natural camouflage offered near-complete protection</span>. However, human arrival shattered that ecological balance. First Polynesian settlers, and later European colonists, introduced non-native mammalian predators including stoats, feral cats, and rats. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Because <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">mammals hunt mainly by scent</span> rather than sight, the kakapo's habit of freezing, combined with its strong, sweet musky odour, left the bird completely vulnerable to sudden attack</span>.</p><p><strong>Paragraph 3.</strong> A further barrier to saving the kakapo lies in its highly unusual reproductive cycle. Unlike nearly all other parrots that form monogamous pairs each spring, the kakapo is the only parrot species known to practice lek breeding. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">In early summer, males gather on traditional hilltops to dig shallow bowl-shaped hollows in the soil</span>. Over several months, they inflate air sacs in their chests to produce low-frequency booming calls that echo for kilometres across mountain ridges to attract females. Even more frustrating for wildlife managers, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">kakapos do not breed every year; reproduction takes place only every two to four years, strictly timed with the heavy fruiting cycles of native trees</span> such as the rimu, whose calcium-rich fruit feeds the chicks.</p><p><strong>Paragraph 4.</strong> By 1977, extensive field surveys could locate fewer than two hundred kakapos, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">nearly all of them aging males surviving in southern Fiordland</span>. An unexpected discovery of a small breeding population on Stewart Island offered a vital second chance. Determined to prevent total extinction, the New Zealand Wildlife Service launched the Kakapo Recovery Programme and carried out an ambitious rescue operation. Teams captured every single surviving bird and evacuated them to remote offshore islands—including Whenua Hou and Anchor Island—that had been completely cleared of introduced mammalian predators.</p><p><strong>Paragraph 5.</strong> On these <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">predator-free sanctuaries</span>, conservation biologists deployed intensive, technology-driven care. Every individual bird was fitted with a miniature radio transmitter so researchers could track its daily movements and physical condition. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Supplemental feeding stations were positioned along forest trails to encourage breeding activity even during years without abundant rimu fruit</span>. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Whenever natural nests were at risk, fragile eggs were moved to clinical laboratories for artificial incubation, and teams pioneered the use of drones to transport fresh semen</span> across steep island terrain to fertilise isolated females. Through this sustained effort, the global kakapo population climbed from a historic low of just 51 individuals in 1995 to more than 240 birds today.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–6",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–J</b>, below.<br>Write the correct letter, <b>A–J</b>, in boxes 1–6 on your answer sheet.</i><br><br><b>A.</b> scent &nbsp;&nbsp; <b>B.</b> flightless &nbsp;&nbsp; <b>C.</b> sanctuaries &nbsp;&nbsp; <b>D.</b> annual &nbsp;&nbsp; <b>E.</b> survival<br><b>F.</b> camouflage &nbsp;&nbsp; <b>G.</b> irregular &nbsp;&nbsp; <b>H.</b> transmitters &nbsp;&nbsp; <b>I.</b> visual &nbsp;&nbsp; <b>J.</b> extinction",
+      "summaryTitle": "Decline and Conservation of the Kakapo",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6"
+      ],
+      "template": "<p>Because New Zealand had no native land mammals, the kakapo evolved into a heavy, <b>1.</b> {{q1}} parrot. Originally, it protected itself from <b>2.</b> {{q2}} predators like Haast's eagle by freezing still and relying on its green <b>3.</b> {{q3}} . However, when settlers introduced mammals that hunted by <b>4.</b> {{q4}} , this passive strategy failed and pushed the species toward extinction. Conservation efforts are also complicated by the bird's <b>5.</b> {{q5}} breeding schedule, which depends on rimu tree harvests. Today, every surviving bird lives on predator-free island <b>6.</b> {{q6}} and is monitored with advanced scientific equipment.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 7–12",
+      "instructions": "<i>Do the following statements agree with the information given in the passage?<br>Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q7",
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "B",
+      "inputWidth": "70px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"lost the biological ability to fly\"</i> ↔ <b>B (flightless)</b>.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "I",
+      "inputWidth": "70px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"giant birds of prey hunting by sight\"</i> (săn bằng thị giác) ↔ <b>I (visual)</b>.",
+          "<b>Kết luận:</b> Chọn <b>I</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "F",
+      "inputWidth": "70px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"this natural camouflage offered near-complete protection.\"</i> ↔ <b>F (camouflage)</b>.",
+          "<b>Kết luận:</b> Chọn <b>F</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "A",
+      "inputWidth": "70px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"mammals hunt mainly by scent rather than sight\"</i> ↔ <b>A (scent)</b>.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "G",
+      "inputWidth": "70px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Không sinh sản hàng năm mà 2–4 năm một lần (bất thường/không đều đặn) ↔ <b>G (irregular)</b>.",
+          "<b>Kết luận:</b> Chọn <b>G</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "C",
+      "inputWidth": "70px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"On these predator-free sanctuaries...\"</i> ↔ <b>C (sanctuaries)</b>.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "The kakapo uses its rounded wings primarily to help it glide across long distances between trees.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Đôi cánh chỉ dùng để giữ thăng bằng và hãm phanh khi nhảy từ cành xuống (<i>purely for balance and parachute-style braking</i>), không phải để lượn đường dài.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The strong body smell of the kakapo made it easier for introduced mammals to locate.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Thú săn mồi săn bằng mùi, kết hợp mùi cơ thể nồng ngọt của kakapo khiến nó hoàn toàn dễ bị tấn công.",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Male kakapos build permanent nests in tree canopies to attract females during the summer.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chim đực đào các hố nông trên mặt đất ở đỉnh đồi (<i>dig shallow bowl-shaped hollows in the soil</i>), không làm tổ trên ngọn cây.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "All surviving kakapos discovered in Fiordland in 1977 were too old to reproduce.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài chỉ nói <i>nearly all of them aging males</i> (gần như toàn bộ là chim đực già), không khẳng định toàn bộ đều đã quá già không thể sinh sản.",
+          "<b>Kết luận:</b> Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Supplemental feeding stations were designed to allow breeding even when rimu fruit was scarce.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Supplemental feeding stations were positioned... to encourage breeding activity even during years without abundant rimu fruit.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Drones have completely replaced artificial incubation in the Kakapo Recovery Programme.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Cả ấp trứng nhân tạo (<i>artificial incubation</i>) và dùng drone vẫn được sử dụng song song cho các mục đích khác nhau.",
+          "<b>Kết luận:</b> Chọn <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "title": "[B2 • Band 6.0] Bài 106: The Story of Tyrian Purple",
+  "answers": {
+    "q1": "B",
+    "q2": "C",
+    "q3": "F",
+    "q4": "D",
+    "q5": "lead",
+    "q6": "fibres",
+    "q7": "snails",
+    "q8": "malaria",
+    "q9": "FALSE",
+    "q10": "FALSE",
+    "q11": "NOT GIVEN",
+    "q12": "NOT GIVEN"
+  },
+  "passageHtml": "<h2>PASSAGE 106 (LEVEL B2 • BAND 6.0)</h2><h3>The Story of Tyrian Purple</h3><p><strong>Paragraph A.</strong> Throughout classical antiquity, long before chemical factories manufactured artificial pigments, colour served as an unmistakable marker of wealth, political authority, and high social rank. Among all ancient dyes, none was more prestigious than Tyrian purple, a permanent crimson-violet shade named after the Phoenician coastal city of Tyre in modern Lebanon. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Unlike ordinary dyes extracted from terrestrial plants or crushed land insects—which frequently dulled under sunlight or washed away—Tyrian purple was harvested through an exhausting maritime operation using predatory marine snails, primarily <em>Bolinus brandaris</em> and <em>Hexaplex trunculus</em></span>.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Manufacturing Tyrian purple was notoriously laborious and foul-smelling. Fishermen lowered baited wicker traps into deep coastal waters to capture thousands of snails along rocky shores. Once unloaded on land, workers used sharp knives to pierce or remove each snail's tiny hypobranchial gland, though smaller shells were simply crushed whole. The collected fluid was steeped in salt brine for three days before being transferred into <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">huge vats crafted from <span class=\"kw\">lead</span></span> and heated gently over wood fires for ten days. As rotting organic tissue simmered, foul sulphur gases drifted across coastal landscapes. Roman writer Pliny the Elder noted that this notorious stench travelled for miles, explaining why municipal laws banned dye workshops from city centres</span>.</p><p><strong>Paragraph C.</strong> Remarkably, the vivid purple hue did not exist inside the living mollusc. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">When freshly extracted, the glandular fluid looked entirely colourless</span>. Only after unbleached fleece or spun wool was soaked in the warm chemical vat and brought out into direct sunlight did a dramatic photochemical reaction begin. Within minutes, the damp cloth shifted through pale yellow and bright green before settling permanently into a rich, lustrous purple. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Because the pigment formed a chemical bond directly with <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">textile <span class=\"kw\">fibres</span></span> instead of merely coating the surface, laundering never faded Tyrian purple; surprisingly, sunlight and time often intensified its brilliance</span>.</p><p><strong>Paragraph D.</strong> Because each snail yielded a microscopic drop of fluid, the dye commanded astronomical prices. Modern chemical experiments indicate that <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">roughly 10,000 <span class=\"kw\">snails</span> were needed to produce just one gram of pure pigment powder</span>, making purple textiles worth their equivalent weight in silver or gold. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">In Imperial Rome, the colour became a tightly guarded state privilege. Sumptuary laws reserved full-purple togas solely for the Emperor, while senior magistrates were allowed only a narrow purple border along their hems</span>. To protect this imperial monopoly, authorities severely punished merchants who sold cheap imitations dyed with common madder root or kermes insects.</p><p><strong>Paragraph E.</strong> The eventual disappearance of Tyrian purple resulted from major political conflict. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">After Constantinople was attacked in 1204 and fell in 1453, the Byzantine imperial workshops guarding the production secrets shut down permanently, and the craft vanished from Mediterranean life within decades</span>. Purple garments remained inaccessible to ordinary Europeans until 1856, when eighteen-year-old chemist William Henry Perkin accidentally synthesized mauveine while <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">attempting to develop an artificial treatment for <span class=\"kw\">malaria</span></span>. Today, the immense scale of this vanished ancient industry is still visible in enormous mounds of discarded snail shells resting along the Lebanese coastline.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Modern historians and conservationists now regard these coastal shell heaps as vital archaeological archives rather than mere ancient rubbish. By studying shell sizes, mineral traces, and kiln remnants near Tyre, researchers can reconstruct ancient trade routes, estimate workshop output, and verify Pliny the Elder's historical descriptions</span></span>. Although synthetic dyes long ago made purple clothing commonplace, Tyrian purple remains a powerful reminder of how far ancient societies would go to turn rare natural chemistry into enduring symbols of human power.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 106 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Manufacturing, Value and Rediscovery",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">After salting, the liquid was heated in large containers made of <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:8px;\">Laundering failed to fade the dye because it bonded chemically with wool <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">Producing one gram of pure pigment required about 10,000 <b>7.</b> {{q7}} .</li><li style=\"margin-bottom:8px;\">Perkin created synthetic purple accidentally while developing a treatment for <b>8.</b> {{q8}} .</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the information given in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "an account of the unpleasant working conditions and bad odours around dye workshops",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Mô tả quá trình ngâm ủ, nấu sôi 10 ngày và mùi hôi thối (<i>notorious stench</i>) khiến xưởng bị cấm đặt trong phố.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "an explanation of why the colour became darker rather than lighter after exposure to air and sun",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Giải thích chất nhuộm liên kết hóa học trực tiếp với sợi vải và nắng càng làm màu đậm rực rỡ hơn.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "a reference to how modern scientists can use coastal waste to check ancient historical accounts",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Các nhà nghiên cứu khảo sát đống vỏ ốc để đối chiếu lại mô tả của Pliny the Elder.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "a description of legal rules controlling who was permitted to wear purple clothing",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Nêu luật <i>Sumptuary laws</i> quy định Hoàng đế mới được mặc nguyên cây tím.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "lead",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...huge vats crafted from lead...\"</i>",
+          "<b>Từ cần điền:</b> <b>lead</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "fibres",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...chemical bond directly with textile fibres...\"</i>",
+          "<b>Từ cần điền:</b> <b>fibres</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "snails",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...roughly 10,000 snails were needed...\"</i>",
+          "<b>Từ cần điền:</b> <b>snails</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "malaria",
+      "inputWidth": "120px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...attempting to develop an artificial treatment for malaria.\"</i>",
+          "<b>Từ cần điền:</b> <b>malaria</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Tyrian purple faded more rapidly in sunlight than dyes made from land plants.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A & C:</b> Thuốc nhuộm thực vật mới bị phai dưới nắng, còn Tyrian purple không phai mà càng đậm hơn.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "The fresh secretion inside the sea snail was already dark purple before hitting sunlight.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"When freshly extracted, the glandular fluid looked entirely colourless.\"</i>",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "After 1453, Venetian traders preserved the Byzantine dye recipe in secret books.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Chỉ nói xưởng Byzantine đóng cửa và nghề nhuộm biến mất trong vài thập kỷ, không hề nhắc đến thương nhân Venice hay sách bí mật.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Today, the Lebanese government strictly bans tourists from visiting the ancient shell mounds.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Chỉ nói các nhà khoa học nghiên cứu đống vỏ ốc ở bờ biển Lebanon, không có thông tin cấm du khách.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    }
+  }
+}

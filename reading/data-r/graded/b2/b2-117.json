@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 117: The Dodo: Re-evaluating an Extinct Icon",
+  "answers": {
+    "q1": "G",
+    "q2": "C",
+    "q3": "B",
+    "q4": "A",
+    "q5": "FALSE",
+    "q6": "TRUE",
+    "q7": "FALSE",
+    "q8": "FALSE",
+    "q9": "B",
+    "q10": "D",
+    "q11": "A",
+    "q12": "C"
+  },
+  "passageHtml": "<h2>PASSAGE 117 (LEVEL B2 • BAND 6.0)</h2><h3>The Dodo: Re-evaluating an Extinct Icon</h3><p><strong>Paragraph 1.</strong> For over three centuries following its rapid disappearance, the dodo (<em>Raphus cucullatus</em>) served in popular culture as a symbol of evolutionary failure. Portrayed in historic artworks and books as an overweight, clumsy, and dim-witted bird, it was widely assumed to have perished through its own physical weakness. Today, however, modern forensic paleontology, high-resolution CT scanning, and ecosystem reconstruction have shattered this Victorian myth, showing that the dodo was actually a resilient, agile creature superbly adapted to its island habitat.</p><p><strong>Paragraph 2.</strong> Endemic strictly to Mauritius in the Indian Ocean, the dodo descended from fruit-eating pigeons that reached the volcanic archipelago roughly twenty-six million years ago. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Living in a lush tropical environment completely free of terrestrial carnivores, natural selection favoured a <span class=\"kw\">flightless</span>, ground-dwelling lifestyle that conserved metabolic energy</span></span>. The bird evolved sturdy leg bones, flexible pelvic joints, and shock-absorbing toe pads suited for jagged volcanic rock and dense forest undergrowth. Its twenty-centimetre hooked beak functioned both as a fierce defensive weapon and as a vice capable of cracking hard palm seeds. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Furthermore, cranial scans confirm a brain-to-body ratio comparable to modern pigeons</span>, paired with an enlarged olfactory bulb granting <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">a sharp sense of smell to locate fallen fruit</span>.</p><p><strong>Paragraph 3.</strong> The bird's decline began suddenly in September 1598, when Dutch ships under Admiral Wybrand van Warwijck anchored off Mauritius to gather supplies. Having evolved without large land predators, dodos exhibited 'island tameness', lacking instinctive fear of unfamiliar large animals. Sailors walked straight into forest groves and seized birds with bare hands. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Yet Dutch crews rated the bird's culinary quality poorly, nicknaming it <em>walghvogel</em> ('disgusting bird') because its muscular flesh was tough, oily, and stringy, remaining barely edible even after hours of boiling with cabbage</span></span>.</p><p><strong>Paragraph 4.</strong> Historical evidence demonstrates that human hunting alone did not trigger the dodo's extinction. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">The decisive blow came from invasive exotic mammals introduced via European vessels: domestic pigs turned loose to forage, alongside black rats, hunting dogs, and crab-eating macaques</span></span>. Because dodos had evolved without ground nest raiders, females laid only one large egg per cycle in simple floor nests. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">While adult dodos could fiercely defend themselves against humans</span>, they stood no chance against nocturnal predators: pigs rooted up fragile eggs while rats and monkeys ate defenceless chicks.</p><p><strong>Paragraph 5.</strong> Less than a century after human arrival, the dodo was gone; the last accepted sighting took place in 1662, with final survivors likely perishing around 1681. Tragically, naturalists realised the species was extinct long after the final individual died, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">leaving museums with almost no complete preserved bodies</span>. The bird's real anatomy stayed a mystery until 1865, when <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">local schoolmaster George Clark excavated thousands of fossilized bones from the Mare aux Songes peat swamp</span>. Modern biomechanical models built from these fossils prove that living dodos were muscular, upright, and <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">surprisingly slender birds</span> destroyed by a sudden ecological invasion.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> slender &nbsp;&nbsp; <b>B.</b> invaders &nbsp;&nbsp; <b>C.</b> smell &nbsp;&nbsp; <b>D.</b> hunting &nbsp;&nbsp; <b>E.</b> clumsy &nbsp;&nbsp; <b>F.</b> nests &nbsp;&nbsp; <b>G.</b> flightless",
+      "summaryTitle": "Re-evaluating the Dodo",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>With no land predators on Mauritius, the dodo adopted a <b>1.</b> {{q1}} lifestyle to save energy. Brain studies indicate it had a keen sense of <b>2.</b> {{q2}} for finding fruit beneath forest trees. Although sailors caught the birds easily, the real cause of extinction was exotic <b>3.</b> {{q3}} such as pigs and rats that destroyed eggs and chicks. Modern bone models prove the living bird was muscular and surprisingly <b>4.</b> {{q4}} rather than fat.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...favoured a flightless, ground-dwelling lifestyle...\"</i>",
+          "<b>Đáp án:</b> <b>G (flightless)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...granting a sharp sense of smell to locate fallen fruit.\"</i>",
+          "<b>Đáp án:</b> <b>C (smell)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thủ phạm thật sự là các loài xâm lấn ngoại lai (<i>invasive exotic mammals</i> ↔ <i>invaders</i>).",
+          "<b>Đáp án:</b> <b>B (invaders)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...muscular, upright, and surprisingly slender birds...\"</i>",
+          "<b>Đáp án:</b> <b>A (slender)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Recent cranial scans confirm that dodos had proportionally smaller brains than modern pigeons.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Tỷ lệ não tương đương bồ câu hiện đại (<i>comparable to modern pigeons</i>), không nhỏ hơn.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Dutch crews found dodo meat unpleasant even after long hours of cooking.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Thịt dai, nhờn, dù hầm nhiều giờ với bắp cải vẫn khó ăn.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Adult dodos were completely unable to defend themselves when attacked by humans.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"While adult dodos could fiercely defend themselves against humans...\"</i> → Tự vệ quyết liệt trước con người.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Museums today preserve dozens of complete stuffed dodo bodies from the seventeenth century.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bảo tàng gần như không còn mẫu vật nguyên vẹn nào (<i>almost no complete preserved bodies</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why did the dodo lose its ability to fly over millions of years?",
+      "options": [
+        "A. Dense rainforest trees prevented large birds from opening their wings.",
+        "B. Mauritius had no land predators, so living on the ground saved energy.",
+        "C. Fruit-eating pigeons preferred swimming along coastal reefs.",
+        "D. Volcanic winds made flying across the island too dangerous."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Đảo không có thú ăn thịt trên cạn nên lối sống đi bộ không bay giúp tiết kiệm năng lượng.",
+          "<b>Kết luận:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Why did Dutch sailors give the dodo the nickname 'walghvogel'?",
+      "options": [
+        "A. It made loud warning noises that scared away wild pigs.",
+        "B. Its bright feathers faded quickly in hot sunlight.",
+        "C. It attacked sailors whenever they tried to collect fresh eggs.",
+        "D. They disliked the tough texture and oily taste of its flesh."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Đặt tên <i>walghvogel</i> ('chim ghê tởm') vì thịt quá dai, nhiều mỡ và khó nuốt.",
+          "<b>Kết luận:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "What was the decisive factor causing the dodo's extinction?",
+      "options": [
+        "A. Introduced animals eating eggs and chicks in ground-level nests.",
+        "B. Commercial meat exports sent from Mauritius to European markets.",
+        "C. A sudden volcanic eruption that burned native palm forests.",
+        "D. Disease spread among adult dodos by migratory sea birds."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Lợn, chuột, khỉ ngoại lai phá tổ mặt đất, ăn trứng và chim non.",
+          "<b>Kết luận:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Why was George Clark's 1865 discovery scientifically important?",
+      "options": [
+        "A. He found live dodo eggs buried inside dry volcanic caves.",
+        "B. He translated old Dutch diaries describing dodo mating dances.",
+        "C. He uncovered fossil bones allowing accurate digital body models.",
+        "D. He proved that dodos could still fly short distances in 1681."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Hàng nghìn xương hóa thạch giúp dựng mô hình kỹ thuật số xác nhận hình dáng thật của dodo.",
+          "<b>Kết luận:</b> <b>C</b>."
+        ]
+      }
+    }
+  }
+}

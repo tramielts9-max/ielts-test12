@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 205: The Cognitive Horizons of Deep-Space Missions",
+  "answers": {
+    "q1": "A",
+    "q2": "B",
+    "q3": "C",
+    "q4": "D",
+    "q5": "NO",
+    "q6": "YES",
+    "q7": "NO",
+    "q8": "NOT GIVEN",
+    "q9": "B",
+    "q10": "A",
+    "q11": "C",
+    "q12": "D"
+  },
+  "passageHtml": "<h2>PASSAGE 205 (LEVEL B2 • BAND 6.0)</h2><h3>The Cognitive Horizons of Deep-Space Missions</h3><p><strong>Paragraph 1.</strong> As aerospace engineers design heavy rockets for crewed expeditions to Mars, space psychologists face an even greater challenge: protecting the human mind during extreme isolation. A voyage to Mars will require four to six astronauts to live for nearly three years inside an enclosed module roughly the size of a shipping container. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Unlike crews aboard the International Space Station (ISS), who see Earth rotating below and speak with mission control in near-real time, Mars astronauts will face an unavoidable radio <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">lag of up to twenty-two minutes each way</span></span>, eliminating normal two-way dialogue while Earth shrinks to a faint blue speck.</p><p><strong>Paragraph 2.</strong> To investigate how prolonged confinement affects mental performance, researchers study extreme analog bases on Earth. One famous test site is the Concordia Research Station, built atop an Antarctic ice plateau 3,200 metres above sea level. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">During the nine-month polar winter, outside temperatures drop below minus eighty degrees Celsius, and physical evacuation is completely impossible</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">The international crew endures absolute sensory sameness: an endless white landscape, four consecutive months without natural sunlight, recycled indoor air, and zero scents from plants or rain</span>.</p><p><strong>Paragraph 3.</strong> Neurocognitive tests on winter crews at Concordia reveal worrying mental decline after three to four months—a phase psychologists call the 'third-quarter effect'. Regardless of individual mental strength, crew members experience noticeable slowdown: working memory weakens, problem-solving time doubles, and emotional reactions flatten. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Brainwave monitoring shows that extended isolation triggers neurological hypometabolism, marked by slow theta waves typical of sleep or meditation. Under monotonous conditions, the brain deliberately lowers its active processing power to conserve metabolic energy</span></span>.</p><p><strong>Paragraph 4.</strong> Equally concerning are changes in group relationships. During the opening months of isolation, crews generally report strong unity and shared focus. As boredom persists, however, small irritations over personal habits, food supplies, and shared chores build up. Behavioural psychologist Dr. Alistair Finch observes that crews frequently develop 'displacement'. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Rather than confronting fellow astronauts inside the capsule—which would endanger survival—crews unconsciously direct their anger outward toward ground controllers on Earth, viewing them as unfair and out of touch</span></span>. While this keeps internal peace temporarily, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">it dangerously weakens crew obedience when ground staff send urgent navigation orders</span>.</p><p><strong>Paragraph 5.</strong> To counter these mental risks, space agencies are testing advanced support tools. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Basic leisure activities—such as watching pre-recorded films or passive exercise—prove largely ineffective at reversing sensory decline</span>. Instead, NASA researchers are deploying interactive virtual reality (VR) simulations featuring alpine forests, ocean waves, and cool breezes. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">These vivid digital environments stimulate the prefrontal cortex and temporarily restore working memory</span>.</p><p><strong>Paragraph 6.</strong> Alongside VR, engineers are integrating AI psychological assistants directly into spacecraft computers. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">By tracking subtle shifts in an astronaut's voice tone, facial micro-expressions, and typing speed, these algorithms can spot early depressive warning signs days before the person notices any distress</span>, quietly recommending adjustments to cabin lighting, sleep hours, or workload. Surviving the journey to Mars may ultimately depend less on shielding against radiation than on safeguarding the delicate balance of the human mind.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> delay &nbsp;&nbsp; <b>B.</b> monotony &nbsp;&nbsp; <b>C.</b> reduction &nbsp;&nbsp; <b>D.</b> hostility &nbsp;&nbsp; <b>E.</b> ineffective &nbsp;&nbsp; <b>F.</b> early &nbsp;&nbsp; <b>G.</b> permanent",
+      "summaryTitle": "Psychological Pressures of Long-Duration Spaceflight",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>Astronauts bound for Mars must cope with confined quarters and an unavoidable radio <b>1.</b> {{q1}} of up to 22 minutes. To model these stresses, researchers study Antarctic bases where winter crews endure total sensory <b>2.</b> {{q2}} without sunlight or outdoor scents. After several months, crews exhibit a noticeable <b>3.</b> {{q3}} in problem-solving speed and working memory. Meanwhile, rising interpersonal friction often leads astronauts to display <b>4.</b> {{q4}} toward mission managers back on Earth.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...radio lag of up to twenty-two minutes...\"</i> → <i>delay</i>.",
+          "<b>Đáp án:</b> <b>A (delay)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...absolute sensory sameness...\"</i> → <i>monotony</i>.",
+          "<b>Đáp án:</b> <b>B (monotony)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Tốc độ giải quyết vấn đề chậm lại gấp đôi & trí nhớ suy giảm → <i>reduction</i>.",
+          "<b>Đáp án:</b> <b>C (reduction)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chuyển sự tức giận sang trung tâm điều khiển mặt đất → <i>hostility</i>.",
+          "<b>Đáp án:</b> <b>D (hostility)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Astronauts aboard the ISS face identical communication problems to future Mars crews.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Phi hành gia ISS liên lạc gần như trực tiếp (<i>near-real time</i>), trái ngược hoàn toàn với độ trễ 22 phút của sao Hỏa.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Evacuation from Concordia Station is impossible during the nine-month Antarctic winter.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...physical evacuation is completely impossible.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Interactive VR simulations permanently cure every psychological problem caused by isolation.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> VR chỉ giúp phục hồi tạm thời (<i>temporarily restore</i>), không chữa khỏi vĩnh viễn.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Dr. Alistair Finch trained astronauts in Russia before working on Mars simulations.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chỉ giới thiệu chức danh của Dr. Finch, không đề cập tiểu sử làm việc tại Nga.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why does the brain enter hypometabolism during long isolation?",
+      "options": [
+        "A. To block out excessive radio noise from Earth",
+        "B. To conserve metabolic energy in an unchanging environment",
+        "C. Because indoor recycled air prevents normal sleep",
+        "D. Because astronauts spend too much time reading manuals"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...deliberately lowers its active processing power to conserve metabolic energy.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Why is 'displacement' considered dangerous for space missions?",
+      "options": [
+        "A. It reduces crew cooperation with directions from Earth.",
+        "B. It causes physical fights among teammates inside the capsule.",
+        "C. It permanently shuts down onboard navigation computers.",
+        "D. It forces mission managers to shorten the journey."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...weakens crew obedience when ground staff send urgent navigation orders.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "What did NASA's tests show about basic entertainment like pre-recorded films?",
+      "options": [
+        "A. They completely replace the need for virtual reality.",
+        "B. They cause astronauts to lose interest in scientific work.",
+        "C. They fail to reverse the effects of sensory deprivation.",
+        "D. They increase working memory better than outdoor walks."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...prove largely ineffective at reversing sensory decline.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "How do AI assistants help protect astronaut mental health?",
+      "options": [
+        "A. By writing personal letters to astronauts' families",
+        "B. By taking over manual rocket steering during emergencies",
+        "C. By prescribing strong sleeping medicine automatically",
+        "D. By spotting early signs of distress through subtle behavioural shifts"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> AI theo dõi giọng nói, biểu cảm mặt, tốc độ gõ phím để phát hiện sớm dấu hiệu căng thẳng.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    }
+  }
+}

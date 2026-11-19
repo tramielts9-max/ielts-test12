@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 306: The Invention of the Alphabet",
+  "answers": {
+    "q1": "NO",
+    "q2": "NOT GIVEN",
+    "q3": "YES",
+    "q4": "YES",
+    "q5": "D",
+    "q6": "B",
+    "q7": "A",
+    "q8": "C",
+    "q9": "caste",
+    "q10": "sandstone",
+    "q11": "apprenticeships",
+    "q12": "abstraction"
+  },
+  "passageHtml": "<h2>PASSAGE 306 (LEVEL B2 • BAND 6.0)</h2><h3>The Invention of the Alphabet: Script, Statecraft, and Literacy</h3><p><strong>Paragraph 1.</strong> For millennia, written language operated as a strict tool of state authority. In ancient Mesopotamia and Egypt, scripts such as cuneiform and hieroglyphics contained hundreds or thousands of intricate pictographic signs representing whole concepts, syllables, or royal titles. Mastering these systems demanded decades of intensive training, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">effectively confining literacy to a hereditary <span class=\"kw\">caste</span> of royal clerks, priests, and officials</span>. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Because ordinary labourers had no realistic path to learning thousands of symbols, writing reinforced social inequality by keeping common citizens permanently dependent on educated scribes to interpret laws, tax records, and trade agreements</span></span>.</p><p><strong>Paragraph 2.</strong> In <em>The Alphabet: A Revolution in Human Thought</em>, historian Dr. Aaron Vance examines how a simple phonetic breakthrough shattered this monopoly. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">The earliest evidence of this innovation emerged not in royal palaces, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">but in desert <span class=\"kw\">sandstone</span> at the remote turquoise mines of Serabit el-Khadim in Sinai</span></span>. Dated to roughly 1800 BCE, these rough carvings—known as Proto-Sinaitic—were created by migrant workers who lacked access to elite Egyptian schooling. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Instead of treating symbols as whole ideas, these workers repurposed about two dozen Egyptian hieroglyphs to represent individual consonant sounds of their own spoken language</span></span>.</p><p><strong>Paragraph 3.</strong> Collapsing thousands of picture signs into a compact set of roughly thirty acoustic letters produced extraordinary mental efficiency. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Literacy was freed from lifelong scribal <span class=\"kw\">apprenticeships</span></span>; anyone able to speak could learn to match sounds to written letters within weeks. As Vance argues, the alphabet was fundamentally democratic. While imperial courts initially mocked the script as crude graffiti fit only for foreign workers, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">seafaring merchants—above all the Phoenicians—recognised its unmatched speed and clarity for commercial bookkeeping</span>.</p><p><strong>Paragraph 4.</strong> Carried along busy Mediterranean sea routes, the Phoenician phonetic alphabet transformed global communication. Adapted by neighbouring societies, it gave rise to Greek, Aramaic, Latin, and ultimately the vast majority of writing systems used across the world today. By lowering the barrier to reading and writing, phonetic scripts slowly widened public participation in law, commerce, and civic debate.</p><p><strong>Paragraph 5.</strong> Nevertheless, Vance avoids treating alphabetic literacy as an effortless triumph with no hidden costs. In his closing analysis, he revisits the famous warning voiced by Socrates in Plato's dialogue <em>Phaedrus</em>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Socrates cautioned that shifting memory out of the mind and onto written pages weakens internal cognitive strength, giving readers a deceptive illusion of wisdom rather than genuine understanding</span>.</p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Vance expands this philosophical insight by comparing how different scripts shape perception</span>. While picture-based writing preserved a direct visual link to physical objects in the surrounding world, phonetic letters broke that sensory connection. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Over centuries, alphabetic reading conditioned the human mind toward systematic <span class=\"kw\">abstraction</span>, linear reasoning, and rigid categories</span>. The alphabet opened written power to everyone, yet quietly rewired how humanity thinks.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 5–8",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 9–12",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Social & Cognitive Effects of Alphabetic Writing",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Early scripts kept literacy within a hereditary <b>9.</b> {{q9}} of clerks and priests.</li><li style=\"margin-bottom:8px;\">Proto-Sinaitic carvings were found on desert <b>10.</b> {{q10}} in remote mines.</li><li style=\"margin-bottom:8px;\">Phonetic letters ended the need for lifelong scribal <b>11.</b> {{q11}} .</li><li style=\"margin-bottom:8px;\">Alphabetic reading trained human thought toward logical <b>12.</b> {{q12}} .</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Early pictographic scripts made it easy for ordinary labourers to read royal laws.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Dân lao động bình thường hoàn toàn không có đường tiếp cận, phải phụ thuộc hoàn toàn vào thư lại.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Proto-Sinaitic carvings were produced around 1800 BCE specifically for royal religious festivals.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Có niên đại khoảng 1800 BCE ở khu mỏ xa xôi, không hề nhắc viết cho lễ hội tôn giáo hoàng gia.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Migrant workers adapted Egyptian signs so they represented individual consonant sounds.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...repurposed about two dozen Egyptian hieroglyphs to represent individual consonant sounds...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Socrates argued that relying on written pages creates false confidence rather than true wisdom.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...giving readers a deceptive illusion of wisdom rather than genuine understanding.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Why did ancient rulers benefit from complex scripts like cuneiform?",
+      "options": [
+        "A. They prevented foreign traders from stealing royal gold.",
+        "B. They required very cheap paper materials to print.",
+        "C. They allowed every citizen to vote in palace elections.",
+        "D. They kept ordinary citizens dependent on trained officials."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Người dân phải phụ thuộc vĩnh viễn vào tầng lớp thư lại được đào tạo để đọc luật và hợp đồng.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "What made Proto-Sinaitic writing revolutionary?",
+      "options": [
+        "A. It was written inside grand temples by Egyptian kings.",
+        "B. It replaced thousands of concept pictures with a small set of sound signs.",
+        "C. It introduced colourful illustrations into legal contracts.",
+        "D. It could only be understood by highly educated priests."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 & 3:</b> Biến hàng ngàn ký hiệu khái niệm thành khoảng 30 ký tự âm thanh.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Why did seafaring merchants quickly adopt the phonetic alphabet?",
+      "options": [
+        "A. It offered unmatched speed and clarity for commercial bookkeeping.",
+        "B. Imperial governments legally forced them to abandon hieroglyphs.",
+        "C. It was carved on lightweight silver coins for sea travel.",
+        "D. It prevented rival cities from reading their private maps."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...recognised its unmatched speed and clarity for commercial bookkeeping.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "What cognitive change does Dr. Vance highlight in the final paragraph?",
+      "options": [
+        "A. Written letters improved human visual memory of nature.",
+        "B. Alphabetic scripts slowed down mathematical reasoning.",
+        "C. Phonetic writing separated thought from direct physical sensation.",
+        "D. Modern readers still rely on picture signs to learn speech."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Chữ ngữ âm cắt đứt mối liên hệ trực giác vật lý và rèn tư duy trừu tượng.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "caste",
+      "inputWidth": "100px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...hereditary caste of royal clerks...\"</i>",
+          "<b>Từ cần điền:</b> <b>caste</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "sandstone",
+      "inputWidth": "120px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...in desert sandstone at the remote turquoise mines...\"</i>",
+          "<b>Từ cần điền:</b> <b>sandstone</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "finalAnswer": "apprenticeships",
+      "inputWidth": "140px",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...freed from lifelong scribal apprenticeships...\"</i>",
+          "<b>Từ cần điền:</b> <b>apprenticeships</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "finalAnswer": "abstraction",
+      "inputWidth": "120px",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...conditioned the human mind toward systematic abstraction...\"</i>",
+          "<b>Từ cần điền:</b> <b>abstraction</b>."
+        ]
+      }
+    }
+  }
+}

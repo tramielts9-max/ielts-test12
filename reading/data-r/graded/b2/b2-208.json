@@ -1,0 +1,269 @@
+{
+  "title": "[B2 • Band 6.0] Bài 208: Quenching the Deluge: China's Sponge City Revolution",
+  "answers": {
+    "q1": "E",
+    "q2": "B",
+    "q3": "F",
+    "q4": "C",
+    "q5": "D",
+    "q6": "A",
+    "q7": "C",
+    "q8": "B",
+    "q9": "NOT GIVEN",
+    "q10": "YES",
+    "q11": "NO",
+    "q12": "YES"
+  },
+  "passageHtml": "<h2>PASSAGE 208 (LEVEL B2 • BAND 6.0)</h2><h3>Quenching the Deluge: China's Sponge City Revolution</h3><p><strong>Paragraph A.</strong> Rapid economic expansion across China has left major cities vulnerable to severe flooding. Over four decades, urban sprawl sealed vast stretches of natural wetlands, farmlands, and drainage valleys beneath impermeable layers of concrete and asphalt. Because sealed roads stop rainwater from soaking into soil, sudden downpours overwhelm surface streets, while ageing underground pipes were engineered decades ago only for moderate showers. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">In July 2021, the limits of this 'grey infrastructure' were exposed dramatically when record monsoons flooded Zhengzhou, submerging subway lines, stranding commuters, and inflicting billions of yuan in damage</span>.</p><p><strong>Paragraph B.</strong> In response to worsening deluges, the Chinese government launched the 'Sponge City' initiative. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Pioneered by Peking University landscape architect Professor Yu Kongjian, the philosophy rejects conventional engineering's urge to channel and discharge stormwater through rigid concrete pipes as rapidly as possible. 'You cannot fight water with hard barriers,' Yu argues. 'Instead of treating rainfall as an enemy to expel quickly, cities should behave like porous natural sponges that absorb, detain, filter, and gradually release rainwater.'</span></p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">At street level, Sponge Cities combine micro-ecological design with recycled materials. Concrete gutters are replaced by vegetated bioswales—sloped channels densely planted with water-tolerant native grasses and shrubs. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Beneath these channels, layered gravel, sand, and organic compost mechanically trap heavy dust and vehicular oil residues before filtered runoff reaches local groundwater aquifers</span>. Across parks and plazas, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">solid paving is swapped for porous stones made from recycled industrial slag</span>, letting moisture drain directly into underlying subsoils</span>.</p><p><strong>Paragraph D.</strong> On a macroscopic scale, the model integrates large ecological retention zones directly into city planning. In the pilot city of Wuhan, engineers built vast 'rainwater parks' along river floodplains. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">During dry seasons, these terraced wetland basins operate as lively public parks featuring boardwalks, sports pitches, and botanical gardens</span>. When intense monsoons strike, the terraced slopes submerge progressively, holding millions of cubic metres of floodwater away from homes and preventing municipal sewers from overflowing. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Within seventy-two hours, retained water drains into city lakes or evaporates naturally, cooling urban heat islands during subsequent hot spells</span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Nevertheless, retrofitting established city centres presents formidable financial and engineering hurdles. Unlike newly planned suburbs, densely built downtown cores already pack their subterranean space with underground rail tunnels, high-voltage power cables, and ageing sewage mains, making excavation slow and enormously expensive</span>. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">City planners must coordinate transport, power, and water departments carefully before digging up central streets</span>.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Hydraulic engineers also caution that green infrastructure has clear mathematical boundaries: while vegetated wetlands absorb routine heavy downpours smoothly, they reach saturation quickly during freak atmospheric rivers that dump a month's worth of rain in three hours</span></span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Even with these constraints, the Sponge City concept is gaining global attention, offering a compelling ecological blueprint for cities facing unpredictable twenty-first-century weather extremes</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 208 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 5–8",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "why older city centres are difficult and expensive to modify underground",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Lòng đất trung tâm đã chật kín hầm tàu điện, dây cáp cao thế và ống cống nên cải tạo rất tốn kém.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "the guiding principle that cities should absorb rather than expel rainwater",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Triết lý của Giáo sư Yu Kongjian phản đối việc đẩy nước đi nhanh bằng ống bê tông.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "a natural limit on how much extreme rainfall green wetlands can hold",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Nêu giới hạn toán học khi gặp bão khí quyển trút lượng mưa cả tháng trong 3 giờ.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "how street-level plants and recycled stone layers clean and absorb runoff",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Rãnh sinh học (bioswales) và đá lát thấm nước từ xỉ công nghiệp tái chế.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Why did Zhengzhou suffer catastrophic flooding in July 2021?",
+      "options": [
+        "A. Newly built rainwater parks overflowed into nearby homes.",
+        "B. Local authorities intentionally blocked underground rivers.",
+        "C. Porous paving stones cracked under heavy traffic.",
+        "D. Sealed surfaces and small old pipes could not cope with record rain."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Mặt đường không thấm nước cộng thêm ống thoát nước cũ chỉ thiết kế cho mưa vừa.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "According to Paragraph C, what happens inside bioswales before water reaches aquifers?",
+      "options": [
+        "A. Layers of gravel, sand, and compost filter out dust and car oil.",
+        "B. Electric pumps push rainwater upward into garden fountains.",
+        "C. Chemical treatments remove salt from passing winter snow.",
+        "D. Recycled slag dissolves harmful metals into harmless gases."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...layered gravel, sand, and organic compost mechanically trap heavy dust and vehicular oil residues...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "How do Wuhan's rainwater parks benefit the city during hot weather after storms?",
+      "options": [
+        "A. They redirect cold river water directly into subway tunnels.",
+        "B. They provide shaded parking garages beneath sports pitches.",
+        "C. Evaporating retained moisture cools surrounding urban heat.",
+        "D. They produce clean electricity for nearby neighbourhoods."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Nước bay hơi tự nhiên giúp hạ nhiệt hiệu ứng đảo nhiệt đô thị (<i>cooling urban heat islands</i>).",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "What is the writer's overall view of the Sponge City concept in Paragraph F?",
+      "options": [
+        "A. It should be abandoned because extreme storms exceed its limits.",
+        "B. Despite limits, it offers a valuable model for climate adaptation.",
+        "C. It works only in newly built towns and never in large cities.",
+        "D. It is far more expensive than rebuilding grey concrete pipes."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Dù có giới hạn nhưng vẫn là bản thiết kế sinh thái giá trị cho các thành phố toàn cầu.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Chinese cities spent more money on porous bricks than on subway construction in 2021.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Không có bất kỳ số liệu so sánh ngân sách giữa gạch thấm nước và xây dựng tàu điện ngầm.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Porous paving stones in Sponge Cities reuse waste material from industry.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...porous stones made from recycled industrial slag...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Wuhan's rainwater parks remain closed to the public throughout dry seasons.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Mùa khô hoạt động như công viên công cộng sôi động cho người dân vui chơi thể thao.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Extreme storms dropping a month of rain in three hours can quickly overwhelm green wetlands.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"...reach saturation quickly during freak atmospheric rivers that dump a month's worth of rain in three hours.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "title": "[B2 • Band 6.0] Bài 308: The Deep Reader in the Digital Age",
+  "answers": {
+    "q1": "D",
+    "q2": "A",
+    "q3": "F",
+    "q4": "B",
+    "q5": "plastic",
+    "q6": "scaffolding",
+    "q7": "triage",
+    "q8": "recursive",
+    "q9": "NO",
+    "q10": "YES",
+    "q11": "NOT GIVEN",
+    "q12": "NO"
+  },
+  "passageHtml": "<h2>PASSAGE 308 (LEVEL B2 • BAND 6.0)</h2><h3>The Deep Reader: Cognitive Architecture in the Digital Age</h3><p><strong>Paragraph 1.</strong> The shift from printed books to illuminated digital screens marks the most significant mental transition since Gutenberg invented the movable-type press. Each day, average adults absorb thousands of words online by scrolling news feeds, social posts, and hyperlinked pages. Yet in <em>Reader, Come Home</em>, cognitive neuroscientist Dr. Maryanne Wolf warns that consuming screen text is not identical to deep reading. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Unlike vision or spoken speech, reading is not hardwired into human genetics; the brain possesses no dedicated reading region</span>. Instead, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">reading forces the brain to build fresh connections linking visual, auditory, and motor pathways into a complex network</span>.</p><p><strong>Paragraph 2.</strong> Wolf stresses that <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">this reading circuit is remarkably <span class=\"kw\">plastic</span>, continually reshaping itself around the medium we use most</span>. Print literacy nurtured 'deep reading'—a focused mental state marked by sustained thought, logical inference, critical analysis, and empathy. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">A physical book's fixed layout, sequential pages, and tangible presence act as cognitive <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">scaffolding</span></span>. Because printed words stay still, readers can devote all their mental energy to reflection, questioning premises, and building nuanced ideas</span>.</p><p><strong>Paragraph 3.</strong> By contrast, digital platforms cultivate what researchers term an 'information <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">triage</span></span>' circuit. Screen reading rewards rapid skimming, keyword hunting, and constant jumping across hyperlinks. In environments crowded with notifications and competing pop-ups, attention remains perpetually fragmented. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Eye-tracking studies confirm that digital readers rarely move steadily across every horizontal line; instead, their gaze traces a quick 'F-shaped' pattern, scanning opening sentences before dropping down the left margin to harvest isolated fragments</span>.</p><p><strong>Paragraph 4.</strong> Over time, this cognitive rewiring weakens our capacity for demanding prose. When the reading circuit grows accustomed to speed and surface scanning, the brain loses the cognitive patience required to unpack dense, grammatically complex texts. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Wolf cautions that university students increasingly struggle with challenging classic literature or philosophy, growing impatient with works that require slow, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">recursive</span></span> reading</span></span>.</p><p><strong>Paragraph 5.</strong> More alarmingly, this mental erosion threatens democratic citizenship. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Evaluating competing arguments, spotting rhetorical tricks, and empathising with unfamiliar perspectives are intellectual skills forged inside the reflective space of deep reading</span>. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">If society trades slow contemplation for the constant rush of digital feeds, we risk weakening our shared capacity for independent critical thought</span>.</p><p><strong>Paragraph 6.</strong> Wolf does not urge humanity to abandon digital tools altogether. Rather, she calls for a balanced 'biliterate brain'—one able to skim efficiently on screens when gathering quick facts, while deliberately preserving printed reading habits for deep reasoning, emotional depth, and lifelong learning.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below.</i>",
+      "endings": [
+        "A. leaves cognitive energy free for careful reflection and empathy.",
+        "B. helps citizens identify weak arguments and misleading claims.",
+        "C. proves that printed books will completely vanish within ten years.",
+        "D. requires combining visual, auditory, and motor pathways.",
+        "E. disables the brain's ability to recognise spoken words.",
+        "F. makes young readers impatient with dense, complex prose."
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "How Reading Media Shape the Brain",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">The human reading circuit is highly <b>5.</b> {{q5}} and adapts to each medium.</li><li style=\"margin-bottom:8px;\">A printed book's fixed pages serve as helpful mental <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">Screen habits develop an 'information <b>7.</b> {{q7}} ' circuit focused on speed.</li><li style=\"margin-bottom:8px;\">Complex literature and philosophy demand slow, <b>8.</b> {{q8}} reading.</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Because the brain has no innate reading gene, learning to read",
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Não phải kết nối các đường dẫn thị giác, thính giác và vận động.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "A printed book's stable physical layout",
+      "finalAnswer": "A",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Trang giấy tĩnh giúp dồn toàn bộ năng lượng trí óc vào suy ngẫm và thấu cảm.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Habitual skimming on digital screens",
+      "finalAnswer": "F",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Sinh viên ngày càng mất kiên nhẫn với văn chương học thuật dày đặc, phức tạp.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Strong deep-reading habits",
+      "finalAnswer": "B",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Giúp công dân đánh giá lập luận đối lập và phát hiện mánh khóe ngôn từ.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "plastic",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...reading circuit is remarkably plastic...\"</i>",
+          "<b>Từ cần điền:</b> <b>plastic</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "scaffolding",
+      "inputWidth": "120px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...act as cognitive scaffolding.\"</i>",
+          "<b>Từ cần điền:</b> <b>scaffolding</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "triage",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...an 'information triage' circuit.\"</i>",
+          "<b>Từ cần điền:</b> <b>triage</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "recursive",
+      "inputWidth": "110px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...require slow, recursive reading.\"</i>",
+          "<b>Từ cần điền:</b> <b>recursive</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Spoken speech and reading rely on the exact same innate genetic brain region.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Khác với ngôn ngữ nói, việc đọc không có vùng gen bẩm sinh riêng.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Eye-tracking experiments indicate that screen users rarely read every line horizontally.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...rarely move steadily across every horizontal line...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Most universities have already updated literature courses to match smartphone reading habits.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chỉ nói sinh viên gặp khó khăn với văn học cổ điển, không nói trường đại học đã sửa chương trình hay chưa.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Abandoning deep reading poses no danger to independent critical thinking.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Đe dọa trực tiếp năng lực tư duy phản biện độc lập.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

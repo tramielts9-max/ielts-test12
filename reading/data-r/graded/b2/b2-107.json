@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 107: The Kauri Forests of New Zealand",
+  "answers": {
+    "q1": "A",
+    "q2": "B",
+    "q3": "F",
+    "q4": "E",
+    "q5": "TRUE",
+    "q6": "FALSE",
+    "q7": "NOT GIVEN",
+    "q8": "TRUE",
+    "q9": "C",
+    "q10": "A",
+    "q11": "B",
+    "q12": "D"
+  },
+  "passageHtml": "<h2>PASSAGE 107 (LEVEL B2 • BAND 6.0)</h2><h3>The Kauri Forests of New Zealand</h3><p><strong>Paragraph 1.</strong> Towering above the woodland canopies of New Zealand's northern peninsula, the kauri (<em>Agathis australis</em>) ranks among the largest and most ancient coniferous trees in the world. Mature specimens can develop trunk diameters exceeding five metres and reach heights over fifty metres, with individual trees recorded as living for more than two millennia. To the indigenous Māori population, the kauri carried deep cultural and spiritual meaning as <em>Tāne Mahuta</em>, the Lord of the Forest. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Māori craftspeople treated living trees with great respect, harvesting only timber that had already fallen naturally to build large ocean-going canoes</span></span> and extracting bark to produce dark pigments for traditional tattooing.</p><p><strong>Paragraph 2.</strong> The arrival of European settlers in the late eighteenth century dramatically changed the fate of these northern groves. British naval expeditions soon realised that the immense, straight, knot-free trunks were ideally suited for ship masts and spars, sparking an intense nineteenth-century timber industry. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Because felled kauri logs were far too heavy for bullock teams to drag across steep, roadless hillsides</span>, timber companies engineered clever water-based transport methods. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Loggers built massive wooden dams across deep river ravines to collect seasonal rainwater; once full, explosive triggers opened the floodgates, unleashing a rushing surge that carried hundreds of logs downstream to coastal sawmills</span></span>.</p><p><strong>Paragraph 3.</strong> Alongside timber extraction, a profitable rush developed around kauri gum, a hardened sub-fossil resin secreted by injured trees over thousands of years and preserved inside ancient peat swamps. Between the 1870s and 1920s, thousands of European and Dalmatian immigrants worked across northern wetlands as professional gum-diggers. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Carrying long steel spears to probe the soft marsh soil and curved spades to dig out buried deposits</span>, they recovered fossilised resin lumps weighing up to twenty kilograms. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Kauri gum became one of New Zealand's chief exports, serving as a vital raw material for premium varnishes, outdoor paints, and linoleum in Europe and North America</span>.</p><p><strong>Paragraph 4.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">By the mid-twentieth century, unregulated logging and intense gum digging had reduced virgin kauri forests by more than ninety-five percent, leaving only scattered reserves</span>. Just as public concern led to strict legal protection for these surviving groves, a silent biological crisis appeared. In the early 2000s, botanists observed mature trees suffering from yellowing leaves, dead upper branches, and bleeding resin wounds near the lower trunk. Researchers traced these symptoms to <em>Phytophthora agathidicida</em>, an invasive soil-borne pathogen responsible for kauri dieback disease.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">The pathogen is fatal and currently incurable: its microscopic water-borne spores pierce the outer bark and destroy the internal vascular tissues that transport essential nutrients, effectively starving the tree</span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Because the organism spreads almost exclusively through tiny soil particles, human foot traffic along popular hiking trails has become the main route of infection</span></span>. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">In response, biosecurity officials installed compulsory cleaning stations at forest entrances, requiring visitors to scrub all mud off their footwear and apply chemical disinfectant before entering healthy kauri zones</span>.</p><p><strong>Paragraph 6.</strong> Conservation scientists now stress that protecting the remaining giants depends as much on public discipline as on laboratory research. While chemical treatments and genetic resistance studies continue, closing sensitive tracks and educating tourists remain the fastest way to halt spore movement. Saving the ancient kauri groves requires treating every forest footpath as a fragile biological boundary.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> fallen &nbsp;&nbsp; <b>B.</b> flooding &nbsp;&nbsp; <b>C.</b> probes &nbsp;&nbsp; <b>D.</b> incurable &nbsp;&nbsp; <b>E.</b> footwear &nbsp;&nbsp; <b>F.</b> exports &nbsp;&nbsp; <b>G.</b> coastal",
+      "summaryTitle": "Human Interaction with New Zealand's Kauri Trees",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>Traditionally, Māori builders avoided cutting living trees, relying strictly on <b>1.</b> {{q1}} timber for building canoes. Later, European loggers used controlled river <b>2.</b> {{q2}} from wooden dams to carry giant logs to sawmills. Diggers also collected ancient kauri resin, which grew into one of the nation's leading <b>3.</b> {{q3}} for European and American factories. Today, surviving trees face a deadly soil disease spread mainly by mud sticking to hikers' <b>4.</b> {{q4}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information given in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...harvesting only timber that had already fallen naturally...\"</i>",
+          "<b>Đáp án:</b> <b>A (fallen)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Đập gỗ mở cửa xả lũ (<i>unleashing a rushing surge</i>) để đẩy gỗ trôi sông.",
+          "<b>Đáp án:</b> <b>B (flooding)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Kauri gum became one of New Zealand's chief exports...\"</i>",
+          "<b>Đáp án:</b> <b>F (exports)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Lây qua đất dính trên giày dép người đi bộ (<i>human foot traffic / footwear</i>).",
+          "<b>Đáp án:</b> <b>E (footwear)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Māori craftspeople only collected kauri wood from trees that had already collapsed.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...harvesting only timber that had already fallen naturally...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Bullocks easily dragged giant kauri logs along steep mountain roads.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Gỗ quá nặng đối với đội bò kéo trên sườn dốc không đường (<i>far too heavy for bullock teams... roadless hillsides</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Kauri gum stopped being exported when European factories closed during the 1920s.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 & 4:</b> Không có thông tin nói nhà máy châu Âu đóng cửa vào thập niên 1920 khiến xuất khẩu nhựa dừng lại.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Hiking trails have become the main route through which kauri dieback spreads.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...human foot traffic along popular hiking trails has become the main route of infection.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why did nineteenth-century loggers build large wooden dams across ravines?",
+      "options": [
+        "A. To supply drinking water for coastal sawmill towns",
+        "B. To flood wetland areas where kauri gum was buried",
+        "C. To release sudden water surges that carried heavy logs downstream",
+        "D. To stop European settlers from clearing steep hillsides"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Đập tích nước rồi mở cửa xả lũ cuốn hàng trăm thân gỗ xuôi dòng về xưởng cưa ven biển.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "How did immigrant gum-diggers locate buried kauri resin?",
+      "options": [
+        "A. By pushing metal spears into soft marsh ground",
+        "B. By burning surface layers of ancient peat swamps",
+        "C. By cutting deep trenches around living kauri trunks",
+        "D. By following rainwater streams after heavy storms"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Carrying long steel spears to probe the soft marsh soil...\"</i>",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "How does Phytophthora agathidicida kill kauri trees?",
+      "options": [
+        "A. It attracts insects that eat all green leaves",
+        "B. It destroys internal tissues that carry vital nutrients",
+        "C. It freezes the outer bark during winter storms",
+        "D. It dries out the surrounding swamp water rapidly"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bào tử phá hủy mô mạch bên trong vận chuyển chất dinh dưỡng (<i>destroy the internal vascular tissues</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Why are hikers required to disinfect their boots before entering kauri groves?",
+      "options": [
+        "A. To protect hikers from poisonous swamp mud",
+        "B. To keep mountain boardwalks clean for tourists",
+        "C. To test new chemical sprays developed in laboratories",
+        "D. To prevent microscopic soil spores from infecting healthy trees"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Ngăn bùn đất chứa bào tử gây bệnh bám vào giày lây sang vùng cây khỏe mạnh.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    }
+  }
+}

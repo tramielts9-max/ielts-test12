@@ -1,0 +1,215 @@
+{
+  "title": "[B2 • Band 6.0] Bài 314: Space and Mind: Architecture & Brain",
+  "answers": {
+    "q1": "FALSE",
+    "q2": "TRUE",
+    "q3": "NOT GIVEN",
+    "q4": "TRUE",
+    "q5": "sensors",
+    "q6": "height",
+    "q7": "cortisol",
+    "q8": "alienation",
+    "q9": "D",
+    "q10": "F",
+    "q11": "B",
+    "q12": "C"
+  },
+  "passageHtml": "<h2>PASSAGE 314 (LEVEL B2 • BAND 6.0)</h2><h3>Space and Mind: The Cognitive Ergonomics of Architecture</h3><p><strong>Paragraph 1.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">For over a century, modern architecture followed Louis Sullivan's famous rule: 'form follows function.' Buildings were treated largely as practical containers designed to satisfy structural, mechanical, and cost targets. As long as an office tower held enough desks, provided reliable heating, and passed fire safety codes, its design was considered successful</span></span>. Yet in <em>Mind in Architecture</em>, cognitive neuroscientist Dr. Colin Ellard demonstrates that this purely functional view overlooks a vital truth: built environments act like an external nervous system that continuously shapes human brain activity, hormone balance, and emotional wellbeing.</p><p><strong>Paragraph 2.</strong> Ellard investigates the growing field of neuro-architecture, combining <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">mobile biometric <span class=\"kw\">sensors</span></span>, virtual reality simulations, and brain imaging to test how spatial design alters mental function. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">One core discovery focuses on the psychological influence of ceiling <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">height</span></span>, known as the 'Cathedral Effect.' In controlled lab experiments, volunteers placed inside rooms with elevated ceilings (three metres or taller) outperformed others on abstract, creative thinking tasks requiring wide mental connections</span></span>. Conversely, when tested in low, compressed rooms, participants shifted naturally toward careful, detail-focused analytical work.</p><p><strong>Paragraph 3.</strong> Equally decisive is the brain's reaction to street-level building exteriors. In urban walking experiments conducted across New York, Berlin, and London, Ellard fitted pedestrians with skin-conductance monitors and eye-tracking glasses to record physiological arousal. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">The data revealed sharp contrasts: when walkers passed long, unbroken glass-and-steel fronts or blank concrete walls, heart rates slowed and skin readings dropped into patterns matching severe boredom and passive gloom. Worse still, this visual sameness triggered physical stress, reflected in raised <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">cortisol</span></span> hormone levels</span>.</p><p><strong>Paragraph 4.</strong> By contrast, older city streets rich in architectural variety—detailed historic fronts, diverse building materials, and frequent shop doorways—consistently activated the ventral striatum, a brain hub governing curiosity, pleasure, and emotional resilience. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Urban designers who include small green parks alongside detailed shopfronts often observe stronger neighbourhood interaction throughout the week</span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">The lessons for modern city planning are urgent. For decades, commercial developers have favoured low-cost, uniform glass blocks across urban centres. Ellard warns that by building spaces that starve human senses, planners accidentally encourage <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">chronic public <span class=\"kw\">alienation</span></span>, high stress, and weak civic communities</span></span>. Architecture is never neutral scenery; every room and facade quietly shapes the collective human mind.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the information given in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Findings from Neuro-Architecture",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Researchers study space and brain activity using VR, brain scans, and biometric <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:8px;\">The 'Cathedral Effect' describes how ceiling <b>6.</b> {{q6}} influences creative or detailed focus.</li><li style=\"margin-bottom:8px;\">Walking past blank walls increases boredom and raises levels of the stress hormone <b>7.</b> {{q7}} .</li><li style=\"margin-bottom:8px;\">Ellard warns that cheap, uniform glass streets promote public <b>8.</b> {{q8}} and stress.</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 9–12",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below.</i>",
+      "endings": [
+        "A. lowers heart rates when workers enter historic buildings.",
+        "B. lowers physical arousal and triggers hormonal stress.",
+        "C. weakens community ties by starving sensory engagement.",
+        "D. valued practical efficiency over human mental wellbeing.",
+        "E. requires replacing all modern offices with ancient cathedrals.",
+        "F. primes the brain for broad, imaginative problem-solving."
+      ],
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Early modernist architects judged a building successful mainly by how happy it made workers feel.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Kiến trúc cũ chỉ đánh giá theo tiêu chí thực dụng (bàn, sưởi, phòng cháy), bỏ qua sức khỏe tinh thần.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "People inside rooms with high ceilings performed better on broad, creative tasks.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...elevated ceilings (three metres or taller) outperformed others on abstract, creative thinking tasks...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Ellard's walking studies proved that green parks lower street noise more than historic doorways.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Không có thông tin so sánh khả năng giảm tiếng ồn của công viên cây xanh so với cửa ra vào.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Standardized glass buildings in city centres can contribute to higher public stress.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Các khối kính đồng nhất làm tăng sự cô lập và mức độ căng thẳng cộng đồng.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "sensors",
+      "inputWidth": "110px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...combining mobile biometric sensors...\"</i>",
+          "<b>Từ cần điền:</b> <b>sensors</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "height",
+      "inputWidth": "110px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...psychological influence of ceiling height...\"</i>",
+          "<b>Từ cần điền:</b> <b>height</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "cortisol",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...reflected in raised cortisol hormone levels.\"</i>",
+          "<b>Từ cần điền:</b> <b>cortisol</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "alienation",
+      "inputWidth": "120px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...encourage chronic public alienation...\"</i>",
+          "<b>Từ cần điền:</b> <b>alienation</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Traditional twentieth-century architectural theory",
+      "finalAnswer": "D",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Đặt hiệu quả thực dụng lên trên sức khỏe tâm lý con người.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Laboratory trials on the 'Cathedral Effect' demonstrate that tall vertical space",
+      "finalAnswer": "F",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Không gian trần cao kích thích tư duy trừu tượng, sáng tạo.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Walking beside monotonous blank walls and glass facades",
+      "finalAnswer": "B",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Làm giảm kích thích sinh lý (nhịp tim chậm, chán nản) và tăng hormone stress cortisol.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Prioritising cheap, uniform urban blocks over sensory variety",
+      "finalAnswer": "C",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bỏ đói giác quan khiến cộng đồng đô thị rời rạc, xa cách.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    }
+  }
+}

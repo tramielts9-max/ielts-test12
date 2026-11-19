@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 105: Saffron: The Golden Threads of History",
+  "answers": {
+    "q1": "A",
+    "q2": "D",
+    "q3": "C",
+    "q4": "B",
+    "q5": "FALSE",
+    "q6": "NOT GIVEN",
+    "q7": "TRUE",
+    "q8": "NOT GIVEN",
+    "q9": "B",
+    "q10": "C",
+    "q11": "D",
+    "q12": "A"
+  },
+  "passageHtml": "<h2>PASSAGE 105 (LEVEL B2 • BAND 6.0)</h2><h3>Saffron: The Golden Threads of History</h3><p><strong>Paragraph 1.</strong> Distinguished by its honeyed fragrance, vivid golden hue, and delicate bitterness, saffron is universally recognised as the most expensive culinary spice on the global market. Harvested from the dried crimson stigmas of the purple-flowered <em>Crocus sativus</em>, this valued botanical product has been cultivated for more than four millennia across the Mediterranean basin and Western Asia. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Across ancient civilisations, saffron was far more than an ingredient for royal banquets. Societies treasured it as a luxury textile dye, an aromatic temple incense, and a medicinal remedy prescribed for complaints ranging from eye disorders to respiratory fevers</span>.</p><p><strong>Paragraph 2.</strong> From a biological standpoint, the saffron crocus presents a fascinating puzzle. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Unlike its wild ancestors, <em>Crocus sativus</em> is genetically sterile, meaning it cannot produce fertile seeds or pollinate naturally. Consequently, the species is completely incapable of surviving in the wild without ongoing human care</span>. Cultivation relies entirely on manual vegetative division: farmers dig up mature underground storage bulbs, known as corms, separate the small offshoots, and replant them by hand into well-drained, semi-arid earth. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Should human cultivation cease, this ancient spice-bearing plant would vanish within only a few generations</span>.</p><p><strong>Paragraph 3.</strong> The remarkable market price of saffron stems directly from its labour-intensive harvesting schedule. Each plant blooms during an exceptionally brief two-to-three-week window in late autumn. Because <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">direct midday sunlight rapidly bleaches the fragile pigments responsible for colour and flavour</span>, workers must gather every flower by hand at dawn as the petals begin to open. Each blossom contains precisely three thin red stigmas joined to a central style. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Mechanical harvesters inevitably tear these delicate parts and ruin the crop</span>, forcing pickers to bend across wide fields and collect around 150,000 flowers—roughly forty hours of exhausting work—to yield one kilogram of dry saffron.</p><p><strong>Paragraph 4.</strong> Once separated from the petals, fresh stigmas undergo a carefully controlled drying regime. Saffron's sensory profile depends on three main chemical compounds: crocin creates its bright orange-yellow tint, picrocrocin supplies its signature bitterness, and safranal releases a warm, pleasing aroma. Surprisingly, freshly picked stigmas possess almost no scent; <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">their fragrance emerges only through regulated dehydration over glowing charcoal or on fine silk screens inside heated rooms</span>. Precision is vital during this stage, as <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">excessive heat chars the threads and weakens their medicinal value</span>, whereas <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">insufficient drying leaves moisture that invites fungal decay</span>.</p><p><strong>Paragraph 5.</strong> Because authentic saffron commands prices comparable to silver or fine gemstones, fraudulent adulteration has troubled the spice trade since antiquity. Unscrupulous merchants frequently diluted pure batches with shredded beet fibres, dried marigold petals, or thinly cut turmeric roots, while others boosted shipment weight by misting threads with salt water or coating them in mineral oil. In medieval Europe, tampering with saffron was prosecuted as a severe crime against public trust. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Under the famous <em>Safranschau</em> regulations of fifteenth-century Nuremberg, city inspectors routinely audited trading warehouses, and convicted swindlers faced public burning alongside their counterfeit stock</span></span>. Today, advanced laboratory analysis verifies purity, protecting a farming tradition largely unchanged for thousands of years.</p><p><strong>Paragraph 6.</strong> Modern production continues to reflect the constraints of geography and climate. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">While mechanical harvesting remains impractical, rising labour expenses and unpredictable autumn rainfall have made traditional saffron farming increasingly challenging for small family growers</span>. Nevertheless, strong international demand from high-end restaurants, natural food producers, and pharmaceutical researchers continues to sustain cultivation across rural regions. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">By preserving careful hand-picking techniques alongside modern chemical testing, growers ensure that this fragile autumn flower retains both its historic reputation and its unmatched sensory quality</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> survival &nbsp;&nbsp; <b>B.</b> dehydration &nbsp;&nbsp; <b>C.</b> machinery &nbsp;&nbsp; <b>D.</b> pigments &nbsp;&nbsp; <b>E.</b> reproduction &nbsp;&nbsp; <b>F.</b> weight &nbsp;&nbsp; <b>G.</b> purity",
+      "summaryTitle": "Challenges in Saffron Cultivation and Processing",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>Because <em>Crocus sativus</em> cannot reproduce on its own, its ongoing <b>1.</b> {{q1}} depends completely on farmers replanting underground corms. During the brief autumn harvest, blooms must be picked early at dawn before bright sunlight damages their delicate <b>2.</b> {{q2}} . Modern farming <b>3.</b> {{q3}} cannot replace human pickers because it tears the fragile flower tissues. Finally, careful <b>4.</b> {{q4}} is essential after picking to release saffron's famous aroma.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information given in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Không có con người trồng lại củ thì cây sẽ biến mất → sự sống còn (<i>survival</i>) phụ thuộc vào nông dân.",
+          "<b>Đáp án:</b> <b>A (survival)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...sunlight rapidly bleaches the fragile pigments...\"</i>",
+          "<b>Đáp án:</b> <b>D (pigments)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Mechanical harvesters inevitably tear these delicate parts...\"</i> → <i>machinery</i>.",
+          "<b>Đáp án:</b> <b>C (machinery)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...their fragrance emerges only through regulated dehydration...\"</i>",
+          "<b>Đáp án:</b> <b>B (dehydration)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Ancient societies used saffron exclusively for preparing luxury meals.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...far more than an ingredient for royal banquets...\"</i> (còn làm thuốc nhuộm, hương đốt, thuốc chữa bệnh).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Farmers in Nuremberg were forbidden from growing saffron inside city walls during the fifteenth century.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nhắc luật <i>Safranschau</i> kiểm tra kho buôn và xử phạt hàng giả, không hề nói cấm trồng trong tường thành.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Heating saffron threads too strongly during drying can reduce their health benefits.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...excessive heat chars the threads and weakens their medicinal value...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Rising labour costs have caused most restaurants to replace real saffron with marigold petals.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5 & 6:</b> Chi phí nhân công tăng là có, cánh hoa cúc từng bị thương lái gian lận dùng để độn, nhưng không có thông tin nhà hàng bỏ saffron thật thay bằng hoa cúc.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why does Crocus sativus depend entirely on human growers?",
+      "options": [
+        "A. Its flowers are easily eaten by wild animals in mountain areas.",
+        "B. It cannot produce fertile seeds or multiply naturally.",
+        "C. It requires artificial fertilisers made only in laboratories.",
+        "D. Its corms cannot survive winter temperatures underground."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cây bị vô sinh di truyền (<i>genetically sterile</i>), không thể tạo hạt hay thụ phấn tự nhiên.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What happens if saffron threads are not dried thoroughly enough?",
+      "options": [
+        "A. They lose all of their bright orange-yellow colour.",
+        "B. Their picrocrocin breaks down into sweet sugar.",
+        "C. They become vulnerable to fungal spoilage.",
+        "D. They immediately scorch and turn into ash."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...insufficient drying leaves moisture that invites fungal decay.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "In fifteenth-century Nuremberg, how were merchants punished for selling fake saffron?",
+      "options": [
+        "A. They had to pay large sums of silver to the city council.",
+        "B. They were forced to work on saffron farms for forty hours.",
+        "C. They were banned permanently from importing turmeric.",
+        "D. They were executed publicly together with their illegal goods."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...convicted swindlers faced public burning alongside their counterfeit stock.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "What is the writer's main conclusion in the final paragraph?",
+      "options": [
+        "A. Traditional harvesting and modern testing together preserve saffron's quality.",
+        "B. Automated picking machines will soon replace manual work on family farms.",
+        "C. Climate change has completely ended saffron demand in luxury restaurants.",
+        "D. Synthetic saffron will soon become more expensive than genuine threads."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6 (câu cuối):</b> Kết hợp hái thủ công cẩn thận với kiểm định hóa học hiện đại giúp giữ gìn danh tiếng và chất lượng saffron.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    }
+  }
+}

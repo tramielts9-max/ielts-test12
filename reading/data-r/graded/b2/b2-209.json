@@ -1,0 +1,233 @@
+{
+  "title": "[B2 • Band 6.0] Bài 209: The Deep-Ocean Mining Frontier",
+  "answers": {
+    "q1": "F",
+    "q2": "B",
+    "q3": "G",
+    "q4": "C",
+    "q5": "FALSE",
+    "q6": "TRUE",
+    "q7": "NOT GIVEN",
+    "q8": "FALSE",
+    "q9": "B",
+    "q10": "D",
+    "q11": "A",
+    "q12": "C"
+  },
+  "passageHtml": "<h2>PASSAGE 209 (LEVEL B2 • BAND 6.0)</h2><h3>The Deep-Ocean Mining Frontier</h3><p><strong>Paragraph 1.</strong> Four thousand metres beneath the sunlit Pacific lies the abyssal plain of the Clarion-Clipperton Zone (CCZ), spanning five million square kilometres between Hawaii and Mexico. Scattered loosely across the seabed mud are trillions of potato-sized concretions known as polymetallic nodules. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Containing more nickel, cobalt, copper, and manganese than all known land deposits combined, these nodules have become a prime target for corporations racing to supply batteries for the global shift toward <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">electric vehicles</span></span>.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Supporters argue that seabed collection is far cleaner than terrestrial mining. Executive director Gerard Barron notes that open-pit mines in countries like Indonesia and the Democratic Republic of Congo trigger deforestation, child labour, and toxic runoff. By contrast, Barron emphasizes that the abyssal plain contains no rainforests to clear or indigenous towns to displace, and that dredging loose surface nodules creates a smaller carbon footprint than blasting open mines on land</span></span>.</p><p><strong>Paragraph 3.</strong> Marine biologists, however, view abyssal dredging with alarm. Rather than lifeless deserts, deep benthic plains host extraordinary biodiversity, with over eighty percent of collected CCZ species completely unknown to science. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Because near-freezing temperatures and scarce surface nutrients force abyssal animals into exceptionally slow metabolic and reproductive cycles, ecosystems recover poorly from damage</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Moreover, delicate glass sponges and giant single-celled xenophyophores anchor strictly to the hard surfaces of nodules; harvesting these rocks destroys the only solid habitat on the muddy floor</span>.</p><p><strong>Paragraph 4.</strong> Field evidence confirms this vulnerability. In 1989, German scientists ploughed a three-kilometre seabed strip off Peru to simulate mining. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">When oceanographers revisited the site in 2019 using robotic submersibles, the thirty-year-old plough tracks remained sharply visible in the soft sediment</span></span>, bacterial diversity had failed to recover, and filter-feeding populations stayed eighty-five percent below untouched control areas.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Beyond direct seabed damage, tracked crawlers will pump ore slurry to surface ships and discharge millions of gallons of waste silt back into midwater. Marine ecologist Dr. Diva Amon warns that these drifting sediment plumes could travel thousands of kilometres, smothering delicate midwater jellyfish while introducing toxic heavy metals into commercial tuna and swordfish food chains</span></span>.</p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The International Seabed Authority (ISA), based in Jamaica, has already issued thirty exploration contracts, though it has yet to finalize binding environmental rules</span>. While nations like Nauru support mining for state income, over twenty-five countries—including France and Germany—demand an international moratorium until planetary risks are clear. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Scientists conclude that the sustainable path lies not in mining the deep sea, but in scaling up cobalt-free battery chemistry and enforcing strict global electronics recycling</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> recycling &nbsp;&nbsp; <b>B.</b> slow &nbsp;&nbsp; <b>C.</b> toxic &nbsp;&nbsp; <b>D.</b> temporary &nbsp;&nbsp; <b>E.</b> forests &nbsp;&nbsp; <b>F.</b> electric &nbsp;&nbsp; <b>G.</b> visible",
+      "summaryTitle": "The Abyssal Mining Controversy",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>Polymetallic nodules on the Pacific seabed are rich in battery metals needed to manufacture <b>1.</b> {{q1}} cars. However, marine biologists point out that freezing water causes exceptionally <b>2.</b> {{q2}} biological growth and reproduction. A thirty-year follow-up study off Peru revealed that test machine tracks remained clearly <b>3.</b> {{q3}} on the seafloor. Furthermore, leftover slurry pumped from mining vessels could carry <b>4.</b> {{q4}} heavy metals into ocean food chains.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq_two",
+      "skillTag": "MCQ_TWO",
+      "title": "Questions 9–10",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Which <b>TWO</b> arguments are made by supporters of deep-sea mining in the text?</i>",
+      "options": [
+        "A. Ocean mining requires far fewer ships than land mining.",
+        "B. There are no rainforests or indigenous communities to displace on the seabed.",
+        "C. Seabed mineral nodules grow back completely within thirty years.",
+        "D. Dredging loose nodules generates lower carbon emissions than blasting open land mines.",
+        "E. Abyssal organisms adapt rapidly to rising water temperatures."
+      ],
+      "questionIds": [
+        "q9",
+        "q10"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 11–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...global shift toward electric vehicles.\"</i>",
+          "<b>Đáp án:</b> <b>F (electric)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...exceptionally slow metabolic and reproductive cycles...\"</i>",
+          "<b>Đáp án:</b> <b>B (slow)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...thirty-year-old plough tracks remained sharply visible...\"</i>",
+          "<b>Đáp án:</b> <b>G (visible)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...introducing toxic heavy metals into commercial tuna...\"</i>",
+          "<b>Đáp án:</b> <b>C (toxic)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Known terrestrial mines hold larger reserves of nickel and cobalt than the Clarion-Clipperton Zone.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Đáy biển CCZ chứa nhiều niken, coban, đồng hơn tất cả mỏ trên cạn cộng lại.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Collecting nodules eliminates the only solid surface available for certain deep-sea creatures.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...destroys the only solid habitat on the muddy floor.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "In 2019, researchers returned to Peru using much larger mining crawlers than those used in 1989.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chỉ nói quay lại bằng tàu lặn robot để quan sát vết cày cũ, không nhắc đến việc dùng máy xúc lớn hơn.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "The International Seabed Authority has banned all exploration contracts worldwide.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Cơ quan này đã cấp 30 hợp đồng thăm dò (<i>issued thirty exploration contracts</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "B",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Không có rừng mưa để chặt phá và không có cộng đồng bản địa phải di dời.",
+          "<b>Đáp án:</b> <b>B</b> (và <b>D</b>)."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "D",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Dấu chân carbon thấp hơn so với nổ mìn khai thác mỏ lộ thiên trên cạn.",
+          "<b>Đáp án:</b> <b>D</b> (và <b>B</b>)."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "What danger does Dr. Diva Amon highlight regarding discharged mining slurry?",
+      "options": [
+        "A. Drifting silt clouds could smother midwater life and poison commercial fish.",
+        "B. Warm slurry could melt frozen seabed minerals and cause earthquakes.",
+        "C. Surface vessels could sink under the weight of pumped mud.",
+        "D. Heavy metals could block underwater cables connecting Hawaii and Mexico."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Bùn thải trôi xa hàng ngàn km gây ngạt sứa tầng giữa và nhiễm kim loại nặng vào cá ngừ, cá kiếm.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "What alternative solution do scientists recommend in Paragraph 6?",
+      "options": [
+        "A. Allowing Nauru to supervise environmental rules for private firms",
+        "B. Replacing electric vehicles with smaller petrol cars",
+        "C. Developing cobalt-free batteries and enforcing strict electronics recycling",
+        "D. Dumping recycled electronics into shallow coastal waters"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Phát triển hóa học pin không cần coban và tái chế rác thải điện tử toàn cầu.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    }
+  }
+}

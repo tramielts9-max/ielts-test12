@@ -1,0 +1,219 @@
+{
+  "title": "[B2 • Band 6.0] Bài 120: The Viking Longship: Maritime Masters of the North",
+  "answers": {
+    "q1": "A",
+    "q2": "D",
+    "q3": "E",
+    "q4": "G",
+    "q5": "FALSE",
+    "q6": "TRUE",
+    "q7": "NOT GIVEN",
+    "q8": "FALSE",
+    "q9": "C",
+    "q10": "B",
+    "q11": "A",
+    "q12": "D"
+  },
+  "passageHtml": "<h2>PASSAGE 120 (LEVEL B2 • BAND 6.0)</h2><h3>The Viking Longship: Maritime Masters of the North</h3><p><strong>Paragraph 1.</strong> Between the late eighth and eleventh centuries CE, Scandinavian seafarers known as the Vikings projected influence across Europe, establishing trade networks stretching from the Caspian Sea to the shores of North America. Central to this expansion was a remarkable vessel: the Viking longship. Combining impressive speed, open-ocean durability, and shallow-water agility, the longship allowed Scandinavian crews to cross stormy northern seas while navigating narrow coastal inlets and inland rivers.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">The architectural strength of the longship lay in its clinker construction method. Unlike the Mediterranean shipbuilding tradition—which involved nailing outer planks edge-to-edge onto a rigid internal frame—Norse shipwrights built from the outside in</span>. First, craftsmen shaped a single massive timber of seasoned oak to create the central keel. Next, they split thin wooden planks and overlapped each board's lower edge over the board beneath it. These seams were fastened using hand-forged iron rivets, with narrow gaps packed with tarred wool or moss for watertightness. Only after assembling the outer shell did builders insert internal ribs. Crucially, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">these ribs were bound with pliable spruce roots rather than rigid nails, allowing the wooden hull to flex naturally with heavy ocean swells instead of snapping</span></span>.</p><p><strong>Paragraph 3.</strong> Alongside structural elasticity, the longship featured a symmetrical double-ended hull and an exceptionally shallow draft. Fully loaded with thirty to sixty warriors and supplies, a vessel drew less than one metre of water. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">This minimal draft enabled Viking crews to sail up shallow rivers, bypass riverside fortifications, and run directly onto sandy beaches without requiring artificial harbours or deep anchorages</span></span>. Moreover, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">because the bow and stern shared identical shapes, crews could reverse direction instantly inside tight rocky fjords</span>.</p><p><strong>Paragraph 4.</strong> Propulsion combined human oars and wind power. Carved oar ports along the upper sides permitted dozens of rowers to maintain speed in calm waters or during coastal landings. For long ocean crossings, crews raised a wide square sail woven from coarse wool and reinforced with leather strips. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">To prevent ocean spray from waterlogging the dense cloth, sailors coated the sails with sheep tallow or lard, keeping the fabric lightweight and waterproof</span></span>. With steady winds, a longship could sustain speeds above ten knots.</p><p><strong>Paragraph 5.</strong> Modern understanding of these vessels owes much to maritime archaeology. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">In 1904, Norwegian archaeologists excavated the ninth-century Oseberg ship from a royal burial mound near Tonsberg, where water-retaining blue clay had kept its carved oak timbers remarkably intact</span>. Later, in 1962, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">the recovery of five Skuldelev ships deliberately sunk in Denmark's Roskilde Fjord proved that Norse shipyards produced distinct vessel types</span></span>: narrow raiding warships (<em>drakkars</em>) built for speed, and <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">broad, deep-bellied merchant ships (<em>knarrs</em>) designed to haul livestock and bulky cargo across the North Atlantic</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> flexible &nbsp;&nbsp; <b>B.</b> speed &nbsp;&nbsp; <b>C.</b> clay &nbsp;&nbsp; <b>D.</b> harbours &nbsp;&nbsp; <b>E.</b> waterproof &nbsp;&nbsp; <b>F.</b> rigid &nbsp;&nbsp; <b>G.</b> cargo",
+      "summaryTitle": "Design Features of Viking Ships",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>Norse shipwrights tied internal wooden ribs with spruce roots so the hull stayed <b>1.</b> {{q1}} in rough ocean waves. Because the loaded vessel drew under one metre of water, crews could land directly on beaches without needing deep <b>2.</b> {{q2}} . For ocean voyages, sailors greased thick woolen sails with animal fat to keep them <b>3.</b> {{q3}} . Archaeological finds also proved that wider vessels called knarrs were constructed to carry livestock and heavy <b>4.</b> {{q4}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Rễ vân sam dẻo dai giúp thân tàu đàn hồi (<i>flexible</i>) theo sóng lớn."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Cập thẳng lên bãi cát mà không cần bến cảng nhân tạo (<i>harbours</i>)."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bôi mỡ cừu giúp buồm chống thấm nước (<i>waterproof</i>)."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Tàu <i>knarrs</i> chở gia súc và hàng hóa cồng kềnh (<i>bulky cargo</i>)."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Norse builders assembled the internal rib frame before attaching the outer planks.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Thợ Viking đóng từ ngoài vào trong (<i>outside in</i>), lắp khung sườn sau khi xong vỏ."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "The matching shape of the bow and stern allowed crews to reverse course rapidly.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Mũi và đuôi giống nhau giúp đổi hướng tức thì trong vịnh hẹp."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "The Oseberg ship was buried together with large boxes of gold coins.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nhắc tàu được chôn trong gò hoàng gia bằng đất sét xanh, không nói có chôn tiền vàng."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "All five ships recovered from Roskilde Fjord were identical narrow warships.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Năm con tàu đại diện cho các mẫu thiết kế chuyên biệt khác nhau (gồm cả tàu chiến và tàu hàng)."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why did Norse shipwrights tie internal ribs with spruce roots instead of iron nails?",
+      "options": [
+        "A. Iron nails were too scarce in Scandinavia during the ninth century.",
+        "B. Tree roots prevented tarred animal wool from rotting between seams.",
+        "C. It allowed the wooden hull to bend with rough waves without breaking.",
+        "D. It reduced the total weight of heavy oak planks along the keel."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cho phép thân tàu uốn dẻo tự nhiên theo sóng dữ thay vì bị gãy vỡ."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What advantage did a draft of less than one metre provide to Viking raiders?",
+      "options": [
+        "A. Ships could carry double the normal load of heavy stone cargo.",
+        "B. Crews could enter shallow rivers and land directly onto open beaches.",
+        "C. Enemies could not spot the low wooden hulls across open oceans.",
+        "D. Rowers needed half as much strength to move the ship in calm seas."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Giúp đi ngược sông nông, né pháo đài và đổ bộ thẳng lên bãi biển."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Why were Viking woolen sails coated with sheep tallow or lard?",
+      "options": [
+        "A. To prevent sea spray from soaking into the heavy fabric.",
+        "B. To stop leather strips from shrinking under bright sunlight.",
+        "C. To make the white sails easier to see through ocean fog.",
+        "D. To protect the woven cloth from hungry seabirds."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Ngăn nước biển bắn vào làm nặng và sũng nước buồm len."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "What did the 1962 excavation in Denmark's Roskilde Fjord demonstrate?",
+      "options": [
+        "A. Viking longships were copied directly from Mediterranean merchant ships.",
+        "B. Most Viking ships sank because their oak keels cracked in cold waters.",
+        "C. Norse warriors only used wooden oars during battles in narrow fjords.",
+        "D. Vikings designed specialised ships for different military and trade uses."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chứng minh thợ Viking đóng các loại tàu chuyên dụng riêng cho chiến tranh và thương mại."
+        ]
+      }
+    }
+  }
+}

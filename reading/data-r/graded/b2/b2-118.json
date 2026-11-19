@@ -1,0 +1,219 @@
+{
+  "title": "[B2 • Band 6.0] Bài 118: The Ancient Stepwells of Western India",
+  "answers": {
+    "q1": "A",
+    "q2": "C",
+    "q3": "B",
+    "q4": "D",
+    "q5": "FALSE",
+    "q6": "NOT GIVEN",
+    "q7": "TRUE",
+    "q8": "NOT GIVEN",
+    "q9": "B",
+    "q10": "C",
+    "q11": "A",
+    "q12": "D"
+  },
+  "passageHtml": "<h2>PASSAGE 118 (LEVEL B2 • BAND 6.0)</h2><h3>The Ancient Stepwells of Western India</h3><p><strong>Paragraph 1.</strong> Across the dry plains of northwestern India, mainly in the states of Gujarat and Rajasthan, stands an extraordinary architectural tradition designed to overcome seasonal water shortages: the subterranean stepwell. Known locally as <em>baolis</em>, <em>vavs</em>, or <em>kunds</em>, these impressive stone monuments are virtually unique to the Indian subcontinent. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Unlike conventional vertical wells, where users pull water upward from ground level using ropes and buckets, a stepwell is an inverted stone pavilion—a deep multi-storey trench that descends through carved stone galleries to reach shifting underground water tables</span>.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">These subterranean structures evolved in direct response to South Asia's extreme weather cycle. For nine months each year, northwestern India endures fierce heat and persistent drought, before sudden monsoon storms deliver heavy rainfall within just a few weeks. Because porous sandy soil absorbs water rapidly, shallow streams evaporate quickly</span></span>. To guarantee reliable civic water throughout the dry season, ancient engineers excavated deep trenches down to subterranean aquifers. While monsoon rains flooded the lower levels, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">villagers descended hundreds of stone steps during summer to collect water from the receding pool</span>.</p><p><strong>Paragraph 3.</strong> Between the seventh and sixteenth centuries CE, stepwell construction progressed from simple earthen pits into celebrated works of monumental stone architecture. Commissioned by kings, wealthy merchant guilds, and royal women seeking spiritual merit, stepwells resembled underground stone palaces. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">The finest surviving example is Rani ki Vav (The Queen's Stepwell) in Patan, Gujarat, commissioned in 1063 CE by Queen Udayamati as a memorial to her late husband, King Bhima I</span>. Extending more than thirty metres downward across seven terraced levels, Rani ki Vav contains hundreds of carved pillars adorned with over eight hundred figurative sculptures depicting deities and celestial dancers.</p><p><strong>Paragraph 4.</strong> Beyond practical water storage, stepwells served a vital civic and social purpose. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Since fetching household water was traditionally a female task, shaded stone galleries functioned as a daily meeting forum where village women socialised, shared news, and held religious ceremonies away from male supervision</span>. In addition, the deep stone structure acted as natural air conditioning: <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">combined with cooling evaporation from the central pool, temperatures below ground stayed six to ten degrees cooler than the scorching surface heat</span></span>, providing welcome shelter for tired merchants and travellers during midday.</p><p><strong>Paragraph 5.</strong> The decline of the stepwell started in the nineteenth century under British colonial rule. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Viewing the pools through European standards of hygiene, British authorities regarded stepwells as breeding grounds for parasitic diseases such as guinea worm and cholera, because villagers walked physically into the standing water to fill brass pots</span></span>. To curb epidemics, colonial administrators installed iron hand-pumps and piped water networks, ordering many historic stepwells to be filled with rubble or sealed behind brick walls.</p><p><strong>Paragraph 6.</strong> Stripped of their community function, most remaining stepwells fell into neglect, their channels blocked by windblown silt and waste. In recent decades, however, <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">severe modern depletion of underground aquifers has inspired Indian conservationists to remove accumulated silt and restore historic stepwells as sustainable rainwater harvesting reservoirs for the twenty-first century</span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> drought &nbsp;&nbsp; <b>B.</b> cool &nbsp;&nbsp; <b>C.</b> steps &nbsp;&nbsp; <b>D.</b> diseases &nbsp;&nbsp; <b>E.</b> rainwater &nbsp;&nbsp; <b>F.</b> trade &nbsp;&nbsp; <b>G.</b> wealthy",
+      "summaryTitle": "History and Function of Stepwells",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>Stepwells were built in northwestern India to provide water across nine months of intense heat and <b>1.</b> {{q1}} . During summer, residents climbed down flights of stone <b>2.</b> {{q2}} to reach underground aquifers. Besides serving as a social hub for women, the deep chambers stayed naturally <b>3.</b> {{q3}} compared with the surface heat. However, British officials later sealed many stepwells because they feared the standing water spread dangerous <b>4.</b> {{q4}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Chín tháng nóng bức và hạn hán (<i>persistent drought</i>)."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Đi xuống hàng trăm bậc thang đá (<i>stone steps</i>)."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Không gian bên dưới mát mẻ hơn mặt đất (<i>six to ten degrees cooler</i>)."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chính quyền Anh lo ngại nước đọng lây lan dịch bệnh (<i>parasitic diseases</i>)."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Traditional vertical wells also required villagers to walk down stone stairs to reach water.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Giếng thẳng đứng truyền thống dùng dây và xô kéo từ mặt đất, không có bậc thang đi xuống."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Queen Udayamati personally designed the carved pillars inside Rani ki Vav.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Hoàng hậu là người ra lệnh xây dựng (<i>commissioned</i>), bài không nói bà tự tay thiết kế các cột đá."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "The lower levels of stepwells offered travellers physical relief from midday heat.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Mát hơn 6–10 độ và là nơi nghỉ chân mát mẻ giữa trưa cho thương nhân, lữ khách."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Modern restoration has completely solved groundwater shortages across every Indian state.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Chỉ nói các nhà bảo tồn đang nạo vét phục hồi giếng, không khẳng định đã giải quyết triệt để vấn đề nước ngầm trên toàn Ấn Độ."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why were stepwells originally built in northwestern India?",
+      "options": [
+        "A. To prevent monsoon floods from washing away desert villages.",
+        "B. To secure underground water supplies across a long dry season.",
+        "C. To create cool underground storage rooms for agricultural crops.",
+        "D. To replace damaged municipal water pipes built in the 1600s."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Mùa khô kéo dài 9 tháng nên phải đào sâu xuống tầng nước ngầm để đảm bảo nước quanh năm."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What social role did stepwells perform in village communities?",
+      "options": [
+        "A. They hosted public markets run by foreign merchant guilds.",
+        "B. They served as royal courts where kings met foreign guests.",
+        "C. They gave local women a private place to meet and talk.",
+        "D. They functioned as schools for young stone carvers."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Là diễn đàn gặp gỡ hàng ngày để phụ nữ làng trò chuyện, làm lễ mà không có nam giới giám sát."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Why did British colonial officials seal many historic stepwells?",
+      "options": [
+        "A. They viewed the standing water as a source of dangerous infections.",
+        "B. They needed stone blocks from the walls to construct railways.",
+        "C. They believed the deep trenches were structurally unsafe during storms.",
+        "D. They wanted to expand dry farmland around Gujarat."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Người Anh coi giếng là ổ lây bệnh ký sinh trùng và dịch tả."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Why are Indian conservationists cleaning historic stepwells today?",
+      "options": [
+        "A. To uncover lost gold coins buried under centuries of mud.",
+        "B. To turn them into luxury hotels for desert tourists.",
+        "C. To prepare sites for installing modern metal hand-pumps.",
+        "D. To collect rainwater and counter falling underground water levels."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Nạo vét bùn để tái sử dụng làm hồ trữ nước mưa bền vững trước tình trạng cạn kiệt tầng nước ngầm."
+        ]
+      }
+    }
+  }
+}

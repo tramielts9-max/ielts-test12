@@ -1,0 +1,219 @@
+{
+  "title": "[B2 • Band 6.0] Bài 104: The Terracotta Army: Ancient Guardians in Clay",
+  "answers": {
+    "q1": "drought",
+    "q2": "cosmos",
+    "q3": "lacquer",
+    "q4": "alkaline",
+    "q5": "B",
+    "q6": "C",
+    "q7": "A",
+    "q8": "D",
+    "q9": "FALSE",
+    "q10": "TRUE",
+    "q11": "NOT GIVEN",
+    "q12": "FALSE"
+  },
+  "passageHtml": "<h2>READING PASSAGE — B2 (BAND 6.0) • TEST 104</h2><h3>The Terracotta Army: Ancient Guardians in Clay</h3><p><strong>Paragraph 1.</strong> In March 1974, during a severe <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"kw\">drought</span></span> in Shaanxi province, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">local farmers attempted to dig an underground water well roughly thirty kilometres east of Xi'an. Several metres down in the dry soil, their shovels struck hard, baked clay</span>. Digging further, they unearthed pottery fragments, bronze arrowheads, and a life-sized sculpted human head. Recognising that the objects might hold historical value, local officials contacted provincial authorities, who dispatched archaeological teams to examine the site. What began as an ordinary agricultural project rapidly turned into one of the most celebrated archaeological discoveries of the twentieth century: the Terracotta Army of Emperor Qin Shi Huang.</p><p><strong>Paragraph 2.</strong> Qin Shi Huang conquered six rival kingdoms to unify China in 221 BCE. Convinced that his political authority would continue after death, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">the young ruler commissioned an immense underground tomb complex shortly after taking the throne as a teenager</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Writing a century later, the Han dynasty historian Sima Qian recorded that more than 700,000 forced labourers and skilled workers toiled for nearly forty years to construct the burial site</span>. Spanning several square kilometres beneath the earth, the necropolis contained palaces, sacrificial pits, and miniature models of the <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"kw\">cosmos</span></span>, guarded by thousands of life-sized clay infantrymen, archers, charioteers, and horses arranged in battle formation.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Archaeological studies reveal that assembling the army was a remarkable triumph of modular organization. State-run workshops used coarse local clay to press standard core segments—feet, legs, torsos, and arms—out of reusable hollow moulds</span>. Yet instead of turning out uniform figures, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">individual sculptors carved unique facial expressions, hairstyles, and ear shapes onto each soldier by hand</span>, reflecting the diverse ethnic groups within the newly unified empire. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">To maintain strict quality control under penalty of state punishment, master craftsmen stamped their personal names onto hidden surfaces of the clay statues</span>.</p><p><strong>Paragraph 4.</strong> When the statues were originally placed underground, they looked nothing like the dull earthy-brown figures displayed in museums today. Every warrior was vividly decorated with mineral-based pigments—including scarlet cinnabar, green malachite, powdered azurite, and a synthetic compound known as Han purple—applied over a protective base coat of natural tree <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"kw\">lacquer</span></span>. Preserving this artwork poses a major challenge for modern experts. The instant an excavated statue encounters the dry air of northern China, the ancient base coat loses moisture within minutes, shrinking, curling upward, and tearing the delicate paint away from the clay.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">To stop this immediate decay, conservation chemists developed protective laboratory solutions. Nowadays, newly uncovered figures are promptly sprayed with a polyethylene glycol solution or sealed inside moisture-rich airtight plastic chambers</span>. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Furthermore, testing on the real bronze swords, spears, and halberds carried by the warriors showed that their blades stayed remarkably sharp and free of corrosion for over two millennia</span>, shielded by the <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"kw\">alkaline</span></span> chemistry of the surrounding soil.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Key Aspects of the Terracotta Army",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">The site was uncovered by farmers seeking water during a serious <b>1.</b> {{q1}} .</li><li style=\"margin-bottom:8px;\">The tomb included underground palaces and miniature representations of the <b>2.</b> {{q2}} .</li><li style=\"margin-bottom:8px;\">Bright mineral paints were applied over a natural tree <b>3.</b> {{q3}} base that peels when exposed to dry air.</li><li style=\"margin-bottom:8px;\">Bronze blades survived without rust thanks to the <b>4.</b> {{q4}} properties of the local soil.</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "matching_names",
+      "skillTag": "MATCH_FEATURES",
+      "title": "Questions 5–8",
+      "instructions": "<i>Look at the following statements (Questions 5–8) and the list of people below.<br>Match each statement with the correct group or person, <b>A–D</b>.</i><br><br><b>List of People / Groups:</b><br><b>A.</b> Local Shaanxi farmers<br><b>B.</b> Sima Qian<br><b>C.</b> Qin workshop sculptors<br><b>D.</b> Modern conservation chemists",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the information given in the passage?<br>Write <b>TRUE</b>, <b>FALSE</b> or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "drought",
+      "inputWidth": "110px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"during a severe drought in Shaanxi province\"</i> → Từ cần điền: <b>drought</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "cosmos",
+      "inputWidth": "110px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"miniature models of the cosmos\"</i> → Từ cần điền: <b>cosmos</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "lacquer",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"protective base coat of natural tree lacquer\"</i> → Từ cần điền: <b>lacquer</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "alkaline",
+      "inputWidth": "110px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"shielded by the alkaline chemistry of the surrounding soil\"</i> → Từ cần điền: <b>alkaline</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "documented the massive workforce and time spent building the imperial tomb.",
+      "options": [
+        "A. Local Shaanxi farmers",
+        "B. Sima Qian",
+        "C. Qin workshop sculptors",
+        "D. Modern conservation chemists"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Sử gia <i>Sima Qian</i> ghi chép hơn 700.000 lao động làm gần 40 năm → Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "shaped distinct hairstyles and facial details onto each warrior by hand.",
+      "options": [
+        "A. Local Shaanxi farmers",
+        "B. Sima Qian",
+        "C. Qin workshop sculptors",
+        "D. Modern conservation chemists"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"individual sculptors carved unique facial expressions, hairstyles...\"</i> → Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "discovered baked clay accidentally while searching for water.",
+      "options": [
+        "A. Local Shaanxi farmers",
+        "B. Sima Qian",
+        "C. Qin workshop sculptors",
+        "D. Modern conservation chemists"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Nông dân Thiểm Tây đào giếng tìm nước thì đụng phải đất nung → Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "created chemical sprays and sealed enclosures to stop paint from flaking.",
+      "options": [
+        "A. Local Shaanxi farmers",
+        "B. Sima Qian",
+        "C. Qin workshop sculptors",
+        "D. Modern conservation chemists"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Các nhà hóa học bảo tồn chế tạo dung dịch phun và buồng kín giữ ẩm → Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Qin Shi Huang waited until late adulthood to begin planning his underground tomb.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Hoàng đế ra lệnh xây ngay sau khi lên ngôi lúc còn thiếu niên (<i>\"shortly after taking the throne as a teenager\"</i>) → Chọn <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "State workshops combined reusable moulds with hand-sculpted details.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Đúc thân từ khuôn tái sử dụng rồi nặn tay chi tiết khuôn mặt/tóc → Chọn <b>TRUE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Emperor Qin Shi Huang personally inspected the name stamps on the statues before firing.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Thợ cả đóng tên để kiểm soát chất lượng dưới hình phạt nhà nước, không hề nói đích thân Hoàng đế đi kiểm tra dấu tên → Chọn <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "The bronze weapons discovered in the pits had suffered severe rust damage.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Vũ khí đồng vẫn sắc bén và không bị gỉ sét (<i>\"remarkably sharp and free of corrosion\"</i>) → Chọn <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

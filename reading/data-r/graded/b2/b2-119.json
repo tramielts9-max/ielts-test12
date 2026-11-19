@@ -1,0 +1,235 @@
+{
+  "title": "[B2 • Band 6.0] Bài 119: The Ginkgo Biloba: The Resilient Living Fossil",
+  "answers": {
+    "q1": "B",
+    "q2": "C",
+    "q3": "E",
+    "q4": "D",
+    "q5": "veins",
+    "q6": "monks",
+    "q7": "saplings",
+    "q8": "buds",
+    "q9": "FALSE",
+    "q10": "TRUE",
+    "q11": "NOT GIVEN",
+    "q12": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 119 (LEVEL B2 • BAND 6.0)</h2><h3>The Ginkgo Biloba: The Resilient Living Fossil</h3><p><strong>Paragraph A.</strong> Recognised by its distinctive fan-shaped leaves that turn bright gold each autumn, <em>Ginkgo biloba</em>—also known as the maidenhair tree—is an extraordinary botanical survivor. It is the sole living member of the Ginkgoales, an ancient group of trees that flourished alongside dinosaurs during the Jurassic period roughly 170 million years ago. While hundreds of related prehistoric plants disappeared during mass extinctions, the ginkgo survived virtually unchanged: <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">its modern leaf <span class=\"kw\">veins</span> and cell structure closely match specimens preserved in rock fossils millions of years old</span></span>.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">By the seventeenth century, Western botanists assumed that the entire ginkgo family had vanished forever. That assumption was overturned in 1691, when <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">German physician and traveller Engelbert Kaempfer visited ancient Buddhist monasteries in Japan and found living ginkgo trees thriving in temple courtyards</span>. For centuries, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Chinese and Japanese <span class=\"kw\">monks</span> had kept the species alive</span>, viewing the trees as sacred symbols of longevity and enlightenment. Monks cultivated groves around mountain temples and prized the timber for sacred carpentry because the wood possessed natural fire-resistant qualities that helped protect shrines during forest fires</span>.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Botanically, the ginkgo is dioecious, meaning individual trees are strictly male or female. Unlike cone-bearing pine trees, female ginkgos produce naked, fleshy seeds hanging in pairs on slender stalks. When ripe seeds fall in late autumn, their soft outer layer decomposes rapidly, releasing volatile acids that create an overpowering, foul odour resembling sour butter or rotting meat. For this practical reason, city forestry departments carefully avoid planting female trees along streets, preferring instead to <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">plant cloned male <span class=\"kw\">saplings</span> grown from small cuttings</span></span>.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">The remarkable lifespan of individual ginkgo trees, which frequently exceed one thousand years, depends on sophisticated biological defences. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">The wood and leaves produce unique chemical compounds—including ginkgolides and flavonoids—that repel insect pests, halt destructive fungal rot, and block bacterial infections</span>. Furthermore, deep anchoring taproots provide extraordinary stability against hurricane-force winds, while ginkgo cells tolerate dense concentrations of modern urban air pollutants such as sulphur dioxide and ozone</span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">The ginkgo's legendary toughness faced its severest test on 6 August 1945, when an atomic bomb detonated over Hiroshima in Japan. The devastating blast and intense heat burned six mature ginkgo trees standing near local shrines within two kilometres of the explosion. Although surrounding stone buildings collapsed and wooden structures turned to ash, the underground root networks of these charred trees survived. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The following spring, without visible genetic mutations or stunted growth, the damaged trunks pushed out healthy green <span class=\"kw\">buds</span></span>, becoming celebrated symbols of survival</span>.</p><p><strong>Paragraph F.</strong> Today, the species faces a surprising conservation paradox. While millions of cloned ginkgo trees flourish along city avenues around the world, <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">truly wild populations are critically endangered, restricted to a few isolated mountain reserves in China's Zhejiang province</span>. Protecting these remaining wild groves is vital to maintain genetic diversity for future generations.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 119 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Biology and Survival of the Ginkgo",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li>Modern leaf <b>5.</b> {{q5}} and cells are nearly identical to ancient rock fossils.</li><li>Before 1691, Asian <b>6.</b> {{q6}} protected ginkgos around mountain temples.</li><li>To avoid smelly rotting seeds, city planners choose cloned male <b>7.</b> {{q7}} .</li><li>In 1946, scorched trees in Hiroshima sprouted healthy green <b>8.</b> {{q8}} .</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "how religious communities protected the tree and used its fire-resistant timber",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Các nhà sư Trung Quốc và Nhật Bản giữ gìn cây và dùng gỗ chống cháy xây đền."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "why urban authorities prefer planting one biological sex over the other",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Cây cái rụng hạt có mùi hôi như bơ thiu nên thành phố chỉ trồng cây đực nhân bản."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "evidence of ginkgo trees surviving extreme heat and shock from a 1945 blast",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Sáu cây bạch quả tại Hiroshima sống sót sau vụ nổ bom nguyên tử 1945."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "natural chemical and root systems that enable individual trees to live over a millennium",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Các hợp chất hóa học diệt sâu bệnh cùng rễ cọc sâu giúp cây sống hơn 1.000 năm."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "veins",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> <i>\"...modern leaf veins and cell structure...\"</i>"
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "monks",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"Chinese and Japanese monks had kept the species alive...\"</i>"
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "saplings",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...plant cloned male saplings grown from small cuttings.\"</i>"
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "buds",
+      "inputWidth": "100px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...damaged trunks pushed out healthy green buds...\"</i>"
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Modern ginkgo leaves differ greatly in structure from prehistoric fossil specimens.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Cây gần như không thay đổi, gân lá hiện đại khớp với hóa thạch hàng triệu năm."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Chemical compounds inside ginkgo trees help defend them against insects and fungi.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...repel insect pests, halt destructive fungal rot...\"</i>"
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Engelbert Kaempfer brought ginkgo seeds back to Germany to sell to city parks.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Chỉ nói Kaempfer phát hiện cây ở Nhật Bản năm 1691, không nói ông mang hạt về Đức bán."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Wild ginkgo populations are now abundant in forests across eastern Asia.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Quần thể hoang dã đang cực kỳ nguy cấp, chỉ còn ở vài khu bảo tồn núi cao tại Chiết Giang."
+        ]
+      }
+    }
+  }
+}

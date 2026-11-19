@@ -1,0 +1,212 @@
+{
+  "title": "[B2 • Band 6.0] Bài 216: Bioprospecting in the Cryosphere",
+  "answers": {
+    "q1": "B",
+    "q2": "E",
+    "q3": "C",
+    "q4": "B",
+    "q5": "D",
+    "q6": "A",
+    "q7": "E",
+    "q8": "TRUE",
+    "q9": "NOT GIVEN",
+    "q10": "FALSE",
+    "q11": "TRUE",
+    "q12": "FALSE"
+  },
+  "passageHtml": "<h2>PASSAGE 216 (LEVEL B2 • BAND 6.0)</h2><h3>Bioprospecting in the Cryosphere: The Cold Search for Novel Antibiotics</h3><p><strong>Paragraph 1.</strong> Modern healthcare is approaching a serious antibiotic crisis. Decades of excessive antibiotic use in hospitals and livestock farming have accelerated the rise of drug-resistant 'superbugs' behind pneumonia, tuberculosis, and hospital infections. The World Health Organization projects that without fresh molecular compounds, resistant infections could cause ten million deaths annually by 2050. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Historically, almost all standard antibiotics were extracted from soil actinobacteria; however, after seventy years of intensive screening, that terrestrial source is largely exhausted, yielding identical old structures</span>.</p><p><strong>Paragraph 2.</strong> To break this deadlock, researchers are exploring Earth's frozen frontiers: glaciers, subglacial lakes, and Antarctic permafrost. Rather than barren wastelands, these habitats teem with cold-adapted microbes known as psychrophiles. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Chemical biologist Dr. Rebecca Frost explains that surviving continuous freezing temperatures, harsh ultraviolet light, and severe nutrient scarcity forced these microbes to evolve flexible, chemically active compounds</span></span>. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Unlike temperate bacteria with rigid cell membranes and stiff enzymes, psychrophiles rely on polyunsaturated fatty acids to keep membranes fluid and use chemical peptides to kill rival microbes in crowded ice pockets</span>.</p><p><strong>Paragraph 3.</strong> Seeking these novel molecules, microbiologist Dr. Liam Chen led a drilling expedition deep across central Greenland. His team extracted four-hundred-metre ice cores dating back thirty thousand years and isolated over two hundred bacterial strains. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">In laboratory tests, purified extracts from a newly found strain, <em>Pseudomonas cryophila</em>, killed the dangerous superbug MRSA by dismantling its protective biofilm shield—a barrier conventional antibiotics cannot penetrate</span>.</p><p><strong>Paragraph 4.</strong> Moving from laboratory discovery to commercial manufacturing presents major engineering barriers. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Industrial bioprocess engineer Dr. Sven Lindholm warns that conventional pharmaceutical vats are designed strictly for warm-loving microbes, whereas cold-adapted bacteria burst and die once broth temperatures pass ten degrees Celsius. Cooling massive fermentation tanks requires prohibitive refrigeration costs unless researchers transplant biosynthetic genes into warm-tolerant host cells</span></span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Legal and ecological uncertainties further complicate polar research. While the 1959 Antarctic Treaty promotes peace and environmental protection, it remains silent regarding commercial patents on genetic resources. Bioethicist Dr. Maya Patel warns that private corporations could earn billions from polar enzymes without any legal duty to share profits or fund conservation</span></span></span>.</p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Ultimately, scientists stress that saving polar glaciers is directly tied to human medical survival. As climate warming accelerates glacial melting, thousands of unique cold-adapted strains face permanent extinction before researchers can even catalogue them</span></span>. Protecting Earth's frozen ecosystems is therefore an essential act of medical self-preservation.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "mcq_two",
+      "skillTag": "MCQ_TWO",
+      "title": "Questions 1–2",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Which <b>TWO</b> facts about psychrophiles or polar drug research are mentioned in the text?</i>",
+      "options": [
+        "A. Psychrophiles depend on rigid cell membranes to survive sub-zero ice.",
+        "B. Cold-adapted microbes produce chemical weapons to eliminate rival bacteria in ice.",
+        "C. Dr. Liam Chen drilled ice cores in Antarctica dating back fifty thousand years.",
+        "D. Biofilm shields protect conventional antibiotics from degrading in hospitals.",
+        "E. Current international treaties do not force drug firms to share polar patent profits."
+      ],
+      "questionIds": [
+        "q1",
+        "q2"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 3–7",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–H</b>, below.</i><br><br><b>A.</b> host &nbsp;&nbsp; <b>B.</b> freezing &nbsp;&nbsp; <b>C.</b> exhausted &nbsp;&nbsp; <b>D.</b> shield &nbsp;&nbsp; <b>E.</b> profits &nbsp;&nbsp; <b>F.</b> melting &nbsp;&nbsp; <b>G.</b> common &nbsp;&nbsp; <b>H.</b> ancient",
+      "summaryTitle": "Polar Bioprospecting: Promise and Obstacles",
+      "questionIds": [
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7"
+      ],
+      "template": "<p>Because traditional soil reservoirs are nearly <b>3.</b> {{q3}} , researchers are turning to polar microbes that stay active under <b>4.</b> {{q4}} conditions. Extracts from one Greenland strain broke through MRSA's protective <b>5.</b> {{q5}} . However, mass production remains expensive unless scientists transfer key genes into warm-tolerant <b>6.</b> {{q6}} cells. Meanwhile, weak treaties fail to require companies to share future <b>7.</b> {{q7}} for conservation.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 8–12",
+      "instructions": "<i>Do the following statements agree with the information given in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "B",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2 (Đáp án B):</b> Vi sinh vật vùng lạnh tạo peptide hóa học tiêu diệt vi khuẩn cạnh tranh (<i>kill rival microbes</i>).",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "E",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5 (Đáp án E):</b> Hiệp ước 1959 không quy định nghĩa vụ chia sẻ lợi nhuận bằng sáng chế.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...that terrestrial source is largely exhausted...\"</i>",
+          "<b>Đáp án:</b> <b>C (exhausted)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Hoạt động dưới điều kiện đóng băng (<i>freezing temperatures</i>).",
+          "<b>Đáp án:</b> <b>B (freezing)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...dismantling its protective biofilm shield...\"</i>",
+          "<b>Đáp án:</b> <b>D (shield)</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...into warm-tolerant host cells.\"</i>",
+          "<b>Đáp án:</b> <b>A (host)</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...share profits or fund conservation.\"</i>",
+          "<b>Đáp án:</b> <b>E (profits)</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Harsh cold and scarce nutrients pushed psychrophiles to develop unusual chemical compounds.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cái lạnh khắc nghiệt và thiếu dinh dưỡng buộc chúng tiến hóa hợp chất hoạt tính mới.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Several major pharmaceutical firms were fined under the 1959 Antarctic Treaty.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nói Hiệp ước còn bỏ ngỏ vấn đề bằng sáng chế, không nói công ty nào bị phạt.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Cold-adapted bacteria survive best when factory fermentation tanks are kept above 10°C.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chúng vỡ và chết ngay khi nhiệt độ vượt quá 10°C (<i>burst and die once broth temperatures pass ten degrees</i>).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Climate change threatens to erase unique polar bacteria before scientists can record them.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...face permanent extinction before researchers can even catalogue them.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Scientists believe protecting polar ice has purely symbolic value rather than practical medical value.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> Bảo vệ băng cực gắn trực tiếp với sinh tồn y khoa (<i>medical self-preservation</i>), không phải chỉ mang tính biểu tượng.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    }
+  }
+}

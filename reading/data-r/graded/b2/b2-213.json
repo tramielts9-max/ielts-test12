@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 213: Tapping the Earth's Cauldron: Geothermal Energy",
+  "answers": {
+    "q1": "E",
+    "q2": "B",
+    "q3": "G",
+    "q4": "C",
+    "q5": "B",
+    "q6": "D",
+    "q7": "C",
+    "q8": "A",
+    "q9": "NOT GIVEN",
+    "q10": "YES",
+    "q11": "NO",
+    "q12": "YES"
+  },
+  "passageHtml": "<h2>PASSAGE 213 (LEVEL B2 • BAND 6.0)</h2><h3>Tapping the Earth's Cauldron: The Geothermal Frontier</h3><p><strong>Paragraph 1.</strong> Deep beneath Iceland's volcanic basalt plains lies an energy reserve of remarkable scale. While most countries burn fossil fuels or rely on variable weather sources like wind and sunlight, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Iceland obtains nearly one hundred percent of its electricity and building <span class=\"kw\">heating</span> from domestic renewable sources, primarily geothermal energy</span>. Straddling the Mid-Atlantic Ridge—where the North American and Eurasian tectonic plates slowly pull apart—Iceland sits on a geological hotspot where magma rises unusually close to the surface, turning a once coal-dependent nation into a clean-energy pioneer.</p><p><strong>Paragraph 2.</strong> Conventional geothermal generation depends on natural hydrothermal circulation. Rainwater seeps through porous volcanic fractures deep underground until it nears magma chambers heated to hundreds of degrees Celsius. Subjected to immense subterranean weight, the water superheats without boiling. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">When engineers drill production wells one to three kilometres deep, the sudden drop in <span class=\"kw\">pressure</span> causes superheated fluid to flash into high-velocity steam</span>, which rises through steel pipes to spin turbines before condensing back into water.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">In Reykjavik, geothermal power achieved a dramatic civic transformation. In the early twentieth century, the capital was choked by thick smoke from soft coal burned to warm wooden homes. Beginning in 1930, city engineers installed insulated underground pipelines delivering geothermal water straight into household radiators</span>, warming over ninety-nine percent of greater Reykjavik at a fraction of fossil-fuel costs. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">The thermal grid is so plentiful that leftover warm water is routed through coiled plastic pipes beneath pavements and sidewalks, automatically melting winter snow without toxic de-icing salts</span>.</p><p><strong>Paragraph 4.</strong> Despite these achievements, geothermal extraction involves chemical challenges. Deep reservoir fluids carry dissolved gases, notably carbon dioxide and hydrogen sulfide; <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">if released into open air, hydrogen sulfide creates a foul rotten-egg smell and triggers breathing problems in nearby towns</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">To neutralize emissions, engineers at the Hellisheidi plant launched the Carbfix project, capturing exhaust gases, dissolving them into wastewater, and pumping the mixture into porous basalt rock. Within two years, chemical reactions with basalt <span class=\"kw\">minerals</span> permanently lock the gases into solid white carbonate stones underground</span></span></span>.</p><p><strong>Paragraph 5.</strong> Looking ahead, geoscientists are pushing drilling deeper than ever before. Whereas standard wells tap fluids around 300°C, the Iceland Deep Drilling Project (IDDP) drills nearly five kilometres deep into 'supercritical' reservoirs exceeding 450°C and two hundred atmospheres. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">At these extremes, fluid enters a state that is neither liquid nor gas, carrying up to ten times more kinetic energy per volume than normal steam</span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">A single supercritical well could equal ten regular wells, sharply shrinking the surface land <span class=\"kw\">footprint</span> of future plants</span></span>.</p><p><strong>Paragraph 6.</strong> <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">As global nations search for dependable, weather-independent baseload power to replace coal, Iceland's volcanic engineering proves that subterranean heat can deliver steady electricity round the clock</span>—provided careful environmental safeguards like Carbfix accompany deep drilling.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> coal &nbsp;&nbsp; <b>B.</b> pressure &nbsp;&nbsp; <b>C.</b> footprint &nbsp;&nbsp; <b>D.</b> salts &nbsp;&nbsp; <b>E.</b> heating &nbsp;&nbsp; <b>F.</b> turbines &nbsp;&nbsp; <b>G.</b> minerals",
+      "summaryTitle": "Iceland's Geothermal Technology",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>Iceland relies on geothermal power for nearly all its electricity and building <b>1.</b> {{q1}} . When production wells pierce deep reservoirs, a rapid drop in <b>2.</b> {{q2}} turns superheated water into steam. To eliminate air pollution, the Carbfix system injects dissolved gases into basalt rock, where reactions with natural <b>3.</b> {{q3}} turn gas into solid stone. Future supercritical wells could deliver massive power while reducing each plant's land <b>4.</b> {{q4}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 5–8",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...electricity and building heating...\"</i>",
+          "<b>Đáp án:</b> <b>E (heating)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...sudden drop in pressure causes superheated fluid to flash into... steam.\"</i>",
+          "<b>Đáp án:</b> <b>B (pressure)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...chemical reactions with basalt minerals...\"</i>",
+          "<b>Đáp án:</b> <b>G (minerals)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...shrinking the surface land footprint of future plants.\"</i>",
+          "<b>Đáp án:</b> <b>C (footprint)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Why did Reykjavik build an underground hot-water pipeline network in 1930?",
+      "options": [
+        "A. To export surplus warm water to coastal fishing ships",
+        "B. To replace smoky coal heating used in wooden houses",
+        "C. To cool down volcanic magma beneath city streets",
+        "D. To supply clean drinking water to rural farms"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Thành phố bị ngộp khói từ đốt than sưởi ấm nhà gỗ, nên từ 1930 lắp ống dẫn nước nóng địa nhiệt.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "How do Reykjavik's sidewalks stay free of snow and ice during winter?",
+      "options": [
+        "A. Workers spread volcanic basalt sand every morning.",
+        "B. Electric heaters inside streetlights warm the ground.",
+        "C. Passing traffic melts snow with engine exhaust.",
+        "D. Leftover geothermal water circulates through pipes under pavements."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Nước ấm dư thừa chạy qua ống nhựa đặt ngầm dưới vỉa hè.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "What health and environmental hazard does the Carbfix project prevent?",
+      "options": [
+        "A. Radioactive dust escaping from deep boreholes",
+        "B. Hot water flooding underground subway tunnels",
+        "C. Toxic gases like hydrogen sulfide polluting nearby air",
+        "D. Chemical de-icing salts washing into ocean fisheries"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Ngăn khí hydrogen sulfide thoát ra gây mùi hôi và viêm hô hấp cho khu dân cư lân cận.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "What makes supercritical fluid inside IDDP wells unusual?",
+      "options": [
+        "A. It behaves as neither normal liquid nor gas and holds ten times more energy.",
+        "B. It remains below freezing point despite sitting five kilometres underground.",
+        "C. It contains zero dissolved minerals or volcanic gases.",
+        "D. It turns directly into solid white stone inside the steel turbines."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Không ở trạng thái lỏng hay khí thông thường và mang động năng gấp 10 lần hơi nước thường.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "The Carbfix project at Hellisheidi was financed directly by foreign oil companies.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Chỉ nói kỹ sư tại nhà máy Hellisheidi triển khai dự án Carbfix, không đề cập nguồn tài trợ.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Geothermal stations can supply reliable baseload electricity regardless of weather conditions.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 6:</b> <i>\"...weather-independent baseload power... deliver steady electricity round the clock...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Carbfix engineers waited more than a decade for injected gases to solidify into rock.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Quá trình hóa đá hoàn thành trong vòng 2 năm (<i>Within two years</i>), không phải hơn 10 năm.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Supercritical boreholes could cut down the surface area required for future power stations.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...sharply shrinking the surface land footprint of future plants.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    }
+  }
+}

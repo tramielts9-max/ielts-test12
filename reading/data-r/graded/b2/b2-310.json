@@ -1,0 +1,216 @@
+{
+  "title": "[B2 • Band 6.0] Bài 310: Giants and Dwarfs: Rethinking the Island Rule",
+  "answers": {
+    "q1": "E",
+    "q2": "B",
+    "q3": "G",
+    "q4": "C",
+    "q5": "F",
+    "q6": "B",
+    "q7": "D",
+    "q8": "A",
+    "q9": "NOT GIVEN",
+    "q10": "YES",
+    "q11": "NO",
+    "q12": "NO"
+  },
+  "passageHtml": "<h2>PASSAGE 310 (LEVEL B2 • BAND 6.0)</h2><h3>Giants and Dwarfs: Rethinking the Island Rule</h3><p><strong>Paragraph 1.</strong> When biologist J. Bristol Foster published a survey of island mammals in 1964, he described a curious pattern that fascinated researchers. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">On isolated oceanic islands, small mainland animals such as rodents often evolved into giants, whereas massive species like elephants and hippos shrank into miniature dwarfs</span>. Fossil deposits in the Mediterranean, Southeast Asia, and California's Channel Islands uncovered dwarf mammoths no taller than ponies and giant rats the size of dogs. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Known as the island rule, or Foster's Rule, this trend was treated for decades as a neat, universal law of island biology</span>.</p><p><strong>Paragraph 2.</strong> In <em>Islands of Time</em>, paleo-biologist Dr. Claire Moreau reassesses Foster's classic model. While acknowledging its dramatic examples, Moreau stresses that early biologists were far too eager to compress messy ecological dynamics into a simple, universal rule. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Island body-size shifts do not result from geographic isolation alone, she argues, but from a delicate balance between freedom from predators and tight limits on food resources</span></span>.</p><p><strong>Paragraph 3.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">On mainland continents, small mammals are kept tiny by heavy predation from hawks and carnivorous mammals, forcing them to hide in narrow burrows</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">When ancestral rodents reach a remote island without mammalian predators, they undergo 'ecological release': freed from hiding, natural selection favours larger bodies that save metabolic energy and dominate competitors for food</span>. Conversely, large mainland herbivores maintain huge body mass mainly as protection against apex hunters like wolves and big cats. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">When transported to small islands, those large predators are almost always absent because restricted island prey cannot feed them</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Without predatory threats requiring huge size, and facing severe food shortages inside narrow island borders, evolution steadily downsized large herbivores</span>.</p><p><strong>Paragraph 4.</strong> However, Moreau's boldest contribution dismantles the idea that the rule applies everywhere. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Analysing a global database of over two thousand living and extinct island populations, Moreau proves that Foster's Rule operates inconsistently. While gigantism and dwarfism hold true in elephants and certain rodents, many mammalian families—including carnivores and bats—display no statistically meaningful trend</span></span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Moreover, Moreau reveals that local climatic swings, rough mountain terrain, and an island's geological age influence body size far more strongly than land surface area alone</span>. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Her findings offer a healthy reminder to science: living nature consistently resists our human urge to force neat, universal formulas onto messy biological diversity</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–G</b>, below.</i>",
+      "endings": [
+        "A. island bats always grow larger than mainland eagles.",
+        "B. physical expansion brings energy savings and helps win food.",
+        "C. many animal families show no clear pattern of size change.",
+        "D. human hunters drove every dwarf elephant to extinction.",
+        "E. small mainland mammals must hide constantly from fierce predators.",
+        "F. huge predators easily survive on tiny islands with few prey.",
+        "G. limited island food and the absence of hunters favour smaller bodies."
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> climate &nbsp;&nbsp; <b>B.</b> universal &nbsp;&nbsp; <b>C.</b> fossils &nbsp;&nbsp; <b>D.</b> carnivores &nbsp;&nbsp; <b>E.</b> height &nbsp;&nbsp; <b>F.</b> balance &nbsp;&nbsp; <b>G.</b> territory",
+      "summaryTitle": "Moreau's Reassessment of Island Evolution",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<p>Dr. Claire Moreau argues that island size changes stem from the <b>5.</b> {{q5}} between predator freedom and scarce food. Unlike earlier scientists who treated Foster's Rule as a <b>6.</b> {{q6}} law, Moreau found it works unevenly. Specifically, large <b>7.</b> {{q7}} rarely survive on islands, while bats show no reliable trend. Finally, local <b>8.</b> {{q8}} and terrain often outweigh simple island area.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "On continents, small rodents stay tiny because",
+      "finalAnswer": "E",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bị săn đuổi nặng nề bởi chim săn mồi và thú ăn thịt nên phải ẩn nấp trong hang nhỏ.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "On predator-free islands, rodents often evolve larger bodies because",
+      "finalAnswer": "B",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Cơ thể lớn giúp tiết kiệm năng lượng và thắng thế trong cạnh tranh thức ăn.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Large herbivores tend to shrink on remote islands because",
+      "finalAnswer": "G",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Không còn thú săn mồi lớn và nguồn thức ăn trên đảo bị thu hẹp.",
+          "<b>Đáp án:</b> <b>G</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Dr. Moreau's global database of over 2,000 populations proved that",
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Nhiều họ thú như thú ăn thịt và dơi không hề có xu hướng biến đổi kích thước rõ rệt.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...delicate balance between freedom from predators and tight limits on food...\"</i>",
+          "<b>Đáp án:</b> <b>F (balance)</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...neat, universal law of island biology.\"</i>",
+          "<b>Đáp án:</b> <b>B (universal)</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3 & 4:</b> <i>\"...including carnivores and bats...\"</i>",
+          "<b>Đáp án:</b> <b>D (carnivores)</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...local climatic swings, rough mountain terrain...\"</i> → <i>climate</i>.",
+          "<b>Đáp án:</b> <b>A (climate)</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Dr. Moreau conducted field excavations in Southeast Asia before publishing her book.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1 & 2:</b> Chỉ nói có hóa thạch tìm thấy ở Đông Nam Á, không hề nói chính bà Moreau trực tiếp đi khai quật ở đó.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Fossil evidence confirms that miniature mammoths once inhabited certain islands.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Fossil deposits... uncovered dwarf mammoths no taller than ponies...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Apex mammalian predators are commonly found thriving on tiny oceanic islands.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Thú săn mồi đầu bảng hầu như vắng mặt trên đảo nhỏ vì không đủ con mồi.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Dr. Moreau concludes that biological rules in science are simple and never change.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Tự nhiên luôn thách thức và chống lại các công thức đơn giản, bất biến của con người.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

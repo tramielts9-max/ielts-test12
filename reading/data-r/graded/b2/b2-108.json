@@ -1,0 +1,271 @@
+{
+  "title": "[B2 • Band 6.0] Bài 108: The Antikythera Mechanism",
+  "answers": {
+    "q1": "C",
+    "q2": "A",
+    "q3": "E",
+    "q4": "F",
+    "q5": "block",
+    "q6": "crank",
+    "q7": "colour",
+    "q8": "tomography",
+    "q9": "B",
+    "q10": "C",
+    "q11": "A",
+    "q12": "D"
+  },
+  "passageHtml": "<h2>PASSAGE 108 (LEVEL B2 • BAND 6.0)</h2><h3>The Antikythera Mechanism</h3><p><strong>Paragraph A.</strong> In the spring of 1900, a crew of Greek sponge divers sailing back from North Africa encountered a fierce Mediterranean storm and anchored for shelter off the rocky island of Antikythera, between Crete and the Peloponnese. Once the gale calmed, diver Elias Stadiatis descended forty-five metres to examine the seabed. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Instead of sponges, he surfaced in terror, babbling about a sea floor strewn with corpses and decaying bronze monsters</span>. Unknowingly, he had stumbled upon the remains of an immense first-century BCE Roman vessel loaded with luxury Greek statues, glassware, and ornamental pottery bound for wealthy Italian buyers.</p><p><strong>Paragraph B.</strong> Over the next year, Greek naval ships and divers conducted one of the first major underwater archaeological rescues in history. Among the crates of marble statues sent to the National Archaeological Museum in Athens was an unremarkable, <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">calcified green <span class=\"kw\">block</span> of bronze and petrified wood</span> pulled from the bottom mud. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">For months, this corroded mass sat neglected in the museum courtyard until May 1902, when it dried out and split apart</span>. Examining the pieces, archaeologist Valerios Stais noticed a finely cut gear wheel with tiny triangular teeth embedded deep inside.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">The discovery immediately sparked fierce academic debate. Early twentieth-century historians firmly believed that complex differential gearwork had originated in medieval Western Europe no earlier than the fourteenth century CE. Consequently, many scholars dismissed Stais's claims, insisting that the gear was merely a modern intruder—perhaps a celestial astrolabe dropped accidentally by a passing fishing boat centuries after the Roman ship sank</span>.</p><p><strong>Paragraph D.</strong> The artifact's real purpose remained a puzzle until the 1970s, when British physicist Derek de Solla Price performed the first X-ray imaging on the calcified fragments. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Price proved that the object was not an astrolabe, but a sophisticated astronomical computer containing at least thirty interlocking gears <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">driven by a single manual <span class=\"kw\">crank</span></span></span>. By turning this mechanism, an operator could calculate and display the positions of the Sun, the Moon, and the five planets recognised in antiquity—Mercury, Venus, Mars, Jupiter, and Saturn—on front dials.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">In 2005, an international team brought an eight-tonne microfocus X-ray <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">tomography</span></span> scanner to Athens to peer through the corroded metal with remarkable clarity. Three-dimensional scans decoded thousands of tiny Greek inscriptions on inner plates, revealing complex cyclical dials on the rear casing</span>. One dial tracked the nineteen-year Metonic calendar cycle. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Another calibrated the eighteen-year Saros sequence capable of forecasting eclipses, complete with symbols predicting the hour, direction, and atmospheric <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"kw\">colour</span></span> of the darkened moon</span>. A smaller dial tracked the four-year Olympiad cycle for ancient Greek athletic games.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Ancient texts had long hinted at such mechanical marvels, with Roman orator Cicero describing a bronze planetarium built by Archimedes in the third century BCE</span>. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">The Antikythera Mechanism confirmed that Hellenistic engineers achieved extraordinary mechanical sophistication, which vanished completely after the collapse of the Roman Empire, leaving no technological equal in Europe for over a millennium</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 108 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Structure and Modern Scanning",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">In Athens, the device initially appeared to be a corroded green <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:8px;\">Price discovered that its thirty gears were powered by turning one manual <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">Rear eclipse dials predicted the exact timing, direction, and <b>7.</b> {{q7}} of the moon.</li><li style=\"margin-bottom:8px;\">In 2005, researchers read hidden Greek text using X-ray <b>8.</b> {{q8}} .</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "why historians initially refused to accept the object's ancient origin",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Giới sử học tin bánh răng phức tạp chỉ xuất hiện từ thế kỷ 14 nên bác bỏ niên đại cổ đại.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "a description of the terrified diver's first underwater sighting",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Thợ lặn Elias Stadiatis trồi lên mặt nước hoảng loạn kể về xác chết và quái vật đồng.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "details of a modern scanning project that decoded hidden Greek text",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Dự án năm 2005 dùng máy quét 8 tấn giải mã hàng ngàn ký tự Hy Lạp bên trong.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "an explanation of how long it took before European engineers matched this technology",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Công nghệ thất truyền sau khi La Mã sụp đổ và không có đối thủ ngang tầm suốt hơn một thiên niên kỷ.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "block",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...calcified green block of bronze...\"</i>",
+          "<b>Từ cần điền:</b> <b>block</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "crank",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...driven by a single manual crank.\"</i>",
+          "<b>Từ cần điền:</b> <b>crank</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "colour",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...hour, direction, and atmospheric colour of the darkened moon.\"</i>",
+          "<b>Từ cần điền:</b> <b>colour</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "tomography",
+      "inputWidth": "130px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...microfocus X-ray tomography scanner...\"</i>",
+          "<b>Từ cần điền:</b> <b>tomography</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why did the corroded mass split open in May 1902?",
+      "options": [
+        "A. Museum workers hit it with heavy iron hammers",
+        "B. It dried out after sitting in the museum courtyard",
+        "C. Divers dropped it while unloading wooden crates",
+        "D. Scientists heated it inside an Athens laboratory"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Khối đồng nằm ngoài sân bảo tàng nhiều tháng cho đến khi khô đi và tự nứt ra (<i>dried out and split apart</i>).",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What did Derek de Solla Price prove in the 1970s?",
+      "options": [
+        "A. The ship had belonged to a medieval Greek sailor",
+        "B. The gears were originally part of a navigation clock",
+        "C. The artifact was a multi-geared astronomical computer",
+        "D. The machine could measure ocean depth accurately"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Price chứng minh đây là máy tính thiên văn gồm ít nhất 30 bánh răng lồng vào nhau.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "What could the Saros cycle dial predict?",
+      "options": [
+        "A. The timing, direction, and hue of upcoming lunar eclipses",
+        "B. The exact arrival dates of Mediterranean storms",
+        "C. The dates when Olympic runners competed in Athens",
+        "D. The positions of newly discovered distant galaxies"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Chu kỳ Saros dự báo nhật/nguyệt thực gồm giờ, hướng và màu sắc mặt trăng bị che khuất.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Why does the writer mention Cicero in the final paragraph?",
+      "options": [
+        "A. To prove that Cicero personally owned the Antikythera Mechanism",
+        "B. To argue that Roman engineers copied medieval European designs",
+        "C. To explain how the mechanism sank near Antikythera island",
+        "D. To show written records already hinted at ancient Greek mechanical devices"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Nhắc đến Cicero mô tả mô hình thiên văn bằng đồng của Archimedes để chứng minh văn bản cổ đã từng đề cập đến các cỗ máy cơ khí tinh xảo.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    }
+  }
+}

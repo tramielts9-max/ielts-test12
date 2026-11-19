@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 305: The Chill of History: The Little Ice Age",
+  "answers": {
+    "q1": "E",
+    "q2": "F",
+    "q3": "B",
+    "q4": "C",
+    "q5": "G",
+    "q6": "D",
+    "q7": "B",
+    "q8": "A",
+    "q9": "C",
+    "q10": "FALSE",
+    "q11": "NOT GIVEN",
+    "q12": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 305 (LEVEL B2 • BAND 6.0)</h2><h3>The Chill of History: Navigating the Little Ice Age</h3><p><strong>Paragraph 1.</strong> Between roughly 1300 and 1850, Earth experienced a protracted cooling phase known to climate scientists as the Little Ice Age. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Although not a true glacial epoch—average global <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">temperatures dropped by only 1°C to 1.5°C</span>—this modest statistical change triggered severe disruptions across Europe, Asia, and North America</span>. Alpine glaciers crept down valleys to crush Swiss villages, London's River Thames froze solid enough to host winter 'frost fairs', and persistent freezing rains ruined harvests, plunging early societies into hunger and unrest.</p><p><strong>Paragraph 2.</strong> In <em>The Frigid Century</em>, historical climatologist Dr. Raymond Douglas challenges the long-standing divide between natural history and political science. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">For generations, conventional historians explained seventeenth-century disasters—including Europe's Thirty Years' War, the English Civil War, and the fall of China's Ming Dynasty—almost entirely through human politics, religious tension, and poor taxation</span>. By combining polar ice-core records, ancient tree-ring data (dendrochronology), and historical crop logs, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Douglas shows that climate cooling acted as an omnipresent 'threat multiplier', pushing strained nations into open conflict and collapse</span>.</p><p><strong>Paragraph 3.</strong> The link between cooling and social crisis ran directly through agriculture. Pre-industrial states survived on razor-thin food surpluses, leaving almost no buffer against bad weather. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">During the coldest decades of the 1600s—coinciding with the Maunder Minimum, an era of remarkably low sunspot activity—<span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">growing seasons contracted by up to four weeks</span></span>. Cold, waterlogged springs rotted planted seeds, dry summers stunted grain growth, and early autumn frosts killed unripe crops before harvest. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">As grain prices soared beyond reach, widespread malnutrition damaged human immunity, allowing devastating outbreaks of typhus and bubonic plague across Eurasia</span></span>.</p><p><strong>Paragraph 4.</strong> Yet Douglas carefully avoids crude environmental determinism—the flawed claim that climate mechanically dictates human history. Instead, identical climatic pressures yielded starkly contrasting outcomes depending on each society's institutional strength. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">In rigid autocracies marked by extreme wealth inequality and forced peasant labour, such as Muscovite Russia and Ottoman Anatolia, climate stress ignited violent uprisings and state fragmentation</span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">By contrast, the Dutch Republic navigated the Little Ice Age with remarkable flexibility. Equipped with large commercial fleets, diversified maritime trade routes, and advanced drainage engineering, Dutch merchants imported grain from the Baltic, converted frozen canals into bustling transport highways for skates and ice-sleds, and expanded urban prosperity amidst regional decline</span></span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Climate does not write human destiny, Douglas concludes; instead, it ruthlessly exposes the hidden strengths and weaknesses of human institutions</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–H</b>, below.</i><br><br><b>A.</b> flexibility &nbsp;&nbsp; <b>B.</b> harvest &nbsp;&nbsp; <b>C.</b> disease &nbsp;&nbsp; <b>D.</b> stability &nbsp;&nbsp; <b>E.</b> temperature &nbsp;&nbsp; <b>F.</b> conflict &nbsp;&nbsp; <b>G.</b> trade &nbsp;&nbsp; <b>H.</b> equality",
+      "summaryTitle": "Climate Volatility and Historical Crises",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<p>During the Little Ice Age, a relatively slight decline in global <b>1.</b> {{q1}} caused severe real-world hardships. Dr. Raymond Douglas uses ice-core and tree-ring records to prove that climatic stress multiplied existing tensions and helped spark political <b>2.</b> {{q2}} . Because pre-industrial farms depended on small surpluses, shorter growing periods and ruined <b>3.</b> {{q3}} cycles pushed grain prices upward. Malnutrition then weakened populations and triggered deadly waves of <b>4.</b> {{q4}} . Nevertheless, the Dutch Republic thrived through flexible infrastructure and diverse maritime <b>5.</b> {{q5}} .</p>"
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 6–9",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 10–12",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Nhiệt độ toàn cầu giảm 1°C đến 1.5°C → <i>temperature</i>.",
+          "<b>Đáp án:</b> <b>E (temperature)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Đẩy các quốc gia vào xung đột và sụp đổ → <i>conflict</i>.",
+          "<b>Đáp án:</b> <b>F (conflict)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Mùa sinh trưởng ngắn lại và sương giá phá hủy mùa thu hoạch → <i>harvest</i>.",
+          "<b>Đáp án:</b> <b>B (harvest)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Suy dinh dưỡng dẫn đến bùng phát dịch sốt phát ban và dịch hạch → <i>disease</i>.",
+          "<b>Đáp án:</b> <b>C (disease)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Hạm đội thương mại và mạng lưới giao thương hàng hải đa dạng → <i>trade</i>.",
+          "<b>Đáp án:</b> <b>G (trade)</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "What is Dr. Raymond Douglas's central argument in The Frigid Century?",
+      "options": [
+        "A. Historical ice cores prove that solar activity never affects Earth's weather.",
+        "B. Natural climate shifts always destroy democratic countries faster than empires.",
+        "C. Modern industrial pollution is far less dangerous than seventeenth-century cold.",
+        "D. Climate stress acts as an environmental test that reveals institutional weaknesses."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5 (câu cuối):</b> Khí hậu không tự định đoạt số phận mà phơi bày điểm mạnh/yếu của các thiết chế xã hội.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "How did conventional historians traditionally explain seventeenth-century political upheavals?",
+      "options": [
+        "A. By focusing mainly on solar sunspot cycles and rainfall",
+        "B. By attributing crises exclusively to human decisions, religion, and taxation",
+        "C. By blaming Dutch shipping companies for raising Baltic grain prices",
+        "D. By studying tree-ring measurements across northern Europe"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Các sử gia cũ quy hoàn toàn cho chính trị, xung đột tôn giáo và thuế khóa kém.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "According to Paragraph 3, how did cooling trigger deadly epidemics across Eurasia?",
+      "options": [
+        "A. Shortened seasons ruined harvests, causing malnutrition that weakened immunity.",
+        "B. Frozen rivers trapped ships carrying medical supplies from Asia.",
+        "C. Warm winter winds carried infectious bacteria directly from Russia.",
+        "D. Farmers abandoned grain fields permanently to build ice-sleds."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Mùa màng ngắn → mất mùa → giá lương thực tăng vọt → suy dinh dưỡng hại miễn dịch → dịch bệnh.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "How does Douglas prove that climate alone does not determine human history?",
+      "options": [
+        "A. By showing that Asian dynasties experienced zero cooling after 1600",
+        "B. By proving that historical harvest records from Europe were forged",
+        "C. By contrasting rigid collapsing empires with the adaptable Dutch Republic",
+        "D. By demonstrating that London's frost fairs stopped all river transport"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4 & 5:</b> Đối lập giữa Nga/Ottoman sụp đổ và Cộng hòa Hà Lan phát triển dưới cùng áp lực khí hậu.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "The Little Ice Age lowered global temperatures to the same level as a major glacial epoch.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"Although not a true glacial epoch...\"</i> (chỉ giảm 1–1.5°C).",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Peasant uprisings in Ottoman Anatolia lasted longer than those in Muscovite Russia.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Cả Nga và Ottoman đều gặp bạo loạn, nhưng không có so sánh nơi nào kéo dài lâu hơn.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "The Maunder Minimum occurred during some of the coldest decades of the seventeenth century.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"During the coldest decades of the 1600s—coinciding with the Maunder Minimum...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

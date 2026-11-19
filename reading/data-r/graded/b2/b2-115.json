@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 115: The Hydraulic Architecture of Petra",
+  "answers": {
+    "q1": "C",
+    "q2": "E",
+    "q3": "A",
+    "q4": "F",
+    "q5": "FALSE",
+    "q6": "TRUE",
+    "q7": "NOT GIVEN",
+    "q8": "TRUE",
+    "q9": "B",
+    "q10": "A",
+    "q11": "C",
+    "q12": "D"
+  },
+  "passageHtml": "<h2>PASSAGE 115 (LEVEL B2 • BAND 6.0)</h2><h3>The Hydraulic Architecture of Petra</h3><p><strong>Paragraph 1.</strong> Concealed inside the rose-tinted sandstone canyons of southern Jordan, ancient Petra ranked among the wealthiest trading centres of the classical world. Serving as the capital of the Nabataean kingdom from the fourth century BCE to the early second century CE, Petra dominated vital desert crossroads where frankincense, myrrh, and silk caravans linked southern Arabia, Egypt, and India. Yet the city's famous carved stone temples obscure an equally remarkable achievement: a sophisticated hydraulic network that allowed twenty thousand inhabitants to thrive in a desert basin receiving barely 150 millimetres of annual rainfall.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Geography confronted Petra's builders with a striking water paradox</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Sitting inside an arid sandstone bowl surrounded by rugged mountains, the city faced severe drought for most of the year, while porous sandy soils caused surface streams to disappear rapidly</span>. Yet during winter, sudden downpours on bare highland plateaus produced <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">catastrophic flash floods that poured straight into the Siq, the narrow, mile-long gorge forming Petra's main entrance</span>. To eliminate this hazard, engineers built a thirteen-metre stone diversion dam outside the gorge. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Adjoining the dam, workers excavated an eighty-eight-metre bypass tunnel directly through solid bedrock, routing surging stormwaters safely into a neighbouring dry valley</span>.</p><p><strong>Paragraph 3.</strong> With flood dangers neutralized, Nabataean engineers converted winter storms into a reliable year-round supply. Using chisels along natural hillsides, they carved extensive open channels and installed covered terra-cotta pipelines extending tens of kilometres from distant springs such as Ain Musa. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Freshwater travelled from the mountains into the urban core entirely through gravity, without mechanical pumps</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Ceramic pipe sections were joined with waterproof natural lime mortar</span> and <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">positioned at a precise four-degree descent gradient, creating smooth, steady flow that prevented pressure surges and pipe erosion</span>.</p><p><strong>Paragraph 4.</strong> To guarantee municipal security through dry summers, builders constructed hundreds of subterranean cisterns and basins capable of holding over forty million litres. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Sedimentation tanks placed strategically along pipeline routes slowed incoming currents, allowing suspended sand and mineral debris to settle on the floor so only purified water continued forward</span></span>. Thanks to these reserves, Petra supported far more than basic survival: the desert metropolis featured public fountains, heated bathhouses, and lush terraced gardens watered by artificial channels.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The eventual collapse of Petra's hydraulic empire stemmed from shifting commerce and geological disaster</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Following the Roman annexation under Emperor Trajan in 106 CE, international trade gradually moved northward toward Palmyra and Red Sea shipping lanes, steadily eroding Petra's commercial wealth</span>. The decisive blow struck in 363 CE, when a severe earthquake flattened major districts and shattered underground cisterns and aqueducts. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Unable to gather the funds or labour needed to rebuild such an intricate water grid, surviving residents gradually abandoned the city</span>, leaving its stone wonders to be buried by desert sands.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> slope &nbsp;&nbsp; <b>B.</b> storage &nbsp;&nbsp; <b>C.</b> floods &nbsp;&nbsp; <b>D.</b> commerce &nbsp;&nbsp; <b>E.</b> gravity &nbsp;&nbsp; <b>F.</b> sand &nbsp;&nbsp; <b>G.</b> collapse",
+      "summaryTitle": "Managing Water in Ancient Petra",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>During winter storms, sudden <b>1.</b> {{q1}} threatened the main canyon entrance until engineers built a diversion dam and rock tunnel. To bring fresh spring water into the city, Nabataeans used clay pipes powered solely by <b>2.</b> {{q2}} . Laying the pipes at a gentle four-degree <b>3.</b> {{q3}} protected them from water pressure damage, while settling tanks cleared out heavy <b>4.</b> {{q4}} before drinking water reached public fountains and baths.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"catastrophic flash floods that poured straight into the Siq...\"</i>",
+          "<b>Đáp án:</b> <b>C (floods)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...entirely through gravity...\"</i>",
+          "<b>Đáp án:</b> <b>E (gravity)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...four-degree descent gradient...\"</i> → độ dốc (<i>slope</i>).",
+          "<b>Đáp án:</b> <b>A (slope)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...allowing suspended sand and mineral debris to settle...\"</i>",
+          "<b>Đáp án:</b> <b>F (sand)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Annual rainfall in the Petra basin was sufficient for farming without artificial water systems.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1 & 2:</b> Lượng mưa chỉ 150mm/năm và hạn hán kéo dài, buộc phải có hệ thống dẫn/trữ nước nhân tạo.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Nabataean engineers used waterproof mortar to seal joints between ceramic pipe sections.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"Ceramic pipe sections were joined with waterproof natural lime mortar...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Roman Emperor Trajan financed repairs to Petra's underground reservoirs after 106 CE.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chỉ nhắc Trajan sáp nhập Petra năm 106 CE, không đề cập việc ông tài trợ sửa bể nước.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Petra's economic decline started long before the earthquake of 363 CE.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Từ sau năm 106 CE thương mại đã dịch chuyển làm xói mòn sự giàu có của Petra trước trận động đất năm 363 CE.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why did Petra's geography present a 'water paradox'?",
+      "options": [
+        "A. Mountain springs were too salty for residents to drink safely.",
+        "B. The dry desert city still suffered from violent winter floods.",
+        "C. Deep sandstone rocks blocked workers from digging wells.",
+        "D. Heavy rainfall evaporated before reaching the Siq canyon."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Mùa khô thì hạn hán gay gắt, nhưng mùa đông mưa lớn lại gây lũ quét tàn phá.",
+          "<b>Kết luận:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "How did the 88-metre bypass tunnel protect Petra?",
+      "options": [
+        "A. It directed floodwaters away from the narrow Siq entrance.",
+        "B. It stored drinking water directly beneath Mount Khubtha.",
+        "C. It carried hot water from mountain springs into bathhouses.",
+        "D. It allowed merchant caravans to bypass Roman border guards."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Đường hầm dẫn nước lũ sang thung lũng bên cạnh, tránh tràn vào hẻm núi Siq.",
+          "<b>Kết luận:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "What was the main function of the sedimentation tanks?",
+      "options": [
+        "A. To cool down hot spring water before it entered homes.",
+        "B. To increase water pressure inside steep clay pipelines.",
+        "C. To let sand and heavy debris drop out of the water.",
+        "D. To collect winter rainwater falling directly onto city roofs."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Làm chậm dòng chảy để cát và cặn lắng xuống đáy, giữ nước trong sạch.",
+          "<b>Kết luận:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Why were residents unable to restore Petra after the 363 CE earthquake?",
+      "options": [
+        "A. Roman soldiers forbade anyone from entering the ruins.",
+        "B. All nearby natural springs had completely dried up.",
+        "C. Desert storms destroyed every clay quarry near the city.",
+        "D. Lost trade had left the city without enough money or workers."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"Unable to gather the funds or labour needed to rebuild...\"</i> do thương mại đã suy giảm từ trước.",
+          "<b>Kết luận:</b> <b>D</b>."
+        ]
+      }
+    }
+  }
+}

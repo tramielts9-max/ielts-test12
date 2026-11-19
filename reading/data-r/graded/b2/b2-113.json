@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 113: The Vanilla Orchid: From Mesoamerica to Global Spice",
+  "answers": {
+    "q1": "F",
+    "q2": "C",
+    "q3": "A",
+    "q4": "B",
+    "q5": "TRUE",
+    "q6": "NOT GIVEN",
+    "q7": "NOT GIVEN",
+    "q8": "TRUE",
+    "q9": "C",
+    "q10": "B",
+    "q11": "A",
+    "q12": "D"
+  },
+  "passageHtml": "<h2>PASSAGE 113 (LEVEL B2 • BAND 6.0)</h2><h3>The Vanilla Orchid: From Mesoamerica to Global Spice</h3><p><strong>Paragraph 1.</strong> Winding through the tropical rainforests of Mesoamerica, <em>Vanilla planifolia</em> is the only species of the orchid family cultivated for human food. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Celebrated globally for its rich, sweet aroma, vanilla ranks as the second most expensive spice on the world market, exceeded only by saffron</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The dark-brown bean sold in stores originates as an odourless green seed pod that must undergo an intricate series of post-harvest chemical treatments over several months to release natural vanillin</span>.</p><p><strong>Paragraph 2.</strong> For centuries, the cultivation and curing of vanilla remained a closely guarded secret among the Totonac people along Mexico's eastern coast. According to local myth, the climbing vine sprang from the blood of a young goddess punished for disobeying her father. After conquering the region in the fifteenth century, <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">the Aztec Empire forced the Totonacs to surrender their prized harvest as annual tribute</span>. The Aztecs referred to the spice as <em>tlilxochitl</em> ('black flower') and blended it into <em>xocolatl</em>, an elite ceremonial beverage made from ground cacao beans, maize, and wild honey.</p><p><strong>Paragraph 3.</strong> Following Spain's conquest of the Aztecs in 1519, explorers transported vanilla pods across the Atlantic, where the fragrance quickly delighted European elites. Yet attempts to grow the crop abroad failed completely for over three centuries. Although botanists in Britain, France, and Belgium cultivated vigorous vines with pale-yellow blooms inside heated glasshouses, not a single seed pod developed. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">The obstacle was anatomical: inside the blossom, <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">a delicate flap known as the rostellum acts as a physical barrier separating the pollen-bearing anther from the female stigma</span></span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">In Mexico, native stingless bees and hummingbirds naturally bypassed this membrane, but European greenhouses lacked these native pollinators</span></span>.</p><p><strong>Paragraph 4.</strong> Global vanilla production only became possible in 1841 on the French island of Réunion in the Indian Ocean. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">A twelve-year-old enslaved boy named Edmond Albius devised a practical breakthrough: using a thin splinter of bamboo and his thumb, he lifted the rostellum and pressed the sticky pollen directly onto the stigma</span></span>. Requiring only seconds per blossom, this manual method transformed Réunion into a major exporter and soon spread to neighbouring Madagascar, which today supplies over eighty percent of the world's natural vanilla.</p><p><strong>Paragraph 5.</strong> Even with modern agricultural tools, natural vanilla farming remains remarkably demanding. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Because every individual blossom opens at dawn and wilts permanently by midday, farm workers must inspect vines daily and pollinate each flower manually during the brief morning hours</span>. Once fertilised, pods require nine months to reach full size, followed by months of sweating, sun-drying, and wooden-crate conditioning. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">This enormous human effort explains why over ninety-nine percent of modern consumer products labelled 'vanilla' contain no natural orchid extract at all, relying instead on synthetic vanillin manufactured from petrochemicals or wood-pulp byproducts</span></span>.</p><p><strong>Paragraph 6.</strong> Today, the contrast between botanical vanilla and industrial flavouring highlights a familiar tension in global agriculture. While artificial vanillin satisfies mass-market demand cheaply and consistently, food scientists acknowledge that it reproduces only a single chemical note, missing hundreds of subtle aromatic compounds present in cured beans. Supporting fair wages for small farmers in Madagascar and Mexico therefore remains essential if authentic artisanal vanilla is to survive alongside inexpensive laboratory substitutes.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> barrier &nbsp;&nbsp; <b>B.</b> synthetic &nbsp;&nbsp; <b>C.</b> pollinators &nbsp;&nbsp; <b>D.</b> manual &nbsp;&nbsp; <b>E.</b> aroma &nbsp;&nbsp; <b>F.</b> tribute &nbsp;&nbsp; <b>G.</b> infertile",
+      "summaryTitle": "The Global Journey of Vanilla",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>In the fifteenth century, the Totonac people were forced to hand over vanilla harvests to the Aztec Empire as annual <b>1.</b> {{q1}} . Later, when Europeans tried to farm the orchid in greenhouses, the flowers produced no pods because the plants were separated from their native Mexican <b>2.</b> {{q2}} , and an internal membrane acted as a physical <b>3.</b> {{q3}} against self-fertilisation. Today, because hand-pollination is so costly, nearly all mass-market vanilla goods rely on <b>4.</b> {{q4}} compounds instead of real beans.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information given in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...forced the Totonacs to surrender their prized harvest as annual tribute.\"</i>",
+          "<b>Đáp án:</b> <b>F (tribute)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...European greenhouses lacked these native pollinators.\"</i>",
+          "<b>Đáp án:</b> <b>C (pollinators)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...the rostellum acts as a physical barrier...\"</i>",
+          "<b>Đáp án:</b> <b>A (barrier)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>\"...relying instead on synthetic vanillin...\"</i>",
+          "<b>Đáp án:</b> <b>B (synthetic)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Vanilla ranks just behind saffron in global spice prices.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...second most expensive spice on the world market, exceeded only by saffron.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "European botanists imported Mexican stingless bees that died quickly in cold weather.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Bài chỉ nói nhà kính châu Âu thiếu ong bản địa Mexico, hoàn toàn không nói người châu Âu có nhập ong sang rồi ong bị chết rét hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Edmond Albius was immediately freed from slavery after inventing hand-pollination.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài có nhắc Edmond Albius là cậu bé nô lệ, nhưng không đề cập cậu có được trả tự do ngay sau phát minh hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Vanilla pods must be picked and cured for months before natural vanillin develops.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...must undergo an intricate series of post-harvest chemical treatments over several months to release natural vanillin.\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why did European greenhouse vanilla vines fail to produce seed pods?",
+      "options": [
+        "A. The soil inside European greenhouses lacked tropical minerals.",
+        "B. Heated glasshouses prevented the vines from growing any flowers.",
+        "C. An internal flower structure blocked self-pollination without native insects.",
+        "D. Explorers damaged the roots while crossing the Atlantic Ocean."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Màng <i>rostellum</i> ngăn hạt phấn chạm vào nhụy cái và nhà kính thiếu ong bản địa giúp vượt qua màng này.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "How did Edmond Albius overcome the flower's anatomical barrier?",
+      "options": [
+        "A. He bred local Indian Ocean hummingbirds inside glass cages.",
+        "B. He used a thin bamboo piece and his thumb to lift the membrane.",
+        "C. He cut away the outer petals before the sun rose at dawn.",
+        "D. He sprayed warm honey water onto the flower's anther."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...using a thin splinter of bamboo and his thumb, he lifted the rostellum and pressed the sticky pollen directly onto the stigma.\"</i>",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Why must modern farm workers pollinate vanilla blossoms before noon?",
+      "options": [
+        "A. Each blossom stays open for only a few hours after sunrise.",
+        "B. Afternoon rainstorms wash all sticky pollen off the vines.",
+        "C. Stingless bees attack workers during the hottest hours.",
+        "D. Morning sunlight helps pods ripen in nine weeks instead of months."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Hoa nở lúc bình minh và héo vĩnh viễn vào buổi trưa (<i>opens at dawn and wilts permanently by midday</i>).",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "What explains the widespread use of artificial vanillin in commercial food products?",
+      "options": [
+        "A. Consumers prefer the sharp chemical taste of petrochemical flavouring.",
+        "B. Natural vanilla pods spoil within days unless mixed with wood pulp.",
+        "C. Most governments forbid importing natural vanilla from Madagascar.",
+        "D. Producing natural vanilla requires intensive manual labour and long curing."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Chính công sức lao động thủ công khổng lồ (<i>enormous human effort</i>) khiến >99% sản phẩm phải dùng vanillin nhân tạo.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    }
+  }
+}

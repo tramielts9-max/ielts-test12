@@ -1,0 +1,271 @@
+{
+  "title": "[B2 • Band 6.0] Bài 112: The Terracotta Army of Xi'an",
+  "answers": {
+    "q1": "A",
+    "q2": "C",
+    "q3": "D",
+    "q4": "E",
+    "q5": "A",
+    "q6": "D",
+    "q7": "B",
+    "q8": "G",
+    "q9": "B",
+    "q10": "C",
+    "q11": "D",
+    "q12": "A"
+  },
+  "passageHtml": "<h2>PASSAGE 112 (LEVEL B2 • BAND 6.0)</h2><h3>The Terracotta Army of Xi'an</h3><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">In March 1974, during a prolonged drought in northern China's Shaanxi province, local farmers attempted to dig an irrigation well roughly 1.5 kilometres east of Mount Li. Digging deep through dry red earth, their shovels struck baked clay, soon uncovering life-sized terracotta heads, bronze spear points, and broken earthenware limbs</span>. Unknowingly, the villagers had breached the outer perimeter of the burial complex built for Qin Shi Huang, the first emperor of unified China, who died in 210 BCE.</p><p><strong>Paragraph B.</strong> Subsequent excavations revealed a subterranean necropolis spanning approximately 56 square kilometres, with an entire clay army distributed across four major pits. Pit 1, the largest chamber, contains around 6,000 soldiers alongside forty wooden chariots, <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">positioned in disciplined battle formation facing eastward—the direction from which conquered rival states might launch a spiritual counterattack</span>. Figures reflect distinct military ranks, including kneeling crossbow archers, armoured foot soldiers, charioteers, and commanding generals.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">The production of this army reveals remarkable ancient industrial organisation. Craftsmen used local loess clay fired in subterranean kilns above 900 degrees Celsius. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">To maintain structural stability and balance, artisans constructed the legs as solid clay cylinders, while upper torsos and heads were built hollow from coiled clay</span>. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Instead of stamping uniform faces from a single master mould, workshops used generic templates before sculptors hand-carved unique ears, mustaches, hairstyles, and expressions</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">For strict accountability, every foreman stamped his name into the wet clay prior to firing so defective workmanship could be traced and punished</span></span>.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">When archaeologists first entered the sealed chambers, the army looked dramatically different from the monotone grey figures seen in modern museums. Every warrior originally displayed vivid polychromatic lacquer—vermilion red, malachite green, lapis lazuli blue, and synthetic Han purple. Sadly, the statues had rested inside waterlogged silt for two millennia. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Upon exposure to dry modern air, the swollen lacquer lost its moisture within seconds, flaking away and destroying the paint within four minutes</span>. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Consequently, major digging halted until specialized moisture-preservation techniques could be developed</span></span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">The clay soldiers carried real bronze weaponry, including thousands of arrowheads and double-edged swords that remained remarkably sharp and rust-free after two thousand years underground. Early metallurgical tests sparked a popular belief that Qin artisans had invented an advanced anti-rust chromium plating process. However, <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">modern scanning electron microscopy refuted this theory: tiny chromium traces originated merely from tree lacquer applied to adjacent wooden scabbards and handles</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">The true preservative was the surrounding soil, whose alkaline chemistry and tightly packed clay shielded the bronze from air and water</span></span>.</p><p><strong>Paragraph F.</strong> Over the past half-century, the Terracotta Army has reshaped historians' understanding of early Chinese engineering and state power. While the emperor's central burial mound remains sealed to protect potential fragile treasures inside, ongoing non-invasive scanning continues to reveal details about ancient kilns, pigment chemistry, and workshop logistics, ensuring this silent clay legion remains a vital bridge to the Qin Dynasty.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 112 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> balance &nbsp;&nbsp; <b>B.</b> moisture &nbsp;&nbsp; <b>C.</b> uniforms &nbsp;&nbsp; <b>D.</b> accountability &nbsp;&nbsp; <b>E.</b> corrosion &nbsp;&nbsp; <b>F.</b> moulds &nbsp;&nbsp; <b>G.</b> soil",
+      "summaryTitle": "Construction and Preservation",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<p>To ensure proper weight and <b>5.</b> {{q5}} , statue legs were crafted from solid clay while upper sections remained hollow. Officials enforced strict <b>6.</b> {{q6}} by requiring artisans to stamp their names onto each figure before firing. Unfortunately, ancient painted colours peeled quickly after excavation because the underlying lacquer lost its <b>7.</b> {{q7}} in dry air. By contrast, bronze weapons survived intact because dense, alkaline <b>8.</b> {{q8}} blocked air and dampness.</p>"
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "an accidental discovery by villagers during a period of dry weather",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Nông dân đào giếng tưới tiêu trong đợt hạn hán (<i>prolonged drought</i>) tháng 3/1974 và vô tình tìm thấy tượng.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "production methods designed to stabilize statues and personalize their faces",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Giải thích cách làm chân đặc giữ thăng bằng và gọt chi tiết mặt thủ công để mỗi tượng có nét riêng.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "how contact with modern air ruined the original painted surfaces",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Mô tả lớp sơn mài bị khô trong vài giây khi gặp không khí khô hiện đại khiến màu bong tróc trong 4 phút.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "scientific testing that overturned a popular theory about ancient weapons",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Kính hiển vi điện tử quét bác bỏ giả thuyết mạ crom chống gỉ cổ đại.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"To maintain structural stability and balance, artisans constructed the legs as solid clay cylinders...\"</i>",
+          "<b>Đáp án:</b> <b>A (balance)</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"For strict accountability, every foreman stamped his name...\"</i>",
+          "<b>Đáp án:</b> <b>D (accountability)</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...the swollen lacquer lost its moisture within seconds...\"</i>",
+          "<b>Đáp án:</b> <b>B (moisture)</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "G",
+      "inputWidth": "80px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"The true preservative was the surrounding soil...\"</i>",
+          "<b>Đáp án:</b> <b>G (soil)</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Why were the statues in Pit 1 arranged facing eastward?",
+      "options": [
+        "A. To greet the rising morning sun each day.",
+        "B. To guard against spiritual attacks from conquered eastern states.",
+        "C. To allow workers to carry heavy clay legs more easily.",
+        "D. To point toward the closest underground water well."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Quay mặt về hướng đông — hướng các nước bại trận có thể phản công về mặt tâm linh.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "How did workshops avoid producing identical faces on the soldiers?",
+      "options": [
+        "A. They built every soldier using different types of imported stone.",
+        "B. They invited foreign artists from Mount Li to paint portraits.",
+        "C. Sculptors carved individual facial features by hand onto basic templates.",
+        "D. Each artisan invented a separate firing kiln for every statue."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Dùng khuôn mặt cơ bản rồi điêu khắc thủ công tai, râu, kiểu tóc và biểu cảm riêng.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Why did archaeologists temporarily pause major excavations in the pits?",
+      "options": [
+        "A. Underground water flooded the main four chambers.",
+        "B. They feared the bronze weapons might harm the workers.",
+        "C. Local farmers protested against losing their agricultural wells.",
+        "D. They needed time to invent methods to stop ancient lacquer from flaking."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Dừng khai quật để phát triển kỹ thuật giữ ẩm bảo vệ lớp sơn màu.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "What did scanning electron microscopy show about the chromium found on the blades?",
+      "options": [
+        "A. It came from tree lacquer used on nearby weapon handles and cases.",
+        "B. It was applied through advanced electrical plating in 210 BCE.",
+        "C. It originated from red drought dust blown into the tomb in 1974.",
+        "D. It was added by modern conservators to prevent museum rust."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Vết crom siêu nhỏ bắt nguồn từ sơn mài cây trên vỏ kiếm và tay cầm bằng gỗ kế bên.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    }
+  }
+}

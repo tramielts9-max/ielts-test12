@@ -1,0 +1,247 @@
+{
+  "title": "[B2 • Band 6.0] Bài 210: The Internal Clockwork: Chronobiology",
+  "answers": {
+    "q1": "D",
+    "q2": "F",
+    "q3": "B",
+    "q4": "E",
+    "q5": "NOT GIVEN",
+    "q6": "FALSE",
+    "q7": "TRUE",
+    "q8": "FALSE",
+    "q9": "pacemaker",
+    "q10": "melatonin",
+    "q11": "triples",
+    "q12": "injuries"
+  },
+  "passageHtml": "<h2>PASSAGE 210 (LEVEL B2 • BAND 6.0)</h2><h3>The Internal Clockwork: Chronobiology and the Modern Workplace</h3><p><strong>Paragraph A.</strong> Throughout human evolution, human biology operated strictly according to the daily cycle of sunlight and darkness. Virtually every cell within the body runs on a genetically coded twenty-four-hour circadian clock regulating core body temperature, digestive enzymes, immune responses, and cortisol levels. At the top of this system sits the suprachiasmatic nucleus (SCN), a tiny cluster of twenty thousand neurons inside the hypothalamus. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Serving as a master <span class=\"kw\">pacemaker</span>, the SCN coordinates cellular clocks across distant organs through neural and hormonal messages</span>.</p><p><strong>Paragraph B.</strong> Modern electric lighting and twenty-four-hour economies have fractured this ancient alignment. Millions of employees must perform demanding tasks during hours when their physiology expects sleep. Chronobiologists identify three main circadian types, or 'chronotypes': morning 'larks', intermediate types, and evening 'owls'. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Crucially, an individual's chronotype stems largely from inherited variations in the PER and CRY clock gene families and cannot simply be altered through personal willpower or moral discipline</span>.</p><p><strong>Paragraph C.</strong> When fixed work schedules conflict fundamentally with an employee's biological clock, the resulting strain is known as 'social jetlag'. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">In an epidemiological survey covering more than fifty thousand European workers, chronobiologist Dr. Till Roenneberg found that over seventy percent suffer at least two hours of social jetlag each workday</span>. Roenneberg explains that forcing an evening chronotype out of bed at 6:00 AM is biologically identical to making a morning type work through midnight: <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">the body temperature remains depressed while the brain stays flooded with <span class=\"kw\">melatonin</span></span>.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">The safety costs of circadian mismatch are severe in high-risk industries such as healthcare, aviation, chemical plants, and nuclear power</span>. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">At 4:00 AM, human alertness drops to its daily minimum: reaction times slow by up to fifty percent, attention lapses multiply, and human operational error <span class=\"kw\">triples</span></span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Historical forensic reviews reveal that major twentieth-century disasters—including the Chernobyl nuclear accident and the Exxon Valdez tanker grounding—occurred during early-morning shifts when exhausted operators misread critical instruments</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Over decades, chronic night-shift labour also elevates risks of Type 2 diabetes, cardiovascular disease, and gastrointestinal cancers</span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">To address this occupational crisis, progressive companies are abandoning uniform nine-to-five timetables in favour of chronotype-based scheduling. In a corporate trial across three German manufacturing plants, workers underwent genetic testing and were assigned early, standard, or late shifts matching their internal clocks. Within six months, absenteeism dropped by twenty-eight percent, <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">workplace <span class=\"kw\">injuries</span> declined dramatically</span>, and job satisfaction rose sharply</span>.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">In parallel, lighting engineers are designing dynamic circadian LED fixtures for windowless workplaces. These systems deliver cool, blue-enriched illumination during morning hours to curb daytime drowsiness, then shift gradually toward warm, amber wavelengths in the late afternoon so natural melatonin production is preserved</span></span>. As firms confront rising burnout and healthcare costs, respecting the non-negotiable biology of the internal clock is emerging as a decisive workplace reform.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 210 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the information given in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 9–12",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "Biology and Reform of Work Timetables",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ],
+      "template": "<p>The body's internal clock is directed by the SCN, which acts as a master <b>9.</b> {{q9}} syncing organs to light and darkness. When evening chronotypes are forced awake at 6:00 AM, their brains are still filled with <b>10.</b> {{q10}} . Around 4:00 AM, alertness falls sharply and human error <b>11.</b> {{q11}} . Fortunately, German factories that matched work shifts to workers' genetics saw dramatic drops in both absenteeism and workplace <b>12.</b> {{q12}} .</p>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "historical evidence linking early-morning fatigue to major industrial disasters",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Thảm họa Chernobyl và tàu dầu Exxon Valdez xảy ra lúc rạng sáng do nhân viên mệt mỏi.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "how lighting designers adjust indoor light wavelengths across the workday",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Đèn LED phát ánh sáng xanh buổi sáng để tỉnh táo và chuyển sang màu hổ phách ấm vào chiều muộn.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "why personal effort alone cannot permanently alter natural sleep preferences",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Nhịp sinh học do biến thể di truyền gen PER và CRY quyết định, không đổi được bằng ý chí.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "measurable results from a trial matching shift times to employees' genetics",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Thử nghiệm tại 3 nhà máy Đức giảm 28% nghỉ phép và giảm mạnh tai nạn lao động.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Nuclear plant operators in the twentieth century earned higher wages than oil tanker staff.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Bài có nhắc cả thảm họa hạt nhân và tàu dầu nhưng không đề cập tiền lương.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Most European employees experience less than one hour of social jetlag on workdays.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Hơn 70% người lao động châu Âu bị ít nhất 2 giờ social jetlag mỗi ngày làm việc.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Working night shifts for many years increases the statistical risk of heart disease.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...elevates risks of Type 2 diabetes, cardiovascular disease...\"</i>",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Morning blue-enriched LED lights are designed to increase melatonin levels before noon.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Đèn xanh buổi sáng giúp giảm buồn ngủ (ức chế buồn ngủ), còn ánh sáng ấm buổi chiều mới giúp bảo toàn melatonin.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "pacemaker",
+      "inputWidth": "120px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> <i>\"Serving as a master pacemaker...\"</i>",
+          "<b>Từ cần điền:</b> <b>pacemaker</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "melatonin",
+      "inputWidth": "120px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...brain stays flooded with melatonin.\"</i>",
+          "<b>Từ cần điền:</b> <b>melatonin</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "finalAnswer": "triples",
+      "inputWidth": "110px",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...human operational error triples.\"</i>",
+          "<b>Từ cần điền:</b> <b>triples</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "finalAnswer": "injuries",
+      "inputWidth": "110px",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...workplace injuries declined dramatically...\"</i>",
+          "<b>Từ cần điền:</b> <b>injuries</b>."
+        ]
+      }
+    }
+  }
+}

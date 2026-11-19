@@ -1,0 +1,269 @@
+{
+  "title": "[B2 • Band 6.0] Bài 313: Rewilding the Mind: Ecology and Control",
+  "answers": {
+    "q1": "D",
+    "q2": "A",
+    "q3": "E",
+    "q4": "C",
+    "q5": "C",
+    "q6": "A",
+    "q7": "D",
+    "q8": "B",
+    "q9": "YES",
+    "q10": "NO",
+    "q11": "NOT GIVEN",
+    "q12": "NO"
+  },
+  "passageHtml": "<h2>PASSAGE 313 (LEVEL B2 • BAND 6.0)</h2><h3>Rewilding the Mind: Ecology, Control, and Natural Process</h3><p><strong>Paragraph A.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">For much of the twentieth century, conventional conservation operated like museum curation. Protected parks were treated as static exhibits frozen at a chosen historical baseline, typically the pre-industrial countryside of the nineteenth century</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">In parks across Europe and North America, rangers eliminated predators, cleared fallen timber, and drained marshes to maintain picturesque scenery for tourists. Yet in <em>Feral</em>, environmental thinker George Monbiot argues that this constant intervention has damaged nature, producing ecologically poor landscapes disguised as pristine wilderness</span>.</p><p><strong>Paragraph B.</strong> Monbiot champions 'rewilding'—an ecological approach that rejects human micromanagement in favour of self-regulating natural processes. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Crucially, rewilding does not try to recreate one exact historical century or tidy aesthetic picture; instead, it removes human barriers and allows ecological dynamics to unfold freely</span>. Central to this approach is restoring apex predators and keystone species such as wolves, lynx, and beavers, whose presence prevents destructive population imbalances.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">When apex predators are wiped out from an ecosystem, herbivore numbers such as deer explode rapidly. Unchecked herds overgraze young tree saplings, block forest regeneration, and strip habitats of rich plant layers</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Removing one top hunter therefore triggers a chain reaction that weakens every lower level of the food web</span>.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\"><span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">The clearest demonstration of rewilding occurred in Yellowstone National Park after gray wolves were reintroduced in 1995. Returning wolves not only trimmed oversized elk herds, they fundamentally changed where elk grazed. Wary of ambush, elk avoided open valleys and riverbanks, letting decimated willows and aspens recover within years. Returning waterside trees anchored eroding banks, shaded cool streams for trout, and fed beavers, whose new dams formed wetlands attracting frogs, songbirds, and waterfowl—literally reshaping the physical geography of rivers</span></span></span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Despite such ecological success, rewilding confronts strong social and political opposition. Rural agricultural lobbies and sheep farmers see rewilding as an existential threat to traditional livelihoods and countryside heritage. Meanwhile, urban conservation agencies often mistrust wild, self-organising landscapes because their unpredictable outcomes clash with tidy bureaucratic schedules</span></span></span>.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Monbiot concludes that rewilding is as much about human psychology as ecology. It challenges civilisation's deep-seated impulse to dominate, tidy, and control the natural world, offering instead a humble invitation to coexist with genuine ecological autonomy</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 313 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 5–8",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "an example showing how returning a predator changed both riverbanks and aquatic life",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Sói quay lại Yellowstone giúp cây ven bờ hồi phục, giữ bờ sông, làm mát nước cho cá hồi và hải ly đắp đập.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "a comparison between old conservation methods and keeping historical exhibits",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> So sánh bảo tồn cũ như giữ hiện vật bảo tàng bất động (<i>museum curation / static exhibits</i>).",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "reasons why both rural farming groups and city officials resist rewilding",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Nông dân sợ mất sinh kế; cơ quan đô thị ngại sự thiếu kiểm soát của tự nhiên hoang dã.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "an explanation of how losing top hunters harms young forest growth",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Khi mất thú ăn thịt, hươu nai bùng nổ và ăn sạch cây non, chặn tái sinh rừng.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "What flaw does George Monbiot identify in traditional park conservation?",
+      "options": [
+        "A. It failed to raise enough money from tourist tickets.",
+        "B. It allowed dead wood to block popular hiking paths.",
+        "C. It created ecologically weak parks under the appearance of wild nature.",
+        "D. It banned local farmers from visiting national reserves."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> Tạo ra cảnh quan nghèo nàn sinh thái núp bóng thiên nhiên nguyên sơ.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "What is the main point of Paragraph C?",
+      "options": [
+        "A. Removing apex predators disrupts lower layers of the food chain.",
+        "B. Deer prefer living near open rivers rather than thick forests.",
+        "C. Beavers are more harmful to saplings than deer populations.",
+        "D. Forest regeneration happens fastest without any grazing animals."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Mất một loài săn mồi đầu bảng gây phản ứng dây chuyền làm suy yếu các tầng dưới.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "How did wolves change the physical shape of rivers in Yellowstone?",
+      "options": [
+        "A. By chasing beavers away from flooded valleys",
+        "B. By digging deeper water channels during dry summers",
+        "C. By reducing trout numbers inside cold mountain streams",
+        "D. By altering elk grazing habits so riverside trees could anchor the soil"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Nai sợ sói nên tránh bờ sông → cây ven bờ mọc lại, giữ đất chống xói mòn và nuôi hải ly.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Why do bureaucratic agencies often feel uneasy about rewilding?",
+      "options": [
+        "A. They prefer converting national parks into commercial farmland.",
+        "B. Unplanned natural recovery does not fit neat administrative rules.",
+        "C. Rural lobbies force them to cut down willow forests.",
+        "D. Wolves frequently attack tourists inside European city parks."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...unpredictable outcomes clash with tidy bureaucratic schedules.\"</i>",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Rewilding asks humans to give up their urge to dominate the natural world.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Thách thức xung lực kiểm soát thiên nhiên để chung sống hài hòa.",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Rewilding tries to restore ecosystems to an exact historical date.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...does not try to recreate one exact historical century...\"</i>",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Beaver numbers in Yellowstone grew much faster than biologists had expected.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Chỉ nhắc hải ly đắp đập tạo đầm lầy mới, không so sánh tốc độ tăng dân số với dự đoán.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Sheep farming associations have enthusiastically supported wolf reintroduction.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Hội chăn cừu coi tái hoang dã là mối đe dọa sinh kế và phản đối mạnh mẽ.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    }
+  }
+}

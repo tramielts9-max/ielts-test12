@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 309: The Pyrocene: Fire, Humans, and the Shaping of Earth",
+  "answers": {
+    "q1": "NO",
+    "q2": "YES",
+    "q3": "NOT GIVEN",
+    "q4": "YES",
+    "q5": "D",
+    "q6": "B",
+    "q7": "A",
+    "q8": "C",
+    "q9": "C",
+    "q10": "E",
+    "q11": "D",
+    "q12": "A"
+  },
+  "passageHtml": "<h2>PASSAGE 309 (LEVEL B2 • BAND 6.0)</h2><h3>The Pyrocene: Fire, Humans, and the Shaping of Earth</h3><p><strong>Paragraph 1.</strong> For more than a century, western environmental policy treated fire as a destructive intruder to be eliminated completely. Industrial forestry rested on total fire exclusion, famously represented by America's Smokey Bear campaign. Wildfires were viewed simply as costly accidents that ruined commercial timber and scenic parks. Yet in <em>Fire: A Brief History</em>, environmental historian Stephen J. Pyne argues that total suppression was a major ecological mistake. Fire is not an outside threat to nature; it is a natural force that built terrestrial ecosystems and has served as humanity's core technological tool.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Pyne traces our long evolutionary partnership with combustion. Long before <em>Homo sapiens</em> appeared, early human ancestors learned to capture and carry fire. Cooking softened tough plant roots and meat, sharply reducing the energy required for chewing and digestion</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">This saved caloric surplus supported rapid brain expansion while allowing human jaws and digestive tracts to shrink</span>. In effect, humans shifted part of their digestion outside the body onto fire.</p><p><strong>Paragraph 3.</strong> More importantly, <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">fire became humanity's first ecological management instrument</span>. Indigenous communities across Australia, North America, and southern Africa practised sophisticated 'fire-stick farming'. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Rather than letting dead vegetation build up indefinitely, native peoples deliberately set mild, patchy fires across savannahs. These regular cool burns cleared dense undergrowth, helped fire-adapted plants sprout, maintained open pastures for grazing animals, and reduced dry fuel loads</span></span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Consequently, catastrophic megafires were practically unheard of under indigenous care</span>. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">The landscapes European settlers praised as untouched wilderness were actually human-shaped gardens formed through centuries of planned burning</span>.</p><p><strong>Paragraph 4.</strong> When colonial authorities and industrial foresters outlawed indigenous burning in the nineteenth and twentieth centuries, the ecological impact was severe. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Absolute fire suppression produced what Pyne calls the 'pyric paradox': extinguishing every minor blaze allowed vast piles of dead wood and dry debris to accumulate across forest floors</span></span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Forestry departments invested heavily in firefighting aircraft to suppress summer blazes quickly</span>. Today, combined with climate warming, these overgrown forests fuel uncontrollable firestorms of unprecedented heat—<span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">blazes fierce enough to bake soil, destroy ancient seedbanks, and permanently alter ecosystems</span>.</p><p><strong>Paragraph 5.</strong> <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Having suppressed small, living fires for a century, modern civilisation now confronts the 'Pyrocene'—an era in which unmanageable fire threatens climate stability and demands a return to wise coexistence with flame</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 5–8",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 9–12",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> accumulation &nbsp;&nbsp; <b>B.</b> intensity &nbsp;&nbsp; <b>C.</b> development &nbsp;&nbsp; <b>D.</b> removal &nbsp;&nbsp; <b>E.</b> tool &nbsp;&nbsp; <b>F.</b> protection &nbsp;&nbsp; <b>G.</b> moisture",
+      "summaryTitle": "Fire's Role in Human & Ecological History",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ],
+      "template": "<p>By easing digestion, cooking played a key part in human biological <b>9.</b> {{q9}} . Later, indigenous groups used gentle fire as a land management <b>10.</b> {{q10}} across savannahs. Frequent mild burns ensured the continuous <b>11.</b> {{q11}} of dry brush and excess vegetation. Sadly, banning native burning led to a massive <b>12.</b> {{q12}} of fuel that now feeds catastrophic firestorms.</p>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Early European settlers quickly realised that native burning had shaped local landscapes.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Thực dân tưởng nhầm là thiên nhiên hoang sơ chưa từng có bàn tay con người (<i>untouched wilderness</i>).",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Destructive megafires rarely occurred in landscapes managed by indigenous burning.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...catastrophic megafires were practically unheard of under indigenous care.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "High-altitude rainfall kept northern forests safer than dry southern grasslands.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Bài không so sánh lượng mưa giữa rừng phía bắc và đồng cỏ phía nam.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Modern firestorms can burn hot enough to cause lasting damage to forest soil.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...blazes fierce enough to bake soil, destroy ancient seedbanks, and permanently alter ecosystems.\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "What is Stephen Pyne's central argument regarding fire in the passage?",
+      "options": [
+        "A. All forest fires must be extinguished before summer begins.",
+        "B. Timber companies are solely responsible for climate warming.",
+        "C. Modern aircraft have made small controlled burns unnecessary.",
+        "D. Suppressing natural fire disrupts ecosystems and creates worse disasters."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1, 4 & 5:</b> Cấm triệt để lửa nhỏ gây tích tụ nhiên liệu và thảm họa cháy lớn hơn.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "According to Paragraph 2, how did cooking with fire change human anatomy?",
+      "options": [
+        "A. It strengthened tooth enamel for chewing raw roots.",
+        "B. It allowed brains to expand while jaws and digestive organs shrank.",
+        "C. It forced early humans to hunt larger savannah animals.",
+        "D. It reduced the amount of sleep required each night."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Não phát triển nhanh trong khi hàm và đường tiêu hóa thu nhỏ.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "How did indigenous 'fire-stick farming' protect open grasslands?",
+      "options": [
+        "A. By burning away dry fuel gradually before huge blazes could form",
+        "B. By preventing grazing animals from eating delicate saplings",
+        "C. By raising humidity levels across forest canopies",
+        "D. By clearing dense trees to expand commercial farms"
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Đốt nhẹ định kỳ giúp dọn bụi rậm và giảm tải nhiên liệu khô.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "What does Pyne mean by the 'pyric paradox' in Paragraph 4?",
+      "options": [
+        "A. Trees evolve thicker bark when exposed to frequent rain.",
+        "B. Global warming reduces the number of lightning strikes.",
+        "C. Stopping every minor fire leads to fuel build-ups that cause super-fires.",
+        "D. Native burning harmed wildlife more than industrial forestry."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Dập mọi đám cháy nhỏ khiến gỗ khô chất đống, sinh ra bão lửa không thể kiểm soát.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Quá trình tiến hóa sinh học (<i>biological development</i>) của não và hàm.",
+          "<b>Đáp án:</b> <b>C (development)</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...ecological management instrument...\"</i> → <i>tool</i>.",
+          "<b>Đáp án:</b> <b>E (tool)</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Dọn sạch bụi rậm và lá khô (<i>removal</i>).",
+          "<b>Đáp án:</b> <b>D (removal)</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...allowed vast piles of dead wood... to accumulate...\"</i> → <i>accumulation</i>.",
+          "<b>Đáp án:</b> <b>A (accumulation)</b>."
+        ]
+      }
+    }
+  }
+}

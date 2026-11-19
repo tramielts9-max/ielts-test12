@@ -1,0 +1,231 @@
+{
+  "title": "[B2 • Band 6.0] Bài 202: Doggerland: The Submerged Heart of Europe",
+  "answers": {
+    "q1": "A",
+    "q2": "B",
+    "q3": "C",
+    "q4": "D",
+    "q5": "YES",
+    "q6": "NOT GIVEN",
+    "q7": "NO",
+    "q8": "NO",
+    "q9": "C",
+    "q10": "A",
+    "q11": "B",
+    "q12": "D"
+  },
+  "passageHtml": "<h2>PASSAGE 202 (LEVEL B2 • BAND 6.0)</h2><h3>Doggerland: The Submerged Heart of Europe</h3><p><strong>Paragraph 1.</strong> For centuries, fishing crews dragging heavy nets across the shallow waters of the North Sea returned to port with puzzling catches. Tangled among cod and haddock were fossilised bones of mammoths, woolly rhinos, and red deer, alongside barbed harpoons carved from antler. Until the late twentieth century, antiquarians dismissed these objects as <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">debris swept out to sea by glacial <span class=\"kw\">floods</span></span>. Today, however, modern seabed surveys have confirmed a remarkable truth: until around 8,200 years ago, this underwater region was a dry, fertile territory connecting Britain directly to the Netherlands, Germany, and Denmark. Named Doggerland by archaeologists, it served not merely as a narrow bridge, but as the rich ecological centre of Mesolithic northern Europe.</p><p><strong>Paragraph 2.</strong> Doggerland's landscape was shaped by melting ice sheets at the end of the Last Glacial Maximum roughly 18,000 years ago. As temperatures rose, glacial meltwater formed braided river valleys, freshwater marshes, lagoons, and dense oak woodlands. Excavations of drowned coastal sites show that <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Mesolithic hunter-gatherers thrived in this varied habitat. Far from enduring a desperate existence, these groups enjoyed <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">abundant seasonal food sources</span>: wildfowl, freshwater eels, shellfish, and large game. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Recovered bone awls, flint tools, and wooden paddles demonstrate advanced skills suited to water-based foraging</span></span>.</p><p><strong>Paragraph 3.</strong> Even so, Doggerland's long-term loss was unavoidable. Over thousands of years, <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">global sea levels rose at an average pace of nearly one metre per century</span>, submerging low-lying marshes and forcing communities inland toward Britain and Scandinavia. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Early marine researchers assumed this flooding occurred in a steady, <span class=\"kw\">gradual</span> manner</span>, giving human bands generations to adjust and relocate smoothly.</p><p><strong>Paragraph 4.</strong> Recent geophysical research has overturned this peaceful theory, revealing <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">a sudden catastrophe</span>. Around 8,150 years ago, <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">a massive underwater <span class=\"kw\">landslide</span> off western Norway—known as the Storegga Slide</span>—shifted 3,000 cubic kilometres of sediment and launched a huge tsunami across the North Sea. Ocean sediment cores show a wall of water up to twenty metres high crashed over Doggerland's fragile islands and coastal plains. Within hours, settlements vanished, and <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">survivors clinging to high ridges found their drinking water poisoned by salt</span>. The remaining elevated ground was swallowed within a few centuries, permanently cutting Britain off from the European mainland.</p><p><strong>Paragraph 5.</strong> Mapping this sunken land presents huge practical obstacles because normal digging methods fail beneath thirty metres of rough water and shifting marine mud. To overcome this barrier, <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">geophysicist Dr. Vincent Gaffney pioneered the reuse of <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">seismic reflection data originally collected by oil and gas corporations prospecting for North Sea petroleum</span></span>. By running computer algorithms across this archive, Gaffney's team digitally peeled away marine sediments to reconstruct over 45,000 square kilometres of ancient rivers, fossilised lakes, and coastal hills. <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Doggerland offers a powerful prehistoric warning about how accelerating sea-level rise can permanently reshape human geography</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> floods &nbsp;&nbsp; <b>B.</b> plentiful &nbsp;&nbsp; <b>C.</b> gradual &nbsp;&nbsp; <b>D.</b> landslide &nbsp;&nbsp; <b>E.</b> rare &nbsp;&nbsp; <b>F.</b> sudden &nbsp;&nbsp; <b>G.</b> coastal",
+      "summaryTitle": "The Rise and Fall of Doggerland",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>Early scholars mistakenly believed that ancient bones found in the North Sea had been washed there by glacial <b>1.</b> {{q1}} . Modern surveys show Doggerland was once a rich habitat where hunter-gatherers had <b>2.</b> {{q2}} food supplies. While scientists initially assumed sea-level rise caused a slow, <b>3.</b> {{q3}} retreat inland, new evidence proves the final destruction was triggered by a giant submarine <b>4.</b> {{q4}} off Norway.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 9–12",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "A",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...debris swept out to sea by glacial floods.\"</i>",
+          "<b>Đáp án:</b> <b>A (floods)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "B",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...enjoyed abundant seasonal food sources...\"</i> (abundant = plentiful).",
+          "<b>Đáp án:</b> <b>B (plentiful)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...assumed this flooding occurred in a steady, gradual manner...\"</i>",
+          "<b>Đáp án:</b> <b>C (gradual)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...a massive underwater landslide off western Norway...\"</i>",
+          "<b>Đáp án:</b> <b>D (landslide)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "The tools found on the seabed show Doggerland residents were skilled at catching water-based food.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Mái chèo gỗ và công cụ đá chứng minh kỹ năng kiếm ăn dưới nước (<i>water-based foraging</i>).",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Sea levels during the Mesolithic era rose at an identical pace in every season.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chỉ nói tốc độ trung bình gần 1m/thế kỷ, không so sánh từng mùa.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Survivors of the tsunami on high ridges easily kept their fresh drinking water clean.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Nước ngọt bị nhiễm mặn nặng nề (<i>poisoned by salt</i>).",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Petroleum firms originally gathered seismic records with the goal of mapping Stone Age towns.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Dữ liệu được thu thập để tìm dầu khí (<i>prospecting for North Sea petroleum</i>), không phải để tìm di chỉ khảo cổ.",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "What does Paragraph 2 reveal about hunter-gatherers in Doggerland?",
+      "options": [
+        "A. They struggled constantly against winter famine.",
+        "B. They avoided coastal lagoons and lived only in oak forests.",
+        "C. They enjoyed varied resources and skilled craftsmanship.",
+        "D. They migrated southwards every year following reindeer herds."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Không hề đói khổ mà có nguồn thức ăn dồi dào và kỹ năng chế tác công cụ tinh xảo.",
+          "<b>Kết luận:</b> Chọn <b>C</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "What shocked researchers about the Storegga Slide evidence?",
+      "options": [
+        "A. How abruptly the final disaster struck compared with earlier slow-rise models.",
+        "B. How mild the tsunami waves were along the Norwegian coast.",
+        "C. How quickly Britain reconnected to mainland Europe afterward.",
+        "D. How few people lived near coastal marshes at that time."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Thảm họa bất ngờ phá hủy làng mạc chỉ trong vài giờ, trái ngược giả thuyết di cư từ từ.",
+          "<b>Kết luận:</b> Chọn <b>A</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Why was Dr. Vincent Gaffney's mapping method effective?",
+      "options": [
+        "A. It sent divers directly into deep caves beneath the silt.",
+        "B. It repurposed existing industrial records to model buried topography.",
+        "C. It drained seawater temporarily from shallow coastal zones.",
+        "D. It relied entirely on old written maps from medieval fishermen."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Tái sử dụng dữ liệu địa chấn sẵn có của các hãng dầu khí để tái dựng địa hình đáy biển.",
+          "<b>Kết luận:</b> Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "What is the writer's broader warning in the final sentence?",
+      "options": [
+        "A. Oil companies should stop surveying the North Sea floor.",
+        "B. Wooden archaeological relics cannot survive in salt water.",
+        "C. Modern technology will never locate submerged European settlements.",
+        "D. Rapid sea-level rise can permanently reshape human landscapes."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5 (câu cuối):</b> Cảnh báo về việc nước biển dâng nhanh có thể xóa sổ vĩnh viễn địa lý cư trú của con người.",
+          "<b>Kết luận:</b> Chọn <b>D</b>."
+        ]
+      }
+    }
+  }
+}

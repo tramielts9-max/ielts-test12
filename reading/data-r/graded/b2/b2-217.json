@@ -1,0 +1,247 @@
+{
+  "title": "[B2 • Band 6.0] Bài 217: The Vanishing Vault: Light Pollution",
+  "answers": {
+    "q1": "D",
+    "q2": "B",
+    "q3": "F",
+    "q4": "C",
+    "q5": "calendars",
+    "q6": "scattering",
+    "q7": "hormone",
+    "q8": "observatories",
+    "q9": "FALSE",
+    "q10": "TRUE",
+    "q11": "NOT GIVEN",
+    "q12": "TRUE"
+  },
+  "passageHtml": "<h2>PASSAGE 217 (LEVEL B2 • BAND 6.0)</h2><h3>The Vanishing Vault: Light Pollution and the Architecture of Darkness</h3><p><strong>Paragraph A.</strong> Throughout human history, the starry night sky acted as a familiar natural clock. Ancient communities watched the Milky Way and seasonal constellations to shape folklore, guide ocean crossings, and <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">set agricultural planting <span class=\"kw\">calendars</span></span>. Over the last century, however, unchecked outdoor lighting has broken this link. Satellite surveys show that over eighty percent of the global population—and ninety-nine percent of residents in the United States and Europe—live beneath skies brightened by artificial glow, turning true night into a hazy yellow twilight.</p><p><strong>Paragraph B.</strong> <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Urban skyglow stems from optical inefficiency. Instead of aiming light strictly down onto pavements, standard streetlights, spotlights, and billboards send huge amounts sideways or straight upward</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Unshielded photons collide with air molecules, moisture droplets, and dust in a process known as Rayleigh <span class=\"kw\">scattering</span></span>. Bouncing back down, this diffuse glow creates an illuminated dome that washes out distant stars, leaving only the Moon and brightest planets visible over big cities.</p><p><strong>Paragraph C.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Continuous artificial brightness disrupts natural food webs. Flying insects using starlight to keep a steady path get trapped circling roadside lamps until exhausted or caught by hungry bats. Newly hatched sea turtles, biologically wired to crawl toward bright moonlight reflecting off ocean waves, are drawn inland by glowing beach resorts and perish in traffic or heat</span>. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">In humans, nighttime blue light suppresses melatonin, a vital sleep <span class=\"kw\">hormone</span></span>, harming rest quality and raising risks of heart and metabolic illness.</p><p><strong>Paragraph D.</strong> <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">In response, engineers and lawmakers in the dark-sky movement are changing how cities deliver light rather than eliminating it. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">Replacing open bulbs with downward-shielded lamps eliminates upward glare, while switching harsh blue-white LEDs to warm amber fixtures under 2,200 Kelvins reduces atmospheric scatter</span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">In northern Chile and the Canary Islands, dark-sky ordinances near major astronomical <span class=\"kw\">observatories</span> preserved clear skies while cutting city power bills by more than thirty percent</span></span></span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Conservationists are also setting aside untouched nocturnal sanctuaries. The International Dark-Sky Association has designated more than two hundred International Dark Sky Places across national parks, remote islands, and desert reserves—such as Aoraki Mackenzie in New Zealand and NamibRand in Namibia—where native wildlife continues to thrive under natural darkness</span>.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">Advocates emphasise that protecting dark skies is far more than a narrow wish of astronomers. Natural night is a shared ecological and cultural heritage that has shaped human art, science, and biological health since our earliest origins—and saving it simply requires wiser design</span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 217 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "noteTitle": "Understanding Skyglow & Control",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li style=\"margin-bottom:8px;\">Ancient societies observed stars to organise seasonal planting <b>5.</b> {{q5}} .</li><li style=\"margin-bottom:8px;\">Unshielded light bounces off dust and air molecules through Rayleigh <b>6.</b> {{q6}} .</li><li style=\"margin-bottom:8px;\">Blue-wavelength illumination interrupts melatonin, an essential sleep <b>7.</b> {{q7}} .</li><li style=\"margin-bottom:8px;\">Dark-sky laws surrounding astronomical <b>8.</b> {{q8}} in Chile cut energy costs by over 30%.</li></ul>"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 9–12",
+      "instructions": "<i>Do the following statements agree with the information given in the passage? Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "practical lighting adjustments that reduce waste without turning off city lights completely",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Nêu giải pháp lắp chụp đèn chiếu xuống và chuyển sang đèn ánh sáng ấm chứ không tắt hết đèn.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "an explanation of the physical process that causes bright light domes above cities",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Giải thích sự tán xạ Rayleigh tạo vòm sáng vàng trên đô thị.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "an argument that natural darkness benefits society as a whole rather than only scientists",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Bảo vệ bầu trời đêm là di sản chung cho nghệ thuật, sức khỏe con người chứ không chỉ của nhà thiên văn.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "examples of how artificial lighting harms insects, coastal reptiles, and human bodies",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> Lần lượt nêu tác hại lên côn trùng bay, rùa biển non và hormone ngủ ở người.",
+          "<b>Đáp án:</b> <b>C</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "calendars",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn A:</b> <i>\"...set agricultural planting calendars.\"</i>",
+          "<b>Từ cần điền:</b> <b>calendars</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "scattering",
+      "inputWidth": "120px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> <i>\"...known as Rayleigh scattering.\"</i>",
+          "<b>Từ cần điền:</b> <b>scattering</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "hormone",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> <i>\"...melatonin, a vital sleep hormone...\"</i>",
+          "<b>Từ cần điền:</b> <b>hormone</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "observatories",
+      "inputWidth": "130px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...near major astronomical observatories...\"</i>",
+          "<b>Từ cần điền:</b> <b>observatories</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Blue-white LEDs scatter less light into the atmosphere than warm amber lights.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Đèn ánh sáng ấm mới giảm tán xạ; đèn xanh trắng gây tán xạ mạnh hơn.",
+          "<b>Kết luận:</b> <b>FALSE</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Dark-sky regulations near observatories in Chile lowered municipal electricity spending.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Giảm hóa đơn điện thành phố hơn 30%.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Aoraki Mackenzie Reserve was the very first dark-sky park created in New Zealand.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Chỉ nêu Aoraki Mackenzie là một ví dụ khu bảo tồn, không nói có phải nơi đầu tiên ở New Zealand hay không.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Saving natural night skies requires smarter lighting design rather than removing all electric lamps.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D & F:</b> Thay đổi cách chiếu sáng thông minh thay vì tắt bỏ hết đèn.",
+          "<b>Kết luận:</b> <b>TRUE</b>."
+        ]
+      }
+    }
+  }
+}

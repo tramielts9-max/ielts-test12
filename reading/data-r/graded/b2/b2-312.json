@@ -1,0 +1,215 @@
+{
+  "title": "[B2 • Band 6.0] Bài 312: The Singing Hominin: Roots of Melody",
+  "answers": {
+    "q1": "D",
+    "q2": "F",
+    "q3": "C",
+    "q4": "E",
+    "q5": "NOT GIVEN",
+    "q6": "NO",
+    "q7": "YES",
+    "q8": "YES",
+    "q9": "E",
+    "q10": "B",
+    "q11": "F",
+    "q12": "A"
+  },
+  "passageHtml": "<h2>PASSAGE 312 (LEVEL B2 • BAND 6.0)</h2><h3>The Singing Hominin: The Evolutionary Roots of Melody</h3><p><strong>Paragraph 1.</strong> For centuries, Western thinkers viewed music as a pleasant cultural ornament invented long after spoken language. <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">In <em>The Descent of Man</em> (1871), Charles Darwin challenged this view, proposing that musical vocalising came before speech as a courtship display similar to birdsong</span>. <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Throughout most of the twentieth century, however, scientists rejected Darwin's hypothesis and treated music as a secondary accident. Cognitive scientist Steven Pinker famously labelled music 'auditory cheesecake'—a delightful indulgence that stimulates pleasure centres while offering zero biological survival value</span></span>.</p><p><strong>Paragraph 2.</strong> In <em>The Singing Neanderthal</em>, archaeologist Dr. Steven Mithen dismantles this dismissive consensus. Treating music as an evolutionary triviality ignores its universal presence across all human societies and its deep wiring in our brains. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Infants respond to musical pitch and cadence months before understanding spoken grammar, and maternal 'motherese' relies on musical contours everywhere to soothe distress</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\"><span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Furthermore, neuroimaging confirms that listening to music activates archaic subcortical brain networks tied directly to emotion and social bonding</span></span>.</p><p><strong>Paragraph 3.</strong> Mithen proposes that language and music evolved from one shared ancestral system called <em>Hmmmmm</em>—standing for Holistic, multi-modal, manipulative, musical, and mimetic. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">Before abstract grammar existed, extinct hominins such as <em>Homo heidelbergensis</em> and Neanderthals communicated using expressive melodic calls combined with bodily gestures</span>. <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">Rather than dividing thoughts into separate nouns and verbs, these vocal calls delivered complete emotional messages designed to coordinate group hunting, calm aggression, and strengthen tribe unity</span>. <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">Their physical vocal anatomy was adapted for resonant group chanting across open landscapes</span>.</p><p><strong>Paragraph 4.</strong> The split between language and music occurred when early modern humans developed symbolic reasoning, breaking fluid calls into discrete referential words. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\"><span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">While spoken language specialised in transmitting factual propositions and practical data, music retained its ancient power over human emotion and group solidarity</span></span>. <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">Mithen concludes that music was no evolutionary accident: it functioned as the essential social adhesive that allowed hominins to build large, cooperative communities and paved the path toward civilisation</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "summary_options",
+      "skillTag": "SUMMARY_BOX",
+      "title": "Questions 1–4",
+      "instructions": "<i>Complete the summary using the list of words, <b>A–G</b>, below.</i><br><br><b>A.</b> ornament &nbsp;&nbsp; <b>B.</b> bonding &nbsp;&nbsp; <b>C.</b> gestures &nbsp;&nbsp; <b>D.</b> survival &nbsp;&nbsp; <b>E.</b> factual &nbsp;&nbsp; <b>F.</b> emotion &nbsp;&nbsp; <b>G.</b> grammar",
+      "summaryTitle": "The Evolution of Language and Music",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ],
+      "template": "<p>For much of the twentieth century, theorists argued that music offered no biological <b>1.</b> {{q1}} advantage. Dr. Steven Mithen challenges this idea, citing neuroimaging scans showing that music triggers deep brain regions linked to <b>2.</b> {{q2}} and trust. He argues that early hominins communicated via a holistic system combining melodic calls with physical <b>3.</b> {{q3}} . Later, spoken language specialised in sharing <b>4.</b> {{q4}} details, whereas music continued uniting social groups.</p>"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "skillTag": "YNNG",
+      "title": "Questions 5–8",
+      "instructions": "<i>Do the following statements agree with the claims of the writer? Write <b>YES</b>, <b>NO</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "matching_endings",
+      "skillTag": "MATCH_ENDINGS",
+      "title": "Questions 9–12",
+      "instructions": "<i>Complete each sentence with the correct ending, <b>A–F</b>, below.</i>",
+      "endings": [
+        "A. human speech focused on facts while music preserved social unity.",
+        "B. musical comprehension starts earlier than grammatical awareness.",
+        "C. modern humans abandoned singing inside large cities.",
+        "D. Pinker proved Darwin's courtship theory mathematically.",
+        "E. singing originally helped early hominins attract mates.",
+        "F. melodic calls helped prevent fights and coordinate group tasks."
+      ],
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "D",
+      "inputWidth": "80px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>\"...offering zero biological survival value.\"</i>",
+          "<b>Đáp án:</b> <b>D (survival)</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "F",
+      "inputWidth": "80px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...tied directly to emotion and social bonding.\"</i>",
+          "<b>Đáp án:</b> <b>F (emotion)</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "C",
+      "inputWidth": "80px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>\"...melodic calls combined with bodily gestures.\"</i>",
+          "<b>Đáp án:</b> <b>C (gestures)</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "E",
+      "inputWidth": "80px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...specialised in transmitting factual propositions...\"</i>",
+          "<b>Đáp án:</b> <b>E (factual)</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "text": "Neanderthals also built bone instruments to accompany their group chanting.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Chỉ nhắc tiếng hát và cử chỉ cơ thể, không hề nhắc đến nhạc cụ bằng xương.",
+          "<b>Kết luận:</b> <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Darwin's theory of musical evolution was widely accepted throughout the 20th century.",
+      "finalAnswer": "NO",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Các nhà khoa học thế kỷ 20 đã bác bỏ giả thuyết của Darwin (<i>rejected Darwin's hypothesis</i>).",
+          "<b>Kết luận:</b> <b>NO</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "Brain scans reveal that music engages primitive regions linked to human emotion.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>\"...activates archaic subcortical brain networks tied directly to emotion...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "Music helped early human populations build stable, cooperative societies.",
+      "finalAnswer": "YES",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>\"...allowed hominins to build large, cooperative communities...\"</i>",
+          "<b>Kết luận:</b> <b>YES</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "Charles Darwin proposed in 1871 that",
+      "finalAnswer": "E",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Darwin cho rằng ca hát ban đầu dùng để thu hút bạn tình (<i>courtship display</i>).",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "Studies of infant communication show that",
+      "finalAnswer": "B",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Trẻ phản ứng với cao độ âm nhạc nhiều tháng trước khi hiểu ngữ pháp.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "text": "Before words existed, early hominins used Hmmmmm because",
+      "finalAnswer": "F",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Giúp phối hợp đi săn và xoa dịu xung đột nhóm.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "text": "Once symbolic thought split vocal calls into words,",
+      "finalAnswer": "A",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Lời nói tập trung truyền dữ kiện thực tế, còn âm nhạc giữ vai trò gắn kết xã hội.",
+          "<b>Đáp án:</b> <b>A</b>."
+        ]
+      }
+    }
+  }
+}

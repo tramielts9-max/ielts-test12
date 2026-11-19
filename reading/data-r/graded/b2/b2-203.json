@@ -1,0 +1,250 @@
+{
+  "title": "[B2 • Band 6.0] Bài 203: The Revival of Acoustic Ecology",
+  "answers": {
+    "q1": "B",
+    "q2": "D",
+    "q3": "E",
+    "q4": "F",
+    "q5": "B",
+    "q6": "D",
+    "q7": "energy",
+    "q8": "plots",
+    "q9": "logging",
+    "q10": "satellite",
+    "q11": "traffic",
+    "q12": "time"
+  },
+  "passageHtml": "<h2>PASSAGE 203 (LEVEL B2 • BAND 6.0)</h2><h3>The Revival of Acoustic Ecology</h3><p><strong>Paragraph A.</strong> For decades, conservation biology relied heavily on visual surveys. Ecologists set up camera traps, walked through dense undergrowth with binoculars, or flew drones above tree canopies to count wildlife. Yet visual methods face obvious limits: animals hide among leaves, avoid human smell, or emerge only in total darkness. In response, soundscape ecology is changing how scientists judge environmental health. By listening to an entire habitat's audio signature—from chirping crickets to booming howler monkeys—researchers gain a clearer picture of ecosystem balance than sightings alone can offer.</p><p><strong>Paragraph B.</strong> Acoustic ecologists divide environmental audio into three main categories: biophony (sounds from non-human living creatures), geophony (natural non-living sounds like rainfall, thunder, and wind), and anthrophony (human mechanical noise). <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">In undisturbed ecosystems, biophony follows Dr. Bernie Krause's 'acoustic niche hypothesis': over millions of years, diverse species evolved to vocalize in specific frequency bands and time slots so their mating and warning calls do not overlap or drown each other out</span>. When logging fragments a rainforest, this natural acoustic structure breaks down, leaving the habitat quiet and disjointed.</p><p><strong>Paragraph C.</strong> The technological driver behind this shift is the autonomous recording unit (ARU). <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\">These inexpensive, weatherproof devices are strapped to tree trunks to record ambient sound continuously for months. However, early teams were quickly buried under massive audio archives: twelve ARUs in one reserve can collect thirty thousand hours of recordings in a single season, requiring decades of human labour to listen through manually</span>. Consequently, acoustic ecology remained limited until machine learning algorithms became capable of scanning large audio datasets automatically.</p><p><strong>Paragraph D.</strong> To automate analysis, Dr. Julian Rivera created an algorithmic platform named SoundID. Rather than identifying every individual species, <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">the software calculates mathematical indices showing how acoustic <span class=\"kw\">energy</span> is spread across multiple frequency bands</span>. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">In field trials across <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">forty forest <span class=\"kw\">plots</span> in Peru</span>, Rivera found that areas damaged by <span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">illegal selective <span class=\"kw\">logging</span></span>—which <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\"><span class=\"kw\">satellite</span> surveys often failed to detect</span> beneath the dense forest roof—showed sharp drops in acoustic diversity scores within forty-eight hours of timber removal</span>.</p><p><strong>Paragraph E.</strong> <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Despite these advances, field practitioners still battle tough physical obstacles. High tropical humidity and fungal spores corrode delicate microphone membranes, forcing frequent maintenance</span></span>. Intense monsoon downpours also create loud geophonic noise that masks high-pitched animal calls for days. Meanwhile, near urban roads, <span class=\"hl\" id=\"hl-q11\" data-q=\"[Q11]\">low-frequency engine vibrations from highway <span class=\"kw\">traffic</span> can overwhelm automated detectors</span>, leading algorithms to falsely register empty forests.</p><p><strong>Paragraph F.</strong> <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Even so, acoustic monitoring proves invaluable for measuring ecological restoration. In former farmland in Costa Rica, replanted forests looked visually mature within seven years, yet their acoustic diversity remained poor for nearly two decades until fallen logs and layered bushes returned to support specialist birds and insects</span>. As Dr. Bernie Krause notes, a photograph captures only a frozen moment in space, whereas a soundscape tells the living story of an entire ecosystem <span class=\"hl\" id=\"hl-q12\" data-q=\"[Q12]\">across <span class=\"kw\">time</span></span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching_info",
+      "skillTag": "MATCH_INFO",
+      "title": "Questions 1–4",
+      "instructions": "<i>Reading Passage 203 has six paragraphs, <b>A–F</b>.<br>Which paragraph contains the following information?</i>",
+      "paragraphs": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "mcq_two",
+      "skillTag": "MCQ_TWO",
+      "title": "Questions 5–6",
+      "instructions": "<i>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Which TWO problems regarding autonomous recording units (ARUs) are mentioned in the text?</i>",
+      "options": [
+        "A. They are too expensive for small research teams to purchase.",
+        "B. They generate far more audio data than humans can review manually.",
+        "C. Their wireless signals are blocked by thick jungle leaves.",
+        "D. Their delicate microphone parts suffer damage in humid tropical forests.",
+        "E. They are frequently destroyed by wild animals in reserves."
+      ],
+      "questionIds": [
+        "q5",
+        "q6"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "summary",
+      "skillTag": "SUMMARY_COMP",
+      "title": "Questions 7–12",
+      "instructions": "<i>Complete the summary below.<br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</i>",
+      "summaryTitle": "Automated Sound Analysis and Field Challenges",
+      "questionIds": [
+        "q7",
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12"
+      ],
+      "template": "<p>Dr. Julian Rivera developed SoundID software to track how acoustic <b>7.</b> {{q7}} is distributed across frequency bands. In a Peruvian field study covering forty forest <b>8.</b> {{q8}} , the programme recorded rapid declines after illegal <b>9.</b> {{q9}} , even though space <b>10.</b> {{q10}} cameras had missed the damage. Near cities, however, low vibrations from highway <b>11.</b> {{q11}} can distort results. Overall, soundscapes reveal how an ecosystem changes across <b>12.</b> {{q12}} .</p>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "an explanation of how animals avoid overlapping each other's vocal calls",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn B:</b> Giả thuyết <i>acoustic niche hypothesis</i> giải thích các loài dùng dải tần và khung giờ riêng để không lấn át nhau.",
+          "<b>Đáp án:</b> <b>B</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "evidence that acoustic data reveals illegal forest damage missed by space imagery",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> Thí nghiệm ở Peru phát hiện khai thác gỗ trái phép trong 48 giờ dù vệ tinh bỏ sót.",
+          "<b>Đáp án:</b> <b>D</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "physical equipment vulnerabilities caused by humid tropical weather and fungi",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "E",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Độ ẩm nhiệt đới và bào tử nấm ăn mòn màng micro.",
+          "<b>Đáp án:</b> <b>E</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "proof that forest soundscapes take far longer to recover than visual tree appearance",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "finalAnswer": "F",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> Rừng trồng lại ở Costa Rica nhìn trưởng thành sau 7 năm nhưng âm thanh nghèo nàn suốt gần 20 năm.",
+          "<b>Đáp án:</b> <b>F</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "B",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn C:</b> 12 máy tạo ra 30.000 giờ âm thanh mỗi mùa, con người mất hàng thập kỷ để nghe thủ công → Chọn <b>B</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "D",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> Độ ẩm và bào tử nấm ăn mòn màng micro nhạy cảm → Chọn <b>D</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "energy",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...how acoustic energy is spread across multiple frequency bands.\"</i>",
+          "<b>Từ cần điền:</b> <b>energy</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "plots",
+      "inputWidth": "100px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...across forty forest plots in Peru...\"</i>",
+          "<b>Từ cần điền:</b> <b>plots</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "finalAnswer": "logging",
+      "inputWidth": "110px",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...damaged by illegal selective logging...\"</i>",
+          "<b>Từ cần điền:</b> <b>logging</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "finalAnswer": "satellite",
+      "inputWidth": "110px",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn D:</b> <i>\"...which satellite surveys often failed to detect...\"</i>",
+          "<b>Từ cần điền:</b> <b>satellite</b>."
+        ]
+      }
+    },
+    "q11": {
+      "num": 11,
+      "finalAnswer": "traffic",
+      "inputWidth": "110px",
+      "highlightId": "hl-q11",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn E:</b> <i>\"...engine vibrations from highway traffic...\"</i>",
+          "<b>Từ cần điền:</b> <b>traffic</b>."
+        ]
+      }
+    },
+    "q12": {
+      "num": 12,
+      "finalAnswer": "time",
+      "inputWidth": "100px",
+      "highlightId": "hl-q12",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn F:</b> <i>\"...living story of an entire ecosystem across time.\"</i>",
+          "<b>Từ cần điền:</b> <b>time</b>."
+        ]
+      }
+    }
+  }
+}
