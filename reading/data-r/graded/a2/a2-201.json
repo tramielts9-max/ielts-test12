@@ -1,0 +1,134 @@
+{
+  "title": "[A2 • Band 4.0] Bài 201: Harnessing Nature's Glow",
+  "answers": {
+    "q1": "NOT GIVEN",
+    "q2": "TRUE",
+    "q3": "FALSE",
+    "q4": "TRUE",
+    "q5": "heat",
+    "q6": "fungi",
+    "q7": "bubbles",
+    "q8": "birds"
+  },
+  "passageHtml": "<h2>PASSAGE 201 (LEVEL A2 • BAND 4.0)</h2><h3>Harnessing Nature's Glow: The Science of Living Light</h3><p><strong>Paragraph 1.</strong> City streetlights use almost twenty percent of all public electricity in the world. Today, scientists are studying a clean, natural light called bioluminescence. Living creatures like fireflies, deep-sea fish, and some forest mushrooms make cold light without electricity. <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">Normal electric bulbs waste over ninety percent of their energy as <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"kw\">heat</span></span>, while living light turns nearly ninety-eight percent into visible light</span>.</p><p><strong>Paragraph 2.</strong> At first, scientists tried putting glowing bacteria genes into house plants, but the plants looked very dim and grew poorly. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\">Later, researchers switched to glowing forest <span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\"><span class=\"kw\">fungi</span></span></span>. Because fungal light works naturally with chemicals already inside plant cells, scientists made plants glow a thousand times brighter without hurting their health.</p><p><strong>Paragraph 3.</strong> Biophysicist Dr. Kenneth Vance tested glowing algae inside sixty underground train stations in Brussels. His team put living algae inside tall glass tubes. During the day, sunlight travelled down cables so the algae could store energy. <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">At night, small pumps pushed air <span class=\"kw\">bubbles</span> through the water to make the algae glow soft blue</span>. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">At first some passengers felt unsure, but after a few weeks most people loved the calm light</span>.</p><p><strong>Paragraph 4.</strong> Still, experts advise caution. <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">Dr. Haruki Sato warns that millions of permanently glowing park trees could confuse flying <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\"><span class=\"kw\">birds</span></span>, insects, and bats at night</span>. Researchers say living lights should guide walkways and parks, while traditional streetlights remain on busy highways.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "skillTag": "TFNG",
+      "title": "Questions 1–4",
+      "instructions": "<i>Write <b>TRUE</b>, <b>FALSE</b>, or <b>NOT GIVEN</b>.</i>",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 5–8",
+      "instructions": "<i>Complete the notes. Choose <b>ONE WORD ONLY</b> from the passage.</i>",
+      "noteTitle": "Living Light Technology",
+      "questionIds": [
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "template": "<ul><li>Ordinary bulbs lose over 90% of their electricity as <b>5.</b> {{q5}} .</li><li>Using genes from glowing <b>6.</b> {{q6}} made plants 1,000 times brighter.</li><li>In Brussels stations, air <b>7.</b> {{q7}} made algae glow blue at night.</li><li>Glowing park trees might confuse bats, insects, and night-flying <b>8.</b> {{q8}} .</li></ul>"
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "text": "Glowing forest fungi are more expensive to buy than glowing bacteria.",
+      "finalAnswer": "NOT GIVEN",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Không có thông tin so sánh giá tiền giữa nấm và vi khuẩn → <b>NOT GIVEN</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "text": "Living light turns a much higher share of energy into light than ordinary bulbs.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Ánh sáng sinh học đạt ~98% hiệu suất so với bóng thường lãng phí >90% thành nhiệt → <b>TRUE</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "text": "Passengers in Brussels hated the glowing blue algae throughout the entire test.",
+      "finalAnswer": "FALSE",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> Sau vài tuần, đa số hành khách lại rất thích ánh sáng dịu này → <b>FALSE</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "text": "Dr. Haruki Sato worries that glowing trees could disturb wild animals at night.",
+      "finalAnswer": "TRUE",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Cảnh báo cây phát sáng có thể làm rối loạn chim, côn trùng, dơi → <b>TRUE</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "heat",
+      "inputWidth": "100px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>waste over ninety percent of their energy as heat</i> → <b>heat</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "finalAnswer": "fungi",
+      "inputWidth": "100px",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>switched to glowing forest fungi</i> → <b>fungi</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "finalAnswer": "bubbles",
+      "inputWidth": "110px",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>pushed air bubbles through the water</i> → <b>bubbles</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "finalAnswer": "birds",
+      "inputWidth": "100px",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>confuse flying birds, insects, and bats</i> → <b>birds</b>."
+        ]
+      }
+    }
+  }
+}
