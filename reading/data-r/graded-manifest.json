@@ -1,0 +1,3326 @@
+{
+  "levels": {
+    "a2": {
+      "cefr": "A2",
+      "band": "4.0",
+      "tier": "TIER_0",
+      "label": "Band 4.0 (CEFR A2 - Khởi Động)"
+    },
+    "b1": {
+      "cefr": "B1",
+      "band": "5.0",
+      "tier": "TIER_1",
+      "label": "Band 5.0 (CEFR B1 - Nền Tảng)"
+    },
+    "b2": {
+      "cefr": "B2",
+      "band": "6.0",
+      "tier": "TIER_2",
+      "label": "Band 6.0 (CEFR B2 - Tiêu Chuẩn)"
+    }
+  },
+  "items": [
+    {
+      "code": "a2-101",
+      "originCode": "101",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 101",
+      "title": "The Antikythera Mechanism",
+      "wordCount": 257,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-101.json",
+      "skills": [
+        "MCQ",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-102",
+      "originCode": "102",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 102",
+      "title": "The Kakapo",
+      "wordCount": 323,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-102.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-103",
+      "originCode": "103",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 103",
+      "title": "Tyrian Purple: The Royal Dye of the Ancient Mediterranean",
+      "wordCount": 312,
+      "questionCount": 7,
+      "filePath": "data-r/graded/a2/a2-103.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-104",
+      "originCode": "104",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 104",
+      "title": "The Terracotta Army: Ancient Guardians in Clay",
+      "wordCount": 296,
+      "questionCount": 7,
+      "filePath": "data-r/graded/a2/a2-104.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "a2-105",
+      "originCode": "105",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 105",
+      "title": "Saffron: The Golden Threads of History",
+      "wordCount": 346,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-105.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-106",
+      "originCode": "106",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 106",
+      "title": "The Story of Tyrian Purple",
+      "wordCount": 328,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-106.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-107",
+      "originCode": "107",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 107",
+      "title": "The Kauri Forests of New Zealand",
+      "wordCount": 318,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-107.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-108",
+      "originCode": "108",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 108",
+      "title": "The Antikythera Mechanism",
+      "wordCount": 313,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-108.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-109",
+      "originCode": "109",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 109",
+      "title": "The Saffron Crocus: The Golden Spice",
+      "wordCount": 292,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-109.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-110",
+      "originCode": "110",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 110",
+      "title": "The Kakapo: New Zealand's Night Parrot",
+      "wordCount": 305,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-110.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-111",
+      "originCode": "111",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 111",
+      "title": "Ambergris: Floating Gold of the Oceans",
+      "wordCount": 312,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-111.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-112",
+      "originCode": "112",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 112",
+      "title": "The Terracotta Army of Xi'an",
+      "wordCount": 284,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-112.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-113",
+      "originCode": "113",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 113",
+      "title": "The Vanilla Orchid: From Mesoamerica to Global Spice",
+      "wordCount": 342,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-113.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-114",
+      "originCode": "114",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 114",
+      "title": "The Secrets of the Peat Bog Bodies",
+      "wordCount": 300,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-114.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-115",
+      "originCode": "115",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 115",
+      "title": "The Hydraulic Architecture of Petra",
+      "wordCount": 306,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-115.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-116",
+      "originCode": "116",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 116",
+      "title": "The Art and Mystery of Chinese Sericulture",
+      "wordCount": 319,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-116.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-117",
+      "originCode": "117",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 117",
+      "title": "The Dodo: Re-evaluating an Extinct Icon",
+      "wordCount": 303,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-117.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-118",
+      "originCode": "118",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 118",
+      "title": "The Ancient Stepwells of Western India",
+      "wordCount": 292,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-118.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-119",
+      "originCode": "119",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 119",
+      "title": "The Ginkgo Biloba: The Resilient Living Fossil",
+      "wordCount": 281,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-119.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-120",
+      "originCode": "120",
+      "passageNum": 1,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 120",
+      "title": "The Viking Longship: Maritime Masters of the North",
+      "wordCount": 293,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-120.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-201",
+      "originCode": "201",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 201",
+      "title": "Harnessing Nature's Glow",
+      "wordCount": 250,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-201.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-202",
+      "originCode": "202",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 202",
+      "title": "Doggerland: The Submerged Heart of Europe",
+      "wordCount": 328,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-202.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-203",
+      "originCode": "203",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 203",
+      "title": "The Revival of Acoustic Ecology",
+      "wordCount": 278,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-203.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-204",
+      "originCode": "204",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 204",
+      "title": "The Vertical Agrarian Revolution in Singapore",
+      "wordCount": 310,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-204.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-205",
+      "originCode": "205",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 205",
+      "title": "The Cognitive Horizons of Deep-Space Missions",
+      "wordCount": 337,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-205.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-206",
+      "originCode": "206",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 206",
+      "title": "Nature's Sticky Secret: The Science of Dry Adhesion",
+      "wordCount": 324,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-206.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-207",
+      "originCode": "207",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 207",
+      "title": "The Vanishing Melodies: Whistled Speech",
+      "wordCount": 284,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-207.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-208",
+      "originCode": "208",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 208",
+      "title": "Quenching the Deluge: China's Sponge City Revolution",
+      "wordCount": 345,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-208.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-209",
+      "originCode": "209",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 209",
+      "title": "The Deep-Ocean Mining Frontier",
+      "wordCount": 302,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-209.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "a2-210",
+      "originCode": "210",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 210",
+      "title": "The Internal Clockwork: Chronobiology",
+      "wordCount": 280,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-210.json",
+      "skills": [
+        "MCQ",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-211",
+      "originCode": "211",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 211",
+      "title": "The Wood Wide Web: Rethinking the Subterranean Forest",
+      "wordCount": 292,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-211.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-212",
+      "originCode": "212",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 212",
+      "title": "Cracking the Code: The Decipherment of Linear B",
+      "wordCount": 259,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-212.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "a2-213",
+      "originCode": "213",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 213",
+      "title": "Tapping the Earth's Cauldron: Geothermal Energy",
+      "wordCount": 268,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-213.json",
+      "skills": [
+        "MCQ",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-214",
+      "originCode": "214",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 214",
+      "title": "Beyond the Double Helix: Epigenetics",
+      "wordCount": 245,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-214.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-215",
+      "originCode": "215",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 215",
+      "title": "The Architecture of Choice: Nudge Theory",
+      "wordCount": 254,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-215.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "a2-216",
+      "originCode": "216",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 216",
+      "title": "Bioprospecting in the Cryosphere",
+      "wordCount": 268,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-216.json",
+      "skills": [
+        "MCQ",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-217",
+      "originCode": "217",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 217",
+      "title": "The Vanishing Vault: Light Pollution",
+      "wordCount": 313,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-217.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-218",
+      "originCode": "218",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 218",
+      "title": "Harnessing the Gale: Wind-Powered Cargo",
+      "wordCount": 285,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-218.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "a2-219",
+      "originCode": "219",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 219",
+      "title": "Secrets of the Annual Ring",
+      "wordCount": 283,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-219.json",
+      "skills": [
+        "MCQ",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-220",
+      "originCode": "220",
+      "passageNum": 2,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 220",
+      "title": "The Demise of the Mental Map",
+      "wordCount": 290,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-220.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-301",
+      "originCode": "301",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 301",
+      "title": "A History of Boredom",
+      "wordCount": 229,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-301.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-302",
+      "originCode": "302",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 302",
+      "title": "Rewiring the Self: Neuroplasticity",
+      "wordCount": 244,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-302.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "a2-303",
+      "originCode": "303",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 303",
+      "title": "Sunken Archives: Deep-Sea Archaeology",
+      "wordCount": 281,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-303.json",
+      "skills": [
+        "MCQ",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-304",
+      "originCode": "304",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 304",
+      "title": "The Mechanical Muse: AI and Art",
+      "wordCount": 287,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-304.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "a2-305",
+      "originCode": "305",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 305",
+      "title": "The Chill of History: The Little Ice Age",
+      "wordCount": 268,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-305.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-306",
+      "originCode": "306",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 306",
+      "title": "The Invention of the Alphabet",
+      "wordCount": 283,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-306.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-307",
+      "originCode": "307",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 307",
+      "title": "The Evolution of Altruism",
+      "wordCount": 274,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-307.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "a2-308",
+      "originCode": "308",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 308",
+      "title": "The Deep Reader in the Digital Age",
+      "wordCount": 256,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-308.json",
+      "skills": [
+        "MCQ",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-309",
+      "originCode": "309",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 309",
+      "title": "The Pyrocene: Fire, Humans, and the Shaping of Earth",
+      "wordCount": 260,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-309.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-310",
+      "originCode": "310",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 310",
+      "title": "Giants and Dwarfs: Rethinking the Island Rule",
+      "wordCount": 283,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-310.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "a2-311",
+      "originCode": "311",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 311",
+      "title": "The Architecture of Ignorance: Rethinking Scientific Progress",
+      "wordCount": 251,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-311.json",
+      "skills": [
+        "MCQ",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-312",
+      "originCode": "312",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 312",
+      "title": "The Singing Hominin: Roots of Melody",
+      "wordCount": 268,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-312.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-313",
+      "originCode": "313",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 313",
+      "title": "Rewilding the Mind: Ecology and Control",
+      "wordCount": 244,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-313.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "a2-314",
+      "originCode": "314",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 314",
+      "title": "Space and Mind: Architecture & Brain",
+      "wordCount": 254,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-314.json",
+      "skills": [
+        "MCQ",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-315",
+      "originCode": "315",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 315",
+      "title": "The Loom of Reason: Weaving and Early Computing",
+      "wordCount": 282,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-315.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-316",
+      "originCode": "316",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 316",
+      "title": "The Laughter Circuit: Roots of Social Mirth",
+      "wordCount": 267,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-316.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "a2-317",
+      "originCode": "317",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 317",
+      "title": "The Tragedy of the Commons and Ocean Quotas",
+      "wordCount": 277,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-317.json",
+      "skills": [
+        "MCQ",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "a2-318",
+      "originCode": "318",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 318",
+      "title": "The Cartography of Silence",
+      "wordCount": 291,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-318.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "a2-319",
+      "originCode": "319",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 319",
+      "title": "The Metaphorical Machine",
+      "wordCount": 274,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-319.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "a2-320",
+      "originCode": "320",
+      "passageNum": 3,
+      "level": "a2",
+      "band": "4.0",
+      "cefr": "A2",
+      "tier": "TIER_0",
+      "displayName": "[A2 • Band 4.0] Bài 320",
+      "title": "The Vertical Frontier: Elevators & Cities",
+      "wordCount": 262,
+      "questionCount": 8,
+      "filePath": "data-r/graded/a2/a2-320.json",
+      "skills": [
+        "MCQ",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-101",
+      "originCode": "101",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 101",
+      "title": "The Antikythera Mechanism",
+      "wordCount": 336,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-101.json",
+      "skills": [
+        "TFNG",
+        "SUMMARY_COMP"
+      ]
+    },
+    {
+      "code": "b1-102",
+      "originCode": "102",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 102",
+      "title": "The Kakapo",
+      "wordCount": 476,
+      "questionCount": 9,
+      "filePath": "data-r/graded/b1/b1-102.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-103",
+      "originCode": "103",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 103",
+      "title": "Tyrian Purple: The Royal Dye of the Ancient Mediterranean",
+      "wordCount": 441,
+      "questionCount": 9,
+      "filePath": "data-r/graded/b1/b1-103.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-104",
+      "originCode": "104",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 104",
+      "title": "The Terracotta Army: Ancient Guardians in Clay",
+      "wordCount": 407,
+      "questionCount": 9,
+      "filePath": "data-r/graded/b1/b1-104.json",
+      "skills": [
+        "SUMMARY_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-105",
+      "originCode": "105",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 105",
+      "title": "Saffron: The Golden Threads of History",
+      "wordCount": 491,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-105.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-106",
+      "originCode": "106",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 106",
+      "title": "The Story of Tyrian Purple",
+      "wordCount": 482,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-106.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-107",
+      "originCode": "107",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 107",
+      "title": "The Kauri Forests of New Zealand",
+      "wordCount": 461,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-107.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-108",
+      "originCode": "108",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 108",
+      "title": "The Antikythera Mechanism",
+      "wordCount": 421,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-108.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-109",
+      "originCode": "109",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 109",
+      "title": "The Saffron Crocus: The Golden Spice",
+      "wordCount": 401,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-109.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-110",
+      "originCode": "110",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 110",
+      "title": "The Kakapo: New Zealand's Night Parrot",
+      "wordCount": 380,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-110.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-111",
+      "originCode": "111",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 111",
+      "title": "Ambergris: Floating Gold of the Oceans",
+      "wordCount": 412,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-111.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-112",
+      "originCode": "112",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 112",
+      "title": "The Terracotta Army of Xi'an",
+      "wordCount": 372,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-112.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-113",
+      "originCode": "113",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 113",
+      "title": "The Vanilla Orchid: From Mesoamerica to Global Spice",
+      "wordCount": 410,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-113.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-114",
+      "originCode": "114",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 114",
+      "title": "The Secrets of the Peat Bog Bodies",
+      "wordCount": 390,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-114.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-115",
+      "originCode": "115",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 115",
+      "title": "The Hydraulic Architecture of Petra",
+      "wordCount": 406,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-115.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-116",
+      "originCode": "116",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 116",
+      "title": "The Art and Mystery of Chinese Sericulture",
+      "wordCount": 428,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-116.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-117",
+      "originCode": "117",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 117",
+      "title": "The Dodo: Re-evaluating an Extinct Icon",
+      "wordCount": 396,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-117.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-118",
+      "originCode": "118",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 118",
+      "title": "The Ancient Stepwells of Western India",
+      "wordCount": 414,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-118.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-119",
+      "originCode": "119",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 119",
+      "title": "The Ginkgo Biloba: The Resilient Living Fossil",
+      "wordCount": 398,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-119.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-120",
+      "originCode": "120",
+      "passageNum": 1,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 120",
+      "title": "The Viking Longship: Maritime Masters of the North",
+      "wordCount": 409,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-120.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-201",
+      "originCode": "201",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 201",
+      "title": "Harnessing Nature's Glow",
+      "wordCount": 321,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-201.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b1-202",
+      "originCode": "202",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 202",
+      "title": "Doggerland: The Submerged Heart of Europe",
+      "wordCount": 386,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-202.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-203",
+      "originCode": "203",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 203",
+      "title": "The Revival of Acoustic Ecology",
+      "wordCount": 361,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-203.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-204",
+      "originCode": "204",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 204",
+      "title": "The Vertical Agrarian Revolution in Singapore",
+      "wordCount": 381,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-204.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-205",
+      "originCode": "205",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 205",
+      "title": "The Cognitive Horizons of Deep-Space Missions",
+      "wordCount": 451,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-205.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-206",
+      "originCode": "206",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 206",
+      "title": "Nature's Sticky Secret: The Science of Dry Adhesion",
+      "wordCount": 405,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-206.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-207",
+      "originCode": "207",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 207",
+      "title": "The Vanishing Melodies: Whistled Speech",
+      "wordCount": 422,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-207.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-208",
+      "originCode": "208",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 208",
+      "title": "Quenching the Deluge: China's Sponge City Revolution",
+      "wordCount": 401,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-208.json",
+      "skills": [
+        "SUMMARY_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b1-209",
+      "originCode": "209",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 209",
+      "title": "The Deep-Ocean Mining Frontier",
+      "wordCount": 360,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-209.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "b1-210",
+      "originCode": "210",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 210",
+      "title": "The Internal Clockwork: Chronobiology",
+      "wordCount": 406,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-210.json",
+      "skills": [
+        "MCQ",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "b1-211",
+      "originCode": "211",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 211",
+      "title": "The Wood Wide Web: Rethinking the Subterranean Forest",
+      "wordCount": 372,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-211.json",
+      "skills": [
+        "TFNG",
+        "SUMMARY_COMP"
+      ]
+    },
+    {
+      "code": "b1-212",
+      "originCode": "212",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 212",
+      "title": "Cracking the Code: The Decipherment of Linear B",
+      "wordCount": 383,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-212.json",
+      "skills": [
+        "SUMMARY_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b1-213",
+      "originCode": "213",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 213",
+      "title": "Tapping the Earth's Cauldron: Geothermal Energy",
+      "wordCount": 366,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-213.json",
+      "skills": [
+        "MCQ",
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-214",
+      "originCode": "214",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 214",
+      "title": "Beyond the Double Helix: Epigenetics",
+      "wordCount": 357,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-214.json",
+      "skills": [
+        "TFNG",
+        "SUMMARY_COMP"
+      ]
+    },
+    {
+      "code": "b1-215",
+      "originCode": "215",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 215",
+      "title": "The Architecture of Choice: Nudge Theory",
+      "wordCount": 352,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-215.json",
+      "skills": [
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b1-216",
+      "originCode": "216",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 216",
+      "title": "Bioprospecting in the Cryosphere",
+      "wordCount": 369,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-216.json",
+      "skills": [
+        "YNNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "b1-217",
+      "originCode": "217",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 217",
+      "title": "The Vanishing Vault: Light Pollution",
+      "wordCount": 406,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-217.json",
+      "skills": [
+        "TFNG",
+        "SUMMARY_COMP"
+      ]
+    },
+    {
+      "code": "b1-218",
+      "originCode": "218",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 218",
+      "title": "Harnessing the Gale: Wind-Powered Cargo",
+      "wordCount": 359,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-218.json",
+      "skills": [
+        "MCQ",
+        "NOTE_COMP",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b1-219",
+      "originCode": "219",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 219",
+      "title": "Secrets of the Annual Ring",
+      "wordCount": 382,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-219.json",
+      "skills": [
+        "SUMMARY_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-220",
+      "originCode": "220",
+      "passageNum": 2,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 220",
+      "title": "The Demise of the Mental Map",
+      "wordCount": 354,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-220.json",
+      "skills": [
+        "TFNG",
+        "SUMMARY_COMP"
+      ]
+    },
+    {
+      "code": "b1-301",
+      "originCode": "301",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 301",
+      "title": "A History of Boredom",
+      "wordCount": 274,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-301.json",
+      "skills": [
+        "MCQ",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b1-302",
+      "originCode": "302",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 302",
+      "title": "Rewiring the Self: Neuroplasticity",
+      "wordCount": 328,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-302.json",
+      "skills": [
+        "SUMMARY_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b1-303",
+      "originCode": "303",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 303",
+      "title": "Sunken Archives: Deep-Sea Archaeology",
+      "wordCount": 304,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-303.json",
+      "skills": [
+        "NOTE_COMP",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b1-304",
+      "originCode": "304",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 304",
+      "title": "The Mechanical Muse: AI and Art",
+      "wordCount": 375,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-304.json",
+      "skills": [
+        "MCQ",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b1-305",
+      "originCode": "305",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 305",
+      "title": "The Chill of History: The Little Ice Age",
+      "wordCount": 367,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-305.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "b1-306",
+      "originCode": "306",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 306",
+      "title": "The Invention of the Alphabet",
+      "wordCount": 347,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-306.json",
+      "skills": [
+        "SUMMARY_COMP",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b1-307",
+      "originCode": "307",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 307",
+      "title": "The Evolution of Altruism",
+      "wordCount": 329,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-307.json",
+      "skills": [
+        "TFNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b1-308",
+      "originCode": "308",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 308",
+      "title": "The Deep Reader in the Digital Age",
+      "wordCount": 340,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-308.json",
+      "skills": [
+        "MCQ",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "b1-309",
+      "originCode": "309",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 309",
+      "title": "The Pyrocene: Fire, Humans, and the Shaping of Earth",
+      "wordCount": 363,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-309.json",
+      "skills": [
+        "TFNG",
+        "SUMMARY_COMP"
+      ]
+    },
+    {
+      "code": "b1-310",
+      "originCode": "310",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 310",
+      "title": "Giants and Dwarfs: Rethinking the Island Rule",
+      "wordCount": 363,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-310.json",
+      "skills": [
+        "SUMMARY_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b1-311",
+      "originCode": "311",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 311",
+      "title": "The Architecture of Ignorance: Rethinking Scientific Progress",
+      "wordCount": 285,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-311.json",
+      "skills": [
+        "MCQ",
+        "NOTE_COMP",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b1-312",
+      "originCode": "312",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 312",
+      "title": "The Singing Hominin: Roots of Melody",
+      "wordCount": 321,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-312.json",
+      "skills": [
+        "MCQ",
+        "SUMMARY_COMP"
+      ]
+    },
+    {
+      "code": "b1-313",
+      "originCode": "313",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 313",
+      "title": "Rewilding the Mind: Ecology and Control",
+      "wordCount": 322,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-313.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "b1-314",
+      "originCode": "314",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 314",
+      "title": "Space and Mind: Architecture & Brain",
+      "wordCount": 277,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-314.json",
+      "skills": [
+        "SUMMARY_COMP",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b1-315",
+      "originCode": "315",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 315",
+      "title": "The Loom of Reason: Weaving and Early Computing",
+      "wordCount": 342,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-315.json",
+      "skills": [
+        "TFNG",
+        "SUMMARY_COMP"
+      ]
+    },
+    {
+      "code": "b1-316",
+      "originCode": "316",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 316",
+      "title": "The Laughter Circuit: Roots of Social Mirth",
+      "wordCount": 346,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-316.json",
+      "skills": [
+        "SUMMARY_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b1-317",
+      "originCode": "317",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 317",
+      "title": "The Tragedy of the Commons and Ocean Quotas",
+      "wordCount": 325,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-317.json",
+      "skills": [
+        "MCQ",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b1-318",
+      "originCode": "318",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 318",
+      "title": "The Cartography of Silence",
+      "wordCount": 358,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-318.json",
+      "skills": [
+        "SUMMARY_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b1-319",
+      "originCode": "319",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 319",
+      "title": "The Metaphorical Machine",
+      "wordCount": 343,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-319.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "b1-320",
+      "originCode": "320",
+      "passageNum": 3,
+      "level": "b1",
+      "band": "5.0",
+      "cefr": "B1",
+      "tier": "TIER_1",
+      "displayName": "[B1 • Band 5.0] Bài 320",
+      "title": "The Vertical Frontier: Elevators & Cities",
+      "wordCount": 322,
+      "questionCount": 10,
+      "filePath": "data-r/graded/b1/b1-320.json",
+      "skills": [
+        "NOTE_COMP",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b2-101",
+      "originCode": "101",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 101",
+      "title": "The Antikythera Mechanism",
+      "wordCount": 342,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-101.json",
+      "skills": [
+        "MATCH_INFO",
+        "SUMMARY_BOX",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b2-102",
+      "originCode": "102",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 102",
+      "title": "The Kakapo",
+      "wordCount": 563,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-102.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-103",
+      "originCode": "103",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 103",
+      "title": "Tyrian Purple: The Royal Dye of the Ancient Mediterranean",
+      "wordCount": 510,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-103.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-104",
+      "originCode": "104",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 104",
+      "title": "The Terracotta Army: Ancient Guardians in Clay",
+      "wordCount": 489,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-104.json",
+      "skills": [
+        "NOTE_COMP",
+        "MATCH_FEATURES",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-105",
+      "originCode": "105",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 105",
+      "title": "Saffron: The Golden Threads of History",
+      "wordCount": 603,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-105.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-106",
+      "originCode": "106",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 106",
+      "title": "The Story of Tyrian Purple",
+      "wordCount": 598,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-106.json",
+      "skills": [
+        "MATCH_INFO",
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-107",
+      "originCode": "107",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 107",
+      "title": "The Kauri Forests of New Zealand",
+      "wordCount": 561,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-107.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-108",
+      "originCode": "108",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 108",
+      "title": "The Antikythera Mechanism",
+      "wordCount": 503,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-108.json",
+      "skills": [
+        "MATCH_INFO",
+        "NOTE_COMP",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-109",
+      "originCode": "109",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 109",
+      "title": "The Saffron Crocus: The Golden Spice",
+      "wordCount": 477,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-109.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-110",
+      "originCode": "110",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 110",
+      "title": "The Kakapo: New Zealand's Night Parrot",
+      "wordCount": 455,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-110.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-111",
+      "originCode": "111",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 111",
+      "title": "Ambergris: Floating Gold of the Oceans",
+      "wordCount": 513,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-111.json",
+      "skills": [
+        "MATCH_INFO",
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-112",
+      "originCode": "112",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 112",
+      "title": "The Terracotta Army of Xi'an",
+      "wordCount": 503,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-112.json",
+      "skills": [
+        "MATCH_INFO",
+        "SUMMARY_BOX",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-113",
+      "originCode": "113",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 113",
+      "title": "The Vanilla Orchid: From Mesoamerica to Global Spice",
+      "wordCount": 546,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-113.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-114",
+      "originCode": "114",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 114",
+      "title": "The Secrets of the Peat Bog Bodies",
+      "wordCount": 511,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-114.json",
+      "skills": [
+        "MATCH_INFO",
+        "SUMMARY_BOX",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-115",
+      "originCode": "115",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 115",
+      "title": "The Hydraulic Architecture of Petra",
+      "wordCount": 477,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-115.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-116",
+      "originCode": "116",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 116",
+      "title": "The Art and Mystery of Chinese Sericulture",
+      "wordCount": 465,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-116.json",
+      "skills": [
+        "MATCH_INFO",
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-117",
+      "originCode": "117",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 117",
+      "title": "The Dodo: Re-evaluating an Extinct Icon",
+      "wordCount": 497,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-117.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-118",
+      "originCode": "118",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 118",
+      "title": "The Ancient Stepwells of Western India",
+      "wordCount": 522,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-118.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-119",
+      "originCode": "119",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 119",
+      "title": "The Ginkgo Biloba: The Resilient Living Fossil",
+      "wordCount": 497,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-119.json",
+      "skills": [
+        "MATCH_INFO",
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-120",
+      "originCode": "120",
+      "passageNum": 1,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 120",
+      "title": "The Viking Longship: Maritime Masters of the North",
+      "wordCount": 473,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-120.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-201",
+      "originCode": "201",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 201",
+      "title": "Harnessing Nature's Glow",
+      "wordCount": 360,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-201.json",
+      "skills": [
+        "YNNG",
+        "MATCH_ENDINGS",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-202",
+      "originCode": "202",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 202",
+      "title": "Doggerland: The Submerged Heart of Europe",
+      "wordCount": 480,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-202.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "YNNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-203",
+      "originCode": "203",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 203",
+      "title": "The Revival of Acoustic Ecology",
+      "wordCount": 493,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-203.json",
+      "skills": [
+        "MATCH_INFO",
+        "MCQ_TWO",
+        "SUMMARY_COMP"
+      ]
+    },
+    {
+      "code": "b2-204",
+      "originCode": "204",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 204",
+      "title": "The Vertical Agrarian Revolution in Singapore",
+      "wordCount": 467,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-204.json",
+      "skills": [
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-205",
+      "originCode": "205",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 205",
+      "title": "The Cognitive Horizons of Deep-Space Missions",
+      "wordCount": 519,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-205.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "YNNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-206",
+      "originCode": "206",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 206",
+      "title": "Nature's Sticky Secret: The Science of Dry Adhesion",
+      "wordCount": 512,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-206.json",
+      "skills": [
+        "MATCH_INFO",
+        "NOTE_COMP",
+        "MATCH_FEATURES"
+      ]
+    },
+    {
+      "code": "b2-207",
+      "originCode": "207",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 207",
+      "title": "The Vanishing Melodies: Whistled Speech",
+      "wordCount": 476,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-207.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "YNNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-208",
+      "originCode": "208",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 208",
+      "title": "Quenching the Deluge: China's Sponge City Revolution",
+      "wordCount": 485,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-208.json",
+      "skills": [
+        "MATCH_INFO",
+        "MCQ",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b2-209",
+      "originCode": "209",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 209",
+      "title": "The Deep-Ocean Mining Frontier",
+      "wordCount": 439,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-209.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG",
+        "MCQ_TWO",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-210",
+      "originCode": "210",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 210",
+      "title": "The Internal Clockwork: Chronobiology",
+      "wordCount": 487,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-210.json",
+      "skills": [
+        "MATCH_INFO",
+        "TFNG",
+        "SUMMARY_COMP"
+      ]
+    },
+    {
+      "code": "b2-211",
+      "originCode": "211",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 211",
+      "title": "The Wood Wide Web: Rethinking the Subterranean Forest",
+      "wordCount": 514,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-211.json",
+      "skills": [
+        "YNNG",
+        "SUMMARY_BOX",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-212",
+      "originCode": "212",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 212",
+      "title": "Cracking the Code: The Decipherment of Linear B",
+      "wordCount": 451,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-212.json",
+      "skills": [
+        "MATCH_INFO",
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-213",
+      "originCode": "213",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 213",
+      "title": "Tapping the Earth's Cauldron: Geothermal Energy",
+      "wordCount": 477,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-213.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "MCQ",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b2-214",
+      "originCode": "214",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 214",
+      "title": "Beyond the Double Helix: Epigenetics",
+      "wordCount": 454,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-214.json",
+      "skills": [
+        "TFNG",
+        "SUMMARY_BOX",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-215",
+      "originCode": "215",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 215",
+      "title": "The Architecture of Choice: Nudge Theory",
+      "wordCount": 447,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-215.json",
+      "skills": [
+        "MATCH_INFO",
+        "NOTE_COMP",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b2-216",
+      "originCode": "216",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 216",
+      "title": "Bioprospecting in the Cryosphere",
+      "wordCount": 420,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-216.json",
+      "skills": [
+        "MCQ_TWO",
+        "SUMMARY_BOX",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-217",
+      "originCode": "217",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 217",
+      "title": "The Vanishing Vault: Light Pollution",
+      "wordCount": 425,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-217.json",
+      "skills": [
+        "MATCH_INFO",
+        "NOTE_COMP",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-218",
+      "originCode": "218",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 218",
+      "title": "Harnessing the Gale: Wind-Powered Cargo",
+      "wordCount": 442,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-218.json",
+      "skills": [
+        "MCQ",
+        "SUMMARY_BOX",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b2-219",
+      "originCode": "219",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 219",
+      "title": "Secrets of the Annual Ring",
+      "wordCount": 445,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-219.json",
+      "skills": [
+        "YNNG",
+        "SUMMARY_BOX",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-220",
+      "originCode": "220",
+      "passageNum": 2,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 220",
+      "title": "The Demise of the Mental Map",
+      "wordCount": 501,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-220.json",
+      "skills": [
+        "MATCH_INFO",
+        "YNNG",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "b2-301",
+      "originCode": "301",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 301",
+      "title": "A History of Boredom",
+      "wordCount": 333,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-301.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "MATCH_INFO",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-302",
+      "originCode": "302",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 302",
+      "title": "Rewiring the Self: Neuroplasticity",
+      "wordCount": 336,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-302.json",
+      "skills": [
+        "YNNG",
+        "MATCH_FEATURES",
+        "SUMMARY_BOX"
+      ]
+    },
+    {
+      "code": "b2-303",
+      "originCode": "303",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 303",
+      "title": "Sunken Archives: Deep-Sea Archaeology",
+      "wordCount": 349,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-303.json",
+      "skills": [
+        "MCQ",
+        "NOTE_COMP",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b2-304",
+      "originCode": "304",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 304",
+      "title": "The Mechanical Muse: AI and Art",
+      "wordCount": 376,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-304.json",
+      "skills": [
+        "YNNG",
+        "MATCH_ENDINGS",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-305",
+      "originCode": "305",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 305",
+      "title": "The Chill of History: The Little Ice Age",
+      "wordCount": 416,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-305.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "MCQ",
+        "TFNG"
+      ]
+    },
+    {
+      "code": "b2-306",
+      "originCode": "306",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 306",
+      "title": "The Invention of the Alphabet",
+      "wordCount": 476,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-306.json",
+      "skills": [
+        "YNNG",
+        "MCQ",
+        "NOTE_COMP"
+      ]
+    },
+    {
+      "code": "b2-307",
+      "originCode": "307",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 307",
+      "title": "The Evolution of Altruism",
+      "wordCount": 394,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-307.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "TFNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-308",
+      "originCode": "308",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 308",
+      "title": "The Deep Reader in the Digital Age",
+      "wordCount": 429,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-308.json",
+      "skills": [
+        "MATCH_ENDINGS",
+        "NOTE_COMP",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b2-309",
+      "originCode": "309",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 309",
+      "title": "The Pyrocene: Fire, Humans, and the Shaping of Earth",
+      "wordCount": 403,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-309.json",
+      "skills": [
+        "YNNG",
+        "MCQ",
+        "SUMMARY_BOX"
+      ]
+    },
+    {
+      "code": "b2-310",
+      "originCode": "310",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 310",
+      "title": "Giants and Dwarfs: Rethinking the Island Rule",
+      "wordCount": 406,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-310.json",
+      "skills": [
+        "MATCH_ENDINGS",
+        "SUMMARY_BOX",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b2-311",
+      "originCode": "311",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 311",
+      "title": "The Architecture of Ignorance: Rethinking Scientific Progress",
+      "wordCount": 362,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-311.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "YNNG",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-312",
+      "originCode": "312",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 312",
+      "title": "The Singing Hominin: Roots of Melody",
+      "wordCount": 343,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-312.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "YNNG",
+        "MATCH_ENDINGS"
+      ]
+    },
+    {
+      "code": "b2-313",
+      "originCode": "313",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 313",
+      "title": "Rewilding the Mind: Ecology and Control",
+      "wordCount": 390,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-313.json",
+      "skills": [
+        "MATCH_INFO",
+        "MCQ",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b2-314",
+      "originCode": "314",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 314",
+      "title": "Space and Mind: Architecture & Brain",
+      "wordCount": 392,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-314.json",
+      "skills": [
+        "TFNG",
+        "NOTE_COMP",
+        "MATCH_ENDINGS"
+      ]
+    },
+    {
+      "code": "b2-315",
+      "originCode": "315",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 315",
+      "title": "The Loom of Reason: Weaving and Early Computing",
+      "wordCount": 414,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-315.json",
+      "skills": [
+        "SUMMARY_BOX",
+        "MCQ",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b2-316",
+      "originCode": "316",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 316",
+      "title": "The Laughter Circuit: Roots of Social Mirth",
+      "wordCount": 429,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-316.json",
+      "skills": [
+        "MATCH_INFO",
+        "NOTE_COMP",
+        "YNNG"
+      ]
+    },
+    {
+      "code": "b2-317",
+      "originCode": "317",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 317",
+      "title": "The Tragedy of the Commons and Ocean Quotas",
+      "wordCount": 384,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-317.json",
+      "skills": [
+        "YNNG",
+        "MATCH_ENDINGS",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-318",
+      "originCode": "318",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 318",
+      "title": "The Cartography of Silence",
+      "wordCount": 454,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-318.json",
+      "skills": [
+        "MATCH_INFO",
+        "YNNG",
+        "MATCH_ENDINGS"
+      ]
+    },
+    {
+      "code": "b2-319",
+      "originCode": "319",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 319",
+      "title": "The Metaphorical Machine",
+      "wordCount": 379,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-319.json",
+      "skills": [
+        "YNNG",
+        "SUMMARY_BOX",
+        "MCQ"
+      ]
+    },
+    {
+      "code": "b2-320",
+      "originCode": "320",
+      "passageNum": 3,
+      "level": "b2",
+      "band": "6.0",
+      "cefr": "B2",
+      "tier": "TIER_2",
+      "displayName": "[B2 • Band 6.0] Bài 320",
+      "title": "The Vertical Frontier: Elevators & Cities",
+      "wordCount": 384,
+      "questionCount": 12,
+      "filePath": "data-r/graded/b2/b2-320.json",
+      "skills": [
+        "MATCH_ENDINGS",
+        "SUMMARY_COMP",
+        "MCQ"
+      ]
+    }
+  ]
+}
