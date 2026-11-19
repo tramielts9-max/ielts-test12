@@ -1,0 +1,190 @@
+{
+  "title": "[B1 • Band 5.0] Bài 201: Harnessing Nature's Glow",
+  "answers": {
+    "q1": "efficiency",
+    "q2": "acid",
+    "q3": "columns",
+    "q4": "stress",
+    "q5": "navigation",
+    "q6": "C",
+    "q7": "A",
+    "q8": "D",
+    "q9": "B",
+    "q10": "A"
+  },
+  "passageHtml": "<h2>PASSAGE 201 (LEVEL B1 • BAND 5.0)</h2><h3>Harnessing Nature's Glow: The Science of Living Light</h3><p><strong>Paragraph 1.</strong> Public lighting accounts for nearly twenty percent of municipal electricity costs worldwide. To cut carbon emissions, biologists and urban planners are exploring bioluminescence—cold light produced naturally by fireflies, deep-sea fish, and glowing fungi without an electric grid. <span class=\"hl\" id=\"hl-q1\" data-q=\"[Q1]\"><span class=\"hl\" id=\"hl-q6\" data-q=\"[Q6]\">Whereas traditional bulbs convert under ten percent of electricity into light, bioluminescent reactions reach nearly ninety-eight percent optical <span class=\"kw\">efficiency</span></span></span>. Biochemist Dr. Claire Moreau notes that nature solved sustainable lighting millions of years ago; our task is building living systems stable enough to last months.</p><p><strong>Paragraph 2.</strong> <span class=\"hl\" id=\"hl-q7\" data-q=\"[Q7]\">Early trials inserting bacterial genes into ornamental plants produced dim results and stunted plant growth</span>. Geneticists therefore turned to glowing fungi such as <em>Neonothopanus nambi</em>. Unlike bacteria needing chemical additives, <span class=\"hl\" id=\"hl-q2\" data-q=\"[Q2]\">fungal light shares pathways with caffeic <span class=\"kw\">acid</span>, a natural substance present in all land plants</span>, boosting autonomous green glow a thousand-fold without harming the plant.</p><p><strong>Paragraph 3.</strong> Biophysicist Dr. Kenneth Vance tested glowing microalgae across sixty underground transit stations in Brussels. <span class=\"hl\" id=\"hl-q3\" data-q=\"[Q3]\">His team mounted vertical glass <span class=\"kw\">columns</span> filled with photosynthetic algae along pedestrian corridors</span>. Daytime sunlight directed via optical fibres helped algae store energy; at night, mechanical pumps circulated air bubbles to trigger an ethereal blue glow while sensors logged brightness and commuter feedback.</p><p><strong>Paragraph 4.</strong> Sociologist Dr. Aris Thorne explains that city dwellers are accustomed to harsh LED glare, so <span class=\"hl\" id=\"hl-q8\" data-q=\"[Q8]\">many commuters initially felt uneasy around dim biological panels</span>. Yet after several weeks, public opinion turned strongly positive, with <span class=\"hl\" id=\"hl-q4\" data-q=\"[Q4]\">residents reporting lower evening <span class=\"kw\">stress</span></span> and a calming emotional connection.</p><p><strong>Paragraph 5.</strong> Ecological toxicologist Dr. Haruki Sato urges caution: <span class=\"hl\" id=\"hl-q5\" data-q=\"[Q5]\"><span class=\"hl\" id=\"hl-q9\" data-q=\"[Q9]\">blue-green light overlaps with signals used by migrating birds and insects, risking disruption to avian <span class=\"kw\">navigation</span> and bat foraging</span></span>. He insists on strict environmental assessments first. <span class=\"hl\" id=\"hl-q10\" data-q=\"[Q10]\">Looking ahead, Dr. Moreau sees living lights guiding footpaths and parks rather than replacing bright highway grids</span>.</p>",
+  "groups": [
+    {
+      "id": "g1",
+      "type": "notes",
+      "skillTag": "NOTE_COMP",
+      "title": "Questions 1–5",
+      "instructions": "<i>Complete the notes. Choose <b>ONE WORD ONLY</b> from the passage.</i>",
+      "noteTitle": "Bioluminescence Research",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5"
+      ],
+      "template": "<ul><li>Living light reactions achieve almost 98% optical <b>1.</b> {{q1}} .</li><li>Fungal light works with caffeic <b>2.</b> {{q2}} found naturally in plants.</li><li>In Brussels, algae were housed inside vertical glass <b>3.</b> {{q3}} .</li><li>After several weeks, commuters reported reduced evening <b>4.</b> {{q4}} .</li><li>Dr. Sato warns glowing trees could disrupt bird <b>5.</b> {{q5}} .</li></ul>"
+    },
+    {
+      "id": "g2",
+      "type": "mcq",
+      "skillTag": "MCQ",
+      "title": "Questions 6–10",
+      "instructions": "<i>Choose the correct letter, <b>A, B, C or D</b>.</i>",
+      "questionIds": [
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+      ]
+    }
+  ],
+  "questions": {
+    "q1": {
+      "num": 1,
+      "finalAnswer": "efficiency",
+      "inputWidth": "120px",
+      "highlightId": "hl-q1",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> <i>ninety-eight percent optical efficiency</i> → <b>efficiency</b>."
+        ]
+      }
+    },
+    "q2": {
+      "num": 2,
+      "finalAnswer": "acid",
+      "inputWidth": "100px",
+      "highlightId": "hl-q2",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> <i>caffeic acid</i> → <b>acid</b>."
+        ]
+      }
+    },
+    "q3": {
+      "num": 3,
+      "finalAnswer": "columns",
+      "inputWidth": "110px",
+      "highlightId": "hl-q3",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 3:</b> <i>vertical glass columns</i> → <b>columns</b>."
+        ]
+      }
+    },
+    "q4": {
+      "num": 4,
+      "finalAnswer": "stress",
+      "inputWidth": "100px",
+      "highlightId": "hl-q4",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> <i>lower evening stress</i> → <b>stress</b>."
+        ]
+      }
+    },
+    "q5": {
+      "num": 5,
+      "finalAnswer": "navigation",
+      "inputWidth": "120px",
+      "highlightId": "hl-q5",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> <i>disruption to avian navigation</i> → <b>navigation</b>."
+        ]
+      }
+    },
+    "q6": {
+      "num": 6,
+      "text": "Why do planners consider bioluminescence superior to incandescent bulbs?",
+      "options": [
+        "A. It requires brighter electric grids.",
+        "B. It produces stronger heat.",
+        "C. It wastes almost no energy as heat.",
+        "D. It only works inside highways."
+      ],
+      "finalAnswer": "C",
+      "highlightId": "hl-q6",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 1:</b> Hiệu suất ánh sáng gần 98%, hầu như không tỏa nhiệt → <b>C</b>."
+        ]
+      }
+    },
+    "q7": {
+      "num": 7,
+      "text": "What problem occurred in early bacterial trials on plants?",
+      "options": [
+        "A. The plants grew poorly and glowed dimly.",
+        "B. The plants glowed too brightly for cameras.",
+        "C. The plants killed local insects.",
+        "D. The bacteria needed glass columns."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q7",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 2:</b> Cây phát sáng yếu và bị còi cọc → <b>A</b>."
+        ]
+      }
+    },
+    "q8": {
+      "num": 8,
+      "text": "How did commuters in Brussels first react to bioluminescent panels?",
+      "options": [
+        "A. They immediately demanded them on highways.",
+        "B. They ignored the panels completely.",
+        "C. They reported lower stress on day one.",
+        "D. They felt uneasy because the light seemed dim."
+      ],
+      "finalAnswer": "D",
+      "highlightId": "hl-q8",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 4:</b> Ban đầu thấy lo ngại vì ánh sáng dịu hơn đèn LED → <b>D</b>."
+        ]
+      }
+    },
+    "q9": {
+      "num": 9,
+      "text": "What does Dr. Haruki Sato insist must happen before commercial rollout?",
+      "options": [
+        "A. Replacing all LEDs in Europe.",
+        "B. Conducting thorough environmental impact reviews.",
+        "C. Painting park trees blue.",
+        "D. Removing bats from city parks."
+      ],
+      "finalAnswer": "B",
+      "highlightId": "hl-q9",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Đánh giá tác động môi trường nghiêm ngặt trước khi triển khai → <b>B</b>."
+        ]
+      }
+    },
+    "q10": {
+      "num": 10,
+      "text": "How does Dr. Claire Moreau envision using living lights in cities?",
+      "options": [
+        "A. Guiding walkways alongside traditional highway lighting.",
+        "B. Eliminating all conventional electricity permanently.",
+        "C. Lighting only underground train tunnels.",
+        "D. Replacing indoor house lamps."
+      ],
+      "finalAnswer": "A",
+      "highlightId": "hl-q10",
+      "explanation": {
+        "steps": [
+          "<b>Đoạn 5:</b> Dùng dẫn đường lối đi, công viên kết hợp đèn lưới cho cao tốc → <b>A</b>."
+        ]
+      }
+    }
+  }
+}
