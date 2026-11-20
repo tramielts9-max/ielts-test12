@@ -1,6 +1,6 @@
 /**
  * reading/js-r/runner-loader.js
- * MODULE TẢI ĐỀ THI, ĐIỀU HƯỚNG PASSAGE (CAM / VOL / SƯU TẦM / KỸ NĂNG) & MODAL ĐÁP ÁN
+ * MODULE TẢI ĐỀ THI, ĐIỀU HƯỚNG PASSAGE (CAM / VOL / SƯU TẦM / KỸ NĂNG / GRADED A2-B1-B2) & MODAL ĐÁP ÁN
  * (TÁCH NGUYÊN VẸN TỪ reading/runner-reading.html THEO MÔ HÌNH GATEWAY)
  */
 
@@ -31,6 +31,33 @@ async function fetchManifestSafe() {
   }
 }
 
+async function fetchGradedManifestSafe() {
+  const candidates = [
+    `data-r/graded-manifest.json?t=${Date.now()}`,
+    `data-r/graded/graded-manifest.json?t=${Date.now()}`
+  ];
+  for (const url of candidates) {
+    try {
+      const res = await fetch(url, { cache: 'no-store' });
+      if (res.ok) return await res.json();
+    } catch (e) {}
+  }
+  return null;
+}
+
+function parseGradedFileInfo(fileName) {
+  const m = String(fileName || '').match(/^(a2|b1|b2)-([123])(\d{2})$/i);
+  if (!m) return null;
+  const level = m[1].toLowerCase();
+  return {
+    level,
+    cefr: level.toUpperCase(),
+    passageNum: parseInt(m[2], 10) || 1,
+    suffix: m[3],
+    code: `${level}-${m[2]}${m[3]}`
+  };
+}
+
 function buildCandidateUrls(testId) {
   const raw = String(testId || '').replace(/\.json$/i, '');
   const fileName = raw.includes('/') ? raw.split('/').pop() : raw;
@@ -48,6 +75,15 @@ function buildCandidateUrls(testId) {
   if (stMatch) {
     urls.unshift(`data-r/collection/p${stMatch[1]}/${fileName}.json`);
   }
+
+  const gradedInfo = parseGradedFileInfo(fileName);
+  if (gradedInfo) {
+    urls.unshift(`data-r/graded/${gradedInfo.level}/${gradedInfo.code}.json`);
+    if (raw.includes('/')) {
+      urls.unshift(`${raw}.json`);
+    }
+  }
+
   return { raw, fileName, urls: Array.from(new Set(urls)) };
 }
 
@@ -56,6 +92,8 @@ function detectCurrentPassageNum(fileName) {
   if (matchStandard) return parseInt(matchStandard[1], 10) || 1;
   const matchSt = fileName.match(/^st-([123])\d{2}$/i);
   if (matchSt) return parseInt(matchSt[1], 10) || 1;
+  const gradedInfo = parseGradedFileInfo(fileName);
+  if (gradedInfo) return gradedInfo.passageNum;
   return 1;
 }
 
@@ -70,6 +108,13 @@ function buildSiblingUrl(currentHref, fileName, currentPassageNum, targetPassage
       return currentHref
         .replace(new RegExp(`p${stMatch[1]}(?=/st-)`, 'i'), `p${targetPassageNum}`)
         .replace(new RegExp(`st-${stMatch[1]}${suffix}`, 'i'), `st-${targetPassageNum}${suffix}`);
+    }
+    const gradedInfo = parseGradedFileInfo(fileName);
+    if (gradedInfo) {
+      return currentHref.replace(
+        new RegExp(`${gradedInfo.level}-${gradedInfo.passageNum}${gradedInfo.suffix}`, 'i'),
+        `${gradedInfo.level}-${targetPassageNum}${gradedInfo.suffix}`
+      );
     }
   } catch (e) {}
   return currentHref;
@@ -87,6 +132,18 @@ export async function initReadingRunner() {
   }
 
   const { fileName, urls } = buildCandidateUrls(testId);
+  const gradedInfo = parseGradedFileInfo(fileName);
+
+  // Tự động cập nhật nút "← Danh mục Đề" về đúng tab Graded (A2/B1/B2) nếu đang làm bài Graded
+  if (gradedInfo) {
+    try {
+      const backLink = document.querySelector('a[href="reading.html"]');
+      if (backLink) {
+        backLink.setAttribute('href', `reading.html?series=graded&level=${encodeURIComponent(gradedInfo.level)}`);
+      }
+    } catch (e) {}
+  }
+
   let rawData = null;
 
   for (const url of urls) {
@@ -105,8 +162,8 @@ export async function initReadingRunner() {
       mainContainer.innerHTML = `
         <div style="padding: 40px; text-align: center; width: 100%; background:#FFFFFF; border-radius:20px; border:2px solid var(--border-color);">
           <h3 style="color: #DC2626; font-size:18px;">❌ Không tìm thấy file: <code>${escapeHtml(fileName)}.json</code></h3>
-          <p style="color: var(--text-muted); font-size:14px;">Hãy kiểm tra lại xem file đã được nạp vào thư mục <code>reading/data-r/</code> (hoặc <code>reading/data-r/collection/</code>) chưa.</p>
-          <a href="reading.html" style="color:#8B1518; font-weight:800;">← Quay về danh mục đề đọc</a>
+          <p style="color: var(--text-muted); font-size:14px;">Hãy kiểm tra lại xem file đã được nạp vào thư mục <code>reading/data-r/</code> (hoặc <code>reading/data-r/collection/</code>, <code>reading/data-r/graded/</code>) chưa.</p>
+          <a href="${gradedInfo ? `reading.html?series=graded&level=${encodeURIComponent(gradedInfo.level)}` : 'reading.html'}" style="color:#8B1518; font-weight:800;">← Quay về danh mục đề đọc</a>
         </div>
       `;
     }
@@ -164,35 +221,56 @@ export async function initReadingRunner() {
       `;
       passagesContainer.innerHTML = passagesHtml;
 
-      fetchManifestSafe().then(manifest => {
-        try {
-          const slot = document.getElementById('nextSkillPassageSlot');
-          if (!slot || !manifest?.passages) return;
-          const currentSt = fileName.match(/^st-(\d{3})$/i)?.[1] || '';
-          const sameSkillList = Object.values(manifest.passages)
-            .filter(p => p && Number(p.passageNum) === currentPassageNum && Array.isArray(p.skills) && p.skills.includes(filterRes.skillTag))
-            .sort((a, b) => Number(a.code) - Number(b.code));
-          const curIdx = sameSkillList.findIndex(p => String(p.code) === currentSt);
-          const nextPsg = (curIdx >= 0 && curIdx + 1 < sameSkillList.length) ? sameSkillList[curIdx + 1] : null;
-          if (nextPsg) {
-            const nextUrl = `runner-reading.html?test=${encodeURIComponent(nextPsg.filePath)}&skill=${encodeURIComponent(filterRes.skillTag)}`;
-            slot.innerHTML = `<div class="passage-group-tab inactive-tab" onclick="window.location.href='${nextUrl}'"><b>Bài tiếp cùng dạng (Mã ${escapeHtml(nextPsg.code)}) →</b></div>`;
-          }
-        } catch (e) {}
-      });
+      if (gradedInfo) {
+        fetchGradedManifestSafe().then(gManifest => {
+          try {
+            const slot = document.getElementById('nextSkillPassageSlot');
+            if (!slot || !Array.isArray(gManifest?.items)) return;
+            const sameSkillList = gManifest.items
+              .filter(it => it && String(it.level).toLowerCase() === gradedInfo.level && Array.isArray(it.skills) && it.skills.includes(filterRes.skillTag))
+              .sort((a, b) => Number(a.originCode || 0) - Number(b.originCode || 0));
+            const curIdx = sameSkillList.findIndex(it => String(it.code).toLowerCase() === gradedInfo.code);
+            const nextItem = (curIdx >= 0 && curIdx + 1 < sameSkillList.length) ? sameSkillList[curIdx + 1] : null;
+            if (nextItem) {
+              const nextUrl = `runner-reading.html?test=${encodeURIComponent(nextItem.filePath)}&level=${encodeURIComponent(gradedInfo.level)}&skill=${encodeURIComponent(filterRes.skillTag)}`;
+              slot.innerHTML = `<div class="passage-group-tab inactive-tab" onclick="window.location.href='${nextUrl}'"><b>Bài ${escapeHtml(gradedInfo.cefr)} tiếp cùng dạng (${escapeHtml(nextItem.originCode || nextItem.code)}) →</b></div>`;
+            }
+          } catch (e) {}
+        });
+      } else {
+        fetchManifestSafe().then(manifest => {
+          try {
+            const slot = document.getElementById('nextSkillPassageSlot');
+            if (!slot || !manifest?.passages) return;
+            const currentSt = fileName.match(/^st-(\d{3})$/i)?.[1] || '';
+            const sameSkillList = Object.values(manifest.passages)
+              .filter(p => p && Number(p.passageNum) === currentPassageNum && Array.isArray(p.skills) && p.skills.includes(filterRes.skillTag))
+              .sort((a, b) => Number(a.code) - Number(b.code));
+            const curIdx = sameSkillList.findIndex(p => String(p.code) === currentSt);
+            const nextPsg = (curIdx >= 0 && curIdx + 1 < sameSkillList.length) ? sameSkillList[curIdx + 1] : null;
+            if (nextPsg) {
+              const nextUrl = `runner-reading.html?test=${encodeURIComponent(nextPsg.filePath)}&skill=${encodeURIComponent(filterRes.skillTag)}`;
+              slot.innerHTML = `<div class="passage-group-tab inactive-tab" onclick="window.location.href='${nextUrl}'"><b>Bài tiếp cùng dạng (Mã ${escapeHtml(nextPsg.code)}) →</b></div>`;
+            }
+          } catch (e) {}
+        });
+      }
     } else {
+      const gradedCountHintMap = { a2: 'A2 • ~8 câu', b1: 'B1 • ~10 câu', b2: 'B2 • 12 câu' };
+      const inactiveHint = gradedInfo ? (gradedCountHintMap[gradedInfo.level] || gradedInfo.cefr) : '13-14 câu';
+
       for (let p = 1; p <= 3; p++) {
         if (p === currentPassageNum) {
           passagesHtml += `
             <div class="passage-group-tab active-tab">
-              <b style="color:#8B1518; margin-right:4px;">Passage ${p}:</b> ${badgesHtml}
+              <b style="color:#8B1518; margin-right:4px;">${gradedInfo ? `${escapeHtml(gradedInfo.cefr)} • ` : ''}Passage ${p}:</b> ${badgesHtml}
             </div>
           `;
         } else {
           const targetUrl = buildSiblingUrl(window.location.href, fileName, currentPassageNum, p);
           passagesHtml += `
             <div class="passage-group-tab inactive-tab" onclick="window.location.href='${targetUrl}'">
-              <b>Passage ${p}</b> (13-14 câu)
+              <b>Passage ${p}</b> (${escapeHtml(inactiveHint)})
             </div>
           `;
         }
@@ -242,7 +320,7 @@ export async function initReadingRunner() {
     });
 
     modalBody.innerHTML = `
-      <h3 style="margin-top:0; font-size:18px; font-weight:900; color:#8B1518;">📋 Bảng Đáp Án - Passage ${currentPassageNum}</h3>
+      <h3 style="margin-top:0; font-size:18px; font-weight:900; color:#8B1518;">📋 Bảng Đáp Án - ${gradedInfo ? `${escapeHtml(gradedInfo.cefr)} • ` : ''}Passage ${currentPassageNum}</h3>
       <div style="max-height: 55vh; overflow-y: auto; border: 2px solid var(--border-color); border-radius: 14px;">
         <table style="width: 100%; border-collapse: collapse; font-size: 14.5px;">
           <thead>
