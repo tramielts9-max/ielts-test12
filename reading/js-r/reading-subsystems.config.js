@@ -43,6 +43,15 @@ export const DEFAULT_SUBSYSTEMS_CONFIG = {
       badgeText: 'Chia P1 / P2 / P3',
       description: 'Luyện chuyên sâu từng dạng bài theo đúng cấu trúc Passage 1, 2, 3',
       accentColor: '#B45309'
+    },
+    {
+      id: 'graded',
+      enabled: true,
+      order: 5,
+      label: 'Đọc Phân Cấp (A2 / B1 / B2)',
+      badgeText: 'Band 4.0 - 6.0',
+      description: 'Kho bài đọc phân cấp theo trình độ CEFR A2 (4.0), B1 (5.0), B2 (6.0)',
+      accentColor: '#7C3AED'
     }
   ],
 
