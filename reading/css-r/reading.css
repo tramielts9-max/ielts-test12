@@ -5,6 +5,7 @@
    - Cỡ chữ bài đọc & câu hỏi chuẩn thi (14.5px, không bị to quá mức)
    - Bố cục Sidebar bên phải cho Gợi ý Socratic & AI
    - Bảng ma trận Radio Grid cho Matching Paragraphs (A-F)
+   - Hỗ trợ đầy đủ 5 phân hệ: Cam, Vol, Bài Sưu Tầm, Kỹ Năng & Graded A2/B1/B2
    ========================================================================== */
 
 :root {
@@ -518,3 +519,158 @@ body {
 .rd-admin-btn-gray { background: #E2E8F0; color: #1E293B; border-bottom: 3.5px solid #94A3B8; }
 .rd-admin-btn-blue { background: #0284C7; color: #FFFFFF; border-bottom: 3.5px solid #0369A1; }
 .rd-admin-btn-green { background: #22C55E; color: #FFFFFF; border-bottom: 3.5px solid #15803D; }
+
+/* ==========================================================================
+   PHÂN HỆ 5: ĐỌC PHÂN CẤP CEFR (A2 • BAND 4.0 | B1 • BAND 5.0 | B2 • BAND 6.0)
+   ========================================================================== */
+.tab-btn.active-graded-a2 {
+  background: #0284C7 !important;
+  border-color: #0369A1 !important;
+  border-bottom: 4px solid #075985 !important;
+  color: #FFFFFF !important;
+}
+.tab-btn.active-graded-b1 {
+  background: #7C3AED !important;
+  border-color: #6D28D9 !important;
+  border-bottom: 4px solid #4C1D95 !important;
+  color: #FFFFFF !important;
+}
+.tab-btn.active-graded-b2 {
+  background: #BE185D !important;
+  border-color: #9D174D !important;
+  border-bottom: 4px solid #831843 !important;
+  color: #FFFFFF !important;
+}
+
+.rd-graded-banner {
+  background: #FFFFFF;
+  border: 2.5px solid var(--border-color);
+  border-bottom: 5px solid var(--border-shadow);
+  border-radius: 20px;
+  padding: 18px 22px;
+  margin-bottom: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.rd-graded-banner.graded-banner-a2 { border-left: 7px solid #0284C7; background: linear-gradient(90deg, #F0F9FF 0%, #FFFFFF 45%); }
+.rd-graded-banner.graded-banner-b1 { border-left: 7px solid #7C3AED; background: linear-gradient(90deg, #F5F3FF 0%, #FFFFFF 45%); }
+.rd-graded-banner.graded-banner-b2 { border-left: 7px solid #BE185D; background: linear-gradient(90deg, #FDF2F8 0%, #FFFFFF 45%); }
+
+.rd-graded-banner-main { flex: 1; min-width: 240px; }
+.rd-graded-pill-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; align-items: center; }
+.rd-graded-cefr-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 12px;
+  border-radius: 10px;
+  font-size: 12.5px;
+  font-weight: 900;
+  color: #FFFFFF;
+}
+.rd-graded-cefr-pill.pill-a2 { background: #0284C7; }
+.rd-graded-cefr-pill.pill-b1 { background: #7C3AED; }
+.rd-graded-cefr-pill.pill-b2 { background: #BE185D; }
+
+.rd-graded-stat-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 10px;
+  border-radius: 10px;
+  font-size: 12px;
+  font-weight: 800;
+  background: #FFFFFF;
+  color: #475569;
+  border: 1.5px solid var(--border-color);
+}
+.rd-graded-banner-title {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 900;
+  color: var(--text-main);
+}
+
+.rd-graded-progress-box { width: 260px; max-width: 100%; }
+.rd-graded-progress-track {
+  width: 100%;
+  height: 11px;
+  background: #E2E8F0;
+  border-radius: 999px;
+  overflow: hidden;
+  border: 1px solid #CBD5E1;
+}
+.rd-graded-progress-fill {
+  height: 100%;
+  border-radius: 999px;
+  transition: width 0.25s ease;
+}
+.rd-graded-progress-fill.fill-a2 { background: #0284C7; }
+.rd-graded-progress-fill.fill-b1 { background: #7C3AED; }
+.rd-graded-progress-fill.fill-b2 { background: #BE185D; }
+
+.rd-graded-filter-bar { gap: 12px; }
+.rd-graded-psg-group { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.rd-graded-psg-btn {
+  background: #FAF7F2;
+  color: var(--text-main);
+  border: 2px solid var(--border-color);
+  border-bottom: 3.5px solid var(--border-shadow);
+  border-radius: 12px;
+  padding: 7px 14px;
+  font-size: 13px;
+  font-weight: 900;
+  cursor: pointer;
+  transition: all 0.08s ease;
+}
+.rd-graded-psg-btn:hover { background: #FFFFFF; }
+.rd-graded-psg-btn.is-active.active-a2 { background: #0284C7; color: #FFFFFF; border-color: #0369A1; border-bottom-color: #075985; }
+.rd-graded-psg-btn.is-active.active-b1 { background: #7C3AED; color: #FFFFFF; border-color: #6D28D9; border-bottom-color: #4C1D95; }
+.rd-graded-psg-btn.is-active.active-b2 { background: #BE185D; color: #FFFFFF; border-color: #9D174D; border-bottom-color: #831843; }
+
+.rd-graded-controls-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  flex: 1;
+  justify-content: flex-end;
+}
+
+.test-heading.graded-heading-a2 { border-bottom-color: #0284C7; }
+.test-heading.graded-heading-b1 { border-bottom-color: #7C3AED; }
+.test-heading.graded-heading-b2 { border-bottom-color: #BE185D; }
+
+.badge-reading.badge-graded-a2 { background: #E0F2FE; color: #0369A1; border-color: #7DD3FC; }
+.badge-reading.badge-graded-b1 { background: #EDE9FE; color: #6D28D9; border-color: #C4B5FD; }
+.badge-reading.badge-graded-b2 { background: #FCE7F3; color: #9D174D; border-color: #F9A8D4; }
+
+.card-title.graded-title-a2 { color: #0369A1; }
+.card-title.graded-title-b1 { color: #6D28D9; }
+.card-title.graded-title-b2 { color: #9D174D; }
+
+.rd-graded-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  font-size: 12.5px;
+  font-weight: 800;
+  color: #64748B;
+  margin-bottom: 8px;
+}
+
+.btn-play.btn-graded-a2 { background: #0284C7; border-bottom-color: #075985; }
+.btn-play.btn-graded-a2:hover { background: #0369A1; }
+.btn-play.btn-graded-b1 { background: #7C3AED; border-bottom-color: #4C1D95; }
+.btn-play.btn-graded-b1:hover { background: #6D28D9; }
+.btn-play.btn-graded-b2 { background: #BE185D; border-bottom-color: #831843; }
+.btn-play.btn-graded-b2:hover { background: #9D174D; }
+
+@media (max-width: 768px) {
+  .rd-graded-progress-box { width: 100%; }
+  .rd-graded-controls-right { justify-content: stretch; width: 100%; }
+  .rd-graded-controls-right .rd-select-box,
+  .rd-graded-controls-right .rd-search-input { max-width: 100% !important; width: 100% !important; }
+}
